@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "kubejs:block/wither_knight_catalyst" },
-    "facing=south": { "model": "kubejs:block/wither_knight_catalyst", "y": 180 },
-    "facing=west":  { "model": "kubejs:block/wither_knight_catalyst", "y": 270 },
-    "facing=east":  { "model": "kubejs:block/wither_knight_catalyst", "y": 90 }
-  }
-}
