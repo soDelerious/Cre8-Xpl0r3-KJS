@@ -1,0 +1,369 @@
+{
+  // -----------------------------------------------------------
+  //              Item Obliterator by ElocinDev
+  // -----------------------------------------------------------
+  //  
+  // How to add items?
+  //   - They are json strings, so you need to separate each
+  //     entry with a comma, except the last
+  //   - If you start an entry with !, it will be treated as a regular expression
+  //     Example: "!minecraft:.*_sword" to disable all swords
+  //  
+  // -----------------------------------------------------------
+  // Do not touch this
+  "configVersion": 2,
+  // -----------------------------------------------------------
+  // Items here will be unusable completely
+  //    Example: minecraft:diamond
+  "blacklisted_items": [
+
+
+
+
+
+
+"artifacts:eternal_steak",
+'naturalist:cooked_egg',
+'createpropulsion:liquid_burner',
+"artifacts:everlasting_beef",
+'blazinghot:red_modern_lamp_quad_panel',
+ 'blazinghot:black_modern_lamp_quad_panel',
+  'blazinghot:white_modern_lamp_half_panel',
+   'blazinghot:orange_modern_lamp_half_panel',
+    'blazinghot:magenta_modern_lamp_half_panel',
+     'blazinghot:light_blue_modern_lamp_half_panel',
+      'blazinghot:yellow_modern_lamp_half_panel',
+       'blazinghot:lime_modern_lamp_half_panel',
+        'blazinghot:light_gray_modern_lamp_small_panel',
+         'blazinghot:black_modern_lamp_small_panel',
+          'blazinghot:red_modern_lamp_small_panel',
+           'blazinghot:green_modern_lamp_small_panel',
+            'blazinghot:brown_modern_lamp_small_panel',
+'luminous_beasts:rare_witch_doctor_trophy',
+ 'luminous_beasts:furnace_trophy',
+  'luminous_beasts:witch_doctor_trophy',
+   'luminous_beasts:bone_stalker_trophy',
+    'luminous_beasts:phoenix_trophy',
+     'luminous_beasts:vile_gator_trophy',
+      'luminous_beasts:yeti_trophy',
+       'luminous_beasts:mummy_trophy',
+        'luminous_beasts:hermit_king_trophy',
+         'luminous_beasts:viper_trophy',
+          'luminous_beasts:rare_bone_stalker_trophy',
+           'luminous_beasts:rare_phoenix_trophy',
+            'luminous_beasts:rare_vile_gator_trophy',
+             'luminous_beasts:rare_yeti_trophy',
+              'luminous_beasts:rare_viper_trophy',
+               'luminous_beasts:rare_mummy_trophy',
+                'luminous_beasts:rare_hermit_king_trophy',
+                 'luminous_beasts:horseless_headsman_trophy',
+                  'luminous_beasts:scarecrow_trophy',
+                   'luminous_beasts:rare_executioner_trophy',
+                    'luminous_beasts:rare_spitter_trophy',
+                    'luminous_beasts:luminous_moth_trophy',
+                     'luminous_beasts:albino_moth_trophy',
+     'luminous_beasts:soul_furnace_trophy',
+     'luminous_beasts:gilded_ent_trophy',
+     'luminous_beasts:gilded_ent_spawn_egg',
+             'blazinghot:purple_modern_lamp_small_panel',
+              'blazinghot:cyan_modern_lamp_small_panel',
+                'blazinghot:blue_modern_lamp_small_panel',
+                 'blazinghot:gray_modern_lamp_small_panel',
+                  'blazinghot:pink_modern_lamp_small_panel',
+                   'blazinghot:yellow_modern_lamp_small_panel',
+                    'blazinghot:light_blue_modern_lamp_small_panel',
+                     'blazinghot:magenta_modern_lamp_small_panel',
+                      'blazinghot:orange_modern_lamp_small_panel',
+                       'blazinghot:white_modern_lamp_small_panel',
+                        'blazinghot:lime_modern_lamp_small_panel',
+                         'blazinghot:black_modern_lamp_half_panel',
+                          'blazinghot:red_modern_lamp_half_panel',
+                           'blazinghot:green_modern_lamp_half_panel',
+                            'blazinghot:brown_modern_lamp_half_panel',
+                             'blazinghot:blue_modern_lamp_half_panel',
+                              'blazinghot:purple_modern_lamp_half_panel',
+                               'blazinghot:cyan_modern_lamp_half_panel',
+                                'blazinghot:light_gray_modern_lamp_half_panel', 
+                                'blazinghot:gray_modern_lamp_half_panel',
+'get_creative:fluid_barrel',
+ 'get_creative:hinge_bearing',
+  'get_creative:industrial_fan',
+   'get_creative:wind_up_key',
+    'get_creative:encapsulator',
+     'get_creative:glue_cleaner',
+      'get_creative:bamboo_handle',
+       'get_creative:mangrove_handle',
+        'get_creative:dark_oak_handle',
+         'get_creative:brass_handle',
+          'get_creative:industrial_iron_handle',
+           'get_creative:iron_handle',
+            'get_creative:oak_handle',
+             'get_creative:oxidized_copper_handle',
+              'get_creative:cherry_handle',
+               'get_creative:acacia_handle',
+                'get_creative:weathered_copper_handle',
+                 'get_creative:copper_handle',
+                  'get_creative:warped_handle',
+                   'get_creative:crimson_handle',
+                    'get_creative:jungle_handle',
+                     'get_creative:birch_handle',
+                      'get_creative:spruce_handle', 
+    'get_creative:exposed_copper_handle',
+     'luminous_beasts:the_scarecrow_spawn_egg',
+      'luminous_beasts:scarecrow_minion_spawn_egg',
+       'luminous_beasts:horseless_headsman_spawn_egg',
+        'luminous_beasts:pumpkin_minion_spawn_egg',
+         'luminous_beasts:pumpkin_helmet_helmet',
+         'luminous_beasts:headsman_disc',
+
+'blazinghot:sturdy_ingot_mold',
+ 'blazinghot:porcelain_blank_mold',
+  'blazinghot:clay_blank_mold',
+   'blazinghot:casting_depot',
+    'blazinghot:clay_nugget_mold',
+     'blazinghot:porcelain_ingot_mold',
+       'blazinghot:sturdy_nugget_mold',
+        'blazinghot:sturdy_blank_mold',
+         'blazinghot:clay_ingot_mold',
+          'blazinghot:porcelain_rod_mold',
+           'blazinghot:clay_rod_mold',
+            'blazinghot:sturdy_rod_mold',
+             'blazinghot:porcelain_sheet_mold',
+              'blazinghot:clay_sheet_mold',
+               'blazinghot:sturdy_sheet_mold',
+                'blazinghot:porcelain_nugget_mold',
+'createdieselgenerators:engine_piston',
+ 'createdieselgenerators:diesel_engine',
+
+ 'createpropulsion:coral_generator',
+     'createpropulsion:cable',
+      'createpropulsion:coral_bucket',
+
+
+'blazinghot:yellow_modern_lamp_double_panel',
+'blazinghot:light_blue_modern_lamp_double_panel',
+'blazinghot:lime_modern_lamp_double_panel',
+'blazinghot:pink_modern_lamp_double_panel',
+'blazinghot:gray_modern_lamp_double_panel',
+'blazinghot:light_gray_modern_lamp_double_panel',
+'blazinghot:cyan_modern_lamp_double_panel',
+'blazinghot:purple_modern_lamp_double_panel',
+'blazinghot:blue_modern_lamp_double_panel',
+'blazinghot:green_modern_lamp_quad_panel',
+'blazinghot:red_modern_lamp_quad_panel',
+'blazinghot:black_modern_lamp_quad_panel',
+'blazinghot:white_modern_lamp_half_panel',
+'blazinghot:orange_modern_lamp_half_panel',
+'blazinghot:magenta_modern_lamp_half_panel',
+'blazinghot:light_blue_modern_lamp_half_panel',
+'blazinghot:yellow_modern_lamp_half_panel',
+'blazinghot:lime_modern_lamp_half_panel',
+'blazinghot:blue_modern_lamp_quad_panel',
+'blazinghot:purple_modern_lamp_quad_panel',
+'blazinghot:brown_modern_lamp_quad_panel',
+'blazinghot:cyan_modern_lamp_quad_panel',
+'blazinghot:gray_modern_lamp_quad_panel',
+'blazinghot:pink_modern_lamp_quad_panel',
+'blazinghot:lime_modern_lamp_quad_panel',
+'blazinghot:light_gray_modern_lamp_quad_panel',
+'blazinghot:yellow_modern_lamp_quad_panel',
+'blazinghot:light_blue_modern_lamp_quad_panel',
+'blazinghot:orange_modern_lamp_quad_panel',
+'blazinghot:white_modern_lamp_quad_panel',
+'blazinghot:red_modern_lamp_double_panel',
+'blazinghot:green_modern_lamp_double_panel',
+'blazinghot:brown_modern_lamp_double_panel',
+'blazinghot:black_modern_lamp_double_panel',
+'blazinghot:magenta_modern_lamp_quad_panel',
+ 'blazinghot:pink_modern_lamp_half_panel',
+
+
+
+'blazinghot:white_modern_lamp',
+'blazinghot:orange_modern_lamp',
+'blazinghot:magenta_modern_lamp',
+'blazinghot:light_blue_modern_lamp',
+'blazinghot:yellow_modern_lamp',
+'blazinghot:lime_modern_lamp',
+'blazinghot:pink_modern_lamp',
+'blazinghot:gray_modern_lamp',
+'blazinghot:orange_modern_lamp_double_panel',
+'blazinghot:white_modern_lamp_double_panel',
+'blazinghot:black_modern_lamp_panel',
+'blazinghot:green_modern_lamp_panel',
+'blazinghot:brown_modern_lamp_panel',
+'blazinghot:blue_modern_lamp_panel',
+'blazinghot:purple_modern_lamp_panel',
+'blazinghot:red_modern_lamp_panel',
+'blazinghot:magenta_modern_lamp_double_panel',
+'blazinghot:cyan_modern_lamp_panel',
+'blazinghot:light_gray_modern_lamp_panel',
+'blazinghot:gray_modern_lamp_panel',
+'blazinghot:pink_modern_lamp_panel',
+'blazinghot:yellow_modern_lamp_panel',
+'blazinghot:light_blue_modern_lamp_panel',
+'blazinghot:magenta_modern_lamp_panel',
+'blazinghot:orange_modern_lamp_panel',
+'blazinghot:lime_modern_lamp_panel',
+'blazinghot:white_modern_lamp_panel',
+'blazinghot:black_modern_lamp',
+'blazinghot:red_modern_lamp',
+'blazinghot:green_modern_lamp',
+'blazinghot:brown_modern_lamp',
+'blazinghot:blue_modern_lamp',
+'blazinghot:purple_modern_lamp',
+'blazinghot:cyan_modern_lamp',
+'blazinghot:light_gray_modern_lamp',
+
+
+"create_sa:flamethrower",
+
+
+"artifacts:bunny_hoppers",
+
+
+"createpropulsion:stirling_engine",
+'get_creative:structure_capsule',
+"createdieselgenerators:hammer",
+"createdieselgenerators:wire_cutters",
+'create_aeronautics_toolgun:disposable_vehicle_container',
+ 'create_aeronautics_toolgun:portable_structure_container',
+  'create_aeronautics_toolgun:creative_magnetic_gun',
+ 'create_aeronautics_toolgun:survival_structure_tool',
+ 'create_aeronautics_toolgun:magnetic_gun',
+"createpropulsion:tempered_wing",
+'luminous_beasts:ultimate_bestiary', 
+'luminous_beasts:cherry_tree_ent_spawn_egg', 
+'luminous_beasts:tree_ent_spawn_egg',
+ 'luminous_beasts:rare_spitter_trophy',
+  'luminous_beasts:spitter_trophy',
+   'luminous_beasts:executioner_cowl_helmet',
+    'luminous_beasts:rare_tree_ent_trophy',
+     'luminous_beasts:tree_ent_trophy',
+      'luminous_beasts:warped_mushlin_king_spawn_egg',
+       'luminous_beasts:spore_bundle',
+        'luminous_beasts:piglin_executioner_spawn_egg',
+         'luminous_beasts:rare_executioner_trophy',
+          'luminous_beasts:magic_root',
+           'luminous_beasts:crimson_mushlin_king_spawn_egg',
+            'luminous_beasts:basalt_executioner_spawn_egg',
+ 'luminous_beasts:executioner_trophy',
+ 'luminous_beasts:tree_ent_disc', 
+    'luminous_beasts:executioner_disc',
+     'luminous_beasts:crimson_spitter_disc',
+"createpropulsion:wing",
+
+"createpropulsion:pine_resin",
+"createpropulsion:turpentine_bucket",
+"createpropulsion:solid_burner",
+
+'create_aeronautics_toolgun:magnetic_gun',
+"overpacked:purple_giant_backpack",
+"overpacked:orange_giant_backpack",
+"overpacked:yellow_giant_backpack",
+"overpacked:brown_giant_backpack",
+
+"overpacked:white_giant_backpack",
+"overpacked:red_giant_backpack",
+"overpacked:green_giant_backpack",
+"overpacked:light_blue_giant_backpack",
+"overpacked:cyan_giant_backpack",
+"overpacked:gray_giant_backpack",
+"overpacked:light_gray_giant_backpack",
+
+"overpacked:magenta_giant_backpack",
+"overpacked:blue_giant_backpack",
+"overpacked:pink_giant_backpack",
+"overpacked:black_giant_backpack",
+"overpacked:lime_giant_backpack",
+
+
+"create_sa:brass_drone_item",
+"create_sa:drone_controller",
+"create_sa:fan_component",
+"create_sa:vault_component",
+
+"create_power_loader:empty_andesite_chunk_loader",
+
+"libraryferret:emerald_coins_jtl",
+
+"libraryferret:diamond_coins_jtl",
+"libraryferret:netherite_coins_jtl",
+
+"create_power_loader:andesite_chunk_loader",
+"libraryferret:iron_coins_jtl",
+
+"libraryferret:gold_coins_jtl",
+'endermanoverhaul:ancient_pearl',
+'aeronautics_utility_objects:damping_stress_bearing',
+'aeronautics_utility_objects:hydraulic_regulator', 
+'aeronautics_utility_objects:hydraulic_connection_head',
+'aeronautics_utility_objects:hydraulic_hinge_head', 
+'aeronautics_utility_objects:hydraulic_rod', 
+'aeronautics_utility_objects:creative_hydraulic_rod',
+
+"ftbquests:detector",
+"ftbquests:screen_5",
+"ftbquests:lootcrate",
+"ftbquests:screen_7",
+"ftbquests:screen_1",
+"ftbquests:screen_3",
+'naturalist:glow_goop',
+
+"ftbquests:custom_icon",
+"ftbquests:missing_item",
+"ftbquests:task_screen_configurator",
+"ftbquests:stage_barrier",
+"ftbquests:barrier",
+"block_factorys_bosses:dragon_bones_boots",
+"block_factorys_bosses:dragon_bones_leggings",
+"block_factorys_bosses:dragon_bones_chestplate",
+"artifacts:scarf_of_invisibility",
+"ftbquests:loot_crate_opener",
+'createpropulsion:cable_relay'
+
+
+
+
+
+
+
+
+
+
+  ],
+  // -----------------------------------------------------------
+  // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
+  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
+  // 	
+  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
+  // 	
+  // 	 You can also use regular expressions by starting the value with !
+  "blacklisted_nbt": [],
+  // -----------------------------------------------------------
+  // Items here will not be able to be right-clicked (Interact)
+  //    Example: minecraft:apple
+  "only_disable_interactions": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will not be able to be used to attack
+  //    Example: minecraft:diamond_sword
+  "only_disable_attacks": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // Items here will get their recipes disabled
+  // Keep in mind this already is applied to blacklisted items
+  "only_disable_recipes": [
+    "examplemod:example_item"
+  ],
+  // -----------------------------------------------------------
+  // If true, the mod will use a hashset to handle the blacklisted items
+  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
+  // If you just have a small amount of items blacklisted, keep this false
+  //  
+  // [!] Enabling this will disable all regular expressions
+  // [!] Does not apply to NBT, only item blacklist / interaction / attack
+  "use_hashmap_optimizations": true
+}

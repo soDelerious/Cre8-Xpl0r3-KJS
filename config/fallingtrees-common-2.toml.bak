@@ -1,0 +1,34 @@
+#Multiplier for the force applied when a player or mob breaks a tree
+# Default: 1.0
+# Range: 0.01 ~ 100.0
+breakForceMultiplier = 1.0
+#Multiplier for the force applied when an explosion breaks a tree
+# Default: 1.0
+# Range: 0.01 ~ 100.0
+explosionForceMultiplier = 1.0
+#Maximum number of blocks that can be broken in a single tree fall
+# Default: 650
+# Range: 1 ~ 10000
+maxBlocksForTree = 650
+#Whether leaves should be destroyed when a tree falls
+destroyLeaves = false
+#List of logs to be considered as tree logs
+logs = ["#minecraft:logs"]
+#List of leaves to be considered as tree leaves
+leaves = ["#minecraft:leaves"]
+#List of blocks that can be attached to tree logs on the side e.g. Cocoa
+sideAttach = ["minecraft:cocoa"]
+#List of blocks that can be attached to a tree on the top e.g. Snow
+topAttach = ["minecraft:moss_carpet", "minecraft:snow", "#minecraft:wool_carpets"]
+#List of blocks that can hang from a tree on the side e.g. Vine (Vanilla is always included)
+sideHang = ["minecraft:vine"]
+#Whether mushrooms should fall when broken
+doMushroomFall = true
+#Maximum number of blocks that can be broken in a single mushroom fall
+# Default: 200
+# Range: 1 ~ 10000
+maxBlocksForMushroom = 200
+#List of stem blocks to be considered as mushroom stems
+stems = ["minecraft:mushroom_stem"]
+#List of cap blocks to be considered as mushroom caps
+caps = ["minecraft:brown_mushroom_block", "minecraft:red_mushroom_block"]

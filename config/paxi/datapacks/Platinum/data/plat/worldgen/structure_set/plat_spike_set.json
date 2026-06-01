@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "plat:plat_spike_struct",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 2,
+    "separation": 2,
+    "salt": 138537,
+    "frequency": 1
+  }
+}

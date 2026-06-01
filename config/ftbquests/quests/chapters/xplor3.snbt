@@ -1,0 +1,10882 @@
+{
+	autofocus_id: "72362C507A0A5F9B"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "xplor3"
+	group: ""
+	hide_quest_details_until_startable: true
+	icon: {
+		id: "simulated:red_portable_engine"
+	}
+	id: "5E6CB28275D07226"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_lit"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cactus_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.80714285714286d
+			y: 7.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cactus_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.80714285714286d
+			y: 6.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cactus_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.783333333333335d
+			y: 4.717687074829904d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cactus_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.80714285714286d
+			y: 5.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/acacia_hanging_sign"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.30714285714286d
+			y: 5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/acacia_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/acacia_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/acacia_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 4.25d
+		}
+		{
+			height: 1.25d
+			image: "blazinghot:fluid/molten_blaze_gold_still"
+			rotation: 0.0d
+			width: 1.25d
+			x: 14.167857142857144d
+			y: 6.792857142857152d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/gold_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.80714285714286d
+			y: 6.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/gold_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.655952380952385d
+			y: 7.114285714285721d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/brittle_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/brittle_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/brittle_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.600000000000001d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dead_bush"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dead_bush"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dead_bush"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.15d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/acacia_log"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.600000000000001d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.600000000000001d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/suspicious_ancient_sand_2"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.45d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/suspicious_ancient_sand_0"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.600000000000001d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_ancient_sandstone"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_ancient_sandstone"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 8.5d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 0.0d
+			width: 5.0d
+			x: 11.87619047619047d
+			y: 6.247704081632655d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 0.0d
+			width: 5.0d
+			x: 16.090476190476178d
+			y: 7.46198979591837d
+		}
+		{
+			height: 1.5d
+			image: "createdieselgenerators:block/crude_oil_still"
+			order: 5
+			rotation: 0.0d
+			width: 1.5d
+			x: 11.899999999999999d
+			y: 9.35d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 180.0d
+			width: 5.0d
+			x: 9.8047619047619d
+			y: 6.747704081632655d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 90.0d
+			width: 5.0d
+			x: 13.73333333333333d
+			y: 6.676275510204086d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_ancient_sandstone"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_ancient_sandstone"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_ancient_sandstone"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 11.899999999999999d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/lightning_rod"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.247619047619054d
+			y: 13.604846938775498d
+		}
+		{
+			height: 0.5d
+			image: "inventory_particles:textures/iparticles/piece/blocks/terracotta/glazed/light_blue_glazed_terracotta_piece_2.png"
+			rotation: 60.0d
+			width: 0.5d
+			x: 4.847619047619055d
+			y: 13.319132653061214d
+		}
+		{
+			height: 0.5d
+			image: "inventory_particles:textures/iparticles/piece/blocks/terracotta/glazed/light_blue_glazed_terracotta_piece_2.png"
+			rotation: 120.0d
+			width: 0.5d
+			x: 4.819047619047623d
+			y: 13.719132653061212d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8499999999999999d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mossy_cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.3999999999999995d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mossy_cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 13.6d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/mossy_cobblestone"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 13.6d
+		}
+		{
+			color: 5878109
+			height: 1.0d
+			image: "minecraft:block/short_grass"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 13.6d
+		}
+		{
+			color: 5878109
+			height: 1.0d
+			image: "minecraft:block/short_grass"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 13.6d
+		}
+		{
+			height: 2.0d
+			image: "minecraft:block/slime_block"
+			order: -1
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.56904761904763d
+			y: 14.604846938775513d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 9.35d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 11.05d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 11.05d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 9.35d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 11.05d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 11.05d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 10.2d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/dark_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/acacia_log"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 6.8d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 4.25d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 2.55d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 4.25d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.600000000000001d
+			y: 3.4000000000000004d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 2.55d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 2.55d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 2.55d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 4.25d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 3.4000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mossy_cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8499999999999999d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mossy_cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8499999999999999d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8499999999999999d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 19.549999999999997d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.6999999999999997d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.949999999999999d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.949999999999999d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.949999999999999d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.949999999999999d
+			y: 17.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.8499999999999999d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.600000000000001d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.3d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.3d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/suspicious_ancient_sand_2"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.05d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.45d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.3d
+			y: 7.65d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.45d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.45d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.3d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.15d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/layered_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 16.15d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.899999999999999d
+			y: 11.899999999999999d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.75d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "inventory_particles:textures/iparticles/vanilla/spark/spark_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.519047619047615d
+			y: 8.804846938775519d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/totem_of_illusion"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.6404761904762d
+			y: 16.461989795918367d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.1d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/entity/decorated_pot/danger_pottery_pattern.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3904761904761997d
+			y: 15.92627551020409d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:textures/entity/decorated_pot/clock_pottery_pattern.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.247619047619061d
+			y: 8.17627551020409d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobbled_deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "createdieselgenerators:block/chip_wood_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "createdieselgenerators:block/chip_wood_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/jungle_hanging_sign"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0392857142857324d
+			y: 11.907142857142862d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stripped_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 13.6d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/rope_fence_gate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/rascal_spawn_egg"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.1083333333333485d
+			y: 14.602380952380965d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/hanging_roots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 16.15d
+		}
+		{
+			color: 8289918
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 15.3d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 15.3d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 16.150000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.800000000000001d
+			y: 16.150000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.950000000000001d
+			y: 16.150000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1000000000000005d
+			y: 15.3d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1000000000000005d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1000000000000005d
+			y: 13.600000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.950000000000001d
+			y: 13.600000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.800000000000001d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 13.600000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 13.600000000000001d
+		}
+		{
+			color: 8289918
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.800000000000001d
+			y: 14.45d
+		}
+		{
+			color: 8289918
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.800000000000001d
+			y: 13.600000000000001d
+		}
+		{
+			color: 8289918
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.950000000000001d
+			y: 14.45d
+		}
+		{
+			color: 8289918
+			height: 1.0d
+			image: "minecraft:block/amethyst_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.800000000000001d
+			y: 15.3d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/budding_amethyst"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.950000000000001d
+			y: 15.3d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/amethyst_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.65d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/large_amethyst_bud_e"
+			rotation: 90.0d
+			width: 1.0d
+			x: -4.250000000000001d
+			y: 13.600000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calibrated_sculk_sensor_amethyst"
+			rotation: 180.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/depot_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "create:block/depot_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "create:block/depot_side"
+			rotation: 180.0d
+			width: 1.0d
+			x: -3.4d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "everycomp:block/af/createdieselgenerators/drawer/chip_wood_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/rope_fence_gate_wall"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "create:block/copper/copper_roof_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/carved_pumpkin"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/lightning_rod"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.513095238095222d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/rare_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 0.8499999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 2.220446049250313E-16d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 3.3999999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 9.350000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 9.350000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 9.350000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: -0.8499999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: -1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blue_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.3d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 9.350000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 9.350000000000001d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 3.3999999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 0.8499999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 2.220446049250313E-16d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 2.220446049250313E-16d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.600000000000001d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 11.05d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/spruce_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -3.4d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.849999999999998d
+			y: 0.0d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 0.0d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 0.0d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 0.0d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 0.0d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -0.85d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -0.85d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: -0.85d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.849999999999998d
+			y: -1.7d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -1.7d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -1.7d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: -1.7d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: -1.7d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -2.55d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -2.55d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: -2.55d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -3.4d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -3.4d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: -3.4d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -4.25d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -5.1d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.849999999999998d
+			y: -3.4d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: -3.4d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: -4.25d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: -4.25d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: -5.95d
+		}
+		{
+			color: 9615708
+			height: 1.0d
+			image: "minecraft:block/spruce_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: -5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: -0.85d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/totem_of_freezing"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 13.6d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -17.0d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/ice_sheet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 3.4d
+		}
+		{
+			alpha: 125
+			height: 1.0d
+			image: "minecraft:block/frosted_ice_3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 4.25d
+		}
+		{
+			height: 1.25d
+			image: "blazinghot:fluid/molten_zinc_still"
+			order: 2
+			rotation: 0.0d
+			width: 1.25d
+			x: -16.15d
+			y: 7.6499999999999995d
+		}
+		{
+			height: 1.0d
+			image: "create:item/zinc_ingot"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.422619047619044d
+			y: 7.157142857142858d
+		}
+		{
+			height: 1.0d
+			image: "create:item/zinc_nugget"
+			order: 5
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.679761904761904d
+			y: 7.9285714285714235d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mycelium_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mycelium_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mycelium_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mycelium_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mycelium_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mycelium_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mushroom_stem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/red_mushroom_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mushroom_stem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 13.6d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/red_mushroom_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/red_mushroom_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			order: -5
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/calcite"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/hanging_roots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/red_mushroom_colony_stage3"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/rare_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 8.5d
+		}
+		{
+			height: 0.5d
+			image: "minecraft:item/campfire"
+			rotation: 0.0d
+			width: 0.5d
+			x: -9.748809523809491d
+			y: -0.4142857142857821d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/magma"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 0.8500000000000005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 1.7000000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/magma"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: -0.8499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/magma"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/magma"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -0.8499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: 3.4000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -0.8499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/lava_still"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: -0.8499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: 1.7000000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: 0.8500000000000005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 0.8500000000000005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 2.5500000000000007d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 2.5500000000000007d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/magma"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 0.8500000000000005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 3.4000000000000004d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 2.5500000000000007d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 1.7000000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: 2.5500000000000007d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: 1.7000000000000002d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8499999999999996d
+			y: 0.8500000000000005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8499999999999996d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/netherrack"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: 0.8500000000000005d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/netherrack"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/chiseled_nether_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: 0.0d
+		}
+		{
+			height: 1.25d
+			image: "blazinghot:fluid/molten_iron_still"
+			order: 5
+			rotation: 0.0d
+			width: 1.25d
+			x: -6.8d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/packed_ice"
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_ingot"
+			order: 10
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.153571428571411d
+			y: -0.4500000000000526d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/crimson_stem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -1.6999999999999997d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/crimson_stem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/crimson_stem"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -3.3999999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/crimson_nylium_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: -0.8499999999999996d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: -3.3999999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: -5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4000000000000004d
+			y: -3.3999999999999995d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: -5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/nether_wart_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.8499999999999996d
+			y: -5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/shroomlight"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7000000000000002d
+			y: -4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 1.7d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 3.4d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 2.55d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 2.55d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 1.7d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 1.7d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 2.55d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 0.85d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 2.55d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 1.7d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 1.7d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 1.7d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 2.55d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 2.55d
+		}
+		{
+			color: 11251897
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -6
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pointed_dripstone_down_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pointed_dripstone_down_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pointed_dripstone_down_middle"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pointed_dripstone_down_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pointed_dripstone_down_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/icicle_base"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/iron_nugget"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.332142857142834d
+			y: 0.478571428571378d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -2
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.310714285714312d
+			y: 7.169047619047575d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_fire_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: -0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_fire_1"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 0.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: -2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 3.4d
+			y: -3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.25d
+			y: -3.4d
+		}
+		{
+			color: 11250603
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.25d
+			y: 0.0d
+		}
+		{
+			color: 11250603
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.25d
+			y: -0.85d
+		}
+		{
+			color: 11250603
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 4.25d
+			y: -1.7d
+		}
+		{
+			color: 11250603
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.1d
+			y: -2.55d
+		}
+		{
+			color: 11250603
+			height: 1.0d
+			image: "minecraft:block/bone_block_side"
+			rotation: 90.0d
+			width: 1.0d
+			x: 5.95d
+			y: -2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/warped_roots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/warped_roots"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 0.85d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/soul_soil"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/blackstone_top"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/ice_gauntlet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.463095238095207d
+			y: 2.680952380952313d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/sandworm_gauntlet"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.465476190476224d
+			y: 5.895238095238028d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/dragon_bone"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.510714285714258d
+			y: 0.1571428571427944d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 0.85d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 0.0d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: -0.85d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: -1.7d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 0.0d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: -0.85d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: -1.7d
+		}
+		{
+			color: 6710886
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: -0.85d
+		}
+		{
+			color: 6447714
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -2.55d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: -0.85d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: -1.7d
+		}
+		{
+			color: 3815994
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: -2.55d
+		}
+		{
+			color: 6447714
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -1.7d
+		}
+		{
+			color: 6447714
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -0.85d
+		}
+		{
+			color: 6710886
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 0.0d
+		}
+		{
+			color: 3815994
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: -1.7d
+		}
+		{
+			color: 3815994
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: -0.85d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -50
+			rotation: 180.0d
+			width: 5.0d
+			x: -11.9d
+			y: 0.85d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -50
+			rotation: 90.0d
+			width: 5.0d
+			x: -12.21309523809525d
+			y: 0.4761904761905029d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -50
+			rotation: 180.0d
+			width: 5.0d
+			x: -8.71309523809525d
+			y: -1.914285714285711d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -50
+			rotation: 90.0d
+			width: 5.0d
+			x: -6.725000000000001d
+			y: -1.5809523809523895d
+		}
+		{
+			height: 0.125d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.87976190476192d
+			y: 1.228571428571449d
+		}
+		{
+			height: 0.125d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.013095238095246d
+			y: -2.1523809523809234d
+		}
+		{
+			height: 0.125d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.498809523809534d
+			y: -2.9809523809523597d
+		}
+		{
+			height: 0.125d
+			image: "minecraft:block/powder_snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.241666666666674d
+			y: 0.36190476190478194d
+		}
+		{
+			height: 1.0d
+			image: "create_sa:item/blazing_sword_glow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.49880952380952d
+			y: -1.4738095238095212d
+		}
+		{
+			height: 1.0d
+			image: "create_sa:item/blazing_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.49880952380952d
+			y: -1.4738095238095212d
+		}
+		{
+			height: 1.0d
+			image: "block_factorys_bosses:item/knight_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.453571428571436d
+			y: 1.4190476190476176d
+		}
+		{
+			height: 0.5d
+			image: "create:textures/particle/soul_sprite_anim_12.png"
+			rotation: 0.0d
+			width: 0.5d
+			x: 4.215476190476188d
+			y: 0.6095238095238074d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 180.0d
+			width: 5.0d
+			x: 6.963095238095207d
+			y: 14.386734693877543d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 0.0d
+			width: 5.0d
+			x: 4.870238095238108d
+			y: 14.169047619047596d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 0.0d
+			width: 5.0d
+			x: 2.989285714285728d
+			y: 13.895238095238057d
+		}
+		{
+			height: 1.0d
+			image: "farmersdelight:block/rope_fence_gate_wall"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 3.4d
+		}
+		{
+			color: 12421466
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.299999999999999d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.9d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/prickly_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: 15.299999999999999d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines_plant"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/twisting_vines_plant"
+			rotation: 180.0d
+			width: 1.0d
+			x: 4.25d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/twisting_vines"
+			rotation: 180.0d
+			width: 1.0d
+			x: 4.25d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/twisting_vines_plant"
+			rotation: 180.0d
+			width: 1.0d
+			x: 4.25d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/twisting_vines_plant"
+			rotation: 180.0d
+			width: 1.0d
+			x: 4.25d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/twisting_vines"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.7d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/twisting_vines_plant"
+			rotation: 180.0d
+			width: 1.0d
+			x: 1.7d
+			y: 3.4d
+		}
+		{
+			height: 1.5d
+			image: "create:block/brass_casing"
+			rotation: 0.0d
+			width: 1.5d
+			x: -5.1d
+			y: 6.8d
+		}
+		{
+			height: 1.0d
+			image: "simulated:item/gyroscopic_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.582142857142848d
+			y: 6.252380952380946d
+		}
+		{
+			height: 1.0d
+			image: "create:item/precision_mechanism"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.617857142857133d
+			y: 7.3238095238095156d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.049999999999999d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 12.75d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 90.0d
+			width: 5.0d
+			x: 0.8702380952380793d
+			y: 12.942857142857143d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 0.0d
+			width: 5.0d
+			x: 6.8d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 8.5d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 4.25d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 3.4d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 4.25d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 5.1d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 5.95d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 10.2d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 10.2d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 6.8d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 5.95d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 5.95d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 5.1d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 4.25d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 5.1d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 5.95d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 3.4d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 4.25d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 11.9d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: 11.9d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 11.9d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: 12.75d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 12.75d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -16.15d
+			y: 13.6d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -15.299999999999999d
+			y: 12.75d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -14.45d
+			y: 13.6d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: 14.45d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 13.6d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 12.75d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9018303
+			height: 1.0d
+			image: "minecraft:block/deepslate"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 15.299999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -12.75d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -13.6d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/dripstone_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/cobblestone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 5.95d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/weeping_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/moss_block"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.2d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 14.45d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 5.1d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 5.95d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/smooth_basalt"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.6499999999999995d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 8.5d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 9.35d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 8.5d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 8.5d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 9.35d
+		}
+		{
+			color: 9013641
+			height: 1.0d
+			image: "minecraft:block/azalea_leaves"
+			order: 2
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/ochrum_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.35d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 7.6499999999999995d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.049999999999999d
+			y: 6.8d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 8.5d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/asurine_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 4.25d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 3.4d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 1.7d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/crimsite_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 2.55d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 15.299999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 13.6d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 12.75d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 11.9d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 11.049999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/stone_types/natural/veridium_0"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 10.2d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -10
+			rotation: 90.0d
+			width: 5.0d
+			x: -1.4154761904761983d
+			y: 13.609523809523807d
+		}
+		{
+			height: 1.25d
+			image: "blazinghot:fluid/molten_copper_still"
+			order: 20
+			rotation: 0.0d
+			width: 1.25d
+			x: -0.85d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/copper_ingot"
+			order: 22
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.2369047619047606d
+			y: 15.685714285714312d
+		}
+		{
+			height: 1.0d
+			image: "create:item/copper_nugget"
+			order: 22
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.4273809523809575d
+			y: 16.542857142857166d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_lit"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 21.249999999999996d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_lit"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 20.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 21.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_lit"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 20.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.7d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant"
+			order: 20
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant_lit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant_lit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 20.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines_plant_lit"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cave_vines"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/coarse_dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/oak_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 15.299999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 9.35d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/tuff"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 9.35d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/hanging_roots"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 17.0d
+		}
+		{
+			height: 1.5d
+			image: "create:block/copper_casing"
+			rotation: 0.0d
+			width: 1.5d
+			x: -0.5011904761905157d
+			y: 5.514285714285698d
+		}
+		{
+			height: 1.0d
+			image: "create_sa:item/hydraulic_engine"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.10595238095234549d
+			y: 6.014285714285698d
+		}
+		{
+			height: 1.0d
+			image: "create_sa:item/copper_magnet"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.9297619047619392d
+			y: 5.014285714285698d
+		}
+		{
+			height: 1.0d
+			image: "aquamirae:item/pillagers_patrol_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.177380952380915d
+			y: 13.51428571428572d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/brittle_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/brittle_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.35d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "yungscavebiomes:block/brittle_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sandstone_bottom"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/underwater.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/misc/underwater.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 15.299999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 15.299999999999999d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			order: -20
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.6499999999999995d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/nautilus_shell"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.582142857142799d
+			y: 14.946258503401353d
+		}
+		{
+			height: 1.0d
+			image: "friendsandfoes:item/crab_claw"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.701190476190462d
+			y: 17.430952380952377d
+		}
+		{
+			height: 1.0d
+			image: "luminous_beasts:item/mothegg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5345238095237832d
+			y: 17.038095238095245d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "simulated:red_portable_engine"
+			}
+			id: "72362C507A0A5F9B"
+			rewards: [{
+				id: "13B6BD0498BE378B"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					id: "2543DEF9EE730A7C"
+					type: "checkmark"
+				}
+				{
+					id: "0725381BE2C5E2BB"
+					item: { count: 1, id: "simulated:red_portable_engine" }
+					type: "item"
+				}
+			]
+			x: -2.536904761904786d
+			y: 7.442857142857136d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "7FA169340D2F6D88"
+			shape: "square"
+			tasks: [{
+				id: "1C8F2B195236A812"
+				type: "checkmark"
+			}]
+			x: 11.440476190476168d
+			y: 6.630952380952383d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			id: "212ADDBB4183196F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "789627D4CE007BD5"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+				{
+					id: "6344DA6844B42EAF"
+					item: {
+						count: 1
+						id: "rottencreatures:zap_head"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					entity: "creeperoverhaul:badlands_creeper"
+					id: "6823C2F7715FE4BD"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:badlands_enderman"
+					id: "1E3689DC5BDE22C2"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "501A501CBA68B488"
+					item: { count: 1, id: "friendsandfoes:mauler_spawn_egg" }
+					type: "item"
+				}
+			]
+			x: 10.11904761904761d
+			y: 5.119132653061229d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			id: "76E5F93CEED8838C"
+			rewards: [{
+				id: "2F0D814A5A22F455"
+				item: {
+					count: 1
+					id: "minecraft:amethyst_block"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "minecraft:block/acacia_sapling"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "5C12DAD1B975A18D"
+					structure: "more_tree_sizes:hugeacaciatree"
+					type: "structure"
+				}
+				{
+					icon: {
+						id: "minecraft:golden_pickaxe"
+					}
+					id: "10BF454192FCB581"
+					structure: "bettermineshafts:mineshaft_mesa"
+					type: "structure"
+				}
+				{
+					icon: {
+						id: "yungscavebiomes:clock_pottery_sherd"
+					}
+					id: "1984FCC3930D5E59"
+					structure: "terralith:rubble_mesa"
+					type: "structure"
+				}
+				{
+					icon: {
+						id: "minecraft:stone_pickaxe"
+					}
+					id: "2D45C7D746A933F9"
+					structure: "terralith:underground/mining_outpost"
+					type: "structure"
+				}
+				{
+					id: "1BAD12E47216AC99"
+					structure: "villager_gold_washing_facility:villager_gold_washing_facility"
+					type: "structure"
+				}
+			]
+			x: 11.776190476190468d
+			y: 4.2905612244897995d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				components: {
+					"ftbquests:icon": "endermanoverhaul:item/badlands_hood"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "15033BD7C44E0845"
+			rewards: [
+				{
+					count: 3
+					id: "020A8F85643ED63F"
+					item: {
+						count: 1
+						id: "create:polished_rose_quartz"
+					}
+					type: "item"
+				}
+				{
+					count: 250
+					id: "0F026F61E255A0BC"
+					item: {
+						count: 1
+						id: "create:ochrum"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					biome: "minecraft:eroded_badlands"
+					id: "16B711B054231AF9"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:badlands"
+					id: "2CDC571E84652218"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:wooded_badlands"
+					id: "28E8F70E007725F4"
+					type: "biome"
+				}
+				{
+					biome: "terralith:savanna_badlands"
+					id: "4102CD5FD28A56BE"
+					type: "biome"
+				}
+				{
+					biome: "terralith:snowy_badlands"
+					id: "332B36448A695DC5"
+					type: "biome"
+				}
+				{
+					biome: "terralith:white_mesa"
+					id: "25E34DC96B461606"
+					type: "biome"
+				}
+				{
+					biome: "terralith:warped_mesa"
+					id: "0A9CFFB87F1301AA"
+					type: "biome"
+				}
+			]
+			x: 13.176190476190467d
+			y: 4.71913265306123d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			id: "1254AEF3D79FAEE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32963140951C902C"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [
+				{
+					biome: "yungscavebiomes:lost_caves"
+					icon: {
+						id: "yungscavebiomes:chiseled_ancient_sandstone"
+					}
+					id: "71DA0C2FCA6B939C"
+					type: "biome"
+				}
+				{
+					advancement: "yungscavebiomes:sandstorm_end"
+					criterion: ""
+					id: "41256762787C84E0"
+					type: "advancement"
+				}
+				{
+					advancement: "yungscavebiomes:the_snack_that_bites_back"
+					criterion: ""
+					id: "4E7461A8FAFD3CDF"
+					type: "advancement"
+				}
+				{
+					icon: {
+						id: "yungscavebiomes:suspicious_ancient_sand"
+					}
+					id: "321416B305275B99"
+					observe_type: 0
+					timer: 0L
+					to_observe: "yungscavebiomes:suspicious_ancient_sand"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "yungscavebiomes:sand_snapper_spawn_egg"
+					}
+					id: "376134914A0E658B"
+					observe_type: 5
+					timer: 0L
+					to_observe: "yungscavebiomes:sand_snapper"
+					type: "observation"
+				}
+			]
+			x: 14.804761904761893d
+			y: 4.2905612244897995d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				id: "molten_vents:active_molten_ochrum"
+			}
+			id: "09534EBB7A3F83AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59207BD10240B112"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "00A009A298EB2656"
+					observe_type: 0
+					timer: 0L
+					to_observe: "molten_vents:active_molten_ochrum"
+					type: "observation"
+				}
+				{
+					id: "1F9FB6E338C305E9"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "molten_vents:dormant_molten_ochrum"
+					type: "observation"
+				}
+			]
+			x: 14.191666666666663d
+			y: 6.828571428571436d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			id: "55FEDAC2339F8665"
+			rewards: [
+				{
+					id: "02C10AFDE610120C"
+					item: {
+						count: 1
+						id: "rottencreatures:mummy_head"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "586D7574B1474B5B"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					entity: "minecraft:husk"
+					id: "64CB413170A4003F"
+					type: "kill"
+					value: 7L
+				}
+				{
+					entity: "rottencreatures:mummy"
+					id: "1E4C8A9FD93BB297"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:desert_enderman"
+					id: "49ECB3BAF30EB0D0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:desert_creeper"
+					id: "27C23C671B80385B"
+					type: "kill"
+					value: 2L
+				}
+			]
+			x: 9.8047619047619d
+			y: 7.061989795918372d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			id: "44C66918643746DA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "16CD9C1AA6E4C7A5"
+				table_id: 4163670266444182859L
+				type: "random"
+			}]
+			tasks: [
+				{
+					icon: {
+						id: "minecraft:chiseled_sandstone"
+					}
+					id: "432A1C11063847B9"
+					structure: "betterdeserttemples:desert_temple"
+					type: "structure"
+				}
+				{
+					advancement: "betterdeserttemples:temple_clear"
+					criterion: ""
+					id: "18FA7A98768874D2"
+					type: "advancement"
+				}
+			]
+			x: 14.919047619047614d
+			y: 8.633418367346941d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				id: "create:red_sand_paper"
+			}
+			id: "1F246AFC5D0BA2CC"
+			rewards: [{
+				count: 250
+				id: "28661FEE3B39A539"
+				item: {
+					count: 1
+					id: "create:ochrum"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "terralith:lush_desert"
+					id: "0D02E437F40ACCB1"
+					type: "biome"
+				}
+				{
+					biome: "terralith:desert_oasis"
+					id: "2944DCF4D57E651C"
+					type: "biome"
+				}
+				{
+					biome: "terralith:sandstone_valley"
+					id: "27DF7529C7C149C0"
+					type: "biome"
+				}
+				{
+					biome: "terralith:desert_canyon"
+					id: "230F687D090D2679"
+					type: "biome"
+				}
+				{
+					biome: "terralith:desert_spires"
+					id: "7583B6CA9FB70A5A"
+					type: "biome"
+				}
+			]
+			x: 13.404761904761902d
+			y: 8.033418367346947d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				id: "kubejs:snad_catalyst"
+			}
+			id: "6DCB2B0EC68ECCFF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E2ACAE8C31637AE"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "4167DBACEFBDB857"
+				item: { count: 1, id: "kubejs:snad_catalyst" }
+				type: "item"
+			}]
+			x: 12.749999999999998d
+			y: 6.374999999999999d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				id: "create:sand_paper"
+			}
+			id: "4A3CAFA7A30A5833"
+			rewards: [{
+				id: "7671FF7564137030"
+				item: {
+					count: 1
+					id: "minecraft:raw_gold_block"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "34033D7A15905043"
+					structure: "terralith:rubble_desert"
+					type: "structure"
+				}
+				{
+					id: "00DAADD2EE203CBD"
+					structure: "terralith:desert_outpost"
+					type: "structure"
+				}
+				{
+					id: "2CD4936052190E3B"
+					structure: "minecraft:village_desert"
+					type: "structure"
+				}
+				{
+					id: "2E7F428B8459BDF9"
+					structure: "bettermineshafts:mineshaft_desert"
+					type: "structure"
+				}
+				{
+					id: "4D0F36B965138732"
+					structure: "minecraft:mineshaft"
+					type: "structure"
+				}
+			]
+			x: 10.690476190476186d
+			y: 8.347704081632656d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			id: "5F3FF83034D0C445"
+			shape: "square"
+			tasks: [{
+				fluid: {
+					amount: 20000
+					id: "createdieselgenerators:crude_oil"
+				}
+				id: "61A926939B7576B7"
+				type: "fluid"
+			}]
+			x: 11.899999999999999d
+			y: 9.35d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			id: "728509E5032FD774"
+			rewards: [{
+				id: "76EEC01083ED4192"
+				item: {
+					count: 1
+					id: "minecraft:zombie_head"
+				}
+				type: "item"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					entity: "creeperoverhaul:birch_creeper"
+					id: "09AC3F3BEA98ABD0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:dark_oak_creeper"
+					id: "6E67DBE8B5E50AF4"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:hills_creeper"
+					id: "400BA2ADED080B1A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "creeperoverhaul:spruce_creeper"
+					id: "249206FFC4C9B7E3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:windswept_hills_enderman"
+					id: "3E7243D911464ED3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:slime"
+					id: "6B12B39C58226CD3"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecraft:zombie"
+					id: "1B2ACFA1525370C0"
+					type: "kill"
+					value: 20L
+				}
+			]
+			x: 6.390476190476193d
+			y: 14.711989795918367d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			id: "35C122722CC39C0F"
+			rewards: [
+				{
+					count: 3
+					id: "5A9D1C6297729617"
+					item: {
+						count: 1
+						id: "powergrid:potato_battery"
+					}
+					type: "item"
+				}
+				{
+					id: "251FCB8DF53D827C"
+					item: {
+						count: 1
+						id: "rottencreatures:immortal_head"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			tasks: [
+				{
+					entity: "rottencreatures:immortal"
+					id: "648D76F578709157"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "rottencreatures:zap"
+					id: "27B454324E471033"
+					type: "kill"
+					value: 2L
+				}
+			]
+			x: 4.8904761904762d
+			y: 14.319132653061214d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "create:tree_fertilizer"
+			}
+			id: "77E035BDEEC7D5ED"
+			rewards: [
+				{
+					count: 20
+					id: "55B820E9F5FFB241"
+					item: {
+						count: 1
+						id: "create:tree_fertilizer"
+					}
+					type: "item"
+				}
+				{
+					count: 500
+					id: "46FF86D03EB242D1"
+					item: {
+						count: 1
+						id: "create:veridium"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					biome: "minecraft:birch_forest"
+					id: "11FD065D34233747"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:taiga"
+					id: "4345E9E8A5EB1E4E"
+					type: "biome"
+				}
+				{
+					biome: "terralith:blooming_valley"
+					id: "377A102332C2BF35"
+					type: "biome"
+				}
+				{
+					biome: "terralith:cloud_forest"
+					id: "57602798646B285A"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:dark_forest"
+					id: "21893EB5802C1E5A"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:flower_forest"
+					id: "2135581B9727C6CA"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:forest"
+					id: "5A483C828AF6DCFC"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:grove"
+					id: "44624BECA6639F1B"
+					type: "biome"
+				}
+				{
+					biome: "terralith:lavender_forest"
+					id: "298EEFD33A2F1C24"
+					type: "biome"
+				}
+				{
+					biome: "terralith:lavender_valley"
+					id: "0233B99C3452FE45"
+					type: "biome"
+				}
+				{
+					biome: "terralith:moonlight_grove"
+					id: "6A0ACA28CF88FD72"
+					type: "biome"
+				}
+				{
+					biome: "terralith:moonlight_valley"
+					id: "532E455FBEEF9F8F"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:old_growth_birch_forest"
+					id: "000A8E5F61B10F2F"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:old_growth_pine_taiga"
+					id: "3EAA0954DB492053"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:old_growth_spruce_taiga"
+					id: "49406092FFC1ED7F"
+					type: "biome"
+				}
+				{
+					biome: "terralith:sakura_grove"
+					id: "17F525E919F44C3F"
+					type: "biome"
+				}
+				{
+					biome: "terralith:sakura_valley"
+					id: "574D9E1A4B4FBBF9"
+					type: "biome"
+				}
+				{
+					biome: "terralith:snowy_cherry_grove"
+					id: "370CBB27D97D206B"
+					type: "biome"
+				}
+				{
+					biome: "terralith:temperate_highlands"
+					id: "408412948CF93E24"
+					type: "biome"
+				}
+				{
+					biome: "terralith:yosemite_lowlands"
+					id: "4FBE70516CC06068"
+					type: "biome"
+				}
+			]
+			x: 2.9261904761904702d
+			y: 13.71198979591836d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "minecraft:flowering_azalea_leaves"
+			}
+			id: "5724E10021271829"
+			rewards: [{
+				id: "1860106E6E9846B2"
+				item: {
+					count: 1
+					id: "minecraft:copper_block"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "63C084D9C0DE5E37"
+					structure: "terralith:rubble_forest"
+					type: "structure"
+				}
+				{
+					id: "4DB4F35DEF7CAFA4"
+					structure: "bettermineshafts:mineshaft_overgrown"
+					type: "structure"
+				}
+				{
+					id: "00A5A505A79B7376"
+					structure: "bettermineshafts:mineshaft_oak"
+					type: "structure"
+				}
+				{
+					id: "623640956D35C5BE"
+					structure: "bettermineshafts:mineshaft_spruce"
+					type: "structure"
+				}
+				{
+					id: "7B94133F9965FC43"
+					structure: "minecraft:trail_ruins"
+					type: "structure"
+				}
+				{
+					id: "6E2AFAAC285C83D5"
+					structure: "betterjungletemples:jungle_temple"
+					type: "structure"
+				}
+			]
+			x: 0.8904761904761997d
+			y: 15.56913265306122d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "friendsandfoes:illusioner_spawn_egg"
+			}
+			id: "7849B9CD1B3C1F23"
+			rewards: [{
+				count: 3
+				id: "4951ADC944B22AAA"
+				item: {
+					count: 1
+					id: "blazinghot:iron_apple"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7D150C9648FB1E7B"
+					structure: "friendsandfoes:illusioner_shack"
+					type: "structure"
+				}
+				{
+					id: "1E8673809CAF8DB1"
+					structure: "friendsandfoes:illusioner_training_grounds"
+					type: "structure"
+				}
+				{
+					entity: "friendsandfoes:illusioner"
+					id: "0BE686BF8C89C950"
+					type: "kill"
+					value: 2L
+				}
+			]
+			x: 4.6404761904762d
+			y: 16.890561224489797d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "create_sa:rose_quartz_pickaxe"
+			}
+			id: "429FCA437D09CB3B"
+			rewards: [
+				{
+					id: "56B29CC3DA5B3BE8"
+					item: {
+						count: 1
+						id: "create_sa:rose_quartz_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					count: 500
+					id: "12B5C44E73C09B65"
+					item: {
+						count: 1
+						id: "create:rose_quartz"
+					}
+					type: "item"
+				}
+				{
+					id: "529AD9FC1AD6028D"
+					item: {
+						count: 1
+						id: "overpacked:giant_backpack"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 1.25d
+			tasks: [
+				{
+					id: "07C44C5336309BA6"
+					structure: "bettermineshafts:mineshaft_acacia"
+					type: "structure"
+				}
+				{
+					id: "02AC9468834962A8"
+					structure: "bettermineshafts:mineshaft_desert"
+					type: "structure"
+				}
+				{
+					id: "1735CEA90CB5182A"
+					structure: "bettermineshafts:mineshaft_dripstone"
+					type: "structure"
+				}
+				{
+					id: "3E9F6C56E473AA6C"
+					structure: "bettermineshafts:mineshaft_ice"
+					type: "structure"
+				}
+				{
+					id: "1A9C53695624E339"
+					structure: "bettermineshafts:mineshaft_jungle"
+					type: "structure"
+				}
+				{
+					id: "0A6556956632C259"
+					structure: "bettermineshafts:mineshaft_lush"
+					type: "structure"
+				}
+				{
+					id: "62D011FEC6DE62D3"
+					structure: "bettermineshafts:mineshaft_mesa"
+					type: "structure"
+				}
+				{
+					id: "17782C1DFFB8BF64"
+					structure: "bettermineshafts:mineshaft_mushroom"
+					type: "structure"
+				}
+				{
+					id: "5D7433190F9C73CD"
+					structure: "bettermineshafts:mineshaft_oak"
+					type: "structure"
+				}
+				{
+					id: "7CD1FA5C9F62AD3F"
+					structure: "bettermineshafts:mineshaft_overgrown"
+					type: "structure"
+				}
+				{
+					id: "02BBAAAAF6BAAADA"
+					structure: "bettermineshafts:mineshaft_red_desert"
+					type: "structure"
+				}
+				{
+					id: "2F152C153AC97F06"
+					structure: "bettermineshafts:mineshaft_spruce"
+					type: "structure"
+				}
+				{
+					id: "629763CF154AD432"
+					structure: "bettermineshafts:mineshaft_spruce_snowy"
+					type: "structure"
+				}
+				{
+					advancement: "friendsandfoes:adventure/complete_hide_and_seek_game"
+					criterion: ""
+					id: "1E7475043CE33E77"
+					type: "advancement"
+				}
+			]
+			x: -1.2797619047619193d
+			y: 12.859523809523818d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "6D27EFDDE48DABA1"
+			shape: "square"
+			tasks: [{
+				id: "1F5D01AA0DABA942"
+				type: "checkmark"
+			}]
+			x: 2.54880952380951d
+			y: 15.240476190476205d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "0D368181A7C84F06"
+			shape: "square"
+			tasks: [{
+				id: "2FFEC274DBDB976F"
+				type: "checkmark"
+			}]
+			x: -6.800000000000001d
+			y: 14.45d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "44340FB3C127FE7B"
+			rewards: [{
+				id: "4A64F6C0835DD0DC"
+				item: {
+					count: 1
+					id: "minecraft:end_crystal"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "13E93602E0CF36FC"
+					structure: "terralith:underground/giant_bee_hive"
+					type: "structure"
+				}
+				{
+					id: "403F92EA2D46FADB"
+					structure: "bettermineshafts:mineshaft_mushroom"
+					type: "structure"
+				}
+				{
+					id: "0EE955C9BDDF49A3"
+					structure: "more_tree_sizes:largeredmushroom"
+					type: "structure"
+				}
+				{
+					id: "0439190096429BBD"
+					structure: "more_tree_sizes:largebrownmushroom"
+					type: "structure"
+				}
+				{
+					id: "7396412046887267"
+					structure: "terralith:mage_complex"
+					type: "structure"
+				}
+				{
+					id: "0197C39B80921A97"
+					structure: "terralith:mage_tower"
+					type: "structure"
+				}
+				{
+					id: "360F7CFECE7C4AD6"
+					structure: "betterwitchhuts:witch_hut"
+					type: "structure"
+				}
+				{
+					id: "178C218AEE2B81D1"
+					structure: "betterwitchhuts:witch_circle"
+					type: "structure"
+				}
+				{
+					id: "3B0DDA449AFEE456"
+					structure: "villagesandpillages:village_witch"
+					type: "structure"
+				}
+			]
+			x: -6.271428571428585d
+			y: 12.904761904761909d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			id: "2DB2B539369296BC"
+			rewards: [
+				{
+					id: "04CF762A434BF864"
+					item: {
+						count: 1
+						id: "rottencreatures:swampy_head"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7E7A4C022B46BBBA"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					entity: "friendsandfoes:illusioner"
+					id: "64878AE4DA49E0E0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "friendsandfoes:iceologer"
+					id: "7F5D7FFBBC8F182A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:evoker"
+					id: "31B32B74F55AB374"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:witch"
+					id: "614E5CEF33FD28A0"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:dark_oak_enderman"
+					id: "4A4DF4E7FF4F8232"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -6.033333333333344d
+			y: 15.809523809523807d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			id: "4CE61954C3226338"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "032713FBA0709CB0"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "143B1B50BF9865B2"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -5.1d
+			y: 6.8d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			id: "3B7765BAA6D8314B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5505693B5172E9"
+				table_id: 4163670266444182859L
+				type: "random"
+			}]
+			tasks: [
+				{
+					icon: {
+						id: "friendsandfoes:moobloom_spawn_egg"
+					}
+					id: "5A6069ADB29A0361"
+					observe_type: 5
+					timer: 0L
+					to_observe: "friendsandfoes:moobloom"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "minecraft:sniffer_spawn_egg"
+					}
+					id: "223D8DCD4808A0C6"
+					observe_type: 5
+					timer: 0L
+					to_observe: "minecraft:sniffer"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "friendsandfoes:glare_spawn_egg"
+					}
+					id: "7BB60E965D40CC18"
+					observe_type: 5
+					timer: 0L
+					to_observe: "friendsandfoes:glare"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "friendsandfoes:rascal_spawn_egg"
+					}
+					id: "25FA5DFCD050C5EB"
+					observe_type: 5
+					timer: 0L
+					to_observe: "friendsandfoes:rascal"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "minecraft:allay_spawn_egg"
+					}
+					id: "403FE423B38AD5CC"
+					observe_type: 5
+					timer: 0L
+					to_observe: "minecraft:allay"
+					type: "observation"
+				}
+			]
+			x: -8.128571428571439d
+			y: 13.476190476190478d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			icon: {
+				id: "minecraft:amethyst_shard"
+			}
+			id: "215759EB9E826120"
+			rewards: [{
+				count: 2
+				id: "7CBF9D14F3D977EA"
+				item: {
+					count: 1
+					id: "minecraft:budding_amethyst"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "terralith:amethyst_canyon"
+					id: "3D5C7D09BCAA8D5A"
+					type: "biome"
+				}
+				{
+					biome: "terralith:amethyst_rainforest"
+					id: "4247B1992C333CA6"
+					type: "biome"
+				}
+				{
+					biome: "terralith:mirage_isles"
+					id: "6E8087803E8AA882"
+					type: "biome"
+				}
+				{
+					biome: "terralith:moonlight_grove"
+					id: "755812E8416412F1"
+					type: "biome"
+				}
+				{
+					biome: "terralith:moonlight_valley"
+					id: "7C77C7E762BD1373"
+					type: "biome"
+				}
+				{
+					biome: "terralith:painted_mountains"
+					id: "2592264BA3DF8E8C"
+					type: "biome"
+				}
+				{
+					biome: "terralith:scarlet_mountains"
+					id: "542CB48E39304B1D"
+					type: "biome"
+				}
+				{
+					biome: "terralith:skylands_autumn"
+					id: "25A2CF9F5D74DBAF"
+					type: "biome"
+				}
+				{
+					biome: "terralith:skylands_spring"
+					id: "5D518A60330262E0"
+					type: "biome"
+				}
+				{
+					biome: "terralith:skylands_summer"
+					id: "6D2E64DF7F4FDE4B"
+					type: "biome"
+				}
+				{
+					biome: "terralith:skylands_winter"
+					id: "49F3CCE31FEE7A3F"
+					type: "biome"
+				}
+				{
+					biome: "terralith:warped_mesa"
+					id: "47F7EB584B0CC329"
+					type: "biome"
+				}
+			]
+			x: -7.652380952380964d
+			y: 15.619047619047617d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "16C8478A801B3428"
+			shape: "gear"
+			tasks: [
+				{
+					icon: {
+						id: "friendsandfoes:copper_golem_spawn_egg"
+					}
+					id: "14A08161BBF537AE"
+					observe_type: 5
+					timer: 0L
+					to_observe: "friendsandfoes:copper_golem"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "minecraft:iron_golem_spawn_egg"
+					}
+					id: "324EF16A45E659CE"
+					observe_type: 5
+					timer: 0L
+					to_observe: "minecraft:iron_golem"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "takesapillage:clay_golem_spawn_egg"
+					}
+					id: "37CE4F0B71211B94"
+					observe_type: 0
+					timer: 0L
+					to_observe: "takesapillage:clay_golem"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "friendsandfoes:tuff_golem_spawn_egg"
+					}
+					id: "245317F0DD37FE32"
+					observe_type: 5
+					timer: 0L
+					to_observe: "friendsandfoes:tuff_golem"
+					type: "observation"
+				}
+			]
+			x: -12.134523809523799d
+			y: 2.180952380952391d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			id: "374DBEC2A7B5BCD7"
+			rewards: [{
+				id: "728180C7B711E0CA"
+				item: {
+					count: 1
+					id: "rottencreatures:frostbitten_head"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "creeperoverhaul:snowy_creeper"
+					id: "69F61577AC997357"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "rottencreatures:frostbitten"
+					id: "31670914F12AA238"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "minecraft:stray"
+					id: "33459E920FA6871C"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "endermanoverhaul:ice_spikes_enderman"
+					id: "22FEAD4530898E1C"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -13.808333333333337d
+			y: 9.51428571428572d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			id: "2ECDDFA71297E6D9"
+			rewards: [{
+				count: 3
+				id: "08CCD2E5323ECB8A"
+				item: {
+					count: 1
+					id: "blazinghot:zinc_apple"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "friendsandfoes:iceologer"
+					id: "7CFA0695D7F13016"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "56167805D92D0D09"
+					structure: "friendsandfoes:iceologer_cabin"
+					type: "structure"
+				}
+			]
+			x: -15.31309523809523d
+			y: 6.395238095238099d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			id: "522385C53A522186"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FE377B19DC70E65"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [
+				{
+					advancement: "yungscavebiomes:frosted_caves"
+					criterion: ""
+					id: "209DF8D1ED6AD2A2"
+					type: "advancement"
+				}
+				{
+					advancement: "yungscavebiomes:mine_enchanted_ice"
+					criterion: ""
+					id: "37BED740B10B7CB2"
+					type: "advancement"
+				}
+				{
+					entity: "yungscavebiomes:ice_cube"
+					id: "154842E2FCFAEB7A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					advancement: "yungscavebiomes:frost_potion"
+					criterion: ""
+					id: "61EE5BF2E89E8AC5"
+					type: "advancement"
+				}
+			]
+			x: -13.348809523809514d
+			y: 8.002380952380946d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			id: "392EDF481C1ED630"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5E788F7520A9AAC1"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			shape: "circle"
+			size: 1.0d
+			tasks: [{
+				id: "25177E2C949AA1C7"
+				item: { count: 1, id: "kubejs:frost_catalyst" }
+				type: "item"
+			}]
+			x: -13.967857142857127d
+			y: 2.954761904761895d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			icon: {
+				id: "molten_vents:active_molten_asurine"
+			}
+			id: "749FF26570D964EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AA934011325003E"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "5021EAEC16D391CD"
+					observe_type: 0
+					timer: 0L
+					to_observe: "molten_vents:active_molten_asurine"
+					type: "observation"
+				}
+				{
+					id: "51E55A5B5D0D4CC8"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "molten_vents:dormant_molten_asurine"
+					type: "observation"
+				}
+			]
+			x: -16.15d
+			y: 7.6499999999999995d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			icon: {
+				id: "minecraft:blue_ice"
+			}
+			id: "5F86702E8A42034A"
+			rewards: [{
+				count: 500
+				id: "186DA99EAF2A4285"
+				item: {
+					count: 1
+					id: "create:asurine"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "terralith:alpine_grove"
+					id: "7E789916AD2C66D8"
+					type: "biome"
+				}
+				{
+					biome: "terralith:cold_shrubland"
+					id: "3EDD6EA4C7994B53"
+					type: "biome"
+				}
+				{
+					biome: "terralith:frozen_cliffs"
+					id: "71CF811AAF1D720D"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:frozen_peaks"
+					id: "0439557DDDDCCB06"
+					type: "biome"
+				}
+				{
+					biome: "terralith:glacial_chasm"
+					id: "11EBB7ABB559A51D"
+					type: "biome"
+				}
+				{
+					biome: "terralith:ice_marsh"
+					id: "6208477FE679EB88"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:ice_spikes"
+					id: "766574F4373E4D36"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:jagged_peaks"
+					id: "019A56F4E597982A"
+					type: "biome"
+				}
+				{
+					biome: "terralith:rocky_mountains"
+					id: "5E18645A45E965B6"
+					type: "biome"
+				}
+				{
+					biome: "terralith:siberian_grove"
+					id: "6469972CD7218515"
+					type: "biome"
+				}
+				{
+					biome: "terralith:siberian_taiga"
+					id: "4F3CD1E8B58930B5"
+					type: "biome"
+				}
+				{
+					biome: "terralith:skylands_winter"
+					id: "4AC0D0B183711072"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:snowy_beach"
+					id: "3D56D2446419A0FF"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:snowy_plains"
+					id: "7293C73F32279463"
+					type: "biome"
+				}
+				{
+					biome: "terralith:snowy_shield"
+					id: "4400F85E8845343B"
+					type: "biome"
+				}
+				{
+					biome: "yungscavebiomes:frosted_caves"
+					id: "51DCE3D1AFB3C9C1"
+					type: "biome"
+				}
+				{
+					biome: "terralith:cave/frostfire_caves"
+					id: "1D2F658991C54B51"
+					type: "biome"
+				}
+			]
+			x: -12.87261904761904d
+			y: 5.288095238095231d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "0F6E9698A7EFDC08"
+			shape: "square"
+			tasks: [{
+				id: "7820E6DD93BD416D"
+				type: "checkmark"
+			}]
+			x: -14.134523809523799d
+			y: 5.466666666666676d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			icon: {
+				id: "minecraft:dirt"
+			}
+			id: "48258C7DDB3E0151"
+			invisible_until_tasks: 1
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CDD19799605E7CD"
+				table_id: 4163670266444182859L
+				type: "random"
+			}]
+			tasks: [
+				{
+					biome: "terralith:alpha_islands"
+					id: "58251972C9E5D8F3"
+					type: "biome"
+				}
+				{
+					biome: "terralith:alpha_islands_winter"
+					id: "29211A4575502D9B"
+					type: "biome"
+				}
+			]
+			x: -12.36785714285714d
+			y: 16.00714285714288d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			id: "7FD4BCFDD74D64E7"
+			rewards: [{
+				count: 8
+				id: "05189DF4704C0246"
+				item: {
+					count: 1
+					id: "farmersdelight:rich_soil"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					icon: {
+						id: "endermanoverhaul:mushroom_fields_enderman_spawn_egg"
+					}
+					id: "7E7A5B0468924E0C"
+					observe_type: 5
+					timer: 0L
+					to_observe: "endermanoverhaul:mushroom_fields_enderman"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "creeperoverhaul:mushroom_creeper_spawn_egg"
+					}
+					id: "1911142388EB4F37"
+					observe_type: 5
+					timer: 0L
+					to_observe: "creeperoverhaul:mushroom_creeper"
+					type: "observation"
+				}
+				{
+					icon: {
+						id: "minecraft:mooshroom_spawn_egg"
+					}
+					id: "5A9EC7F48F2D7F6E"
+					observe_type: 5
+					timer: 0L
+					to_observe: "minecraft:mooshroom"
+					type: "observation"
+				}
+			]
+			x: -9.665476190476191d
+			y: 14.835714285714275d
+		}
+		{
+			dependencies: ["1B1C7D4D69C72C1F"]
+			icon: {
+				id: "minecraft:lava_bucket"
+			}
+			id: "7219E2A3F6F8C58E"
+			rewards: [{
+				id: "5B175F43318A70F3"
+				item: {
+					count: 1
+					id: "create_enchantment_industry:super_experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "terralith:cave/thermal_caves"
+					id: "10ADB308B6CFDBA3"
+					type: "biome"
+				}
+				{
+					biome: "terralith:cave/mantle_caves"
+					id: "37F7FF55AD1E7792"
+					type: "biome"
+				}
+				{
+					biome: "terralith:volcanic_crater"
+					id: "716A29ACF3F7C92A"
+					type: "biome"
+				}
+				{
+					biome: "terralith:volcanic_peaks"
+					id: "772E80ACFB6A46D3"
+					type: "biome"
+				}
+			]
+			x: -8.725000000000001d
+			y: 1.8714285714285666d
+		}
+		{
+			dependencies: ["1B1C7D4D69C72C1F"]
+			icon: {
+				id: "molten_vents:active_molten_crimsite"
+			}
+			id: "2742141A7D48F4D9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "72765F9E3C6E180B"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "7B6A41061B00A9DF"
+					observe_type: 0
+					timer: 0L
+					to_observe: "molten_vents:active_molten_crimsite"
+					type: "observation"
+				}
+				{
+					id: "501FBB600E3E5ECF"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "molten_vents:dormant_molten_crimsite"
+					type: "observation"
+				}
+			]
+			x: -6.8d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B1C7D4D69C72C1F"]
+			dependency_requirement: "one_completed"
+			id: "75AFD9FF27B04857"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49550C99E6F1FE68"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			shape: "square"
+			size: 0.85d
+			tasks: [{
+				id: "48C209C3AE7A15E8"
+				item: { count: 1, id: "block_factorys_bosses:dragon_skull" }
+				type: "item"
+			}]
+			x: -9.796428571428542d
+			y: -0.0809523809524535d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			id: "6B12A7A63FD3A585"
+			tasks: [
+				{
+					icon: {
+						id: "piglinproliferation:piglin_traveler_spawn_egg"
+					}
+					id: "097F54879378CFA1"
+					observe_type: 5
+					timer: 0L
+					to_observe: "piglinproliferation:piglin_traveler"
+					type: "observation"
+				}
+				{
+					id: "7BCD8FB04D32FCE8"
+					item: { count: 1, id: "piglinproliferation:travelers_compass" }
+					type: "item"
+				}
+			]
+			x: -0.9750000000000014d
+			y: 0.22857142857142776d
+		}
+		{
+			dependencies: ["1B1C7D4D69C72C1F"]
+			icon: {
+				id: "minecraft:powder_snow_bucket"
+			}
+			id: "48B31C2F1809CC4C"
+			rewards: [{
+				count: 500
+				id: "20BC89262F68B438"
+				item: {
+					count: 1
+					id: "create:crimsite"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "terralith:emerald_peaks"
+					id: "33BD6B6DA17E0735"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:frozen_peaks"
+					id: "59F6A21B45D3D7F6"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:jagged_peaks"
+					id: "1852AFBB9C42C1C3"
+					type: "biome"
+				}
+				{
+					biome: "terralith:painted_mountains"
+					id: "10F96307323ABEC2"
+					type: "biome"
+				}
+				{
+					biome: "terralith:rocky_mountains"
+					id: "5B644BADE0E69CB0"
+					type: "biome"
+				}
+				{
+					biome: "terralith:scarlet_mountains"
+					id: "6CF69544DD4EC955"
+					type: "biome"
+				}
+				{
+					biome: "minecraft:stony_peaks"
+					id: "322CA9DE8C05AC36"
+					type: "biome"
+				}
+				{
+					biome: "terralith:volcanic_peaks"
+					id: "0AB032535F00F69D"
+					type: "biome"
+				}
+			]
+			x: -10.867857142857147d
+			y: 0.29999999999999716d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			icon: {
+				id: "rottencreatures:frostbitten_head"
+			}
+			id: "29FFDFD61B69FD6C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "636CCF60CD329591"
+				table_id: 4163670266444182859L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2974F62F2F60B960"
+				structure: "terralith:spire"
+				type: "structure"
+			}]
+			x: -15.236904761904768d
+			y: 9.133333333333333d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			id: "17FDA4CA364DD0CD"
+			tasks: [
+				{
+					entity: "minecraft:piglin"
+					id: "0CCFEA4E66A07629"
+					type: "kill"
+					value: 5L
+				}
+				{
+					entity: "piglinproliferation:piglin_alchemist"
+					id: "163B508F357B4ED8"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "minecraft:piglin_brute"
+					id: "363F09447F762BA3"
+					type: "kill"
+					value: 4L
+				}
+				{
+					id: "1791364B882DE74A"
+					item: { count: 1, id: "piglinproliferation:buckler" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.546428571428578d
+			y: 2.4666666666666615d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			id: "2D5F3C00556AE675"
+			tasks: [
+				{
+					icon: {
+						id: "minecraft:cracked_nether_bricks"
+					}
+					id: "2FED8B850DCA1897"
+					structure: "betterfortresses:fortress"
+					type: "structure"
+				}
+				{
+					entity: "minecraft:blaze"
+					id: "26BDF75412F446F9"
+					type: "kill"
+					value: 3L
+				}
+				{
+					count: 3L
+					id: "4E372A7EB6DFBD49"
+					item: { count: 1, id: "create:blaze_burner" }
+					type: "item"
+				}
+			]
+			x: -3.11785714285714d
+			y: 0.9428571428571431d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "1B1C7D4D69C72C1F"
+			shape: "square"
+			tasks: [{
+				id: "441F01242993D5C4"
+				type: "checkmark"
+			}]
+			x: -8.24880952380952d
+			y: 0.39523809523809206d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			hide_dependency_lines: true
+			id: "1DFE4980354295BB"
+			shape: "square"
+			tasks: [{
+				id: "0DAA6322A1075C70"
+				type: "checkmark"
+			}]
+			x: 0.02499999999999858d
+			y: 0.9428571428571431d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			icon: {
+				id: "friendsandfoes:wildfire_spawn_egg"
+			}
+			id: "3E2B142744D88060"
+			tasks: [
+				{
+					count: 3L
+					id: "25A0168FA0FDB73C"
+					item: { count: 1, id: "friendsandfoes:wildfire_crown_fragment" }
+					type: "item"
+				}
+				{
+					entity: "friendsandfoes:wildfire"
+					id: "4EC3884D6A8EF526"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "3335CF37D0EDBE0B"
+					structure: "friendsandfoes:citadel"
+					type: "structure"
+				}
+			]
+			x: -3.213095238095228d
+			y: -1.152380952380959d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			id: "26C55C60F8BE566B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F96127282B6EBB4"
+					table_id: 8128522960503969447L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3BAD2C3F020248AA"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3D830577939455CC"
+				item: { count: 1, id: "kubejs:wither_knight_catalyst" }
+				type: "item"
+			}]
+			x: 4.167857142857152d
+			y: 1.085714285714289d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			id: "624B52D71B77631F"
+			tasks: [{
+				advancement: "minecraft:nether/explore_nether"
+				criterion: ""
+				id: "639480ED59EAD281"
+				type: "advancement"
+			}]
+			x: 1.9773809523809618d
+			y: 0.27619047619047876d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "molten_vents:active_molten_veridium"
+			}
+			id: "220060BA4641EA48"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "200724DEC40B1D0F"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [
+				{
+					id: "6237852EDDA9A48D"
+					observe_type: 0
+					timer: 0L
+					to_observe: "molten_vents:active_molten_veridium"
+					type: "observation"
+				}
+				{
+					id: "4D291A90CBA51CE6"
+					observe_type: 0
+					optional_task: true
+					timer: 0L
+					to_observe: "molten_vents:dormant_molten_veridium"
+					type: "observation"
+				}
+			]
+			x: -0.85d
+			y: 16.15d
+		}
+		{
+			dependencies: [
+				"5F86702E8A42034A"
+				"2ECDDFA71297E6D9"
+				"522385C53A522186"
+				"374DBEC2A7B5BCD7"
+				"29FFDFD61B69FD6C"
+				"7219E2A3F6F8C58E"
+				"48B31C2F1809CC4C"
+				"17FDA4CA364DD0CD"
+				"6B12A7A63FD3A585"
+				"2D5F3C00556AE675"
+				"781DABD857F15613"
+				"624B52D71B77631F"
+				"55FEDAC2339F8665"
+				"212ADDBB4183196F"
+				"76E5F93CEED8838C"
+				"15033BD7C44E0845"
+				"1254AEF3D79FAEE6"
+				"1F246AFC5D0BA2CC"
+				"4A3CAFA7A30A5833"
+				"44C66918643746DA"
+				"728509E5032FD774"
+				"77E035BDEEC7D5ED"
+				"7849B9CD1B3C1F23"
+				"5724E10021271829"
+				"429FCA437D09CB3B"
+				"44340FB3C127FE7B"
+				"3B7765BAA6D8314B"
+				"215759EB9E826120"
+				"2DB2B539369296BC"
+				"7FD4BCFDD74D64E7"
+				"48258C7DDB3E0151"
+			]
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "aeronautics:item/music_disc_cloud_skipper"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "56D41F7BAEAB38CA"
+			rewards: [
+				{
+					id: "2A69F3E8416D8D7A"
+					item: {
+						count: 1
+						id: "create_sa:creative_filling_tank"
+					}
+					type: "item"
+				}
+				{
+					amount: 1
+					id: "5A2837B497660185"
+					slot_type: "tank"
+					type: "ftbquest_slot_rewards:curios_slot"
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "7C96BAAD1EDBABCC"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			icon: {
+				id: "minecraft:netherite_block"
+			}
+			id: "781DABD857F15613"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "05498986B264F57B"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "2A33DD0400057946"
+					structure: "friendsandfoes:citadel"
+					type: "structure"
+				}
+				{
+					id: "3B23498CAF8C6889"
+					structure: "minecraft:ruined_portal_nether"
+					type: "structure"
+				}
+				{
+					id: "19FF3954B922D500"
+					structure: "betterfortresses:fortress"
+					type: "structure"
+				}
+				{
+					id: "3262D071C3810B03"
+					structure: "minecraft:bastion_remnant"
+					type: "structure"
+				}
+				{
+					id: "76D33D48C736B8DE"
+					structure: "block_factorys_bosses:underworld_arena"
+					type: "structure"
+				}
+			]
+			x: 2.22499999999998d
+			y: 2.0619047619047706d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "minecraft:skeleton_skull"
+			}
+			id: "7E8B24F46FDD8755"
+			progression_mode: "linear"
+			rewards: [{
+				amount: 1
+				id: "3CEFD9259EFF4BFA"
+				slot_type: "charm"
+				type: "ftbquest_slot_rewards:curios_slot"
+			}]
+			tasks: [
+				{
+					entity: "takesapillage:archer"
+					id: "62257D1EF5AFB15D"
+					type: "kill"
+					value: 4L
+				}
+				{
+					entity: "takesapillage:legioner"
+					id: "193825DF0EAD7F0A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:pillager"
+					id: "1CE48670ED26344F"
+					type: "kill"
+					value: 20L
+				}
+				{
+					entity: "takesapillage:skirmisher"
+					id: "5DA90F43EA0DA29A"
+					type: "kill"
+					value: 2L
+				}
+				{
+					entity: "friendsandfoes:illusioner"
+					id: "0D8FF713721CCCFC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "friendsandfoes:iceologer"
+					id: "29BC12A3AF072BFE"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:witch"
+					id: "07AA5C984ED93A93"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "minecraft:ravager"
+					id: "72DA80CE7756F189"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "minecraft:evoker"
+					id: "12D3B7422197F584"
+					type: "kill"
+					value: 2L
+				}
+				{
+					entity: "minecraft:vindicator"
+					id: "14C31FE55FF6B641"
+					type: "kill"
+					value: 3L
+				}
+			]
+			x: 1.177380952380915d
+			y: 13.871428571428574d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			id: "0DA01E3E32B1D87A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4379C2E65332D321"
+				table_id: 7381247849914152287L
+				type: "loot"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "7B693CCAF56E02CC"
+				item: { count: 1, id: "kubejs:copper_map" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				id: "luminous_beasts:mummy_wraps_helmet"
+			}
+			id: "1994C9F5076C91BB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2814EEA62260284D"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:mummy"
+					id: "5402A1027814AAE2"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "151F6CDB0765DFA6"
+					item: { count: 1, id: "luminous_beasts:mummy_wraps_helmet" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0799594A99487CF3"
+					item: { count: 1, id: "luminous_beasts:mummy_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 13.463095238095207d
+			y: 9.299999999999997d
+		}
+		{
+			dependencies: ["0F6E9698A7EFDC08"]
+			icon: {
+				id: "luminous_beasts:yeti_horn"
+			}
+			id: "0C1F6E9AE82A9DEC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48B22E96918B2061"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:yeti"
+					id: "69F5BC6CD121E030"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "0673CCB951DA5689"
+					item: { count: 1, id: "luminous_beasts:yeti_horn" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "13466DBFA85410E6"
+					item: { count: 1, id: "luminous_beasts:yeti_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -12.941666666666698d
+			y: 6.585714285714289d
+		}
+		{
+			dependencies: ["3B9EEA6930887DE0"]
+			icon: {
+				id: "luminous_beasts:shellmet_helmet"
+			}
+			id: "024E4ABB51759533"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53A1F6497FB4C6DE"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:hermit_king"
+					id: "20A884D2F05A5F67"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "63955C292BB40DBD"
+					item: { count: 1, id: "luminous_beasts:shellmet_helmet" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5D78491B99FF8F94"
+					item: { count: 1, id: "luminous_beasts:hermit_king_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 8.677380952380886d
+			y: 15.470068027210871d
+		}
+		{
+			dependencies: ["3B9EEA6930887DE0"]
+			icon: {
+				id: "luminous_beasts:viper_tooth"
+			}
+			id: "193CAC8F00703F5B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5B6F5021074F87B6"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:sea_viper"
+					id: "439AC94C8F0D9211"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "2AE0F0B96EAB63C3"
+					item: { count: 1, id: "luminous_beasts:viper_tooth" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "679D9D855451C419"
+					item: { count: 1, id: "luminous_beasts:sea_viper_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 8.939285714285688d
+			y: 16.53809523809523d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			icon: {
+				id: "luminous_beasts:gator_tooth"
+			}
+			id: "18CF40B602FB3C45"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "173A25C0B3FED6E9"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:vile_gator"
+					id: "4D82764055C0F0F9"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "5652D7C7E6E05F31"
+					item: { count: 1, id: "luminous_beasts:gator_tooth" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0D2D545D204B7A96"
+					item: { count: 1, id: "luminous_beasts:vile_gator_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -5.322619047619092d
+			y: 14.704761904761895d
+		}
+		{
+			dependencies: ["1B1C7D4D69C72C1F"]
+			icon: {
+				id: "luminous_beasts:phoenix_feather"
+			}
+			id: "5D3CE6D4875BFA98"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58D824CF2EFE8E52"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:baby_phoenix"
+					id: "1EE961E2A94CB22F"
+					optional_task: true
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "58EAA12D6FB93DB7"
+					item: { count: 1, id: "luminous_beasts:phoenix_feather" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "550889F0EE6A0AFD"
+					item: { count: 1, id: "luminous_beasts:phoenix_disc" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "luminous_beasts:phoenix"
+					id: "44DF8197DDF35EC3"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -9.536904761904808d
+			y: 1.0619047619047635d
+		}
+		{
+			dependencies: ["7FA169340D2F6D88"]
+			icon: {
+				id: "luminous_beasts:bone_rattle"
+			}
+			id: "3C5651148CE181FB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65FDC0CEF7F15B5A"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:bone_stalker"
+					id: "08D02ABD76FAB7CB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "52F134BCD754D119"
+					item: { count: 1, id: "luminous_beasts:bone_rattle" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "0FFC9C42B73F3ECA"
+					item: { count: 1, id: "luminous_beasts:bone_stalker_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 10.105952380952331d
+			y: 9.63333333333334d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			icon: {
+				id: "luminous_beasts:jungle_pendant"
+			}
+			id: "12FF48BA0F39B78C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09676F15F8CED0E0"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:witch_doctor"
+					id: "32D169355529C3B7"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "2A55EE7E2224A067"
+					item: { count: 1, id: "luminous_beasts:jungle_pendant" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5C89174FBD7FE158"
+					item: { count: 1, id: "luminous_beasts:firebugs_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -9.298809523809545d
+			y: 16.038095238095238d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			icon: {
+				id: "luminous_beasts:luminous_antennae"
+			}
+			id: "3B6192039188E61F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04BFADF1B10011BD"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:luminous_moth"
+					id: "76C2A429C781EEBC"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "5BA42EB7ACC16B7E"
+					item: { count: 1, id: "luminous_beasts:luminous_antennae" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3B89AB1E6DD15856"
+					item: { count: 1, id: "luminous_beasts:luminous_moth_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 1.8678571428571331d
+			y: 17.180952380952384d
+		}
+		{
+			dependencies: ["1DFE4980354295BB"]
+			icon: {
+				id: "luminous_beasts:molten_coal"
+			}
+			id: "2EF50EEA93DE9F4C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67076045BE8A8F56"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "luminous_beasts:the_furnace"
+					id: "0694C35C3ABF0C0A"
+					type: "kill"
+					value: 1L
+				}
+				{
+					id: "1C6233BA0EFB81E9"
+					item: { count: 1, id: "luminous_beasts:molten_coal" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "68BF430F27703B44"
+					item: { count: 1, id: "luminous_beasts:furnace_disc" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 2.963095238095214d
+			y: 1.442857142857136d
+		}
+		{
+			dependencies: ["3B9EEA6930887DE0"]
+			id: "5418E40E1D9142D9"
+			rewards: [{
+				id: "4995809CF92A1FC6"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "friendsandfoes:crab"
+					id: "183180EE3F66627F"
+					type: "kill"
+					value: 5L
+				}
+				{
+					id: "2236FB505724C51B"
+					item: { count: 1, id: "friendsandfoes:crab_claw" }
+					type: "item"
+				}
+			]
+			x: 7.379761904761878d
+			y: 17.645238095238092d
+		}
+		{
+			dependencies: ["6D27EFDDE48DABA1"]
+			hide_dependency_lines: true
+			id: "3B9EEA6930887DE0"
+			shape: "square"
+			tasks: [{
+				id: "117F2CA58BCB5E96"
+				type: "checkmark"
+			}]
+			x: 6.605952380952331d
+			y: 16.061904761904756d
+		}
+		{
+			dependencies: ["3B9EEA6930887DE0"]
+			id: "36E829623CE2EB64"
+			rewards: [{
+				id: "140F4DB5612F5BE3"
+				item: {
+					count: 1
+					id: "rottencreatures:dead_beard_head"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					entity: "creeperoverhaul:beach_creeper"
+					id: "75AD7151EC15814B"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "creeperoverhaul:ocean_creeper"
+					id: "6C5C5656911F80CB"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "rottencreatures:dead_beard"
+					id: "32602BB8A551D9E9"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "rottencreatures:skeleton_lackey"
+					id: "26DFEAF5806153EC"
+					type: "kill"
+					value: 3L
+				}
+				{
+					entity: "rottencreatures:zombie_lackey"
+					id: "0D0130EE3E9A5F18"
+					type: "kill"
+					value: 3L
+				}
+			]
+			x: 7.844047619047572d
+			y: 16.680952380952384d
+		}
+		{
+			dependencies: [
+				"1994C9F5076C91BB"
+				"3C5651148CE181FB"
+				"024E4ABB51759533"
+				"193CAC8F00703F5B"
+				"35C122722CC39C0F"
+				"44C66918643746DA"
+				"3B6192039188E61F"
+				"7849B9CD1B3C1F23"
+				"18CF40B602FB3C45"
+				"12FF48BA0F39B78C"
+				"0C1F6E9AE82A9DEC"
+				"2ECDDFA71297E6D9"
+				"392EDF481C1ED630"
+				"5D3CE6D4875BFA98"
+				"75AFD9FF27B04857"
+				"3E2B142744D88060"
+				"2EF50EEA93DE9F4C"
+				"26C55C60F8BE566B"
+				"6DCB2B0EC68ECCFF"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "luminous_beasts:phoenix_disc"
+			}
+			id: "6B644D9CB4D3535A"
+			rewards: [{
+				id: "65BA959B9AB16A47"
+				item: {
+					components: {
+						"minecraft:stored_enchantments": {
+							levels: {
+								"create_sa:above_the_clouds": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:enchanted_book"
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "59E23AD5E4AA8C55"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+	]
+}

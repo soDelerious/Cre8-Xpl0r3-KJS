@@ -1,0 +1,59 @@
+{
+	id: "70CE5090D97216A7"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "041A563494EDFAF4"
+			item: {
+				count: 1
+				id: "block_factorys_bosses:enhanced_shield"
+			}
+			weight: 7.5f
+		}
+		{
+			id: "0365F7B1E00DC81B"
+			item: {
+				count: 1
+				id: "block_factorys_bosses:dagger"
+			}
+			weight: 7.5f
+		}
+		{
+			id: "0F9A2641023F362B"
+			item: {
+				count: 1
+				id: "block_factorys_bosses:large_sword"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "13F4E20336DFBEBE"
+			item: {
+				count: 1
+				id: "block_factorys_bosses:bone_remains"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "1455EA8DE94DD8E3"
+			item: {
+				count: 1
+				id: "block_factorys_bosses:bone_remains_legs"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "34CD8CFD7AAB3BC3"
+			item: {
+				count: 1
+				id: "artifacts:mimic_spawn_egg"
+			}
+			weight: 7.5f
+		}
+		{ id: "344EE8F3D003360A", item: { count: 1, id: "block_factorys_bosses:knight_helmet" } }
+		{ id: "4463B1778BA50972", item: { count: 1, id: "block_factorys_bosses:knight_chestplate" } }
+		{ id: "2860EDC24101D5B9", item: { count: 1, id: "block_factorys_bosses:knight_leggings" } }
+		{ id: "698F5B773EF6B198", item: { count: 1, id: "block_factorys_bosses:knight_boots" } }
+	]
+}

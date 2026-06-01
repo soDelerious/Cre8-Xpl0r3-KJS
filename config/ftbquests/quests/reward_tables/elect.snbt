@@ -1,0 +1,227 @@
+{
+	id: "438914270395A47A"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			id: "00FFCE16F5008912"
+			item: {
+				count: 1
+				id: "powergrid:electrozapper"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "6FB95BD35250997C"
+			item: {
+				count: 1
+				id: "powergrid:electrobaton"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "3A9E2BF57920744A"
+			item: {
+				count: 1
+				id: "powergrid:portable_battery"
+			}
+			weight: 0.2f
+		}
+		{ id: "6607A343BDD329AD", item: { count: 1, id: "powergrid:multimeter" } }
+		{ id: "7BB5D9ADBF4F71B8", item: { count: 1, id: "powergrid:wire_cutter" } }
+		{
+			id: "4696899CB6FB8982"
+			item: {
+				count: 1
+				id: "powergrid:battery"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "7E3374CA49D66A5D"
+			item: {
+				count: 1
+				id: "powergrid:potato_battery"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 3
+			id: "2C3AD39417D68E6B"
+			item: {
+				count: 1
+				id: "powergrid:generator_induction_rotor"
+			}
+		}
+		{ id: "641AE17519751EE4", item: { count: 1, id: "powergrid:generator_commutator" } }
+		{
+			count: 3
+			id: "22ABC580081BF897"
+			item: {
+				count: 1
+				id: "powergrid:generator_housing"
+			}
+		}
+		{ id: "3B60A57F3AC2669C", item: { count: 1, id: "powergrid:plotter" } }
+		{
+			id: "23B88CF84963BD5E"
+			item: {
+				count: 1
+				id: "powergrid:electromagnet"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "743EF57142E8AA49"
+			item: {
+				count: 1
+				id: "powergrid:electric_motor"
+			}
+			weight: 0.35f
+		}
+		{
+			id: "2615B2C6714388B7"
+			item: {
+				count: 1
+				id: "powergrid:variac"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 30
+			id: "5A4F7DD5B004EFC4"
+			item: {
+				count: 1
+				id: "powergrid:wire"
+			}
+			weight: 3.5f
+		}
+		{
+			count: 5
+			id: "11AC0C1AA44A400F"
+			item: {
+				count: 1
+				id: "powergrid:copper_cord"
+			}
+			weight: 3.5f
+		}
+		{
+			count: 2
+			id: "7656D17B11BF7E1A"
+			item: {
+				count: 1
+				id: "powergrid:lv_light_bulb"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "0F6FC759895AF426"
+			item: {
+				count: 1
+				id: "powergrid:light_bulb"
+			}
+			weight: 1.25f
+		}
+		{
+			id: "22C9972329149FF4"
+			item: {
+				count: 1
+				id: "powergrid:basin_heater"
+			}
+			weight: 0.35f
+		}
+		{
+			id: "60D52114F77165B8"
+			item: {
+				count: 1
+				id: "powergrid:power_resistor"
+			}
+			weight: 1.5f
+		}
+		{
+			count: 3
+			id: "589783C24ACE743D"
+			item: {
+				count: 1
+				id: "powergrid:wire_connector"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "14EC885E29DC4811"
+			item: {
+				count: 1
+				id: "powergrid:heavy_wire_connector"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "275B21770E4C4586"
+			item: {
+				count: 1
+				id: "powergrid:hv_switch"
+			}
+			weight: 1.25f
+		}
+		{ id: "51D14A002AE3EF1C", item: { count: 1, id: "powergrid:transformer_core" } }
+		{
+			count: 20
+			id: "2F24D617588A7117"
+			item: {
+				count: 1
+				id: "powergrid:iron_wire"
+			}
+			weight: 2.5f
+		}
+		{
+			count: 8
+			id: "682CF5FDDC36DE94"
+			item: {
+				count: 1
+				id: "powergrid:golden_wire"
+			}
+			weight: 2.25f
+		}
+		{
+			count: 3
+			id: "2DD265D8B7D5C98B"
+			item: {
+				count: 1
+				id: "powergrid:string_light_cord"
+			}
+			weight: 2.5f
+		}
+		{
+			id: "616CA92AA7110EAA"
+			item: {
+				count: 1
+				id: "powergrid:growth_lamp"
+			}
+			weight: 0.35f
+		}
+		{
+			id: "4971B0C6A03B7118"
+			item: {
+				count: 1
+				id: "powergrid:electric_fan"
+			}
+			weight: 0.35f
+		}
+		{
+			id: "0214A5A7A68A743D"
+			item: {
+				count: 1
+				id: "powergrid:heating_coil"
+			}
+			weight: 0.35f
+		}
+		{
+			id: "6B8E811E383E53EF"
+			item: {
+				count: 1
+				id: "powergrid:thermometer"
+			}
+			weight: 0.5f
+		}
+	]
+}

@@ -1,0 +1,10 @@
+#Минимальная скорость
+# Default: 15.0
+# Range: 0.0 ~ 1.7976931348623157E308
+minBreakSpeed = 30.0
+#
+#
+#статическое замедление
+# Default: 2.5
+# Range: 0.0 ~ 1.7976931348623157E308
+staticSlowdownPerBlock = 2.5

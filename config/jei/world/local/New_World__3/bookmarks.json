@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"ftbquests:book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:kjs/naturescompass_naturescompass_ftbquests_book_create_brass_nugget_gold_ingot_create_brass_sheet_gold_nugget_piglinproliferation_travelers_compass_create_sa_heat_engine","recipeType":"create:sequenced_assembly","bookmarkType":"RECIPE"}
+]

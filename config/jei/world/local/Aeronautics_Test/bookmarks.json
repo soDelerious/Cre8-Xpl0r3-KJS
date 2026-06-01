@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create_sa:zinc_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_sa:zinc_leggings"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_sa:zinc_boots"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create_sa:zinc_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

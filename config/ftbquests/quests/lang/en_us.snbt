@@ -1,0 +1,2013 @@
+{
+	chapter.5E6CB28275D07226.title: "Xpl0r3"
+	chapter.6BB0C77CDCC74614.title: "Cre8"
+	quest.00C043B5E74EC676.quest_desc: [
+		"Superenchanting a Blaze Enchanter allows the player to increase the enchantment level up to 60!"
+		""
+		"This also allows the player the chance to obtain treasure and curse enchants!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.00C043B5E74EC676.quest_subtitle: "Seethe a blaze enchanter"
+	quest.00C043B5E74EC676.title: "Enchanting Time!"
+	quest.00D9AB2E11B905A4.quest_desc: ["Woah! That's a big bag. Watch out though, pack too much and you'll slow down!"]
+	quest.00D9AB2E11B905A4.quest_subtitle: "Obtain an Overpack Backpack"
+	quest.00D9AB2E11B905A4.title: "Pack Well!"
+	quest.012B2987FF982B25.quest_desc: [
+		"Superglue allows for much more intricate contraption design. Overlapping volumes all connect to contraption bearings, allowing for complete freedom when designing contraptions"
+		""
+		"&o[Ponder for more details]&r"
+	]
+	quest.012B2987FF982B25.quest_subtitle: "Obtain SuperGlue"
+	quest.012B2987FF982B25.title: "Work on them Glutes"
+	quest.0193BAAAD08360C2.quest_desc: [
+		"Diesel engines allow for portable power! They act much like portable engines, with the cavieat that it requires diesel, or another liquid fuel! These produce MUCH larger outputs of [su] at a much higher rpm. Super helpful when it comes to powering contraptions on veihicles or compact [su] generation!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.0193BAAAD08360C2.quest_subtitle: "Obtain a Diesel Engine"
+	quest.0193BAAAD08360C2.title: "Portable Propulsion"
+	quest.01E4668137A7F731.quest_desc: ["Honey glue is specialized glue for physics contraptions. It allows the player more freedom when creating simulated designs"]
+	quest.01E4668137A7F731.quest_subtitle: "Obtain Honey Glue"
+	quest.01E4668137A7F731.title: "Honey? Oh- Different Kind."
+	quest.024E4ABB51759533.quest_desc: ["Found in most vanilla minecraft beach biomes"]
+	quest.024E4ABB51759533.quest_subtitle: "Slay the Hermit King"
+	quest.024E4ABB51759533.title: "Crustacean Conquest"
+	quest.027E9A57E61A685D.quest_desc: [
+		"Blaze enchanters act like automatic enchantment tables. Feed them liquid xp from the bottom through a pipe to operate!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.027E9A57E61A685D.quest_subtitle: "Obtain a Blaze Enchanter"
+	quest.030E9B31D4831406.quest_desc: [
+		"Voltage and Current gauges are great as they allow the player to measure the associated values in an electrical network."
+		"Voltage is the electrostatic potential between two points, so it's terminals can be connected between any point and no electricity will flow between them."
+		"Current is the flow of electrons, measured in Amps, Therefore, in order to measure, it must be connected in series with whatever point is connected."
+		""
+		"&oPonder for more details&r"
+		""
+		"{@pagebreak}"
+		""
+		"Picking these up and placing them wherever you need to measure can obviously be very frustrating. You should try to obtain a multimeter! It's a handheld version of both, however, the recipe is expensive with electrical components! I'm not giving that out for free!"
+	]
+	quest.030E9B31D4831406.quest_subtitle: "Obtain a Voltage and Current gauge"
+	quest.030E9B31D4831406.title: "Gauge the Situation"
+	quest.0326181CC1DA6033.quest_desc: [
+		"Frog ports and undoubtedly the most useful item for facotry transport. They allow the player to attatch packages directly to chain drives to deliver packages dynamically to other frogports!"
+		""
+		"[Note]: Right click a frog port to name it, naming it allows you to address the frog port without attatching a sign to the packager."
+		""
+		"{image:stalwart_dungeons:block/awful_ghast_altar_renovatedstudios width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+		"*Oh and you can place goggles on frogports*"
+	]
+	quest.0326181CC1DA6033.quest_subtitle: "Obtain and use a frog port."
+	quest.0326181CC1DA6033.title: "Ultimate Factory"
+	quest.0374B5B3654B8573.quest_desc: [
+		"Connecting a comparator to a voltimeter will allow the comparator to output an analog signal from 0-15 in redstone, based off of it's % to max."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.0374B5B3654B8573.quest_subtitle: "Convert an Electrical signal to a redstone signal"
+	quest.0374B5B3654B8573.title: "Redstone Conversion"
+	quest.03B7ED4FB0E31DF3.quest_desc: [
+		"Fluid hatches allow the player to directly input fluids into tanks and other fluid holding devices through buckets!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.03B7ED4FB0E31DF3.quest_subtitle: "Obtain a Fluid Hatch"
+	quest.0419803138CF7B0A.quest_desc: [
+		"Mechanical Harvesters will harvest and replant crops in it's path, great for automatic farms!"
+		""
+		"{image:create_sa:item/brass_hoe width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.0419803138CF7B0A.quest_subtitle: "Obtain a Harvester and Attatch to a Contraption"
+	quest.0419803138CF7B0A.title: "Farming Robots"
+	quest.0441813FC76550B3.quest_desc: [
+		"Experience lanterns suck in experience orbs from their surroundings, and players!"
+		""
+		"Use to build unique killing mechanisms and farm xp!"
+		""
+		"Ponder for more details"
+	]
+	quest.0441813FC76550B3.quest_subtitle: "Obtain an Experience Lantern"
+	quest.048882EB61A875BC.quest_desc: [""]
+	quest.048882EB61A875BC.quest_subtitle: "Obtain some items to make alternative recipes for machines, before you have access to brass!"
+	quest.048882EB61A875BC.title: "Early Advanced Machining"
+	quest.049D09B514A5D4AB.quest_desc: [
+		"Rheostats are great! They are just massive potentiometers that will take create rotational input to change resistance."
+		""
+		"Use the Potato batteries you've been given to get a feel for how it works!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.049D09B514A5D4AB.quest_subtitle: "Obtain a Rheostat"
+	quest.049D09B514A5D4AB.title: "RheoStation!"
+	quest.05A698CC5F981899.quest_desc: ["Use to drill a 3x3 area!"]
+	quest.05A698CC5F981899.quest_subtitle: "Obtain a handheld drill"
+	quest.05A698CC5F981899.title: "ROCK AND STONE"
+	quest.05F6F9E0FF952DE2.quest_desc: [
+		"Rotational speed controllers cannot be used through redstone, to solve this, analog transmissions change gear ratio based off of redstone input!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.05F6F9E0FF952DE2.quest_subtitle: "Shift some gears!"
+	quest.075C991E8FE1F95F.quest_desc: [
+		"Blaze burners allow the player to heat basins! an important item for crafting to make &nbrass&r"
+		""
+		"{image:create:item/brass_sheet width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.075C991E8FE1F95F.quest_subtitle: "Obtain blaze burners"
+	quest.075C991E8FE1F95F.title: "Hells Kitchen"
+	quest.0776266922C449C6.quest_desc: [
+		"The redstone magnet allows the player to attract magnets of opposite polarity towards one another."
+		"Powering a magnet flips the polarity, Unpowering does not."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.0776266922C449C6.quest_subtitle: "Obtain a redstone magnet"
+	quest.0776266922C449C6.title: "Redstone Magnet"
+	quest.0777EC74AD052E2F.quest_subtitle: "Obtain a set of brass armor"
+	quest.0777EC74AD052E2F.title: "*Tuba Noises*"
+	quest.07B229383A9FE253.quest_desc: [
+		"Experience hatches act like fluid hatches, yet they allow you to pour your player levels directly into tanks!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.07B229383A9FE253.quest_subtitle: "Obtain an Experience Hatch"
+	quest.085241DA4E3192DB.quest_desc: [
+		"A new source of [su]! This allows you to place flowing water on the edges of a waterwheel to generate [su] at the same rpm and strength as a hand crank, but automatic- and STACKABLE!"
+		""
+		"Place lots of these around a mechanical network to generate stress for the whole thing."
+		""
+		""
+		"{image:minecraft:item/water_bucket width:25 height:25 align:center}"
+		""
+		"[Note]: Waterwheels have been nerfed in this modpack, they do not require flowing water- instead, they must be placed inside a river."
+		""
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.085241DA4E3192DB.quest_subtitle: "Obtain and generate [su] with a waterwheel"
+	quest.085241DA4E3192DB.title: "Wheelie'"
+	quest.09534EBB7A3F83AA.quest_desc: [
+		"Ochrum resource vents are often found in &nbadlands biomes.&r"
+		""
+		"They're quite rare, but the processing capabilities from one alone are astronomical!"
+		"{image:minecraft:block/lava_still width:25 height:25 align:center}"
+		"{image:essential:textures/menu/arrow_down.png width:25 height:25 align:center}"
+		"{image:blazinghot:fluid/molten_gold_still width:25 height:25 align:center}"
+		"To activate an ore vent, you must explode it first!"
+		"Then, supply a lava source block in contact with the vent or an orestone produced by the vent in a 3 block radius, to create an instant version of the orestone!"
+		"Mine and process from there!"
+	]
+	quest.09534EBB7A3F83AA.quest_subtitle: "Find an Ochrum Ore Vent!"
+	quest.09534EBB7A3F83AA.title: "Ochure Onlook"
+	quest.099A90DF4B1517F4.quest_desc: [
+		"Propeller and gyroscopic propeller bearings are the same in that they allow the player to build multiblock propellers by attatching &osails&r to the rotational body."
+		"Gyroscopic propellers, however*s*, Will try to keep themselves upright."
+		""
+		"&oPonder for more details.&r"
+	]
+	quest.099A90DF4B1517F4.quest_subtitle: "Obtain a Brass Propeller Bearing"
+	quest.099A90DF4B1517F4.title: "Multiblock Propellers!"
+	quest.09BE69AF965A1E68.quest_desc: [
+		"Punchcard readers allow the player to program electrical signals through the use of a punchcard! Useful for compact automation or pre-set processes!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.09BE69AF965A1E68.quest_subtitle: "Obtain a Punchcard Reader"
+	quest.09BE69AF965A1E68.title: "1920's Computing"
+	quest.0ACC7160F0C5F309.quest_desc: [
+		"Made from a variety of items, leave to decompose for long enough to create rich soil!"
+		""
+		"Process can be sped up with fungus related blocks nearby"
+	]
+	quest.0ACC7160F0C5F309.quest_subtitle: "Obtain Organic Compost"
+	quest.0AE4C3B9D94EBA6C.quest_desc: [
+		"Electrical Contactors allow the player to control the flow of high power electricity safely, through the use of lower power electrical connection."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.0AE4C3B9D94EBA6C.quest_subtitle: "Obtain a Contactor"
+	quest.0B1C80E921AD1F0A.quest_subtitle: "Obtain lots of redstone for your high level factory management!"
+	quest.0B1C80E921AD1F0A.title: "Redstone Management"
+	quest.0BC6D920938608A4.quest_desc: [
+		"Objects can only dissapate a certain wattage before they break down, the thermometer allows you to monitor that real time."
+		"Fans allow the player to cool ojects with wind! Sadly, Ice doesn't work for this job, so you'll have to exert some kind of energy for that bonus."
+	]
+	quest.0BC6D920938608A4.quest_subtitle: "Learn about Cooling and Heating"
+	quest.0BC6D920938608A4.title: "Icy Hot"
+	quest.0C1F6E9AE82A9DEC.quest_subtitle: "Slay an Abnormal Goat"
+	quest.0C1F6E9AE82A9DEC.title: "Mountainous Mutant"
+	quest.0D17E828C723C2DF.quest_desc: [
+		"This is your entrance to all electronic applications! You can't play with electricity before you even have any!"
+		"before we build, a few key things need to be identified"
+		""
+		" -Alternating Current (AC) and Direct Current (DC) Are kind of one and the same in this mod. Just don't think about it."
+		""
+		"- Electrical equipment can fail! All electrical failures are heat based, the thermometer item can tell you the temperature of the object, but you should know you've messed up once the block starts smoking"
+		""
+		"-Polarity is important! Traditional Current is used with this mod, so imagine electricity runs from positive to negative terminal."
+		""
+		"- When connecting items into circuits, connect so that flow goes to the positive terminal from the block, and then out from the negative. "
+		""
+		"{@pagebreak}"
+		"You need to like, actually understand electricity in order to mess with this mod, In essence, the only equation you'll need is Ohm's \"Law\" V=IR, In that:"
+		"Voltage DROP = Current across resistive body * Resistance"
+		"In other other words, The voltage drop across a resistive body will equal the current going through said resistive body multiplied by the resistance."
+		"You'll use this often to make sure you don't blow things up."
+		"I say \"resistive body\" because most, if not all components will have parasitic, unwanted resistance, capacitance, or other effects. The resistive body could be a dedicated resistor, or the parasitic resistance from long stretches of wire."
+		""
+		"&nI reccomend you watch the video: \"An intuitive approach for understanding electricity\" By Alpha Pheonix on Youtube.&r"
+		""
+		"{@pagebreak}"
+		""
+		"As for some other questions you might not get from the video:"
+		"- Q:Why does resistance change in parrallel connections?"
+		"A:Imagine electron flow, say a resistive body only allows 50% of the electrons pressing against through. Now imagine two of those resistors, you now have double the electrons passing through, doubling our current. This, represented as a single resistor in series, would be 1/2 the resistance of our initial thought experiment."
+		""
+		"-Q:What the helly is capacitance or inductance?"
+		"A:Honestly, you do not have to worry about those two for this mod, but you can imagine them as opposites. Inductance is often generated by a retained electromagnetic field, pushing electrons. Capacitance is often generated by an electron storing body. Inductance will try very very hard to &ncontinue&r the flow of electrons after a change in electrostatic potential, while capacitance will try and &nstore&r the flow of electrons with a change in electrostatic potential. Resistance would not be the opposite, as it is not affected by the change in electron flow/potential. (In fact, conductance would be! Conductance is quite literally the inverse of resistance, set it to the power of -1 and you'll find conductance)"
+		""
+		"-Q: Rated versus maximum voltage, and wattage?"
+		"A: Wattage is a unit of power over time, the unti of voltage is obviously volts, and current would be amperes, an ampere is just a columb over a second, so by multiplying the two factors together, we can get a unit of a volt*columb/s, or 1 W. It is a unit of power, and indicates nothing more than energy flow. In this case, when energy is lost in electron flow, it is often lost through heat. In this mod, it is completely lost through heat. Therefore, maximum wattage is the maximum energy in heat the object can dissipate per second. As for rated V/W, it is simply the reccomended V/W the object should recive."
+		"Also, all of these ratings and maximums are relative, so it's not like you're garunteed to blow up as soon as you exceept 120V with a lightbulb."
+	]
+	quest.0D17E828C723C2DF.quest_subtitle: "Read some info on electricity!"
+	quest.0D368181A7C84F06.quest_subtitle: "Uncover the Secrets of the Magical Madness!"
+	quest.0D368181A7C84F06.title: "Mystic Mirage"
+	quest.0D55EE4EF7FF55C1.quest_desc: [
+		"Printers are the blaze enchanter's cousin-"
+		"They allow the player to copy enchants onto books and for ink to be used to copy written books, name tags, etc."
+		""
+		"{image:patchouli:item/book_blue width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.0D55EE4EF7FF55C1.quest_subtitle: "Obtain 1 Printer"
+	quest.0D55EE4EF7FF55C1.title: "Printing Press"
+	quest.0DA01E3E32B1D87A.quest_subtitle: "Obtain a Smart Navigator"
+	quest.0DA01E3E32B1D87A.title: "Map Machine"
+	quest.0E2BBC4CFB098B7B.quest_desc: [
+		"The peak of automation, will handle factory logic for you all by itself."
+		""
+		"&oYOU SHOULD PONDER FOR MORE DETAILS&r"
+	]
+	quest.0E2BBC4CFB098B7B.quest_subtitle: "Obtain a factory gauge"
+	quest.0E36738DB659D6EB.quest_desc: [
+		"Experience tools are slightly faster, deal less damage, and are more enchantable than diamond tools!"
+		"Main caveiat is that something like the xp pickaxe cannot mine obsidian."
+	]
+	quest.0E36738DB659D6EB.quest_subtitle: "Obtain a set of XP tools"
+	quest.0E36738DB659D6EB.title: "Experienced Smith"
+	quest.0E547E837C69FA2C.quest_desc: ["Use JEI and backtrack the recipe to create an infinitely regenerating source of Copper!"]
+	quest.0E547E837C69FA2C.quest_subtitle: "Obtain and build a copper farm"
+	quest.0E547E837C69FA2C.title: "More of an aquaintence"
+	quest.0F35B0CE634CAF39.quest_subtitle: "Obtain a Bundle"
+	quest.0F35B0CE634CAF39.title: "Batches o' Bundles"
+	quest.0F6E9698A7EFDC08.quest_subtitle: "Explore the Expansion to Frozen Biomes!"
+	quest.0F6E9698A7EFDC08.title: "Freeze and Frost"
+	quest.10352F8A47226321.quest_desc: [
+		"Mechanical crafters can be used for two things, automated crafting (vanilla redstone crafter isn't in this verson) AND larger than 3x3 grid crafting. This is used for a lot of advanced tools and other automation factories."
+		""
+		"{image:create:item/incomplete_precision_mechanism width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.10352F8A47226321.quest_subtitle: "Obtain and use a 5x5 array of mechanical crafters"
+	quest.10352F8A47226321.title: "We've automated mining AND crafting now."
+	quest.10A3764D948B7004.quest_desc: ["This is going to require a large scale XP farm- and this will be tough, but worth it."]
+	quest.10A3764D948B7004.quest_subtitle: "Obtain 5 Buckets of Liquid Experience"
+	quest.10A3764D948B7004.title: "Xp for the win!"
+	quest.1254AEF3D79FAEE6.quest_subtitle: "Explore the Lost Caves Biome"
+	quest.1254AEF3D79FAEE6.title: "Lost Caverns"
+	quest.12FF48BA0F39B78C.quest_desc: ["Found in most vanilla minecraft jungle biomes"]
+	quest.12FF48BA0F39B78C.quest_subtitle: "Slay the Witch Doctor"
+	quest.12FF48BA0F39B78C.title: "Which Doctor?"
+	quest.148422B11AB746BE.quest_desc: [
+		"Works almost identically to the gas thruster- only that it requires electrical energy to run, and is more effective at lower air pressures!"
+		"Use a device connector to supply power."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.148422B11AB746BE.quest_subtitle: "Obtain an Ion thruster"
+	quest.148422B11AB746BE.title: "High Energy Thrust!"
+	quest.15033BD7C44E0845.quest_subtitle: "Find All Badlands Biomes"
+	quest.15033BD7C44E0845.title: "Badlands Bounce"
+	quest.166EE51E3827DB02.quest_desc: ["Precision Mechanisms are used in the most expensive machines- Don't drop it!"]
+	quest.166EE51E3827DB02.quest_subtitle: "Obtain a Precision Mechanism"
+	quest.166EE51E3827DB02.title: "Precise Manufacturing"
+	quest.16C8478A801B3428.quest_subtitle: "Observe All Golem Types"
+	quest.16C8478A801B3428.title: "Golems Galore"
+	quest.16FE4BD4E9A45B66.quest_desc: [
+		"Docking Chutes act like portable storage interfaces but across Physics Assemblies!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.16FE4BD4E9A45B66.quest_subtitle: "Obtain 2 Docking Connectors"
+	quest.16FE4BD4E9A45B66.title: "Fuel Delivery!"
+	quest.17FDA4CA364DD0CD.quest_subtitle: "Slay Piglins"
+	quest.17FDA4CA364DD0CD.title: "Piglin Punchout"
+	quest.187E8AD73B7B50F3.quest_desc: ["Create: Central Kitchen is a lightweight create mod addon which allows us to automate recipes form farmers delight using blaze cookers, deployer cutting boards, etc!"]
+	quest.187E8AD73B7B50F3.quest_subtitle: "Learn about C: Central Kitchen!"
+	quest.187E8AD73B7B50F3.title: "We all Start Somewhere"
+	quest.18C6A30AD9C1E91B.quest_desc: [
+		"Tunnels are much like funnels, but these are able to split outputs across multiple belts easily!"
+		""
+		"{image:create:block/tunnel/brass_tunnel_top width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.18C6A30AD9C1E91B.quest_subtitle: "Obtain an andesite tunnel"
+	quest.18C6A30AD9C1E91B.title: "Tunnel time"
+	quest.18CF40B602FB3C45.quest_desc: ["Spawns in most vanilla minecraft swamp biomes"]
+	quest.18CF40B602FB3C45.quest_subtitle: "Slay the Vile Gator"
+	quest.18CF40B602FB3C45.title: "Swamp Gatur'"
+	quest.18D8AA2635984BAA.quest_desc: ["Despite what the reward says, it adds a TANK slot. Not a ring slot!"]
+	quest.18D8AA2635984BAA.quest_subtitle: "Obtain an Andesite jetpack or exoskeleton."
+	quest.18D8AA2635984BAA.title: "Stone Age Iron-Man"
+	quest.193CAC8F00703F5B.quest_desc: ["Found in most vanilla minecraft warm ocean biomes"]
+	quest.193CAC8F00703F5B.quest_subtitle: "Slay the Sea Viper"
+	quest.193CAC8F00703F5B.title: "Sea King"
+	quest.1994C9F5076C91BB.quest_desc: ["Found in most vanilla minecraft desert biomes"]
+	quest.1994C9F5076C91BB.quest_subtitle: "Slay a Royal Mummy"
+	quest.1994C9F5076C91BB.title: "Royal Assassin"
+	quest.1A1AA4AA936ACD9F.quest_desc: [
+		"Millstones are like THE windmill setup, perfect for an atomospheric build or something inbetween. Used to automate recipes that involve grinding, like sand from gravel, or dyes from flowers."
+		""
+		"{image:create:item/wheat_flour width:25 height:25 align:center}"
+		""
+		""
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.1A1AA4AA936ACD9F.quest_subtitle: "Obtain a millstone and grind an object"
+	quest.1A1AA4AA936ACD9F.title: "Grinding it out"
+	quest.1A8688EE1280FDF8.quest_desc: [
+		"The swivel bearing allows for the rotation of devices through contraptions! It will transmit rotation through it's own bearing, only if it's secondary pole it powered."
+		""
+		"It also turns a contraption into a physics contraption, &nBUT&r mounted on the bearings axis!"
+		""
+		"&oPonder for more details.&r"
+	]
+	quest.1A8688EE1280FDF8.quest_subtitle: "Obtain a Swivel Bearing"
+	quest.1AEB88C5EA168751.quest_desc: [
+		"Dried kelp and kelp belts are used for many item transport (and player transport) recipes in this mod, obtain some and check the recipes with JEI!"
+		""
+		"{image:create:block/belt/yellow_scroll width:25 height:25 align:center}"
+	]
+	quest.1AEB88C5EA168751.quest_subtitle: "Obtain dried kelp and kelp belts"
+	quest.1AEB88C5EA168751.title: "Belts and pulleys and other doodads"
+	quest.1B1C7D4D69C72C1F.quest_subtitle: "Explore New Mountainous Biomes!"
+	quest.1B1C7D4D69C72C1F.title: "Mountain March"
+	quest.1B86AC6168CC2190.quest_desc: [
+		"Hose pulleys allow the player to adjust a hose exactly like a rope pulley- only it can suck fluids out of it's end!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.1B86AC6168CC2190.quest_subtitle: "Obtain a Hose Pulley"
+	quest.1B86AC6168CC2190.title: "Extended Ssslurrrp.."
+	quest.1D2711B00222E38D.quest_subtitle: "Obtain a full set of diamond armor"
+	quest.1D2711B00222E38D.title: "Diamonds!"
+	quest.1DB939C97C64EB37.quest_desc: [
+		"Okay, This is a big step, I know, but it's a wildly important one."
+		"In order for a generator to function, the electrical windings on it's exterior must conenct in a way such that the commutator connects to the coils in an alternating fashion. Powergrid makes this easy for us in two ways:"
+		""
+		"&oPlease Ponder for more details&r"
+		""
+		"-Generator housing and copper coils"
+		"Connect copper coils like you would with a mechanical belt, right click on two shelves. No custom windings must be made, as placing generator housing between two differently axied coils will allow for them to be connected easily"
+		""
+		"-Device connectors"
+		"These little guys will connect onto certain electrical parts and behave as the start and the end connection fro the hole block, or multiblock assembly. In this case, the device connector must tbe used to connect the coils to the commutator. Please note that the electrical source is the commutator and the coils combined, so connections must be made from the (+)Comm. to (-)Device Connector, then from (+)Device Connector, to (-)Comm. Please note that the device connector IS the coils, as it must be connected to the coils"
+		""
+		"How do we tune an output though? By taking a resitively changing item like a rheostat, we can introduce a resistance into the connection between our commutator and device connector, this allows us to change the output voltage at our end."
+		"(The power resistor shown in the ponder is likely there to prevent a short circuit event in case the rheostat is turned to 0, I reccomend you allways start at an extremely high resistance and work your way down, to avoid blowing things up.)"
+	]
+	quest.1DB939C97C64EB37.quest_subtitle: "Build a simple shunt generator"
+	quest.1DB939C97C64EB37.title: "Generation Station"
+	quest.1DC6FBBFE29C62CA.quest_desc: [
+		"Blaze gold allows for increased automation and transportation!"
+		""
+		" &oLook at JEI for recipes!&r"
+	]
+	quest.1DC6FBBFE29C62CA.quest_subtitle: "Obtain Blaze Gold"
+	quest.1DC6FBBFE29C62CA.title: "Blazing Alloys"
+	quest.1DFE4980354295BB.quest_subtitle: "Explore the Expanded Nether"
+	quest.1DFE4980354295BB.title: "Hot-Walk"
+	quest.1F1E674AEA9D8FDC.quest_desc: [
+		"Faster than an Efficency V, yet requires lava to be fueled, and cannot be enchanted!"
+		"Very useful for metling down large amounts of metals."
+	]
+	quest.1F1E674AEA9D8FDC.quest_subtitle: "Obtain a Blaze Mixer"
+	quest.1F246AFC5D0BA2CC.quest_subtitle: "Find all Desert Biomes"
+	quest.1F246AFC5D0BA2CC.title: "Desert Bounce"
+	quest.1F7B419E6EF4C80D.quest_desc: [
+		"The grappling wisk tethers the player to stationary or valkyerian skies blocks!"
+		"While it is named as a form of grappling hook, it will only tug gently to help players maneuver."
+		"This can be helpful in situations where:"
+		"- your hot airballoon is leaving without you!"
+		"- getting sucked up in a tractor beam against your will"
+		"- maneuvering in orbit"
+		"- swinging tarzan style tree to tree"
+	]
+	quest.1F7B419E6EF4C80D.quest_subtitle: "Obtain a grappling whisk"
+	quest.1F7B419E6EF4C80D.title: "Spider-time"
+	quest.1F9600E15698FCE2.quest_desc: [
+		"Propellers can be used to generate propulsion in the air!"
+		"Their efficency is based off of three things, the input rpm applied, the amount of blades attatched, and the type of blade."
+		""
+		"Different blades have different effects in water and air, try them out!"
+		""
+		"[Tip]: Using a &nshovel&r in water whilst on a physics contraption allows you to row like you would with a boat!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.1F9600E15698FCE2.quest_subtitle: "Obtain and use a propeller"
+	quest.1F9600E15698FCE2.title: "Wright brothers fright"
+	quest.20858C0A76C83E2F.quest_desc: [
+		"Transformers \"Transform\" electricty by swapping out current and voltage in a circuit. They are an amazing way to step up or down the voltage in an electrical network and are nessacary for long distance energy transfer."
+		"They will manipulate voltage in the ratio between coils."
+		""
+		"&oPonder for more details&r"
+		""
+		"[Note(s)]:"
+		"- When right clicking on the body to change coil #, HOLD right click, it take a second for the menu to pop up."
+		"-Transformers only work in AC, and this is were the whole AC/DC thing gets wonky, technically the three phase power generated by your induction generator should have already done this, but we don't question it."
+	]
+	quest.20858C0A76C83E2F.quest_subtitle: "Obtain a Transformer"
+	quest.20858C0A76C83E2F.title: "Transformers, Roll Out."
+	quest.212ADDBB4183196F.quest_subtitle: "Find and hunt all temperate biome variants"
+	quest.212ADDBB4183196F.title: "Temperate Tanks"
+	quest.215759EB9E826120.quest_subtitle: "Find Most Mystical Biomes"
+	quest.215759EB9E826120.title: "Lands of Mystique"
+	quest.220060BA4641EA48.quest_desc: [
+		"Veridium resource vents are often found in j&nungle and overgrown biomes&r."
+		""
+		"They're quite rare, but the processing capabilities from one alone are astronomical!"
+		"{image:minecraft:block/lava_still width:25 height:25 align:center}"
+		"{image:essential:textures/menu/arrow_down.png width:25 height:25 align:center}"
+		"{image:blazinghot:fluid/molten_copper_still width:25 height:25 align:center}"
+		"To activate an ore vent, you must explode it first!"
+		"Then, supply a lava source block in contact with the vent or an orestone produced by the vent in a 3 block radius, to create an instant version of the orestone!"
+		"Mine and process from there!"
+	]
+	quest.220060BA4641EA48.quest_subtitle: "Find a Veridium Ore Vent"
+	quest.220060BA4641EA48.title: "Veridian Radiance"
+	quest.22E73B8705633A55.quest_desc: [
+		"Redstone latches are much like real world electrical transistors, only with magic rock!"
+		"They're basically minecraft levers togglable with redstone."
+		""
+		"{image:minecraft:block/lever width:25 height:25 align:center}"
+		""
+		"Advanced redstone sensing requires advanced redstone logic!"
+		"&oPonder for more details&r"
+	]
+	quest.22E73B8705633A55.quest_subtitle: "Obtain both kinds of redstone latch"
+	quest.22E73B8705633A55.title: "Redstone transistor"
+	quest.22ECD514A0F89D76.quest_subtitle: "Obtain Rich Soil"
+	quest.23416BA0CDE3FD7C.quest_desc: [
+		"Fluid valves block off sections of fluid pipe- effectively doing the job of breaking the pipeline for you!"
+		""
+		"Valves are very useful in their own right, as they let the player rotate shafts to a specific angle- sometimes helpful for building slopes etc."
+		""
+		"{image:create:block/valve_closed width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.23416BA0CDE3FD7C.quest_subtitle: "Obtain a fluid valve"
+	quest.23416BA0CDE3FD7C.title: "Against the Channel"
+	quest.23BBCC5B027637A5.quest_desc: [
+		"Linear Contraption Motion"
+		""
+		"Very similar to the piston, but only allows vertical motion. Great for quarry miners etc. Can drop very far distances without extensions and is able to be climbed aswell."
+		""
+		"{image:farmersdelight:item/rope width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.23BBCC5B027637A5.quest_subtitle: "Obtain a Rope Pulley"
+	quest.23BBCC5B027637A5.title: "Keep Pulling!"
+	quest.245B6AB017E78631.quest_desc: [
+		"OIL!"
+		"Oil and gas is the next step in our evolution of power generation! Finding crude oil is simple, just use the oil chunk finder and run about until you find a chunk with levels of oil you like- and establish a pipeline ALL the way to bedrock. Place a pumpjack hole right on top to finish this quest!"
+		""
+		"{image:createdieselgenerators:block/crude_oil_flow width:25 height:25 align:center}"
+		""
+		"&oPonder the pumpjack crank (opt. task) for more details&r"
+	]
+	quest.245B6AB017E78631.quest_subtitle: "Find an oil chunk and establish a pipenetwork to bedrock"
+	quest.245B6AB017E78631.title: "Drill Baby Drill!"
+	quest.24922A0FA89BF6E2.quest_desc: [
+		"Builders Tea gives the player a few building related effect bonuses."
+		""
+		"Try building a factory out of it!"
+	]
+	quest.24922A0FA89BF6E2.quest_subtitle: "Obtain Builders Tea"
+	quest.24922A0FA89BF6E2.title: "Cuppa Tea?"
+	quest.2497508E1A6C7940.quest_desc: [
+		"Exactly the same as a linked controller, yet on the ground as a block, and with many more frequencies!"
+		""
+		"Also can be placed into a curios slot and controlled after configuring the keybind."
+	]
+	quest.2497508E1A6C7940.quest_subtitle: "Obtain a Linked Typewriter"
+	quest.25E79D6B39398B15.quest_desc: [
+		"Fans are great for two things: Early game transportation, and bulk processing."
+		"Fans will push entities around, this inclues droped items and players- allowing for early game item movement (at the expense of efficency)"
+		"They also allow for bulk processing, this allows the user to blow air through certain \"filters\" that will have different effects on whole stacks of items."
+		""
+		"[Note] Despite the ponder, bulk freezing and sanding requires the bulk sanding and freezing catalysts dropped by their respective bosses."
+		""
+		""
+		"{image:create:item/propeller width:25 height:25 align:center}"
+		""
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visable depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.25E79D6B39398B15.quest_subtitle: "Obtain and process an item with a fan"
+	quest.25E79D6B39398B15.title: "Such a fan'"
+	quest.25EED2FAE093C006.quest_desc: [
+		"These are used to transfer items out of contraptions and onto other parts of a factory."
+		""
+		""
+		"{image:vs_tournament:block/6way_thruster width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.25EED2FAE093C006.quest_subtitle: "Obtain a portable storage interface"
+	quest.25EED2FAE093C006.title: "Portable Storage Mechanism"
+	quest.26032AA81F9E32AA.quest_desc: [
+		"Equipping a deployer with a knife allows it to mimic the player interacting with a cutting board!"
+		"This allows for automating of chopping recipes."
+		""
+		"&oCheck JEI for more details&r"
+	]
+	quest.26032AA81F9E32AA.quest_subtitle: "Obtain a Knife and Deployer"
+	quest.26032AA81F9E32AA.title: "Cutting Board Deploying"
+	quest.26BEC1FF16606A59.quest_desc: [
+		"Fluid tanks will do exactly what you think they do- store fluids"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.26BEC1FF16606A59.quest_subtitle: "Obtain 8 Fluid Tanks"
+	quest.26BEC1FF16606A59.title: "Not That Kind of Tank"
+	quest.26C55C60F8BE566B.quest_desc: [
+		"Dropped from the Underworld Knight, find his summon in all nether biomes!"
+		""
+		"Hevlar's Skull provides infinite superheating and withering level heat to basins, allowing additional crafting recipes!"
+		""
+		"&oCheck JEI for details&r"
+	]
+	quest.26C55C60F8BE566B.quest_subtitle: "Obtain Helvar's Skull"
+	quest.26C55C60F8BE566B.title: "Nether Knight"
+	quest.2742141A7D48F4D9.quest_desc: [
+		"Crimisite resource vents are often found in large- &nvolcanic biomes&r (excluding the nether)."
+		""
+		"They're quite rare, but the processing capabilities from one alone are astronomical!"
+		"{image:minecraft:block/lava_still width:25 height:25 align:center}"
+		"{image:essential:textures/menu/arrow_down.png width:25 height:25 align:center}"
+		"{image:blazinghot:fluid/molten_iron_still width:25 height:25 align:center}"
+		"To activate an ore vent, you must explode it first!"
+		"Then, supply a lava source block in contact with the vent or an orestone produced by the vent in a 3 block radius, to create an instant version of the orestone!"
+		"Mine and process from there!"
+	]
+	quest.2742141A7D48F4D9.quest_subtitle: "Find a Crimsite Ore Vent"
+	quest.2742141A7D48F4D9.title: "Crimsion Crack"
+	quest.277667270A77ADA3.quest_desc: ["&oPonder for more details&r"]
+	quest.277667270A77ADA3.quest_subtitle: "Obtain a smart fluid pipe"
+	quest.277667270A77ADA3.title: "Filtered Fluids!"
+	quest.2858101DAA25DCDA.quest_subtitle: "Obtain 125x Copper Ingots"
+	quest.2858101DAA25DCDA.title: "Copper Age"
+	quest.2866741507108731.quest_desc: [
+		"Item drains and fluid spouts allow the player to interact with their fluids!"
+		"Drains allow the player to spill fluid contents into a fluid network (i.e, placing a bucket of water into a tank network)"
+		"Spouts allow the player to fill their containers from the network."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.2866741507108731.quest_subtitle: "Obtain and use an item drain/fluid spout"
+	quest.2866741507108731.title: "Sploosh and Siip"
+	quest.29778BBC4A8BAC37.quest_desc: [
+		"Plant oil is unremarkable and pretty dookie. However, It is very easy to create- and it's also completely renewable."
+		""
+		"&oPonder for more details&r"
+		"&nUse JEI to determine the recipe.&r"
+	]
+	quest.29778BBC4A8BAC37.quest_subtitle: "Create Plant oil, your first renewable fuel source"
+	quest.29778BBC4A8BAC37.title: "Peanut Farmer"
+	quest.2984D7B1DDACFC4F.quest_desc: [
+		"Take to the skies!"
+		""
+		"It might get difficult to control."
+		""
+		"[Note: An addon was installed to require combustible fuels to power the burner. Liquids like Lava do not work.]"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.2984D7B1DDACFC4F.quest_subtitle: "Build a hot air balloon"
+	quest.2984D7B1DDACFC4F.title: "Mum, I'm flying!"
+	quest.29A60C9F0B082F5A.quest_desc: [
+		"Packages allow for compact (and low lag) transport of large amounts of items at a time."
+		"Packages also severely help when it comes to item logistics, as they allow for advanced item routing"
+		""
+		"{image:create:item/package/cardboard_particle width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.29A60C9F0B082F5A.quest_subtitle: "Compact a factories output into packages"
+	quest.29A60C9F0B082F5A.title: "Compact Factories"
+	quest.29FFDFD61B69FD6C.quest_subtitle: "Find the Frost Spire"
+	quest.29FFDFD61B69FD6C.title: "Slay the Spire *2*"
+	quest.2A2422B412C33B4B.quest_desc: [
+		"Optical sensors emit a redstone signal when their raycast beam is interrupted. Use different lenses for different effects!"
+		""
+		"[Note]: CBC shells can take redstone signals, attatch this to a missile for destruction!"
+	]
+	quest.2A2422B412C33B4B.quest_subtitle: "Obtain an Optical Sensor"
+	quest.2A2422B412C33B4B.title: "Redstone Vision"
+	quest.2B1D413EB0838AD5.quest_desc: ["Olivia wanted to name this one."]
+	quest.2B1D413EB0838AD5.quest_subtitle: "Build a fully maxxed out windmill."
+	quest.2B1D413EB0838AD5.title: "That's a big boy..."
+	quest.2B89BC906F2EF901.quest_desc: [
+		"Allows the player to stun enemies!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.2B89BC906F2EF901.quest_subtitle: "Obtain an Electro Baton"
+	quest.2B89BC906F2EF901.title: "Bonk!"
+	quest.2D332E7D447F6CCD.quest_desc: [
+		""
+		"Use what you've learned about contraptions to automatically harvest and plant crops for you."
+	]
+	quest.2D332E7D447F6CCD.quest_subtitle: "Build yourself an automatic crop farm!"
+	quest.2D332E7D447F6CCD.title: "Harvestin' time"
+	quest.2D5F3C00556AE675.quest_subtitle: "Explore the Improved Fortress"
+	quest.2D5F3C00556AE675.title: "Fortress Fright"
+	quest.2DB2B539369296BC.quest_subtitle: "Slay Magic Wielding Monsters"
+	quest.2DB2B539369296BC.title: "Witch Hunt"
+	quest.2DC4A8318BDA518F.quest_desc: ["Identical defense stats as you would obtain with zinc armor, however this should last you a little bit longer."]
+	quest.2DC4A8318BDA518F.quest_subtitle: "Obtain iron armor"
+	quest.2DC4A8318BDA518F.title: "Okay, NOW we Suit up."
+	quest.2DC90872D2B2B918.quest_desc: [
+		"Boom baby! Advancements in mechanical crafting and kelp farming technology has allowed you to create your very own tires!"
+		""
+		"Trackwork Tires and Treads require [su] to operate, The [su] need changes dynamically with physics contraption mass, tire size, and operating speed."
+		""
+		"{image:createdieselgenerators:block/asphalt width:25 height:25 align:center}"
+		""
+		""
+		"{@pagebreak}"
+		"The wheel mount states wheel -like- objects. Fart around and find what else you can shove in there!"
+	]
+	quest.2DC90872D2B2B918.quest_subtitle: "Obtain 4 large wheels"
+	quest.2DC90872D2B2B918.title: "Are you tired of these names?"
+	quest.2E43B24FF5CBD334.quest_desc: [
+		"Altimeters will apply a redstone signal around, above, or below a specified altitude."
+		""
+		"Very useful for space navigation systems."
+		"For reference, space begins at y=500;"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.2E43B24FF5CBD334.quest_subtitle: "Obtain an Altimeter"
+	quest.2E43B24FF5CBD334.title: "Sky High"
+	quest.2ECDDFA71297E6D9.quest_subtitle: "Find and Slay the Iceologer"
+	quest.2ECDDFA71297E6D9.title: "Icy Escapade"
+	quest.2EF50EEA93DE9F4C.quest_subtitle: "Slay the Furnace"
+	quest.2EF50EEA93DE9F4C.title: "A Boiling Battle"
+	quest.31BE1706FD175721.quest_desc: ["&oPonder for more details&r"]
+	quest.31BE1706FD175721.quest_subtitle: "Superheat a basin heater"
+	quest.31BE1706FD175721.title: "Electrical Supremacy"
+	quest.3299C86A694A4A18.quest_desc: [
+		"Rotational Contraption Motion"
+		""
+		"Allows the player to move minecraft blocks off grid and create rotational motion. Handy with compact/cheap farms."
+		""
+		"[Trick]: Windmill bearings act in the same way, yet don't allow themselves to be driven directly, meaning you can slap Contraption mechanisms on a windmill and operate it off [su] grid."
+		""
+		"{image:create:block/mechanical_bearing_side width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.3299C86A694A4A18.quest_subtitle: "Obtain a Mechanical Bearing"
+	quest.3299C86A694A4A18.title: "Getting Kinda Dizzy"
+	quest.33F0FBD579158868.quest_subtitle: "Establish an Oilfield"
+	quest.33F0FBD579158868.title: "Louisiana Coast"
+	quest.343CC7B39EB201E7.quest_desc: [
+		"Mechanical tracks are like wheels but long and stable!"
+		"if stable control is required- these are key, use the suspension key to move the tread location!"
+	]
+	quest.343CC7B39EB201E7.quest_subtitle: "Obtain Track and suspenion tread"
+	quest.343CC7B39EB201E7.title: "Tank Time"
+	quest.34D1B3BA8A6D63D8.quest_subtitle: "Obtain a netherite jetpack"
+	quest.34D1B3BA8A6D63D8.title: "Penultimate Air Control"
+	quest.34E3A2535B478C2D.quest_desc: [
+		"Huge diesel engines are absolute monsters, rougly twice the [su] output of the steam engine at 3x the [rpm]!"
+		"Requires liquid fuel to run. Gasoline and diesel are non renewable but some others might not..."
+		""
+		"{image:createdieselgenerators:item/engine_piston width:25 height:25 align:center}"
+	]
+	quest.34E3A2535B478C2D.quest_subtitle: "Obtain large diesel engines, the ultimate source of [su] at high rpm"
+	quest.34E3A2535B478C2D.title: "Perfect Monster"
+	quest.34ED9E9F65172427.quest_desc: [
+		"&n[You do not have to complete this quest to move on!]&r"
+		""
+		"Levitite is the best possible floating block. High drag whilst moving at low speeds, lower drag at higher speeds. Must be casted from blend."
+		""
+		"&oPonder for more details&r"
+		"{image:aeronautics:fluid/levitite_blend_still width:25 height:25 align:center}"
+	]
+	quest.34ED9E9F65172427.quest_subtitle: "Start Work to Obtain Levitite"
+	quest.34ED9E9F65172427.title: "Floating Bastion"
+	quest.352EFA139CCA3AD9.quest_desc: [
+		"Make yourself a mechanical press!"
+		"Mechanical presses allow the user to flatten items in certain custom recipes, under certain setups, it can be used to pressurize items to compact them together! "
+		"Use JEI to find crafting recipes. left click to see how to craft the item, right click for recipes it's in."
+		""
+		""
+		"{image:create:item/andesite_alloy width:50 height:50 align:center}"
+		""
+		"   "
+		"{image:create:block/andesite_casing width:50 height:50 align:center}"
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visable depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.352EFA139CCA3AD9.quest_subtitle: "Obtain a press and press ingots"
+	quest.352EFA139CCA3AD9.title: "Pressin' Time"
+	quest.35C122722CC39C0F.quest_subtitle: "Fight and Slay the Immortal"
+	quest.35C122722CC39C0F.title: "Electric Boogaloo"
+	quest.3664DE2FB3E909DB.quest_desc: [
+		"Linear Contraption Motion"
+		""
+		"Pushes objects glued together from it's flat end. It can be made sticky by applying a slimeball to the front, and extension poles can be added to the back to extend the pushing distance."
+		""
+		"{image:artifacts:item/pocket_piston width:25 height:25 align:center}"
+		""
+		"&oPonder for more details.&r"
+		"also yes, it can."
+	]
+	quest.3664DE2FB3E909DB.quest_subtitle: "Obtain a Mechanical Piston"
+	quest.3664DE2FB3E909DB.title: "But Can it Move Chests?"
+	quest.36C4B517511E35FC.quest_subtitle: "Obtain Pasta and Dough"
+	quest.36C4B517511E35FC.title: "Pasta and Dough"
+	quest.36E829623CE2EB64.quest_subtitle: "Slay Beach/Ocean Monsters"
+	quest.36E829623CE2EB64.title: "Beach Busting"
+	quest.36FF155D3F8033FE.quest_desc: [
+		"Steam vents are like hot air burner's older brother- that is, much more powerful."
+		""
+		""
+		"&oPonder for more details&r"
+	]
+	quest.36FF155D3F8033FE.quest_subtitle: "Obtain a steam vent and create a steam boiler"
+	quest.36FF155D3F8033FE.title: "Steampunker Aviation"
+	quest.374DBEC2A7B5BCD7.quest_subtitle: "Kill Frozen Monsters"
+	quest.374DBEC2A7B5BCD7.title: "Frozen Fight"
+	quest.375B1A6D854EAF88.quest_desc: [
+		"Mixing ethanol and plant oil together allows the player to produce biodiesel-"
+		"The fuel burns slower yet produces much more [su] than plant oil or ethanol alone"
+		""
+		"{image:createdieselgenerators:block/biodiesel_flow width:25 height:25 align:center}"
+		""
+		"&oUse JEI for more details&r"
+	]
+	quest.375B1A6D854EAF88.quest_subtitle: "Obtain biodiesel"
+	quest.375B1A6D854EAF88.title: "I Can't Beleive It's Not Diesel!"
+	quest.3762910EF45B9A4C.quest_desc: [
+		"Switches allow the player to cut electrical flow in a circuit."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.3762910EF45B9A4C.quest_subtitle: "Obtain a Switch"
+	quest.3762910EF45B9A4C.title: "Switchin"
+	quest.37B93FC2CAE520E5.quest_desc: [
+		"Potato cannons allow the player to shoot food items at enemies! Load in different foods for different effects!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.37B93FC2CAE520E5.quest_subtitle: "Obtain a Potato Cannon"
+	quest.37B93FC2CAE520E5.title: "Don't blow an arm off!"
+	quest.37E32868281677B6.quest_desc: [
+		"Distill your crude oil into gasoline and diesel!"
+		""
+		"{image:createdieselgenerators:block/gasoline_flow width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.37E32868281677B6.quest_subtitle: "Destroy the enviroment for comepletely nonrenewable fuel sources to power your mechanized madness"
+	quest.37E32868281677B6.title: "We've got fuel!"
+	quest.37EFDC24F8320B97.quest_desc: [
+		"The Universal Shaft is simple, it allows you to transmit rotation in any direction, in any orientation."
+		"   Most importantly, it can trasver rotational motion between physics contraptions. Allowing the player access to rotation they otherwise wouldn't have."
+	]
+	quest.37EFDC24F8320B97.quest_subtitle: "Obtain a Universal Shaft and 2 Heads"
+	quest.37EFDC24F8320B97.title: "Universal Connections"
+	quest.38ABA2963DF36D76.quest_desc: ["There is a variety of items capable of transporting items, these are nessecary for the creating of automatic factories! You'll learn how to use these items in the next few quests, for now, here's a reward for your efforts!"]
+	quest.38ABA2963DF36D76.quest_subtitle: "Learn about item transport"
+	quest.392EDF481C1ED630.quest_desc: [
+		"Freezing Catalysts are dropped by Skor the yeti, find his summon in frozen biomes!"
+		""
+		"Freezing Catalyst allows for bulk freezing recipes."
+		""
+		"&oCheck JEI for more details&r"
+	]
+	quest.392EDF481C1ED630.quest_subtitle: "Obtain a Freezing Catalyst"
+	quest.392EDF481C1ED630.title: "Frosty Furnish"
+	quest.3935BAC41529A08A.quest_desc: [
+		"Gyros allow the player to report the rotation of the ship."
+		"Emits an analog restone signal based off of physics contraption orientation."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.3935BAC41529A08A.quest_subtitle: "Obtain a Gimbal Sensor"
+	quest.3967FB3C2DFFCD2E.quest_desc: [
+		"Kelp is a great stand-in for rubber. It's used for a LOT of crafts in the create mod, especially item transport!"
+		""
+		"In the future, use what you've learned to create an automatic kelp farm!"
+		""
+		"{image:minecraft:block/kelp width:25 height:25 align:center}"
+	]
+	quest.3967FB3C2DFFCD2E.quest_subtitle: "Obtain kelp"
+	quest.3967FB3C2DFFCD2E.title: "What? I'm Kelping."
+	quest.39DD195BF6686CD5.quest_desc: [
+		"Pulse timers are effectively highly configurable and compact redstone clocks. Rather than a mix of comparators and redstone dust, a single block can perform the exact same task!"
+		""
+		"{image:minecraft:block/amethyst_cluster width:25 height:25 align:center}"
+		""
+		"Advanced redstone sensing requires advanced redstone logic!"
+		"&oPonder for more details&r"
+	]
+	quest.39DD195BF6686CD5.quest_subtitle: "Obtain a redstone pulse timer"
+	quest.39DD195BF6686CD5.title: "Redstone Clock"
+	quest.3A82EA792C344D06.quest_desc: [
+		"The Idea of a generator regulator is simple:"
+		"A device capable of taking the output of of my generator and keeping it at a certain output voltage, despite additional current draw from the generator."
+		""
+		"You might've noticed how as you pull more and more current from your generator, the output voltage becomes less and less. This is problematic as additional load on your generator may drop the outlet voltage in certain devices you run on the network, I mean, You wouldn't want your lights to dim 50% every time you run your basin heater dont you?"
+		""
+		"The setup would be placed after your generator. The basic idea, is that as you drop the output voltage of the generator, the servo rotates the variac, which has it's connectors set up to where it drops our generator voltage to some sort of standardized outlet voltage."
+		""
+		""
+		"{@pagebreak}"
+		"1. The setup is somewhat simple, connect a transformer from the output of the generator to drop to ~45 V to power our servo."
+		""
+		"2. Take another transformer and drop the output of our generator down to 2.5V or another calibrated logic level voltage, then plug that into the signal (green) port of the servo."
+		""
+		"3. Place down the variac, connect primary to our generator and common to a shared ground, then attatch two chain drives to the generator, so that there is room to place a valve."
+		""
+		"4. Turn the valve until the variac outputs the standardized voltage you want to output."
+		""
+		"At this point, the servo should be on and at whatever signal it's calibrated to, and the variac should output the desired voltage."
+		""
+		"{@pagebreak}"
+		""
+		"From here, apply an artifical load to the network through a power resistor or another method. Monitor the output voltage of the variac as we apply more load. It should follow loosely around our desired voltage. If it strays too far for your liking, gently calibrate the signal transformers until a desireable output is reached."
+		""
+		"Regulators like this should be on the output of all generators on your power grid, in order to maintain a stable output voltage in our power lines."
+	]
+	quest.3A82EA792C344D06.quest_subtitle: "Build a simple generator regulator"
+	quest.3A82EA792C344D06.title: "Yo Why Is My Outlet Voltage Over 800V?"
+	quest.3ABBDBAD8B1A571B.quest_desc: [
+		"Blaze enchanters do the enchanting-"
+		"Pump them up from the bottom with adequate levels of experience and they'll copy whatever enchantment placed in their guide to the tools you place inside!"
+		""
+		"{image:create_enchantment_industry:item/enchanting_template width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+		""
+		""
+		"{@pagebreak}"
+		"Some quick QoL stuff with liquid xp,"
+		""
+		"- Swords/tools with mending can be repaired with a spout deploying liquid xp"
+		"- Swords/tools with mending will use the xp nuggets it's inventory fills with to repair it's own     sword- so you might lose xp!"
+	]
+	quest.3ABBDBAD8B1A571B.quest_subtitle: "Build a Blaze Enchanter"
+	quest.3ABBDBAD8B1A571B.title: "I Can't Believe it's Not Villagers!"
+	quest.3AD4628A9925036E.quest_desc: [
+		"Backtanks will store pressurized air in a way so that it can be channeled through gear!"
+		""
+		"Rotate the top to store pressurized air."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.3AD4628A9925036E.quest_subtitle: "Obtain a Copper Backtank"
+	quest.3AD4628A9925036E.title: "Pessurized Chaos"
+	quest.3B6192039188E61F.quest_subtitle: "Slay the Luminos Moth"
+	quest.3B6192039188E61F.title: "Don't Eat my Shirt"
+	quest.3B628372040FAA06.quest_desc: [
+		"This is your next- slightly better- renewable fuel source."
+		""
+		"&oPonder for more details&r"
+		"&nUse JEI to determine the recipe.&r"
+	]
+	quest.3B628372040FAA06.quest_subtitle: "Produce Ethanol"
+	quest.3B628372040FAA06.title: "MMMmmmhh, Ethanol"
+	quest.3B7765BAA6D8314B.quest_subtitle: "Observe Passive Magical Creatures"
+	quest.3B7765BAA6D8314B.title: "Critters and Goblins"
+	quest.3B9EEA6930887DE0.quest_subtitle: "Explore the New Oceans and Beaches!"
+	quest.3B9EEA6930887DE0.title: "Beaches and Boardwalks"
+	quest.3C5651148CE181FB.quest_desc: ["Spawns in minecraft dark oak forest biomes"]
+	quest.3C5651148CE181FB.quest_subtitle: "Slay the Bone Stalker"
+	quest.3C5651148CE181FB.title: "A Bone to Pick...."
+	quest.3D46765FB3300D78.quest_desc: [
+		"The pulse extender is like an easily configurable repeater, with a much clearer interface for extending pulses."
+		""
+		"{image:deeperdarker:block/sculk_stone_redstone_ore_renovatedstudios width:25 height:25 align:center}"
+		""
+		"Advanced redstone sensing requires advanced redstone logic!"
+		"&oPonder for more details&r"
+	]
+	quest.3D46765FB3300D78.quest_subtitle: "Obtain a pulse repeater"
+	quest.3D46765FB3300D78.title: "Redstone Inudctor"
+	quest.3D614BC5DFC7EF89.quest_desc: [
+		"Gearshifts will inverse output rotation when powered with redstone."
+		"Clutches will stop rotational motion at it's output when powered with restone."
+		""
+		"{image:minecraft:item/redstone width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.3D614BC5DFC7EF89.quest_subtitle: "Obtain a gearshift and clutch"
+	quest.3D614BC5DFC7EF89.title: "The Starts of a Factory..."
+	quest.3E2B142744D88060.quest_subtitle: "Slay the Wildfire"
+	quest.3E2B142744D88060.title: "Out of Control"
+	quest.3F0C1B8AFD6E27FE.quest_desc: [
+		"Copycat blocks will mimic the texture of whatever block they're right clicked with!"
+		"Play around!"
+	]
+	quest.3F0C1B8AFD6E27FE.quest_subtitle: "Obtain a few copycat blocks"
+	quest.3F0C1B8AFD6E27FE.title: "CopyCats+!"
+	quest.3F3CBD03A5C17EC5.quest_subtitle: "Obtain a set of blazing tools"
+	quest.3F3CBD03A5C17EC5.title: "Hot!"
+	quest.3FC59B54E32D5738.quest_desc: ["Copper is kind of in the middle of iron and leather. Pretty decent for some starter survival, yet very weak."]
+	quest.3FC59B54E32D5738.quest_subtitle: "Obtain a set of copper armor"
+	quest.3FC59B54E32D5738.title: "Suit u- no, nvm, Adequately."
+	quest.3FC6185DF98F8922.quest_subtitle: "Obtain Apple Cider"
+	quest.4039ADC61BBDCFEC.quest_desc: [
+		"While replanting saplings is beyond your capabilities now, automatically chopping wood is well withing your reach!"
+		""
+		"Use what you've learned about contraptions to automatically chop trees for you."
+	]
+	quest.4039ADC61BBDCFEC.quest_subtitle: "Build yourself an automatic wood farm!"
+	quest.4039ADC61BBDCFEC.title: "Chop Chop"
+	quest.4127E5BDDD08A4A6.quest_desc: [
+		"These are the doodads and trinkets that give contraptions meaning! They allow contraptions to interact with the world, more than just entity interactions."
+		"Learn more through the quests below!"
+		""
+		"Most contraption mechanisms do not require rotational input whilst moving on a contraption"
+		""
+		"{image:create_sa:item/heat_engine width:25 height:25 align:center}"
+	]
+	quest.4127E5BDDD08A4A6.quest_subtitle: "Information"
+	quest.4127E5BDDD08A4A6.title: "Contraption Mechanisms!"
+	quest.429FCA437D09CB3B.quest_subtitle: "Find all Mineshaft Structures, and win in a game of hide and seek!"
+	quest.429FCA437D09CB3B.title: "Mineshaft Manhunt"
+	quest.436D61247B71227C.quest_desc: [
+		"Gyroscopes will attempt to hold an unbalanced ship upright, ideal for compact contraptions."
+		""
+		"Sablization is possible without these!"
+		" I made the recipe very expensive because they're kind of cheaty. Use redstone inductors and accumulator setups to balance out quadcopter or other designs."
+	]
+	quest.436D61247B71227C.quest_subtitle: "Obtain a Gyroscopic Stablizer"
+	quest.436D61247B71227C.title: "Sable Stable"
+	quest.44340FB3C127FE7B.quest_subtitle: "Find Most Mystical Structures"
+	quest.44340FB3C127FE7B.title: "Warlock Complex"
+	quest.44C66918643746DA.quest_subtitle: "Find and Conquer a Desert Temple"
+	quest.44C66918643746DA.title: "Templar Knight"
+	quest.463D34C5DA708331.quest_desc: [
+		"Pipes allow for the transportation of fluids! Take fluids from pipes- tanks- or other sources and pump them around your factory!"
+		""
+		"{image:minecraft:item/water_bucket width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.463D34C5DA708331.quest_subtitle: "Obtain 12x Pipe"
+	quest.463D34C5DA708331.title: "Slurrp.."
+	quest.46A59AFEFFA02FCD.quest_desc: [
+		"You can apply enchantments to create mechanisms! That's it. Look at an enchanted drill on the ground to complete this quest."
+		""
+		"{image:create_enchantment_industry:item/super_experience_nugget width:25 height:25 align:center}"
+	]
+	quest.46A59AFEFFA02FCD.quest_subtitle: "Enchant and Observe a Mechanical Drill"
+	quest.46A59AFEFFA02FCD.title: "Magical Machines"
+	quest.46BE34F0EE76415A.quest_desc: [
+		"Mushroom colonies- which are growable mushrooms, can only generate on rich soil."
+		"Use a cutting board to chop them down into regular mushrooms."
+	]
+	quest.46BE34F0EE76415A.quest_subtitle: "Obtain a Brown Mushroom Colony"
+	quest.46C358F2E8735B71.quest_desc: [
+		"Sequenced gearshifts are another programmable brass age factory essential item. They allow the user to \"program\" a set of rotational movements to run after a redstone signal initiates."
+		""
+		"Absolutely essential in automatic cannon manufacturing and loading"
+		""
+		"{image:create:block/elevator_contact_side_powered width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.46C358F2E8735B71.quest_subtitle: "Obtain a sequenced gearshift"
+	quest.46C358F2E8735B71.title: "BeepBoop"
+	quest.46E1008003B78216.quest_desc: ["Conviency at it's maximum. Allows areas of blocks to be automatically glued together into one volume. "]
+	quest.46E1008003B78216.quest_subtitle: "Obtain Auto Glue"
+	quest.46E1008003B78216.title: "Automatic Assistance"
+	quest.4715BF717810DC74.quest_desc: [
+		"Chutes are ideal, early game item transport. They require no rotational motion and will suck items out of any storage unit. Power them with a fan from below to push items upwards instead!"
+		"[Note]: Chutes are like placing a funnel on the top and bottom of two item inventories- inside one block!"
+		""
+		"{image:create:block/chute_hole width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4715BF717810DC74.quest_subtitle: "Obtain and use a chute"
+	quest.4715BF717810DC74.title: "Chutin n' tootin"
+	quest.474AA0E2893C1889.quest_desc: [
+		"Contraptions are the kinetic bits and bobs that allow create to really shine. These are multi block structures that YOU build what can freely rotate, translate, and manipulate to achive your factory's goals."
+		"{image:createdieselgenerators:block/pumpjack_bearing_top width:25 height:25 align:center}"
+	]
+	quest.474AA0E2893C1889.quest_subtitle: "Information"
+	quest.4767824FD39FDE6F.quest_desc: [
+		"Pulse extenders will have a \"cool off\" period after recieving a redstone pulse. It's much like a button with configurable press time."
+		""
+		"{image:minecraft:item/redstone width:25 height:25 align:center}"
+		""
+		"Advanced redstone sensing requires advanced redstone logic!"
+		"&oPonder for more details&r"
+	]
+	quest.4767824FD39FDE6F.quest_subtitle: "Obtain a pulse extender"
+	quest.4767824FD39FDE6F.title: "Redstone Capacitor"
+	quest.48258C7DDB3E0151.quest_desc: ["This colorscale seems familiar...."]
+	quest.48258C7DDB3E0151.quest_subtitle: "Discover The Alpha Islands"
+	quest.48258C7DDB3E0151.title: "Retro Throwback"
+	quest.48B31C2F1809CC4C.quest_subtitle: "Explore all kinds of new Mountain Biomes!"
+	quest.48B31C2F1809CC4C.title: "Mountain Excursion"
+	quest.49CFD3B6087DF6CD.quest_desc: [
+		"Certain fuels allow for &nSUPERHEATING&r"
+		""
+		"Burners allow the player to input a type of liquid fuel to supply a heating strength."
+		""
+		"Direct the rotational input on the front to increase burning strength, at the expense of burn rate."
+		""
+		"*You can see how high the burner has had it's heat set to (from the rot. input) by the dial on the side of the burner.*"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.49CFD3B6087DF6CD.quest_subtitle: "Obtain a Gas Burner"
+	quest.49CFD3B6087DF6CD.title: "Natural Gas Heating"
+	quest.49E07664F3FBDC52.quest_desc: [
+		"These allow you to accelerate crop growth while they're on. "
+		"Like an artifical sun!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.49E07664F3FBDC52.quest_subtitle: "Obtain a Growth Lamp"
+	quest.4A16A58122C87F47.quest_desc: [
+		"Casting metals is easy!"
+		"Simply spout into a basin with the associated mold inside- "
+		""
+		"&oSearch JEI for Recipes.&r"
+	]
+	quest.4A16A58122C87F47.quest_subtitle: "Cast molten metals into different materials"
+	quest.4A16A58122C87F47.title: "Casting Time!"
+	quest.4A3CAFA7A30A5833.quest_subtitle: "Find Most Desert Structures!"
+	quest.4A3CAFA7A30A5833.title: "Desert Search"
+	quest.4A441920A8BB06F5.quest_desc: [
+		"Breeze Whirlers behave similarly to a large waterwheel, only that they work ANYWHERE!"
+		"Capture Breezes into whirlers similarly to how you capture a blaze."
+	]
+	quest.4A441920A8BB06F5.quest_subtitle: "Obtain a Breeze Whirler"
+	quest.4A441920A8BB06F5.title: "A Distant Cousin"
+	quest.4B247C1DF2EB1698.quest_desc: [
+		"These items allow the player to communicate redstone wirelessly, and from a personal controller!"
+		""
+		"Linked controller uses W A, S, D, Ctrl, and Space"
+		""
+		"Linked keypad uses 1, 2, 3, 4, 5, 6, 7, 8, 9, Ctrl, and Space"
+		""
+		"Linked maco-pad uses W, A, S, D, ^(arrow), v, <, >, Ctrl, and Space "
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4B247C1DF2EB1698.quest_subtitle: "Obtain a controller and redstone link"
+	quest.4B247C1DF2EB1698.title: "Wireless Transmission"
+	quest.4B80D7EA0868887A.quest_subtitle: "Obtain a block picker"
+	quest.4B80D7EA0868887A.title: "Gravitron but dookie"
+	quest.4B913FAE365C998D.quest_desc: [
+		"Gantries also allow for linear motion, however, they are also able to propagate rotational force to it's end. That is, it's possible to make contraptions easily mobile!"
+		""
+		"{image:create:block/gearshift_on width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4B913FAE365C998D.quest_subtitle: "Obtain and use a Gantry Carridge!"
+	quest.4B913FAE365C998D.title: "Gantry Goober"
+	quest.4B9F785FCFE4BE78.quest_desc: ["&oPonder for more details&r"]
+	quest.4B9F785FCFE4BE78.quest_subtitle: "Superheat a gas burner"
+	quest.4B9F785FCFE4BE78.title: "Cooking with *Explosive* Gas"
+	quest.4BE2DDB0EF6E7015.quest_desc: [
+		"Item vaults allow for additional, heavy duty storage of items. However, they cannot be used  like a chest, and require items like chutes to extract items from them."
+		""
+		"{image:create_sa:item/vault_component width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4BE2DDB0EF6E7015.quest_subtitle: "Obtain an Item Vault"
+	quest.4BE2DDB0EF6E7015.title: "Item Vault"
+	quest.4CB96B5DA9757E08.quest_desc: [
+		"Redstone Relays allow the player to allow electrical flow when redstone is appled,"
+		"Voltimeters on circuit boards allow the player to emit redstone signals as the voltage approaches it's specified maximum."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4CB96B5DA9757E08.quest_subtitle: "Obtain a Redstone Relay, and Circuit Schematic Voltimeter"
+	quest.4CBCDB5EC8AFA7A9.quest_desc: [
+		"Pumps allow transport of fluids!"
+		"connect and power up to a fluid network to move fluid around- "
+		"Direction of flow is indicated with the arrows on the top of the pump, and a single pump can only push liquid 16 pipe blocks out."
+		""
+		"{image:createdieselgenerators:block/pumpjack_hole_pipe width:25 height:25 align:center}"
+	]
+	quest.4CBCDB5EC8AFA7A9.quest_subtitle: "Obtain and use 2x Mechanical Pumps"
+	quest.4CBCDB5EC8AFA7A9.title: "Under Pressure"
+	quest.4CE61954C3226338.quest_subtitle: "Obtain a Smart Compass"
+	quest.4CE61954C3226338.title: "Smarticle Particle"
+	quest.4CFD01A27E1D7B09.quest_desc: [
+		"Create your first veihicle! Many more methods of propulsion will be available in the future, these small engines turn furnace burnables into rotational force! This is very very useful for self propelling builds- especially with veihicles!"
+		""
+		"Use all that you know so far to build your very first physics contraption!"
+		""
+		"&oPonder for more details&r"
+		""
+		""
+		"{image:createdieselgenerators:item/engine_turbocharger width:25 height:25 align:center}"
+	]
+	quest.4CFD01A27E1D7B09.quest_subtitle: "Obtain a Portable Engine"
+	quest.4CFD01A27E1D7B09.title: "Motorized Buffoonery"
+	quest.4DB151F59F719CEA.quest_desc: [
+		"These are EXPENSIVE to run. 15A Minimum when at 250 V. These are capable of becoming superheated without blaze cake! But will absolutely fry your powergrid if you're not careful."
+		""
+		""
+		"*I did a little testing so you don't have to: ~2600 W minimum for smouldering, ~5300 W for seething*"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4DB151F59F719CEA.quest_subtitle: "Obtain a Basin Heater"
+	quest.4DB151F59F719CEA.title: "Artificial Heat!"
+	quest.4E40D122248B90B2.quest_desc: [
+		"Wild Plants must be domesticated (re-planted) to obtain their domestic counterparts"
+		""
+		"Observe *Look at* Wild- Cabbages, Tomatoes, Onions, and Carrots"
+	]
+	quest.4E40D122248B90B2.quest_subtitle: "Obtain Various Wild Plants"
+	quest.4E40D122248B90B2.title: "Things Are Getting Wild!"
+	quest.4EC63CBB39583BCB.quest_desc: ["Platinum fluid tanks behave exactly like regular tanks, only that instead they store 16B per block for the same weight!"]
+	quest.4EC63CBB39583BCB.quest_subtitle: "Obtain a Platinum Fluid Tank"
+	quest.4EC63CBB39583BCB.title: "Shiny Storage"
+	quest.4F14A8D692A51B53.quest_subtitle: "Obtain all seeds"
+	quest.4F14A8D692A51B53.title: "Seed Master"
+	quest.4F2B57E42266F60E.quest_desc: [
+		"Electric motors make transfering electrical power back into [su] easy as pie!"
+		"Simply encourage electrical flow from the two terminals to create rotational motion!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4F2B57E42266F60E.quest_subtitle: "Obtain an Electric Motor"
+	quest.4F2B57E42266F60E.title: "Motorization!"
+	quest.4F339630BED47887.quest_desc: [
+		"The redstone remote and redstone link allow the player to transmit wireless redstone signals! Insert items into the frequency slots to configure channels."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.4F339630BED47887.quest_subtitle: "Obtain a redstone remote and link"
+	quest.4F526DBDC123BD43.quest_desc: ["Another useful tool for create, allow the user to see stress unit data (su) and other technical bits n' bobs"]
+	quest.4F526DBDC123BD43.quest_subtitle: "Obtain goggles"
+	quest.4F526DBDC123BD43.title: "Wrenches n' Rachets "
+	quest.503AB809B060C1B3.quest_desc: [
+		"Craft yourself a slimeball!"
+		"This will be important soon, &luse everything you've learned so far to find the recipe to make slimeballs through create!&r"
+	]
+	quest.503AB809B060C1B3.quest_subtitle: "Obtain a slime ball"
+	quest.503AB809B060C1B3.title: "Slime' time"
+	quest.512BDDBB8B5853D2.quest_desc: [
+		"Minecart contraptions allow the player to attatch create structures and contraption mechanisms to minecarts! This allows for a LOT of different contraption capabilities."
+		""
+		"[note]: Minecart contraptions can be attatched to all types of minecarts, this includes furnace carts, hopper carts, regular carts, etc. They can also be coupled with other minecarts"
+		""
+		"{image:create:item/minecart_contraption width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.512BDDBB8B5853D2.quest_subtitle: "Build a minecart contraption"
+	quest.512BDDBB8B5853D2.title: "Minecart Madness!"
+	quest.516C3FF8A6323339.quest_subtitle: "Obtain a brass jetpack or exoskeleton"
+	quest.516C3FF8A6323339.title: "Are You Some Kind of Master Builder"
+	quest.5180F77FE1C64FD1.quest_desc: ["Use your press with some additional materials to create a wrench! One of the most helpful building tools in create. Hover and hold the associated button to understand how it works!"]
+	quest.5180F77FE1C64FD1.quest_subtitle: "Obtain a wrench"
+	quest.5180F77FE1C64FD1.title: "Rachets n' Wrenches"
+	quest.518E478F946B9A75.quest_desc: [
+		"These potato batteries serve as simple sub 1V batteries."
+		"Connecting voltage sources in series allows the player to boost the total electrostatic difference (voltage) between the positive and negative terminals of the batteries on the end."
+		"Do so with the potato batteries to get a voltage you can play with!"
+	]
+	quest.518E478F946B9A75.quest_subtitle: "Boost Potato batteries to 4.5V"
+	quest.518E478F946B9A75.title: "Green Energy"
+	quest.5216D6A40D896204.quest_desc: [
+		"Superenchanting a blaze forger allows the player to hyperenchant!"
+		"This means the player can combine enchantment books up to levels past the cap, and combine incompatible enchantments!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.5216D6A40D896204.quest_subtitle: "Seethe a blaze burner"
+	quest.5216D6A40D896204.title: "Forging Time!"
+	quest.522385C53A522186.quest_subtitle: "Explore the Icy Caves Biome"
+	quest.522385C53A522186.title: "Cool, Cool, Cave"
+	quest.52AD1AC7688F2CFE.quest_desc: [
+		"Chunk loaders do EXACTLY what you think they do. There is no question."
+		""
+		"[Note]: JEI makes it rather unclear- but you need to capture a &nghast&r inside the incomplete chunkloader to make it complete. (right click on ghast with item in mainhand)"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.52AD1AC7688F2CFE.quest_subtitle: "Obtain 1 brass chunk loader"
+	quest.52AD1AC7688F2CFE.title: "Forever Farms!"
+	quest.53697433481DB9FA.quest_desc: [
+		"Torsion springs allow for precise rotation of structures attatched to their ends! This is most helpful when it comes to directing angles on wings and custom blades."
+		""
+		""
+		""
+		"&oPonder for more information&r"
+	]
+	quest.53697433481DB9FA.quest_subtitle: "Obtain a flap bearing"
+	quest.53697433481DB9FA.title: "Angled Flight!"
+	quest.53850B8C8717DEB5.quest_desc: [
+		"Now we industrialize enchantment!"
+		""
+		"Disenchanters will take exp out of the world around them and act like a fluid drain afterwards."
+		"Killing mobs via a deployer will drop nuggets of xp- those can be directed onto a disenchanter to drain xp into whatever fluid network is connected."
+		""
+		"{image:create:block/experience_block width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.53850B8C8717DEB5.quest_subtitle: "Obtain and use a disenchanter"
+	quest.5418E40E1D9142D9.quest_subtitle: "Slay Crabs and Obtain Claws"
+	quest.5418E40E1D9142D9.title: "Sea Bugs"
+	quest.547C90D6D29CA7C4.quest_subtitle: "Obtain Melon Juice"
+	quest.55FEDAC2339F8665.quest_subtitle: "Slay Desert Monsters"
+	quest.55FEDAC2339F8665.title: "Desert Destruction"
+	quest.561384377C9CCD90.quest_desc: [
+		"Ploughs will break all non block tiles infront of them, kind of like drills but for like torches and snow layers idrk."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.561384377C9CCD90.quest_subtitle: "Obtain a Plough"
+	quest.561384377C9CCD90.title: "Plough? heh..."
+	quest.56243E0352E9F110.quest_desc: [
+		"Portable fluid interfaces are much like portable item interfaces in that they allow the player to bridge the inventory gap between contraption and landmass- only that these will transfer fluid content!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.56243E0352E9F110.quest_subtitle: "Obtain a portable fluid interface"
+	quest.56243E0352E9F110.title: "Fluid movers"
+	quest.56422DCA3E72D474.quest_desc: ["Use Linear chassis to connect blocks without the use of superglue, ponder for more details"]
+	quest.56422DCA3E72D474.quest_subtitle: "Obtain a linear chassis"
+	quest.56422DCA3E72D474.title: "Linear Chassis"
+	quest.56BE0803EC5B77EA.quest_desc: [
+		"Sails will generate thrust based off of their angle to their direction of motion, and the speed of that motion. Capitalizing off of the minecraft \"air\" we're able to create thrust in veihicles like airplanes and helicopters."
+		""
+		"Symmetric sails are much of the same, only that they will generate more drag and no thrust. A mix of these and regular wings can help the player get off the ground!"
+		"{image:minecraft:entity/conduit/wind width:25 height:25 align:center}"
+		""
+		""
+		"&oPonder for more details&r"
+	]
+	quest.56BE0803EC5B77EA.quest_subtitle: "Obtain 5 symmetric sails, and non-symmetric sails"
+	quest.56BE0803EC5B77EA.title: "Conquerer of the skies"
+	quest.56D41F7BAEAB38CA.quest_desc: [""]
+	quest.56D41F7BAEAB38CA.quest_subtitle: "Complete Every Single Biome, Structure, and Monster Killing Quest Quest"
+	quest.56D41F7BAEAB38CA.title: "Gotta Find it All"
+	quest.56F81E33B2E82001.quest_desc: ["Platinum spawns up near &osky islands&r. They will generate in &nfloating pylons&r rarely across the biome (~Y: 215)"]
+	quest.56F81E33B2E82001.quest_subtitle: "Obtain Platinum ingots"
+	quest.56F81E33B2E82001.title: "Rare *above* Earth Metals"
+	quest.5724E10021271829.quest_subtitle: "Find Most Forest/Jungle Structures"
+	quest.5724E10021271829.title: "Forest Findings"
+	quest.5742483B1616BBD8.quest_desc: ["Use JEI and backtrack the recipe to create an infinitely regenerating source of Iron!"]
+	quest.5742483B1616BBD8.quest_subtitle: "Obtain and build an iron farm"
+	quest.5742483B1616BBD8.title: "Your new best friend"
+	quest.57B5B9E5F4F12477.quest_desc: [
+		"Electrozappers allow the player to zap enemies with a shocking blast!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.57B5B9E5F4F12477.quest_subtitle: "Obtain an Electro-Zapper"
+	quest.57B5B9E5F4F12477.title: "Electrowizard Roleplay"
+	quest.587621382FC2BC02.quest_desc: [
+		"[ \"[Note]: This has nothing to do with physics contraption propulsion, see \", { \"text\": \"Redstone Magnets\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0776266922C449C6\" } } ]"
+		""
+		"Electromagnets are a new processing route! Albiet a somewhat lackluster one, they allow the player to easily create magnets!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.587621382FC2BC02.quest_subtitle: "Obtain an Electromagnet"
+	quest.587621382FC2BC02.title: "ElectroMagnetism!"
+	quest.5A54B15B2C9035FD.quest_subtitle: "Obtain a Cake o' Enchanting"
+	quest.5AE88E715F56FB0B.quest_desc: ["Zinc is the next up from iron! Plate your iron armor and tools with zinc for better gear!"]
+	quest.5AE88E715F56FB0B.quest_subtitle: "Obtain Zinc Armor"
+	quest.5AE88E715F56FB0B.title: "Oh you wanna be fancy huh?"
+	quest.5AFED9B7610B738A.quest_desc: ["Use radial chassis to connect blocks without the use of superglue, ponder for more details"]
+	quest.5AFED9B7610B738A.quest_subtitle: "Obtain a radial chassis"
+	quest.5AFED9B7610B738A.title: "Radial Chassis"
+	quest.5B84764DC8F39D9F.quest_desc: [
+		"Custom metal apples!"
+		"Apples of different metals have different effects, targeting different abilities!"
+		"You can make enchanted apples, and even stellar apples!"
+		""
+		"&oSearch JEI for more details&r"
+	]
+	quest.5B84764DC8F39D9F.quest_subtitle: "Douse Apples in various metals"
+	quest.5B84764DC8F39D9F.title: "Candied... Apples?"
+	quest.5CE0A6BDCFFBD273.quest_desc: [
+		"Mechanical belts allow for horizonal rotational transport, much like encased chain drives. However, these belts can transport items! Items will simply travel in the direction of rotation."
+		""
+		"{image:minecraft:item/dried_kelp width:25 height:25 align:center}"
+		""
+		"&oPonder (the belt) for more details&r"
+	]
+	quest.5CE0A6BDCFFBD273.quest_subtitle: "Obtain and construct a mechanical belt."
+	quest.5CE0A6BDCFFBD273.title: "Track time baby!"
+	quest.5D3CE6D4875BFA98.quest_desc: ["Found in most vanilla minecraft savannah / badlands biomes"]
+	quest.5D3CE6D4875BFA98.quest_subtitle: "Slay the Pheonix"
+	quest.5D3CE6D4875BFA98.title: "Perilous Phight"
+	quest.5D61F29F3CA93BA0.quest_desc: [
+		"Batteries can store electrical energy."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.5D61F29F3CA93BA0.quest_subtitle: "Obtain 5 Battery"
+	quest.5D61F29F3CA93BA0.title: "Electric Veihicles"
+	quest.5E487E23AD25DAAF.quest_desc: [
+		"Oil barrels behave almost exactly like fluid tanks- only that they only accept C:Diesel Generators fluid, and that they can be expanded to be even bigger! (6x6x24) "
+		""
+		"Namely oil, plant oil, ethanol, gasoline, diesel, and biodiesel."
+		""
+		"Perfectly asthetic for your enviromental exploits!"
+		""
+		"Can be colored with dye too- They look pretty cool."
+	]
+	quest.5E487E23AD25DAAF.quest_subtitle: "Obtain 16 Oil Barrels"
+	quest.5E487E23AD25DAAF.title: "We Heart Crude Oil"
+	quest.5E5E00F4F1AA9F4E.quest_desc: [
+		"The Create mod is all about machines. One of the biggest puzzles of the mod is &opowering&r said machines!"
+		"     Create uses a unqiue power system through rotational kinetics! &oshaft-like or rotation transmitting objects&r transmit rotational energy through shafts and alike machines to allow for the functionality of most!"
+		"     Increasing the shaft's &orotational velocity&r [rpm] greatly improves the speed at which create mod machinery functions! This comes at the drawback of increased &o[su] or stress units&r *at a cap of 256 [rpm]*"
+		"     [su] or &oStress Units&r is the &ncost&r in this energy system and is somewhat equivalent to torque. All Machinery Requires [su] and it is drained from the total rotational network every time new machinery is added. The amount of [su] a machine uses is multiplied from it's current [rpm]- so be careful not to overstress your network"
+		""
+		"{@pagebreak}"
+		"For example, the handcrank this task requires produces 256 [su] in the network at 8 [rpm]. In otherwords, 32 [su] per [rpm]. Therefore, you could power 1-2 machines from it's energy alone before the network overstresses."
+		""
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visable depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.5E5E00F4F1AA9F4E.quest_subtitle: "Obtain a Handcrank and Learn About [su] vs [rpm]"
+	quest.5E5E00F4F1AA9F4E.title: "You're Cranking What?"
+	quest.5E71DC3E47F06970.quest_desc: [
+		"The stock system in create can be quite confusing, so we'll take this one step at a time. The packagers created in the last quest can be mounted with a &nstock link&r. These links can be connected to a stock network by right clicking on any stock(ticker/link) already in a network. Stock links inside the network will connect the inventories of the packagers they're connected to into the network's stock ticker. The ticker allows the player to view the contents of all inventories, and order from them aswell! Ordered packages will come out of the packagers they are attatched to, therefore- the player must build their own logistics system to conglomerate these \"inventories\""
+		""
+		"{image:createdieselgenerators:item/lighter_ignited width:25 height:25 align:center}"
+		""
+		"&oYOU SHOULD PONDER FOR MORE DETAILS&r"
+	]
+	quest.5E71DC3E47F06970.quest_subtitle: "Obtain an use a stock link/ticker network to expand your personal inventory"
+	quest.5E71DC3E47F06970.title: "Extended Inventory"
+	quest.5EBB04151AD1E8D4.quest_desc: [
+		"Gearboxes and chaindrives are very similar items, however:"
+		""
+		"-Gearboxes have multiple openings with inversed rotation on each side, &lright click a gearbox to rotate it vertically&r and have shaft outputs on it's top"
+		""
+		"-Chaindrives are different in that they act like small cogs in series- yet rotation does not flip across blocks &nand&r rotatoin can be flipped onto another axis by placing a chain drive perpendictular to the direction of the other shafts"
+		""
+		"{image:minecraft:item/chain width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.5EBB04151AD1E8D4.quest_subtitle: "Learn about Gearboxes and chain drives"
+	quest.5EBB04151AD1E8D4.title: "Multiplexing!"
+	quest.5F3FF83034D0C445.quest_desc: ["Mesa/Desert biomes contain almost 4x the crude oil compared to typical biomes!"]
+	quest.5F3FF83034D0C445.quest_subtitle: "Find Oil in Mesa/Deserts"
+	quest.5F3FF83034D0C445.title: "Murica'"
+	quest.5F86702E8A42034A.quest_subtitle: "Find Most Frosted Biomes"
+	quest.5F86702E8A42034A.title: "Ice Cold Plunge"
+	quest.5FA8C5E41061B197.quest_desc: [
+		"Another new source of [su]! Allows you to place sails (and wool but only with glue) to generate passive [su] without any water. Not really great for generating fast moving or even high su contraptions, but great for asthetic builds"
+		""
+		"Place lots of these around a mechanical network to generate stress for the whole thing."
+		""
+		"{image:minecraft:item/wind_charge width:25 height:25 align:center}"
+		""
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.5FA8C5E41061B197.quest_subtitle: "Obtain the materials to make a windmill and generate [su]"
+	quest.5FA8C5E41061B197.title: "Horizontal Helicopter"
+	quest.610A0E4AC3BC6723.quest_desc: [
+		"Superheating allows the player acces to faster recipes, more steam engine heat, and melting metals!"
+		"Melting metals and casting is a great way to compact metal worked designs, access certain recipes and alloys, and have great asthetic builds!"
+		""
+		"&oPonder Blaze Burners for more details&r"
+	]
+	quest.610A0E4AC3BC6723.quest_subtitle: "Obtain a Superheated Source"
+	quest.610A0E4AC3BC6723.title: "Superheating!"
+	quest.624B52D71B77631F.quest_subtitle: "Find All Nether Biomes"
+	quest.624B52D71B77631F.title: "Hot Tourist Destinations"
+	quest.62BF5B8B62806FD2.quest_desc: [
+		"Use what you've learned about railway contraptions and build an autonomous drilling machine!"
+		""
+		"[Tips]:"
+		"- Use a plough and remove rails behind the drills"
+		"- Use deployers to place new rails"
+		"- Set up a drill array to mine maximum area"
+		"- Place lots of storage!"
+	]
+	quest.62BF5B8B62806FD2.quest_subtitle: "Create an autonomous drilling mechanism!"
+	quest.62BF5B8B62806FD2.title: "Robo-Drill"
+	quest.63096257B0A6BDFB.quest_desc: [
+		"Brass can be made by heating a basin and mixing zinc with copper- Late game resource!"
+		""
+		"&oUse JEI for more details&r"
+	]
+	quest.63096257B0A6BDFB.quest_subtitle: "Obtain 250 Brass"
+	quest.63096257B0A6BDFB.title: "Brass Age"
+	quest.6361CB74A7AC9974.quest_desc: [
+		"[Note]: Rose quartz can be obtained either with rose quarts chunks or pieces"
+		""
+		"{image:biomesoplenty:item/rose_quartz_chunk width:25 height:25 align:center}"
+		""
+		"{image:hk_create_ores:item/rose_quartz_piece width:25 height:25 align:center}"
+	]
+	quest.6361CB74A7AC9974.quest_subtitle: "Obtain a set of rose quartz tools"
+	quest.6361CB74A7AC9974.title: "Oooh, Fancy!"
+	quest.6466AE65A6A1DFB4.quest_desc: [
+		"Brass is the age of automata! One huge perk of brass is it's capacity for item filtration."
+		"Many brass items allow the player to filter for specific items-"
+		""
+		"&oPonder for more information&r"
+	]
+	quest.6466AE65A6A1DFB4.quest_subtitle: "Obtain various brass filtration item movers"
+	quest.6466AE65A6A1DFB4.title: "Brass Logistics!"
+	quest.64B74F180FBB72E7.quest_desc: [
+		"Zinc, more specifically, the Zinc Age, Is all about electricity!"
+		"Harness the power of electricity to top the create mod foodchain! "
+		""
+		"Through powergrid you can:"
+		""
+		"-Collect [su] and send it far far away!"
+		"-Condense Redstone logic into single board circuits!"
+		"-Power various electronic-specific appliances!"
+		"[Basin heater, Electric fan, Growth lamp, etc]"
+		""
+		"[Note]: C:Powergrid is full electrical simulation. It is NOT NEEEDED for progression, However, use this as an excuse to learn!"
+	]
+	quest.64B74F180FBB72E7.quest_subtitle: "Obtain 1000 Zinc Ingot"
+	quest.64B74F180FBB72E7.title: "Zinc Age"
+	quest.64D7D92D2C33BFC5.quest_desc: [
+		"Handlebars allow the player to grab onto or push/pull physics contraptions!"
+		""
+		"On lighter objects, this allows the player to build handheld tools!"
+		"On heavier objects, you can build player power operated ship rudders, or hoist your sails manually!"
+		""
+		"Maybe build a climbing course? A tool? A Paraglider! Options are limitless!"
+		""
+		""
+		"{image:simulated:entity/diagram_large width:100 height:50 align:center}"
+		""
+		"&oPonder for more details&r"
+		""
+		""
+		"{@pagebreak}"
+		"To assist with tool making, I have given the player 1 endstone- don't lose it! It acts very floaty in the overworld's atmosphere."
+	]
+	quest.64D7D92D2C33BFC5.quest_subtitle: "Obtain a handlebar"
+	quest.64D7D92D2C33BFC5.title: "Handling Some Buisiness"
+	quest.66CCEF6B7BB9560A.quest_desc: [
+		"Rather simple device, An efficent conversion from electricity to wind energy. 20 Ohm series resistance and 80V maximum input. "
+		""
+		"&oPonder for more details&r"
+	]
+	quest.66CCEF6B7BB9560A.quest_subtitle: "Obtain an Electric Fan"
+	quest.66CCEF6B7BB9560A.title: "Pssshhhh"
+	quest.67263924C521E8D5.quest_desc: [
+		"These allow for extra fast and strong milling."
+		"Want to crush down some rocks? This is what you need!"
+		""
+		"{image:create:item/crushed_raw_aluminum width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.67263924C521E8D5.quest_subtitle: "Obtain and use two crushing wheels"
+	quest.67263924C521E8D5.title: "Whatever you do, don't stand inside these."
+	quest.67DF68B9839F6621.quest_desc: [
+		"Funnels are like chutes but they work on belts, and horizontally!"
+		"Chutes &ocan&r technically work on belts, but it gets frustrating when you constantly have you build your factory taller and taller."
+		""
+		"{image:create:block/funnel/andesite_funnel_frame width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+		""
+		"{@pagebreak}"
+		"[note]: for the airport asthetic advancement, you must use the funnel manually, as in dropping in items by hand. Belts do not work for whatever reason."
+	]
+	quest.67DF68B9839F6621.quest_subtitle: "Obtain and use a funnel"
+	quest.67DF68B9839F6621.title: "Have a Fun(nel) time"
+	quest.67FDC01FE68D7A51.quest_desc: [
+		"Extendo-Grips allow the player to extend their reach! Place in the offhand to use."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.67FDC01FE68D7A51.quest_subtitle: "Obtain a extendo grip"
+	quest.67FDC01FE68D7A51.title: "Give Me a Hand Please"
+	quest.6803C57944D55DF2.quest_desc: [
+		"Circuit boards allow for single block electrical connection."
+		"Play with some componenets for fun!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.6803C57944D55DF2.quest_subtitle: "Build a Circuit Schematic"
+	quest.6803C57944D55DF2.title: "Single Block Computation"
+	quest.684CD724E2211165.quest_desc: [
+		"In order to effectively transmit electricity across long distances, the electrical output of a generator must be hypercondensed into a high voltage through the use of a transformer. The parasitic resistance of wires increases with distance, therefore, in order to lose as litte energy as possible, a high voltage and low amperage is passed through, rather than the inverse."
+		""
+		"Go back to V=IR, The relationship between our current and resistance would be the inverse of resistance, multiplied by our input voltage. Therefore, applying a high voltage allows for a higher possible current. If we were to increase current instead, a much higher current would be involved, as we fight against our resistance. Not only would this help with saftey in the real world, but it prevents our wires from burning up."
+		""
+		"Note that this process is especially important because iron wires have the highest parasitic resistance, yet also the longest block reach."
+	]
+	quest.684CD724E2211165.quest_subtitle: "Establish a small network of powerlines"
+	quest.684CD724E2211165.title: "Powerlines!"
+	quest.6856CBA032B1E7BA.quest_desc: [
+		"The ultimate steampunker dream! This is the optimal source of generating [su] in base create mod, and can be compacted onto a veihicle!"
+		""
+		"{image:aeronautics:block/steam_vent/steam_anim width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.6856CBA032B1E7BA.quest_subtitle: "Build a steam engine"
+	quest.6856CBA032B1E7BA.title: "Steampunker!"
+	quest.694AC434322CE503.quest_desc: [
+		"Customizable gear ratios in two blocks!"
+		"Will take an input rpm and set it to an output rpm without all the mess."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.694AC434322CE503.quest_subtitle: "Obtain a Rotational speed controller"
+	quest.694AC434322CE503.title: "Engineers Hate This Simple Trick!"
+	quest.69B932223B83A915.quest_desc: ["Vector thrusters allow for easily directionable thrust! Redstone frequency links come pre installed on the block to easily control direction."]
+	quest.69B932223B83A915.quest_subtitle: "Obtain a vector thruster"
+	quest.69B932223B83A915.title: "I'm vectoring it"
+	quest.6A80FE3F83071DA0.quest_desc: ["&oPonder for more details&r"]
+	quest.6A80FE3F83071DA0.quest_subtitle: "Superheat a blaze burner"
+	quest.6A80FE3F83071DA0.title: "Seething"
+	quest.6B12A7A63FD3A585.quest_desc: [
+		"Traveller's Compasses have the chance to point to any nether biome or structure!"
+		"     Structures are still spread far apart even in the nether, so it's advised you build a veihicle suitable for the enviroment."
+	]
+	quest.6B12A7A63FD3A585.quest_subtitle: "Find and Barter with a Piglin Traveller for a Traveller's Compass"
+	quest.6B12A7A63FD3A585.title: "Safe Travels!"
+	quest.6B644D9CB4D3535A.quest_subtitle: "Slay Every Single Boss/Miniboss"
+	quest.6BFCBF8D170B3370.quest_desc: [
+		"Had issues with factories overproducing? This is your fix!"
+		""
+		"Threshold switches will produce a configurable redstone signal based off of a containers available/used inventory. The intended effect of this is to be used to shut off/slow down factories that are producing too much."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.6BFCBF8D170B3370.quest_subtitle: "Obtain a threshold switch"
+	quest.6BFCBF8D170B3370.title: "I have been dreaming about this."
+	quest.6C6C650980F7492A.quest_desc: [
+		"Mechanical Saws will harvest entire tress from moving contraptions and place into stoarge bins, however they do not replant trees."
+		""
+		"{image:minecraft:block/stonecutter_saw width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.6C6C650980F7492A.quest_subtitle: "Obtain a Saw and Attatch to a Contraption"
+	quest.6C6C650980F7492A.title: "Lorax be Warned"
+	quest.6D27EFDDE48DABA1.quest_subtitle: "Explore the Expansion in the Forests!"
+	quest.6D27EFDDE48DABA1.title: "Forested Frolic"
+	quest.6D8532E4F3E86AB0.quest_desc: [
+		"Thrusters are the absolute pinnacle of propulsion we have available."
+		"Thrusters require gasoline or another liquid fuel to be supplied in order to produce thrust, see fuel stats by hovering over a bucket of the fuel and holding [shift]"
+		""
+		"To work:"
+		"- Pump fuel directly into the copper interface"
+		"- Supply a redstone signal, analog levels will produce less thrust"
+		""
+		"&oPonder for more details&r"
+		"{image:createpropulsion:textures/particle/plume/plume5_e.png width:25 height:25 align:center}"
+	]
+	quest.6D8532E4F3E86AB0.quest_subtitle: "Obtain a thruster"
+	quest.6D8532E4F3E86AB0.title: "Cooking With Gas"
+	quest.6D9AFAA9FB9C4887.quest_desc: ["Oxidizer can be pumped directly into multi block thrusters to increase thrust output/fuel efficency!"]
+	quest.6D9AFAA9FB9C4887.quest_subtitle: "Obtain a bucket of Oxidizer"
+	quest.6D9AFAA9FB9C4887.title: "Complete Combustion"
+	quest.6DCB2B0EC68ECCFF.quest_desc: [
+		"Sanding Catalysts are dropped by Sirok the sandworm, find his summon in desert/badlands biomes!"
+		""
+		"Sanding Catalyst allows for bulk sanding recipes."
+		""
+		"&oCheck JEI for more details&r"
+	]
+	quest.6DCB2B0EC68ECCFF.quest_subtitle: "Challenge Sirok, The Sandworm."
+	quest.6DCB2B0EC68ECCFF.title: "Sandworm Showdown"
+	quest.6E64FEB176A3779C.quest_desc: [
+		"I think you know what a lightbulb does, the perfect asthetic choice for light!"
+		"Rated for 120V, will consume/requires 250 mA current. Somewhat self regulating, so you can connect these straight into a 120V source."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.6E64FEB176A3779C.quest_subtitle: "Obtain a Lightbulb"
+	quest.6E64FEB176A3779C.title: "Edison's Beauty"
+	quest.6F10FC61DE4B81D2.quest_desc: [
+		"Pneumatic cylinders are pretty much swivel bearings but for linear physics!"
+		""
+		"      The rotational speed inputted through the bottom increases the speed at which the cylinder actuates, capped at 2 [m/s]."
+		"      Power with redstone to actuate. Sadly, analog levels do not change the length the piston extends to yet."
+		""
+		"{image:minecraft:item/wind_charge width:25 height:25 align:center}"
+	]
+	quest.6F10FC61DE4B81D2.quest_subtitle: "Obtain a Pneumatic Cylinder"
+	quest.6F10FC61DE4B81D2.title: "Linear Physics"
+	quest.6FFA30F3DE3897B6.quest_desc: [
+		"Cogs are the base of transferring all rotational motion, and they allow for the gear ratio!"
+		"There are two cogs, small and large. "
+		""
+		"Small cogs can be connected in series along one block face, they will inverse the rotation of each cog down the chain, transfering rotational motion against the length of the shaft."
+		""
+		"Large cogs cannot be connected along one block face, instead, they can change the direction of rotation in the xyz plane, along the minecraft grid. "
+		""
+		"Together, small and large cogs can be connected across their diagonals to gear ratio- this allows  the player to speed up or slow down the rotation of a contraption or processing item at the expense of [su]"
+		""
+		"{image:create:block/adjustable_chain_gearshift width:25 height:25 align:center}"
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r.This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.6FFA30F3DE3897B6.quest_subtitle: "Obtain large and small cogwheels, then use them to transfer [su] into [rpm]"
+	quest.6FFA30F3DE3897B6.title: "Gearmaster"
+	quest.70DB6195BA169254.quest_desc: [
+		"Portable Batteries allow the player to transfer and store electricity on their back!"
+		"Essential to operating electrical weaponry!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.70DB6195BA169254.quest_subtitle: "Obtain a portable battery"
+	quest.70DB6195BA169254.title: "Portable Power!"
+	quest.70E39577BC268CD7.quest_desc: [
+		"Sequenced gearshifts allow the player to program specific rotational motions!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.70E39577BC268CD7.quest_subtitle: "Obtain a Sequenced Gearshift"
+	quest.70E39577BC268CD7.title: "Sequenced Assembely"
+	quest.7106345F8069554A.quest_desc: [
+		"Mechanical arms can more dynamically behave for item transport across tricky zones."
+		"Only can hold one stack of items at a time."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7106345F8069554A.quest_subtitle: "Obtain a mechanical arm"
+	quest.7106345F8069554A.title: "Mechanized Grippers"
+	quest.7140E8965541E222.quest_desc: [
+		"Circuit design tables allow the player to build single block circuit boards in minecraft!"
+		"These tables require extra careful electrical input, and their own set of mini components!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7140E8965541E222.quest_subtitle: "Obtain a Circuit Design Table"
+	quest.714561AE4A9B3A5E.quest_desc: [
+		"Deployers mimic player interaction, they can be used to attack, place, interact, or automate absolutely anything."
+		""
+		"{image:create:item/brass_hand width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.714561AE4A9B3A5E.quest_subtitle: "Obtain and use a deployer"
+	quest.714561AE4A9B3A5E.title: "Widerwally me rn"
+	quest.7146D6928EB5420E.quest_desc: [
+		"You're actually capable of sqeezing even more out of your generators! "
+		"By applying a second source of current to your generator, you're able to boost the output of the generator even further, at the expense of additional heat."
+		""
+		"This happens because you increase the electromagentic field around our coils, therefore allowing our rotor to transfer more rotational energy into electrical energy."
+		""
+		"The current must be generated by a secondary source, so you cannot connect more of the generators own current into the generator for more output. (This is because you technically already \"excite\" the generator by connecting the coils to the commutator, the rheostat you used to build a shunt generator just limits that current.)"
+	]
+	quest.7146D6928EB5420E.quest_subtitle: "Excite a Generator With Additional Current"
+	quest.7146D6928EB5420E.title: "Generator Excitation"
+	quest.716C303ED6AA210C.quest_desc: [
+		"Create: Central Kitchen allows the player to use create components to interact with cooking stations. Valid boiler/heating blocks allow the player to heat these stations too."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.716C303ED6AA210C.quest_subtitle: "Obtain Equipment nessacary to automate cooking"
+	quest.716C303ED6AA210C.title: "Automated Grilling"
+	quest.7194E2C922E21EFB.quest_desc: [
+		"Drills are a great all rounder Contraption Mechanism, they will break anything in front of them!"
+		"Usable without being attatched to a contraption too, come up with some ideas!"
+		"[Hint]: use to make an automated cobblestone farm!"
+		""
+		"{image:create_sa:item/brass_drill_head width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7194E2C922E21EFB.quest_subtitle: "Obtain a Drill and Attatch to a Contraption"
+	quest.7194E2C922E21EFB.title: "Rotary Destruction"
+	quest.7219E2A3F6F8C58E.quest_subtitle: "Explore the Hottest Overworld Destinations"
+	quest.7219E2A3F6F8C58E.title: "Overworld Nether"
+	quest.72362C507A0A5F9B.quest_desc: [
+		"From larger than life mountains, to redstone puzzles, ore extractions, transportation logistics, and epic fights- Exploration in this world will serve you well."
+		""
+		"Before you begin a journey across the world- It is important that you create a veihicle capable of traversing such a distance."
+		""
+		"Structures in the world are further apart than ever."
+		""
+		"Biomes stretch taller and wider than before."
+		""
+		"Landmasses and continents arose from the seas."
+		""
+		"Mystical biomes and harrowing creatures sprung forth in the new expanse."
+	]
+	quest.72362C507A0A5F9B.quest_subtitle: "Learn about what the world has to offer"
+	quest.72362C507A0A5F9B.title: "Explore!"
+	quest.728509E5032FD774.quest_subtitle: "Kill Plains/Forest Monsters"
+	quest.728509E5032FD774.title: "Plains Massacre"
+	quest.72964910579FBFB1.quest_desc: [
+		"Craft a mixer and shapelessly craft an item! Powering the mixer over a basin allows items without a shaped crafting recipe to be merged together!"
+		"[Trick]: Mixing 1 iron/zinc nugget and 1 andesite also makes an alloy, a much cheaper recipe to what you've been doing up till now."
+		""
+		""
+		"{image:create:item/whisk width:25 height:25 align:center}"
+		"{@pagebreak}"
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete this task and learn about create!"
+	]
+	quest.72964910579FBFB1.quest_subtitle: "Obtain a mixer and mix something'"
+	quest.72964910579FBFB1.title: "Mixin n' Fixin"
+	quest.72BFC16307B339BE.quest_desc: [
+		"The mechanical contraption build around the pumpjack hole will be responsible for pumping your oil out of the bedrock layer!"
+		"Hover over your pumpjack once it starts running to see how much oil remains in the chunk"
+		""
+		"{image:createdieselgenerators:block/pumpjack_bearing_side width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.72BFC16307B339BE.quest_subtitle: "Build a Pumpjack to extract OIL!"
+	quest.72BFC16307B339BE.title: "*Eagle Screech*"
+	quest.73A5E64076F9866D.quest_desc: [
+		"Using what you've learned, it's possible to construct a dual axis, entire chunk quarry miner. Using a double set of gantries, rope pullies, gear shifts and clutches- Build an autonomous miner capable of descending all the way to bedrock, completely terraforming and establishing your claim on this land."
+		""
+		"(Quarry miners have the advantage over autonomous drills because it is possible to increase mining speed up to 256 rpm)"
+	]
+	quest.73A5E64076F9866D.quest_subtitle: "Build a chunk miner!"
+	quest.73A5E64076F9866D.title: "Bedrock Quarries!?!?!"
+	quest.745654045ECE6B96.quest_desc: [
+		"Look up \"Dual Wishbone\" or just \"Wishbone\" suspension. Should be easy to make with only pivots and springs."
+		""
+		"Alternatively, You can grab a suspension key!"
+		"This gives you lots of control over how your wheels and tracks work!"
+		"I very much reccomend you read the description of the suspension key so you know what to do."
+		"To change position, click the wheel/track mount face. vertical faces move the attactched body vertically, horizontal faces move them into and out of the mount."
+	]
+	quest.745654045ECE6B96.quest_subtitle: "Obtain a spring/build a custom suspension setup"
+	quest.745654045ECE6B96.title: "Suspended Suspense..."
+	quest.7460A85443533B56.quest_desc: [
+		"Same gimmick as the basin heater, electrically expensive heating. This time, it allows for bulk processing through fans!"
+		"Capable of cooking foods at low power, and smelting ores at higher power!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7460A85443533B56.quest_subtitle: "Obtain a Heating Coil"
+	quest.7460A85443533B56.title: "More- Artifical Heating?"
+	quest.749FF26570D964EC.quest_desc: [
+		"Asurine resource vents are often found in &nfrozen biomes&r."
+		""
+		"They're quite rare, but the processing capabilities from one alone are astronomical!"
+		"{image:minecraft:block/lava_still width:25 height:25 align:center}"
+		"{image:essential:textures/menu/arrow_down.png width:25 height:25 align:center}"
+		"{image:blazinghot:fluid/molten_zinc_still width:25 height:25 align:center}"
+		"To activate an ore vent, you must explode it first!"
+		"Then, supply a lava source block in contact with the vent or an orestone produced by the vent in a 3 block radius, to create an instant version of the orestone!"
+		"Mine and process from there!"
+	]
+	quest.749FF26570D964EC.quest_subtitle: "Find an Asurine Ore Vent"
+	quest.749FF26570D964EC.title: "Asure Adventure"
+	quest.754C17ED322D6D6A.quest_desc: ["Use JEI and backtrack the recipe to create an infinitely regenerating source of Zinc!"]
+	quest.754C17ED322D6D6A.quest_subtitle: "Obtain and build a Zinc farm"
+	quest.754C17ED322D6D6A.title: "That guy you know down the street"
+	quest.75AFD9FF27B04857.quest_desc: [
+		"Ashlord Skulls are dropped by Ashlord, the Infernal Dragon, find his summon in mountainous biomes!"
+		""
+		"Ashlord Skull allows for Draconic heated basin recipes."
+		""
+		"&oCheck JEI for more details&r"
+	]
+	quest.75AFD9FF27B04857.quest_subtitle: "Obtain the Ashlord's Skull"
+	quest.75AFD9FF27B04857.title: "Ashy Action"
+	quest.763D2A6DDE42E714.quest_subtitle: "Obtain a copper jetpack or exoskeleton"
+	quest.763D2A6DDE42E714.title: "Steampunk wizardry"
+	quest.76E180EE8B1D9ADE.quest_desc: [
+		"A tempermental spirit's attemted possession of a simple cogwheel."
+		"Randomly changes directions and rotational speed."
+	]
+	quest.76E180EE8B1D9ADE.quest_subtitle: "Obtain a Haunted Cogwheel"
+	quest.76E180EE8B1D9ADE.title: "Haunted Horsepower"
+	quest.76E5F93CEED8838C.quest_subtitle: "Find All Badlands Structures"
+	quest.76E5F93CEED8838C.title: "Badlands Search"
+	quest.76EBE455344AE32C.quest_desc: [
+		""
+		"&nPLEASE READ ALL OF THIS!&r"
+		""
+		"Hi! Welcome to Cre8; Xpl0r3!"
+		""
+		"This Modpack is a Create+ X Vanilla+ Mashup pack based on exploration, heavily modified to provide the most fluent and immersive experience possible."
+		""
+		"This pack is also designed as a sort of introduction to Create/Aeronautics!"
+		""
+		"Happy Exploring! "
+		""
+		"{@pagebreak}"
+		""
+		"[Note]: Quests with an sqare shape only require 1 of it's dependencies completed to be able to be startable"
+		""
+		"A quick guide to navigating:  Use JEI (Just Enough Items; the large wall of items visible to the right of your inventory) to find crafting recipes. left click to see how to craft the item, right click for recipes it's in."
+		""
+		"{image:overpacked:item/giant_backpack width:25 height:25 align:center}"
+		""
+		"Holding [W] on most create mod items will allow the user to engage in a &oponder&r."
+		"This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete future tasks and learn about create!"
+	]
+	quest.76EBE455344AE32C.quest_subtitle: "Left click on quests to open descriptions."
+	quest.77C536F642C7744F.quest_desc: [
+		"Andesite Casing is the basis to most andesite-age Create Mod machines!"
+		""
+		"Create by applying andesite alloy to any stripped log to make casing."
+		""
+		""
+		"{image:create:item/andesite_alloy width:25 height:25 align:center}"
+		"{image:minecraft:block/stripped_oak_log width:25 height:25 align:center}"
+		""
+		"{image:create:item/brass_hand width:25 height:25 align:center}"
+		""
+		"{image:create:block/andesite_casing width:25 height:25 align:center}"
+	]
+	quest.77C536F642C7744F.quest_subtitle: "Apply Andesite Alloy to a Stripped Log"
+	quest.77C536F642C7744F.title: "Start of an Empire"
+	quest.77E035BDEEC7D5ED.quest_subtitle: "Find all Forested Biomes"
+	quest.77E035BDEEC7D5ED.title: "Oh The Woodland Wonderland"
+	quest.77EBD8671C0D6163.quest_desc: [
+		"Depots are helpful in factories when items need to be at a standstill for an extended period of time"
+		""
+		"{image:create:block/depot_side width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.77EBD8671C0D6163.quest_subtitle: "Obtain an Item Depot"
+	quest.77EBD8671C0D6163.title: "Depot"
+	quest.781DABD857F15613.quest_subtitle: "Find all Nether Structures"
+	quest.781DABD857F15613.title: "Hot-Seat"
+	quest.7824C15F0C4A3934.quest_desc: [
+		"Both the Fuse and breaker serve 1 purpose, and that is to \"trip\" an electrical circuit in the case too much current passes through."
+		"The Fuse will burn out and takes time to trip, needing to have a portion replaced."
+		"The Breaker can be triggered through redstone, and does not have to be replaced"
+	]
+	quest.7824C15F0C4A3934.quest_subtitle: "Obtain a fuse"
+	quest.7824C15F0C4A3934.title: "Breakdown!"
+	quest.7849B9CD1B3C1F23.quest_subtitle: "Challenge The Illusioner"
+	quest.7849B9CD1B3C1F23.title: "Find Me Now!"
+	quest.7890068714303386.quest_desc: [
+		"Chain conveyers act like chain drives in that rotation follows the same axis of rotation. However, chain drives operate across &nlong distances&r and allow for easier [su] transmission."
+		""
+		"&oPonder for more details&r"
+		""
+		""
+		"{@pagebreak}"
+		""
+		"You can also connect chains to flanged chaindrive blocks and cogs! These cannot be ridden and cannot have frogports connect to them, but they allow for some crazy connections!"
+	]
+	quest.7890068714303386.quest_subtitle: "Obtain a chain conveyer and  10x chain"
+	quest.7890068714303386.title: "Mechanical Telephone Wires"
+	quest.7913626B16D1CD38.quest_desc: [
+		"Encased fans can also be used to push entities, this includes dropped items. Do with this what you will."
+		""
+		"{image:create:block/depot_side width:25 height:25 align:center}"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7913626B16D1CD38.quest_subtitle: "Use an encased fan to transport items"
+	quest.7913626B16D1CD38.title: "Fan"
+	quest.7A0E09DAC8F08980.quest_desc: [
+		"Simply mix the metal in a superheated basin to melt!"
+		""
+		"Melting metals has significant advantages! Melting raw material (raw/crushed iron/gold/etc) produces almost double that of melting down a single ingot- allowing you to double your production!"
+		""
+		"&oOpen JEI to observe recipes&r"
+	]
+	quest.7A0E09DAC8F08980.quest_subtitle: "Melt down various metals"
+	quest.7A0E09DAC8F08980.title: "Molten Madness!"
+	quest.7A3BA931B8390732.quest_desc: [
+		"Ever wanted to make veihicles? Floating buildings? Custom Tools?"
+		"The Create:Aeronautics mod allows us to do that! These \"Physics Contraptions\" (named sub-levels by the engine) behave almost like typical create mod contraptions, yet they can move ANYWHERE! These are perfect for creating veihicles to allow for efficent over (and under) world travel."
+		""
+		"However, you need to have physics to mess around with all of that. Obtain a physics contraption and:"
+		""
+		"&oPonder for more details&r"
+		""
+		""
+		""
+		"{image:simulated:item/spring width:25 height:25 align:center}"
+	]
+	quest.7A3BA931B8390732.quest_subtitle: "Obtain a Physics Assembler"
+	quest.7A3BA931B8390732.title: "Minecraft G-Mod"
+	quest.7A7ECF4F800B9C88.quest_desc: [
+		"Item filters have 3 types:"
+		""
+		"-List filters *Allows the player to place a variety of items inside, but the player must supply each item premitted*"
+		""
+		"-Attribute filters *Allows the player to filter items based off of item tags*"
+		""
+		"-Package filters *Allows the player to filter item packages based off of address*"
+		""
+		"&oPonder for more information&r"
+	]
+	quest.7A7ECF4F800B9C88.quest_subtitle: "Obtain and learn about item filters"
+	quest.7A7ECF4F800B9C88.title: "Filter Filters!"
+	quest.7BC3E04630186156.quest_desc: [""]
+	quest.7BC3E04630186156.quest_subtitle: "Obtain a Stellar Blaze Apple"
+	quest.7BC3E04630186156.title: "Blazing Power"
+	quest.7C1433001B5164B7.quest_desc: [
+		"Redstone converters simply convert any redstone signal into a customizable analog level."
+		""
+		"Platinum vector thrusters allow the player to power it with forge energy."
+	]
+	quest.7C1433001B5164B7.quest_subtitle: "Obtain a Platinum Vector thruster and redstone converter"
+	quest.7C1433001B5164B7.title: "I'm Vectoring it Fancifully"
+	quest.7D1EE1D0D73F8792.quest_desc: ["If you find an andesite formation above ground, then you'll likely find TONS of it underground in an andesite cave, directly underneath!"]
+	quest.7D1EE1D0D73F8792.quest_subtitle: "Collect yourself some andesite alloy - the key to all preliminary machines in this world"
+	quest.7D1EE1D0D73F8792.title: "Andesite Age"
+	quest.7E3D0727351AEC60.quest_subtitle: "Create an Automatic Crop Farm!"
+	quest.7E3D0727351AEC60.title: "Crops Galore!"
+	quest.7E85152F0CC6A667.quest_desc: [
+		"Blaze forgers act like automatic anvils, feed them xp from the bottom pipe to combine tools at no repair cost, combine enchants, etc!"
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7E85152F0CC6A667.quest_subtitle: "Obtain a Blaze Forger"
+	quest.7E8B24F46FDD8755.quest_desc: [
+		"Despite what the reward says, it adds a CHARM slot. Not a ring slot!"
+		""
+		""
+		"Charm slots act as curios totem slots! "
+	]
+	quest.7E8B24F46FDD8755.quest_subtitle: "Kill All Pillager Types"
+	quest.7E8B24F46FDD8755.title: "It Takes A Pillage"
+	quest.7EB404D6C82F422D.quest_desc: [
+		"Physics based ropes!"
+		"These will tether contraptions together through rope!"
+		"Rotating the rope winch will bring the rope closer or further, use an rope connector as an attatchment point on a seperate physics contraption."
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7EB404D6C82F422D.quest_subtitle: "Obtain a Rope Winch, Rope, and Rope Connector!"
+	quest.7EB404D6C82F422D.title: "Ropes and Fasteners"
+	quest.7FA169340D2F6D88.quest_subtitle: "Discover More in the Badlands!"
+	quest.7FA169340D2F6D88.title: "Deserts n' Badlands"
+	quest.7FD4BCFDD74D64E7.quest_subtitle: "Observe Creatures from the Mycelium Isles"
+	quest.7FD4BCFDD74D64E7.title: "Mushy Rooms"
+	task.0001280E5E8D0B21.title: "Accept Knowledge"
+	task.0292050A8840461B.title: "Factory time"
+	task.0DAA6322A1075C70.title: "Acknowledge knowledge?"
+	task.117F2CA58BCB5E96.title: "Acknowledge Knowledge?"
+	task.12493B2AFDB55D60.title: "Andesite Casing"
+	task.1C8F2B195236A812.title: "Acknowledge knowledge?"
+	task.1F5D01AA0DABA942.title: "Acknowledge knowledge?"
+	task.2543DEF9EE730A7C.title: "Done Reading?"
+	task.2FFEC274DBDB976F.title: "Acknowledge knowledge?"
+	task.3374F5B2726AC130.title: "Modpack Information"
+	task.3761F15EEFF3840A.title: "Electrical Information!"
+	task.441F01242993D5C4.title: "Acknowledge knowledge?"
+	task.46A51D51ADA3FDFD.title: "Have you read the fundamentals?"
+	task.4D0481AAB3793191.title: "Build a wood farm!"
+	task.4FC091BAF4332336.title: "Contraptions!"
+	task.59E23AD5E4AA8C55.title: "Overkill"
+	task.5D3AFE2833EA6E05.title: "Acknowledge knowledge?"
+	task.776B7A6DEFFDD912.title: "Build a wood farm!"
+	task.7820E6DD93BD416D.title: "Acknowledge knowledge?"
+	task.787B603E4203DFFF.title: "Contraptions!"
+	task.7C96BAAD1EDBABCC.title: "Click To Complete Once all has been explored"
+}

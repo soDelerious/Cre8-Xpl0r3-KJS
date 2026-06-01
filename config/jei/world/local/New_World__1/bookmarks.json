@@ -1,0 +1,10 @@
+[
+  {"version":2},
+  {"recipe":"kubejs:kjs/create_deployer","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"create_sa:brass_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"friendsandfoes:crab_claw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:birch_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:copper_valve_handle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tracks:small_track_drive_wheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luminous_beasts:gator_tooth"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

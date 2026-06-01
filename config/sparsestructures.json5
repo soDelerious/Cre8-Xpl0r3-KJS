@@ -1,0 +1,143 @@
+// ### THE MOD REQUIRES A RESTART OF THE GAME TO APPLY CHANGES ###
+{
+  // this is the main spread factor (default is 2)
+  //
+  // tips: a spread factor can be a decimal number (such as 1.5)
+  //       a spread factor of 1 means all structure's placements are not modified (useful if you want to use only custom spread factors)
+  //       a spread factor above 1 means all structures are rarer
+  //       a spread factor below 1 means all structures are more common
+  //       a spread factor of 0 disables all structures entirely
+  "spreadFactor": 4,
+
+  // Some structure mods/datapacks do not specify a custom salt or use the same salt for all their structures, which might cause structure overlap.
+  // Enabling this is supposed to reduce this phenomenon, as all structure sets will have their own salt, hashed from their id.
+  // If unsure, leave this enabled.
+  "idBasedSalt": true,
+
+  // this is a list of custom spread factors
+  "customSpreadFactors": [
+    // example of the mansion being doubled in rarity (the mod's default)
+      {"structure": "minecraft:mansion",
+      "factor": 2},
+      {"structure": "minecraft:village_desert",
+      "factor": 5},    
+      {"structure": "#terralith:fortified_villages",
+      "factor": 10},    
+      {"structure": "#minecraft:village",
+      "factor": 5}, 
+      {"structure": "minecraft:village_plains",
+      "factor": 5},
+      {"structure": "minecraft:village_savanna",
+      "factor": 5},
+      {"structure": "minecraft:village_snowy",
+      "factor": 5},
+      {"structure": "minecraft:village_taiga",
+      "factor": 5},
+      {"structure": "piglinproliferation:traveler_camp",
+      "factor": 0.85},
+      {"structure": "piglinproliferation:traveler_camp_gathering",
+      "factor": 1},
+      {"structure": "piglinproliferation:traveler_soul_camp",
+      "factor": 0.85},
+      {"structure": "friendsandfoes:citadel",
+      "factor": 2},
+      {"structure": "block_factorys_bosses:underworld_arena",
+      "factor": 5},
+      {"structure": "bettermineshafts:mineshafts",
+      "factor": 0.85
+      },
+
+
+{
+  "structure": "minecraft:nether_fossils",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+      {
+  "structure": "minecraft:trial_chambers",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "minecraft:villages",
+  "factor": 5//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:underground",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:underground_dungeon",
+  "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:rubble",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "minecraft:end_cities",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "betterdungeons:skeleton_dungeons",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "betterdungeons:small_dungeons",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "betterdungeons:spider_dungeons",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "betterdungeons:zombie_dungeons",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:rare_dungeon",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:rare_village",
+  "factor": 15//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "skyvillages:skyvillage",
+  "factor": 15//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "block_factorys_bosses:sandworm_nest",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "block_factorys_bosses:yeti_hideout",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:regular",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:mage",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+}
+
+
+
+
+    // add the structures you want to modify in the format:
+    // (don't forget to remove "//", and use dots for decimal numbers)
+    //
+    // {
+    //     "structure": "namespace:structure_name",
+    //     "factor": number
+    // },
+    //
+    // where "structure" is a structure_set or the name of a structure
+    // /!\ if you put the name of a structure, all structures in its set will be modified
+    // (example: "minecraft:village_plains" will modify all structures in the "villages" set)
+    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
+    //
+    // tip: you can dump all structure sets in a file by running the custom command /dumpstructuresets
+    // tip: the same spread factors rules apply here (set to 0 to disable said structure)
+  ]
+}

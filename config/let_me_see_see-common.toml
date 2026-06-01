@@ -1,0 +1,11 @@
+#The path of your Intellij IDEA (idea64.exe) (Or other program can open .class file)
+idea_path = ""
+#Intellij IDEA use fernflower as it java decompiler.Enable this allows this mod use it as default decompiler if "fernflower_path" is empty.
+use_idea_decompiler_as_default = true
+#The path of fernflower.jar(Or other program can decomplie .class file). Can keep empty if idea_path has been set.
+#See: https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine
+fernflower_path = ""
+#The option give to fernflower.
+fernflower_option = "-mpm=60"
+#Languages use on item name when item data export.
+languages = ["en_us", "zh_cn"]
