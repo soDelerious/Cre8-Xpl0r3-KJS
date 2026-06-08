@@ -1,4 +1,7 @@
 [
   {"version":2},
-  {"ingredient":{"id":"get_creative:warped_handle"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"kubejs:whirlwind_helmet","components":{"minecraft:damage":9}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:tuff_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oxidized_copper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:fire_charge"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

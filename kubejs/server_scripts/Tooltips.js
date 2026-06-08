@@ -253,6 +253,51 @@ event.modify('kubejs:copper_map', { shift: false }, text => {
         ]))
 
     })
+
+
+        event.modify('kubejs:whirlwind_helmet', { shift: false }, text => {
+        // Insert a nice "hold Shift" hint at line #1
+        text.insert(1, Text.join([
+            Text.gray("Hold ["),
+            Text.white("Shift"),
+            Text.gray("] for Summary")
+
+            // Text.gray("Hold [Shift] for Summary")
+        ]))
+
+        })
+    event.modify('kubejs:whirlwind_helmet', { shift: true }, text => {
+        // Insert a nice "hold Shift" hint at line #1
+        text.insert(1, Text.join([
+            Text.gray("Applies 'Wind Charged' to nearby mobs when falling."),
+
+        ]))
+
+    })
+
+
+            event.modify('friendsandfoes:wildfire_crown', { shift: false }, text => {
+        // Insert a nice "hold Shift" hint at line #1
+        text.insert(1, Text.join([
+            Text.gray("Hold ["),
+            Text.white("Shift"),
+            Text.gray("] for Summary")
+
+            // Text.gray("Hold [Shift] for Summary")
+        ]))
+
+        })
+    event.modify('friendsandfoes:wildfire_crown', { shift: true }, text => {
+        // Insert a nice "hold Shift" hint at line #1
+        text.insert(1, Text.join([
+            Text.gray("Applies 'Fire Resistance' to the player temporarily when taking fire damage."),
+
+        ]))
+
+    })
+
+
+    
 const disabledItems = [
     "artifacts:eternal_steak",
 'naturalist:cooked_egg',
@@ -295,12 +340,12 @@ const disabledItems = [
                                 'blazinghot:gray_modern_lamp_half_panel',
 
 'get_creative:structure_capsule',
-'get_creative:fluid_barrel',
+// 'get_creative:fluid_barrel',
  'get_creative:hinge_bearing',
   'get_creative:industrial_fan',
    'get_creative:wind_up_key',
     'get_creative:encapsulator',
-     'get_creative:glue_cleaner',
+    //  'get_creative:glue_cleaner',
       'get_creative:bamboo_handle',
        'get_creative:mangrove_handle',
         'get_creative:dark_oak_handle',
@@ -319,7 +364,23 @@ const disabledItems = [
                      'get_creative:birch_handle',
                       'get_creative:spruce_handle', 
     'get_creative:exposed_copper_handle',
-
+'luminous_beasts:golden_hermit_king_spawn_egg',
+ 'luminous_beasts:red_mummy_spawn_egg',
+  'luminous_beasts:coral_sea_viper_spawn_egg',
+   'luminous_beasts:arid_yeti_spawn_egg',
+    'luminous_beasts:frigid_gator_spawn_egg',
+     'luminous_beasts:wind_phoenix_spawn_egg',
+      'luminous_beasts:baby_wind_phoenix_spawn_egg',
+       'luminous_beasts:bogged_bone_stalker_spawn_egg',
+        'luminous_beasts:albino_moth_cocoon',
+         'luminous_beasts:wind_phoenix_egg',
+          'luminous_beasts:rare_viper_egg',
+           'luminous_beasts:soul_ember_spawn_egg',
+            'luminous_beasts:albino_moth_spawn_egg',
+             'luminous_beasts:woodland_witch_doctor_spawn_egg',
+              'luminous_beasts:bogged_shadow_spawn_egg',
+     'luminous_beasts:soul_furnace_spawn_egg',
+     'artifacts:umbrella',
 
 'luminous_beasts:ultimate_bestiary', 
 'luminous_beasts:cherry_tree_ent_spawn_egg', 
@@ -485,14 +546,12 @@ const disabledItems = [
 "create_sa:fan_component",
 "create_sa:vault_component",
 
-"create_power_loader:empty_andesite_chunk_loader",
 
 "libraryferret:emerald_coins_jtl",
 
 "libraryferret:diamond_coins_jtl",
 "libraryferret:netherite_coins_jtl",
 
-"create_power_loader:andesite_chunk_loader",
 "libraryferret:iron_coins_jtl",
 
 "libraryferret:gold_coins_jtl",

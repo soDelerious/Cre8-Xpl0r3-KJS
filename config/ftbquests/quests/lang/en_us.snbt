@@ -156,6 +156,14 @@
 	]
 	quest.085241DA4E3192DB.quest_subtitle: "Obtain and generate [su] with a waterwheel"
 	quest.085241DA4E3192DB.title: "Wheelie'"
+	quest.08EA67EB3409A6AD.quest_desc: [
+		"Augers work as a great precursor to item belts!"
+		"They can be attatched to arrays contraption actors on physics contraptions to manage item output aswell!"
+		""
+		"&nPonder for more details&r"
+	]
+	quest.08EA67EB3409A6AD.quest_subtitle: "Obtain 5x Auger Shafts and Observe an Auger Cogwheel"
+	quest.08EA67EB3409A6AD.title: "Auger Action"
 	quest.09534EBB7A3F83AA.quest_desc: [
 		"Ochrum resource vents are often found in &nbadlands biomes.&r"
 		""
@@ -644,6 +652,8 @@
 	]
 	quest.2B89BC906F2EF901.quest_subtitle: "Obtain an Electro Baton"
 	quest.2B89BC906F2EF901.title: "Bonk!"
+	quest.2BA0736263FB8F18.quest_subtitle: "Obtain Sticky Wheels"
+	quest.2BA0736263FB8F18.title: "Sticky Situation"
 	quest.2D332E7D447F6CCD.quest_desc: [
 		""
 		"Use what you've learned about contraptions to automatically harvest and plant crops for you."
@@ -1229,15 +1239,6 @@
 	quest.5216D6A40D896204.title: "Forging Time!"
 	quest.522385C53A522186.quest_subtitle: "Explore the Icy Caves Biome"
 	quest.522385C53A522186.title: "Cool, Cool, Cave"
-	quest.52AD1AC7688F2CFE.quest_desc: [
-		"Chunk loaders do EXACTLY what you think they do. There is no question."
-		""
-		"[Note]: JEI makes it rather unclear- but you need to capture a &nghast&r inside the incomplete chunkloader to make it complete. (right click on ghast with item in mainhand)"
-		""
-		"&oPonder for more details&r"
-	]
-	quest.52AD1AC7688F2CFE.quest_subtitle: "Obtain 1 brass chunk loader"
-	quest.52AD1AC7688F2CFE.title: "Forever Farms!"
 	quest.53697433481DB9FA.quest_desc: [
 		"Torsion springs allow for precise rotation of structures attatched to their ends! This is most helpful when it comes to directing angles on wings and custom blades."
 		""
@@ -1515,6 +1516,9 @@
 	]
 	quest.67263924C521E8D5.quest_subtitle: "Obtain and use two crushing wheels"
 	quest.67263924C521E8D5.title: "Whatever you do, don't stand inside these."
+	quest.67C86646E923B679.quest_desc: ["Beast pits increase summoning rate of mythical beasts within a 16 block radius!"]
+	quest.67C86646E923B679.quest_subtitle: "Obtain a Beast Pit"
+	quest.67C86646E923B679.title: "A Magical Machine"
 	quest.67DF68B9839F6621.quest_desc: [
 		"Funnels are like chutes but they work on belts, and horizontally!"
 		"Chutes &ocan&r technically work on belts, but it gets frustrating when you constantly have you build your factory taller and taller."
@@ -1947,9 +1951,18 @@
 	]
 	quest.7A7ECF4F800B9C88.quest_subtitle: "Obtain and learn about item filters"
 	quest.7A7ECF4F800B9C88.title: "Filter Filters!"
+	quest.7AE978D47EC511E7.quest_subtitle: "Slay The Forest Dwellers"
+	quest.7AE978D47EC511E7.title: "Creeping Creakers"
 	quest.7BC3E04630186156.quest_desc: [""]
 	quest.7BC3E04630186156.quest_subtitle: "Obtain a Stellar Blaze Apple"
 	quest.7BC3E04630186156.title: "Blazing Power"
+	quest.7BEAC2B5AE151C94.quest_desc: [
+		"The ultimate evolution of drilling. "
+		""
+		"&oPonder for more details&r"
+	]
+	quest.7BEAC2B5AE151C94.quest_subtitle: "Obtain a Borehead Bearing and 2x Rock Cutting Wheels"
+	quest.7BEAC2B5AE151C94.title: "Gurren Lagann"
 	quest.7C1433001B5164B7.quest_desc: [
 		"Redstone converters simply convert any redstone signal into a customizable analog level."
 		""

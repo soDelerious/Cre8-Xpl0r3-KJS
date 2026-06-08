@@ -152,7 +152,7 @@
 ["Fuel Configuration"]
 	#Additional thruster fuel lines (same format as defaults: fluid_id=efficiencyPercent,burnRatePercent).
 	#Use for fluids that do not have a fuelProperties subsection. Entries here override matching fluids from the table above.
-	additionalThrusterFuelLines = [blazinghot:nether_lava=75,150]
+	additionalThrusterFuelLines = []
 
 	#Fuel properties by fluid id. Configure efficiency and burn rate separately as percentages.
 	["Fuel Configuration".fuelProperties]

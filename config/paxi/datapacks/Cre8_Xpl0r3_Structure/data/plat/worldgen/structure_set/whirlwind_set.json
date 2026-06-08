@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "plat:whirlwind_struct",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 50,
+    "separation": 20,
+    "salt": 184512,
+    "frequency": 0.5
+  }
+}

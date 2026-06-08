@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "terralith:wintry_forest", "required": false},
+    {"id": "terralith:wintry_lowlands", "required": false},
+    {"id": "terralith:siberian_taiga", "required": false},
+    {"id": "biomeswevegone:crimson_tundra", "required": false},
+    {"id": "natures_spirit:tundra", "required": false},
+    {"id": "natures_spirit:boreal_taiga", "required": false},
+    {"id": "natures_spirit:snowy_fir_forest", "required": false},
+    {"id": "biomesoplenty:snowy_coniferous_forest", "required": false},
+    {"id": "biomesoplenty:snowy_fir_clearing", "required": false},
+    {"id": "biomesoplenty:snowy_maple_woods", "required": false}
+  ]
+}
+
+

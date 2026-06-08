@@ -1463,16 +1463,8 @@
 			order: 1
 			rotation: 0.0d
 			width: 1.0d
-			x: -2.1083333333333485d
-			y: 14.602380952380965d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/hanging_roots"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.55d
-			y: 16.15d
+			x: -2.0964285714286035d
+			y: 14.645238095238085d
 		}
 		{
 			color: 8289918
@@ -1530,14 +1522,6 @@
 			width: 1.0d
 			x: -5.950000000000001d
 			y: 16.150000000000002d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/amethyst_block"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.1000000000000005d
-			y: 15.3d
 		}
 		{
 			height: 1.0d
@@ -1668,8 +1652,8 @@
 			image: "minecraft:block/large_amethyst_bud_e"
 			rotation: 90.0d
 			width: 1.0d
-			x: -4.250000000000001d
-			y: 13.600000000000001d
+			x: -4.25d
+			y: 14.45d
 		}
 		{
 			height: 1.0d
@@ -1678,46 +1662,6 @@
 			width: 1.0d
 			x: -7.6499999999999995d
 			y: 17.0d
-		}
-		{
-			height: 1.0d
-			image: "create:block/depot_side"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.25d
-			y: 14.45d
-		}
-		{
-			height: 1.0d
-			image: "create:block/depot_side"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.55d
-			y: 14.45d
-		}
-		{
-			height: 1.0d
-			image: "create:block/depot_side"
-			rotation: 180.0d
-			width: 1.0d
-			x: -3.4d
-			y: 15.299999999999999d
-		}
-		{
-			height: 1.0d
-			image: "everycomp:block/af/createdieselgenerators/drawer/chip_wood_top"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: 14.45d
-		}
-		{
-			height: 1.0d
-			image: "farmersdelight:block/rope_fence_gate_wall"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.25d
-			y: 15.299999999999999d
 		}
 		{
 			height: 1.0d
@@ -5045,26 +4989,6 @@
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.25d
-			y: 14.45d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/cobblestone"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.25d
-			y: 13.6d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/cobblestone"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
 			x: -5.1d
 			y: 11.9d
 		}
@@ -5175,33 +5099,6 @@
 			width: 1.0d
 			x: -4.25d
 			y: 11.049999999999999d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/stone"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.25d
-			y: 11.9d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/stone"
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.25d
-			y: 12.75d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/stone"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: 12.75d
 		}
 		{
 			color: 9276813
@@ -5448,16 +5345,6 @@
 			width: 1.0d
 			x: 0.0d
 			y: 10.2d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/deepslate"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: 11.049999999999999d
 		}
 		{
 			color: 9276813
@@ -7737,16 +7624,6 @@
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
-			x: -3.4d
-			y: 13.6d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "create:block/palettes/stone_types/natural/veridium_0"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
 			x: -2.55d
 			y: 12.75d
 		}
@@ -7758,16 +7635,6 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: -2.55d
-			y: 11.9d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "create:block/palettes/stone_types/natural/veridium_0"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
 			y: 11.9d
 		}
 		{
@@ -7826,8 +7693,8 @@
 			order: -10
 			rotation: 90.0d
 			width: 5.0d
-			x: -1.4154761904761983d
-			y: 13.609523809523807d
+			x: -1.4107142857143202d
+			y: 13.052380952380936d
 		}
 		{
 			height: 1.25d
@@ -8174,6 +8041,368 @@
 			width: 1.0d
 			x: 1.5345238095237832d
 			y: 17.038095238095245d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/grass_block/dirt"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 15.299999999999999d
+		}
+		{
+			color: 10731148
+			height: 1.0d
+			image: "minecraft:block/grass_block_side_overlay"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 16.15d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_moss_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 15.299999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 13.6d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			order: -10
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 13.6d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 10.2d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 11.9d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_leaves"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.95d
+			y: 11.049999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_oak_sapling"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_moss_carpet_side_small"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 14.45d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "create:block/palettes/stone_types/cut/andesite_cut"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_hanging_moss"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_hanging_moss_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_hanging_moss_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 20.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_hanging_moss_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 12.75d
 		}
 	]
 	order_index: 1
@@ -9233,12 +9462,6 @@
 					type: "kill"
 					value: 1L
 				}
-				{
-					entity: "endermanoverhaul:dark_oak_enderman"
-					id: "4A4DF4E7FF4F8232"
-					type: "kill"
-					value: 1L
-				}
 			]
 			x: -6.033333333333344d
 			y: 15.809523809523807d
@@ -9488,6 +9711,12 @@
 				{
 					entity: "endermanoverhaul:ice_spikes_enderman"
 					id: "22FEAD4530898E1C"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "rottencreatures:glacial_hunter"
+					id: "49FA7EE94E7A002F"
 					type: "kill"
 					value: 1L
 				}
@@ -10090,6 +10319,12 @@
 				id: "friendsandfoes:wildfire_spawn_egg"
 			}
 			id: "3E2B142744D88060"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FB8D03262C86026"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
 			tasks: [
 				{
 					count: 3L
@@ -10373,9 +10608,9 @@
 			id: "0DA01E3E32B1D87A"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "4379C2E65332D321"
+				id: "329350C0D9E1A802"
 				table_id: 7381247849914152287L
-				type: "loot"
+				type: "random"
 			}]
 			shape: "square"
 			tasks: [{
@@ -10558,8 +10793,8 @@
 					type: "item"
 				}
 			]
-			x: -5.322619047619092d
-			y: 14.704761904761895d
+			x: -4.025000000000027d
+			y: 15.669047619047603d
 		}
 		{
 			dependencies: ["1B1C7D4D69C72C1F"]
@@ -10877,6 +11112,87 @@
 			}]
 			x: 0.5d
 			y: 8.0d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			id: "67C86646E923B679"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B96768F99BE19BC"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			tasks: [{
+				id: "41BED02730B13B03"
+				item: { count: 1, id: "luminous_beasts:beast_pit_off" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			icon: {
+				id: "minecraft:creaking_spawn_egg"
+			}
+			id: "7AE978D47EC511E7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5EDE91164358E798"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [
+				{
+					entity: "minecraft:creaking"
+					id: "6BE40B978305B8FE"
+					optional_task: true
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:dark_oak_enderman"
+					id: "4EB55367443CA3AB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:crimson_forest_enderman"
+					id: "3676EBBE87D000EB"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:windswept_hills_enderman"
+					id: "6C16329C7DCB25B2"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:swamp_enderman"
+					id: "29A2B92EFB727EF3"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "endermanoverhaul:warped_forest_enderman"
+					id: "1EAF0861431C924E"
+					type: "kill"
+					value: 1L
+				}
+				{
+					icon: {
+						id: "minecraft:creaking_heart"
+					}
+					id: "37B3487D4D437804"
+					observe_type: 0
+					timer: 0L
+					to_observe: "minecraft:creaking_heart"
+					type: "observation"
+				}
+			]
+			x: -3.025000000000027d
+			y: 16.335714285714268d
 		}
 	]
 }

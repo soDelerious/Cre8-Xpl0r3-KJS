@@ -365,6 +365,45 @@ EntityEvents.drops('luminous_beasts:luminous_moth', event => {
     }
 })
 
+
+EntityEvents.drops('whirl_wind:whirl_wind', event => {
+            event.drops.clear()
+
+    let chance = Math.random()
+            event.addDrop('3x kubejs:whirlwind_helmet_fragment')
+
+    if (chance > 0.65) {
+            event.addDrop('2x kubejs:whirlwind_helmet_fragment')
+    }
+    if (chance < 0.35) {
+            event.addDrop('kubejs:whirlwind_helmet_fragment')
+    }
+})
+
+let commandQueue = [];
+
+EntityEvents.spawned('whirl_wind:whirl_wind', event => {
+    commandQueue.push({
+        command: `effect give @e[type=whirl_wind:whirl_wind] minecraft:resistance infinite 2 true`,
+        executeAt: event.level.time + 5 
+    });
+});
+
+ServerEvents.tick(event => {
+    if (commandQueue.length === 0) return;
+
+    let currentTime = event.server.overworld().time;
+
+    commandQueue = commandQueue.filter(task => {
+        if (currentTime >= task.executeAt) {
+            event.server.runCommandSilent(task.command);
+            return false; 
+        }
+        return true; 
+    });
+});
+
+
 EntityEvents.drops('luminous_beasts:albino_moth', event => {
             event.cancel()
 

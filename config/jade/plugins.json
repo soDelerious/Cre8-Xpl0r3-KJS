@@ -82,5 +82,8 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "delighto_flight": {
+    "crop_progress": true
   }
 }

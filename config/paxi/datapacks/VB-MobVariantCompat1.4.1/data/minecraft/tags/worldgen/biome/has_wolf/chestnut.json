@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "terralith:forested_highlands", "required": false},
+    {"id": "terralith:shield", "required": false},
+    {"id": "biomeswevegone:maple_taiga", "required": false},
+    {"id": "biomeswevegone:dacite_ridges", "required": false},
+    {"id": "biomesoplenty:tundra", "required": false}
+  ]
+}
+

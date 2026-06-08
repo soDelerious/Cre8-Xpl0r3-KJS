@@ -6115,8 +6115,8 @@
 			order: -10
 			rotation: 90.0d
 			width: 5.0d
-			x: -9.35d
-			y: 1.7d
+			x: -9.5d
+			y: 1.0d
 		}
 		{
 			height: 5.0d
@@ -6205,8 +6205,8 @@
 			order: -9
 			rotation: 90.0d
 			width: 5.0d
-			x: -8.700000000000003d
-			y: 1.2285714285714278d
+			x: -8.0d
+			y: 1.5d
 		}
 		{
 			height: 5.0d
@@ -7207,30 +7207,12 @@
 		}
 		{
 			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: -3.4d
-		}
-		{
-			height: 1.0d
 			image: "minecraft:block/chiseled_tuff_bricks"
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
 			x: -9.35d
 			y: 0.85d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.6499999999999995d
-			y: -5.1d
 		}
 		{
 			height: 5.0d
@@ -7240,231 +7222,6 @@
 			width: 5.0d
 			x: -8.021428571428572d
 			y: 3.442857142857136d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: -0.85d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: -2.55d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: -1.7d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: 0.0d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: -3.4d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: -4.25d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/brick/tuff_cut_brick"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -8.5d
-			y: -5.1d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -9.35d
-			y: -5.1d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/brick/tuff_cut_brick"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.6499999999999995d
-			y: -5.95d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -7.6499999999999995d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/brick/tuff_cut_brick"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -6.8d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.95d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -4.25d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/brick/tuff_cut_brick"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.1d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/brick/tuff_cut_brick"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.55d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/brick/tuff_cut_brick"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.7d
-			y: -6.8d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -1.7d
-			y: -5.95d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/alternatives/tuff_cut_basketweave"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: -0.85d
-			y: -5.95d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: -4.25d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: -5.95d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: -5.1d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -300
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: 1.7d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: 0.85d
 		}
 		{
 			color: 9276813
@@ -8564,25 +8321,6 @@
 			y: 2.55d
 		}
 		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/dark_oak_planks"
-			order: -400
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: 2.55d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/chiseled_tuff_bricks"
-			order: -399
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.0d
-			y: 2.55d
-		}
-		{
 			color: 12046079
 			height: 4.0d
 			image: "create:entity/blueprint_large"
@@ -8910,13 +8648,132 @@
 			x: 2.24047619047618d
 			y: 12.585714285714289d
 		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -0.5d
+			y: -5.5d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -6.5d
+			y: -6.0d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -8.0d
+			y: -5.0d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			color: 15453067
+			height: 4.0d
+			image: "create:entity/blueprint_large"
+			order: -700
+			rotation: 0.0d
+			width: 4.0d
+			x: -0.27142857142856514d
+			y: 1.038095238095245d
+		}
+		{
+			height: 1.25d
+			image: "minecraft:textures/particle/gust_9.png"
+			rotation: 0.0d
+			width: 1.25d
+			x: -1.0d
+			y: 16.5d
+		}
+		{
+			color: 15988475
+			height: 1.5d
+			image: "jei:textures/jei/atlas/gui/icons/arrow_previous.png"
+			order: 5
+			rotation: -90.0d
+			width: 1.5d
+			x: 2.5d
+			y: 0.5d
+		}
 	]
 	order_index: 0
-	progression_mode: "flexible"
+	progression_mode: "linear"
 	quest_links: [ ]
 	quests: [
 		{
 			dependencies: ["76EBE455344AE32C"]
+			hide_dependency_lines: true
 			id: "7D1EE1D0D73F8792"
 			rewards: [{
 				id: "170D7E5803BC2AE4"
@@ -9577,6 +9434,7 @@
 				"5180F77FE1C64FD1"
 				"4F526DBDC123BD43"
 			]
+			dependency_requirement: "one_completed"
 			id: "6FFA30F3DE3897B6"
 			rewards: [
 				{
@@ -9695,7 +9553,7 @@
 			y: 16.130357142857136d
 		}
 		{
-			dependencies: ["38ABA2963DF36D76"]
+			dependencies: ["08EA67EB3409A6AD"]
 			id: "7913626B16D1CD38"
 			rewards: [{
 				id: "42521ED4C0A120F5"
@@ -9717,8 +9575,8 @@
 					type: "item"
 				}
 			]
-			x: -2.0625d
-			y: 15.630357142857136d
+			x: -1.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["503AB809B060C1B3"]
@@ -9905,6 +9763,26 @@
 		{
 			dependencies: ["7194E2C922E21EFB"]
 			id: "4B913FAE365C998D"
+			rewards: [
+				{
+					count: 3
+					id: "7A28E09033474DC9"
+					item: {
+						count: 1
+						id: "create:large_cogwheel"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "25E8BD112DE02971"
+					item: {
+						count: 1
+						id: "create:cogwheel"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "08CE043A510908D5"
@@ -9933,8 +9811,8 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "0CA93C3C7F9DA926"
-					table_id: 4163670266444182859L
+					id: "1126EC4B45AA03B0"
+					table_id: 7381247849914152287L
 					type: "random"
 				}
 			]
@@ -12114,6 +11992,7 @@
 		}
 		{
 			dependencies: ["76EBE455344AE32C"]
+			hide_dependency_lines: true
 			id: "64B74F180FBB72E7"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -12367,6 +12246,7 @@
 		}
 		{
 			dependencies: ["76EBE455344AE32C"]
+			hide_dependency_lines: true
 			id: "63096257B0A6BDFB"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -12417,8 +12297,8 @@
 				item: { count: 1, id: "create:mechanical_arm" }
 				type: "item"
 			}]
-			x: -2.1224999999999987d
-			y: -4.057499999999999d
+			x: -2.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["166EE51E3827DB02"]
@@ -12428,8 +12308,8 @@
 				item: { count: 1, id: "create:rotation_speed_controller" }
 				type: "item"
 			}]
-			x: -1.1224999999999987d
-			y: -4.057499999999999d
+			x: -1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["7890068714303386"]
@@ -12533,7 +12413,6 @@
 			dependencies: [
 				"7106345F8069554A"
 				"694AC434322CE503"
-				"52AD1AC7688F2CFE"
 			]
 			id: "0E2BBC4CFB098B7B"
 			tasks: [{
@@ -12541,19 +12420,8 @@
 				item: { count: 1, id: "create:factory_gauge" }
 				type: "item"
 			}]
-			x: -2.6224999999999987d
-			y: -5.057499999999999d
-		}
-		{
-			dependencies: ["166EE51E3827DB02"]
-			id: "52AD1AC7688F2CFE"
-			tasks: [{
-				id: "1BF42D7264EC786F"
-				item: { count: 1, id: "create_power_loader:brass_chunk_loader" }
-				type: "item"
-			}]
-			x: -2.6224999999999987d
-			y: -3.057499999999999d
+			x: -2.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["63096257B0A6BDFB"]
@@ -14960,6 +14828,7 @@
 		}
 		{
 			dependencies: ["76EBE455344AE32C"]
+			hide_dependency_lines: true
 			id: "2858101DAA25DCDA"
 			rewards: [{
 				id: "7B6805D63FA9AB52"
@@ -15220,6 +15089,100 @@
 			}]
 			x: 1.9071428571428513d
 			y: 13.01428571428572d
+		}
+		{
+			dependencies: [
+				"745654045ECE6B96"
+				"2DC90872D2B2B918"
+			]
+			id: "2BA0736263FB8F18"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5180EE36FF47128E"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "24B529F6CE3057FE"
+					item: { count: 1, id: "offroad:sticky_small_tire" }
+					type: "item"
+				}
+				{
+					id: "02936F7336D9484F"
+					item: { count: 1, id: "offroad:sticky_tire" }
+					type: "item"
+				}
+				{
+					id: "3898EFC698D9F05A"
+					item: { count: 1, id: "offroad:sticky_large_tire" }
+					type: "item"
+				}
+				{
+					id: "25A8AF51C728ED12"
+					item: { count: 1, id: "offroad:sticky_monstrous_tire" }
+					type: "item"
+				}
+			]
+			x: -11.049999999999999d
+			y: 2.55d
+		}
+		{
+			dependencies: ["38ABA2963DF36D76"]
+			id: "08EA67EB3409A6AD"
+			tasks: [
+				{
+					count: 5L
+					id: "79C696F3D9FE8929"
+					item: { count: 1, id: "simulated:auger_shaft" }
+					type: "item"
+				}
+				{
+					icon: {
+						id: "simulated:auger_cog"
+					}
+					id: "186573B4688817D7"
+					observe_type: 0
+					timer: 0L
+					to_observe: "simulated:auger_cog"
+					type: "observation"
+				}
+			]
+			x: -2.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["62BF5B8B62806FD2"]
+			id: "7BEAC2B5AE151C94"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69ED3380BCF6F301"
+					table_id: 6383787071741019849L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "33823CD5DC5FA2C5"
+					table_id: 4163670266444182859L
+					type: "loot"
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "65D6A944BB52F939"
+					item: { count: 1, id: "offroad:rockcutting_wheel" }
+					type: "item"
+				}
+				{
+					id: "09B14B15FDA5597A"
+					item: { count: 1, id: "offroad:borehead_bearing" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 12.5d
 		}
 	]
 }

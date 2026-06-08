@@ -10,7 +10,7 @@
 	dragonfly_removed = false
 	duck_removed = false
 	elephant_removed = false
-	firefly_removed = false
+	firefly_removed = true
 	forest_fox_removed = false
 	forest_rabbit_removed = false
 	giraffe_removed = true

@@ -14,15 +14,33 @@ Tanks.forEach(tank => {
   // event.add('minecraft:enchantable/mining', 'create_sa:rose_quartz_pickaxe')
   // event.add('minecraft:enchantable/mining_loot', 'create_sa:rose_quartz_pickaxe')
   // event.add('minecraft:pickaxes', 'create_sa:rose_quartz_pickaxe')
+  // event.add('minecraft:enchantable/sword', 'create_sa:rose_quartz_pickaxe')
+  // event.add('minecraft:enchantable/weapon', 'create_sa:rose_quartz_pickaxe')
+  // event.add('minecraft:enchantable/sharp_weapon', 'create_sa:rose_quartz_pickaxe')
 
   // event.add('create_dragons_plus:passiveBlockFreezers', 'create:depot[]{HeldItem: {Item: {components: {"minecraft:custom_data": {itemKey: "52fc8544-6b38-4281-8fc6-07440e6b295d"}}, count: 1, id: "block_factorys_bosses:ice_gauntlet"}}}')
 
 
   //OILS *****
 
+const blazing = ['create_sa:blazing_cleaver', 'create_sa:blazing_pickaxe', 'create_sa:blazing_axe', 'create_sa:blazing_shovel']
+  blazing.forEach(tool => {
+      event.add ('c:enchantables', tool)
+      event.add ('minecraft:enchantable/durability', tool)
+
+  })
+          event.add ('minecraft:enchantable/sharp_weapon', blazing[0])
+          event.add ('minecraft:enchantable/sword', blazing[0])
 
 
+                    event.add ('minecraft:enchantable/weapon', blazing[0])
+                    event.add ('minecraft:enchantable/weapon', blazing[2])
 
+          event.add ('minecraft:enchantable/sharp_weapon', blazing[2])
+          event.add ('minecraft:enchantable/mining', blazing[1])
+          event.add ('minecraft:enchantable/mining_loot', blazing[1])
+          event.add ('minecraft:enchantable/mining', blazing[3])
+          event.add ('minecraft:enchantable/mining_loot', blazing[3])
 })
 
 ServerEvents.tags('worldgen/biome', event => {

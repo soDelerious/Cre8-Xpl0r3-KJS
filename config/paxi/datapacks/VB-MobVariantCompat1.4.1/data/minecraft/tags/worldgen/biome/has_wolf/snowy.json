@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {"id": "terralith:siberian_grove", "required": false},
+    {"id": "terralith:snowy_shield", "required": false},
+    {"id": "terralith:snowy_maple_forest", "required": false},
+    {"id": "terralith:snowy_cherry_grove", "required": false},
+    {"id": "biomeswevegone:eroded_borealis", "required": false},
+    {"id": "biomeswevegone:howling_peaks", "required": false},
+    {"id": "biomesoplenty:cold_desert", "required": false}
+  ]
+}
+

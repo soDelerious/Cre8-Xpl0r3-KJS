@@ -60,8 +60,23 @@ event.create('incomplete_totem', 'create:sequenced_assembly')
   .displayName('Incomplete Totem of Undying')
   .rarity("UNCOMMON")
 
-})
+event.create('whirlwind_helmet_fragment').texture('kubejs:item/whirlwind_crown_fragment').displayName('Whirlwind Crown Fragment')
 
+
+event.create('whirlwind_helmet', 'helmet').material('kubejs:whirl').texture('kubejs:item/whirlwind_crown').maxDamage(407).displayName('Whirlwind Crown')
+
+});
+
+StartupEvents.registry("armor_material", (event) => {
+  event.create('whirl')
+  .defense({helmet: 3, chestplate: 6, leggings: 8, boots: 3})
+  .enchantmentValue(24)
+  .equipSound('minecraft:item.armor.equip_iron')
+  .repairIngredient(() => Ingredient.of('kubejs:whirlwind_helmet_fragment'))
+  .toughness(1) // diamond has 2, netherite 3
+  .knockbackResistance(0.65);
+
+})
 
 // BlockEvents.modification(event => {
 //   event.modify('block_factorys_bosses:dragon_skull', block => {

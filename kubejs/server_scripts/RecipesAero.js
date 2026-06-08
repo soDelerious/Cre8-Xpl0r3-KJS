@@ -3,7 +3,69 @@
 
 
 ServerEvents.recipes(event => {
-
+// PRECISION ASSEMBELY**************************************************
+// event.custom({
+//   "type": "create:sequenced_assembly",
+//   "ingredient": { "tag": "c:plates/gold" },
+//   "transitional_item": { "id": "create:incomplete_precision_mechanism" },
+//   "results": [
+//     { "id": "create:precision_mechanism", "chance": 120.0 },
+//     { "id": "create:golden_sheet", "chance": 8.0 },
+//     { "id": "create:andesite_alloy", "chance": 8.0 },
+//     { "id": "create:cogwheel", "chance": 5.0 },
+//     { "id": "minecraft:gold_nugget", "chance": 3.0 },
+//     { "id": "create:shaft", "chance": 2.0 },
+//     { "id": "create:crushed_raw_gold", "chance": 2.0 },
+//     { "id": "minecraft:iron_ingot" },
+//     { "id": "minecraft:clock" }
+//   ],
+//   "sequence": [
+//     {
+//       "type": "create:pressing",
+//       "ingredients": [
+//         {
+//           "item": "create:golden_sheet"
+//         }
+//       ],
+//       "results": [
+//         {
+//           "id": "create:incomplete_precision_mechanism"
+//         }
+//       ]
+//     },
+//     {
+//       "type": "get_creative:arm_assembly",
+//       "ingredients": [
+//         { "item": "create:incomplete_precision_mechanism" },
+//         { "item": "create:large_cogwheel" }
+//       ],
+//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
+//     },
+//     {
+//       "type": "get_creative:arm_assembly",
+//       "ingredients": [
+//         { "item": "create:incomplete_precision_mechanism" },
+//         { "item": "create:wrench" }
+//       ],
+//       "keep_held_item": true,
+//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
+//     },
+//     {
+//       "type": "get_creative:arm_assembly",
+//       "ingredients": [
+//         { "item": "create:incomplete_precision_mechanism" },
+//         { "tag": "c:nuggets/iron" }
+//       ],
+//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
+//     },
+//     {
+//       "type": "get_creative:arm_assembly",
+//       "ingredients": [ { "item": "create:incomplete_precision_mechanism" } ],
+//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
+//     }
+//   ],
+//   "loops": 3
+// })
 
 
   // MANUAL APPLICATION**************************************************
@@ -45,6 +107,68 @@ event.custom({
 event.remove('get_creative:clockwork_motor')
 
 // SEQUENCED **************************************************
+const transitionalBE = 'minecraft:reinforced_deepslate' // Making a constant to store the transitional item makes the code more readable
+  event.recipes.create.sequenced_assembly(
+      // Outputs:
+      [
+        CreateItem.of('luminous_beasts:beast_pit_off', 0.06), // Main output, will appear in JEI as the result
+        CreateItem.of('minecraft:polished_deepslate', 0.02),
+        CreateItem.of('minecraft:deepslate', 0.01),
+        CreateItem.of('minecraft:cobbled_deepslate', 0.01),
+        CreateItem.of('minecraft:smooth_basalt', 0.01)
+
+      ],
+      // Input:
+      'minecraft:reinforced_deepslate',
+      // Sequence:
+      [
+        // The transitional item is a constant, that is 'kubejs:incomplete_spore_blossom' and is used during the intermediate stages of the assembly.
+        // Like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item.
+        // event.recipes.create.pressing(transitionalRE, transitionalRE),
+        event.recipes.create.cutting(transitionalBE, transitionalBE),
+        event.recipes.create.deploying(transitionalBE, [transitionalBE, 'blazinghot:soul_dust']),
+        event.recipes.create.pressing(transitionalBE, transitionalBE),
+        event.recipes.create.pressing(transitionalBE, transitionalBE),
+        event.recipes.create.deploying(transitionalBE, [transitionalBE, 'blazinghot:soul_dust'])
+
+
+
+      ]
+    )
+    .transitionalItem(transitionalBE).loops(3) // Set the transitional item
+event.remove('luminous_beasts:beast_pit_recipe')
+
+
+const transitionalRE = 'minecraft:cracked_deepslate_tiles' // Making a constant to store the transitional item makes the code more readable
+  event.recipes.create.sequenced_assembly(
+      // Outputs:
+      [
+        CreateItem.of('minecraft:reinforced_deepslate', 0.06), // Main output, will appear in JEI as the result
+        CreateItem.of('minecraft:polished_deepslate', 0.02),
+        CreateItem.of('minecraft:deepslate', 0.01),
+        CreateItem.of('minecraft:cobbled_deepslate', 0.01),
+        CreateItem.of('minecraft:smooth_basalt', 0.01)
+
+      ],
+      // Input:
+      'minecraft:polished_deepslate',
+      // Sequence:
+      [
+        // The transitional item is a constant, that is 'kubejs:incomplete_spore_blossom' and is used during the intermediate stages of the assembly.
+        // Like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item.
+        // event.recipes.create.pressing(transitionalRE, transitionalRE),
+        event.recipes.create.deploying(transitionalRE, [transitionalRE, 'create:brass_sheet']),
+        event.recipes.create.pressing(transitionalRE, transitionalRE),
+        event.recipes.create.deploying(transitionalRE, [transitionalRE, 'powergrid:zinc_sheet']),
+        event.recipes.create.pressing(transitionalRE, transitionalRE),
+        event.recipes.create.deploying(transitionalRE, [transitionalRE, 'minecraft:sculk_catalyst'])
+
+
+      ]
+    )
+    .transitionalItem(transitionalRE) // Set the transitional item
+
+
 const transitionalCOP = 'create_sa:incomplete_hydraulic_engine' // Making a constant to store the transitional item makes the code more readable
   event.recipes.create.sequenced_assembly(
       // Outputs:
@@ -269,12 +393,12 @@ event.remove('get_creative:empty_breeze_whirler')
         'OZX',
         'IBI',
         'XZO'
-    ], {
+    ], {  
         Z: 'powergrid:zinc_sheet',
         X: 'create:zinc_nugget',
         I:'create:iron_sheet',
         O:'minecraft:iron_nugget',
-        B:'minecraft:iron_bars'
+        B:'kubejs:whirlwind_helmet_fragment'
         // P:'create:piston_extension_pole'
     });
     event.remove('ftbquests:book')
@@ -463,6 +587,19 @@ event.custom({
   "type": "create_dragons_plus:freezing",
   "ingredients": [
     {
+      "item": "friendsandfoes:wildfire_crown_fragment"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:whirlwind_helmet_fragment"
+    }
+  ]
+})
+event.custom({
+  "type": "create_dragons_plus:freezing",
+  "ingredients": [
+    {
       "item": "minecraft:rotten_flesh"
     }
   ],
@@ -515,7 +652,7 @@ event.custom({
 
 event.recipes.create.mixing('yungscavebiomes:rare_ice', ['minecraft:blue_ice', 'yungscavebiomes:suspicious_ancient_sand']).processingTime(5000);
 
-const egg = ['naturalist:alligator_egg', 'naturalist:duck_egg', 'naturalist:tortoise_egg', 'minecraft:turtle_egg', 'naturalist:snail_eggs', 'friendsandfoes:crab_egg']
+const egg = ['minecraft:blue_egg', 'minecraft:brown_egg','naturalist:alligator_egg', 'naturalist:duck_egg', 'naturalist:tortoise_egg', 'minecraft:turtle_egg', 'naturalist:snail_eggs', 'friendsandfoes:crab_egg']
 
 egg.forEach(egg => {
   event.smelting( 'farmersdelight:fried_egg', egg).cookingTime(200)
@@ -561,23 +698,23 @@ event.custom({
     event.remove('create:crushing/asurine')
     event.remove('create_copper_and_zinc:milling_asurine')
 
-    event.recipes.create.crushing([CreateItem.of('create:crushed_raw_zinc',0.05),CreateItem.of('create:zinc_nugget',0.05)], 'create:asurine').processingTime(2000);
+    event.recipes.create.crushing([CreateItem.of('create:crushed_raw_zinc',0.05),CreateItem.of('create:zinc_nugget',0.05)], 'create:asurine').processingTime(1000);
 
         event.remove('create:crushing/veridium_recycling')
     event.remove('create_copper_and_zinc:crushing_veridium')
     event.remove('create:crushing/veridium')
     event.remove('create_copper_and_zinc:milling_veridium')
 
-        event.recipes.create.crushing([CreateItem.of('create:crushed_raw_copper',0.05),CreateItem.of('create:copper_nugget',0.05)], 'create:veridium').processingTime(2000);
+        event.recipes.create.crushing([CreateItem.of('create:crushed_raw_copper',0.05),CreateItem.of('create:copper_nugget',0.05)], 'create:veridium').processingTime(1000);
 
         event.remove('create:crushing/ochrum')
         event.remove('create:crushing/ochrum_recycling')
-        event.recipes.create.crushing([CreateItem.of('create:crushed_raw_gold',0.075),CreateItem.of('minecraft:gold_nugget',0.075)], 'create:ochrum').processingTime(2000);
+        event.recipes.create.crushing([CreateItem.of('create:crushed_raw_gold',0.075),CreateItem.of('minecraft:gold_nugget',0.075)], 'create:ochrum').processingTime(1000);
 
 
         event.remove('create:crushing/crimsite')
         event.remove('create:crushing/crimsite_recycling')
-        event.recipes.create.crushing([CreateItem.of('create:crushed_raw_iron',0.085),CreateItem.of('minecraft:iron_nugget',0.085)], 'create:crimsite').processingTime(2000);
+        event.recipes.create.crushing([CreateItem.of('create:crushed_raw_iron',0.12),CreateItem.of('minecraft:iron_nugget',0.12)], 'create:crimsite').processingTime(1000);
 
 // DRACONIC HEAT RECIPES ***************************************************
 
@@ -678,6 +815,10 @@ Lightning.forEach((light, index) => {
     }) 
 event.remove('gyro:joystick');
 event.remove('gyro:gyroscope');
+
+
+
+
 // BLAZING RECIPES **************************************************
 // [, , 'friendsandfoes:wildfire_crown_fragment']
 
@@ -698,6 +839,26 @@ Gold.forEach((gold, index) => {
 //['create:deployer', 'friendsandfoes:crab_claw', 'create:piston_extension_pole', 'create:andesite_casing',
 //  'create:mechanical_crafter', 'create:electron_tube', 'create:golden_sheet', 'minecraft:crafter']
 // ['create:deployer', 'create:extendo_grip']
+
+    event.shaped('kubejs:whirlwind_helmet', [
+        '   ',
+        'WWW',
+        'W W'
+    ], {
+        W: "kubejs:whirlwind_helmet_fragment"
+        // P:'create:piston_extension_pole'
+    });
+
+    event.shaped('create:empty_blaze_burner', [
+        ' P ',
+        'PDP',
+        ' P '
+    ], {
+        P: 'create:iron_sheet',
+        D: 'friendsandfoes:wildfire_crown_fragment'
+        // P:'create:piston_extension_pole'
+    });
+event.remove('create:crafting/kinetics/empty_blaze_burner');
 
     event.shaped('create:deployer', [
         ' E ',
@@ -812,16 +973,16 @@ rawMetals.forEach((metal, index) => {
                             event.shapeless('bits_n_bobs:small_flanged_cogwheel',[
                                 "create:cogwheel", "create:zinc_nugget"
                             ])
-    event.shaped('minecraft:bundle', [
-        ' R ',
-        'LSR',
-        ' L '
-    ], {
-        L: 'minecraft:leather',
-        S:'minecraft:string',
-        R:'farmersdelight:rope'
-        // P:'create:piston_extension_pole'
-    });
+    // event.shaped('minecraft:bundle', [
+    //     ' R ',
+    //     'LSR',
+    //     ' L '
+    // ], {
+    //     L: 'minecraft:leather',
+    //     S:'minecraft:string',
+    //     R:'farmersdelight:rope'
+    //     // P:'create:piston_extension_pole'
+    // });
 
 
 

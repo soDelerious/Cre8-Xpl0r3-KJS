@@ -1,5 +1,11 @@
 [
   {"version":1},
+  {"ingredient":{"id":"endermanoverhaul:corrupted_shield"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luminous_beasts:woodland_witch_doctor_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:reinforced_deepslate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"luminous_beasts:beast_pit_off"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:precision_mechanism"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:music_disc_precipice"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:powder_snow_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_sa:portable_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:mechanical_pump"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -21,7 +27,6 @@
   {"ingredient":{"id":"luminous_beasts:gator_tooth"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:bedrock"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:skeleton_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"luminous_beasts:beast_pit_off"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"luminous_beasts:hatch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"kubejs:copper_map"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"rottencreatures:mummy_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -94,10 +99,5 @@
   {"ingredient":{"id":"create_sa:blazing_cleaver"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:golden_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create_sa:experience_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:wither_skeleton_skull"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:crafter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:electron_tube"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"blazinghot:blaze_casing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:obsidian"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:extendo_grip"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:wither_skeleton_skull"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

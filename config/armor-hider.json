@@ -1,6 +1,6 @@
 {
   "configVersion": 4,
-  "helmetOpacity": 0.5,
+  "helmetOpacity": 1.0,
   "helmetGlint": true,
   "chestOpacity": 0.5,
   "chestGlint": true,
@@ -17,6 +17,7 @@
   "usePlayerSettingsWhenUndeterminable": true,
   "showSettingsInSkinCustomization": false,
   "offHandOpacity": 1.0,
+  "showShieldWhenBlocking": false,
   "playerId": "2dce5a2f-9e67-41db-9e09-a90ab3358224",
   "playerName": "CardboardBoxMan",
   "exclusionItems": {
@@ -72,6 +73,10 @@
         },
         "create_sa:copper_helmet": {
           "displayName": "Copper Helmet",
+          "shouldIgnore": false
+        },
+        "kubejs:whirlwind_helmet": {
+          "displayName": "Whirlwind Helmet",
           "shouldIgnore": false
         }
       },
@@ -232,6 +237,10 @@
         },
         "create:mechanical_saw": {
           "displayName": "Mechanical Saw",
+          "shouldIgnore": false
+        },
+        "create:extendo_grip": {
+          "displayName": "Extendo Grip",
           "shouldIgnore": false
         }
       },
@@ -1778,6 +1787,374 @@
         },
         "get_creative:clockwork_motor": {
           "displayName": "Clockwork Motor",
+          "shouldIgnore": false
+        },
+        "kubejs:whirlwind_helmet": {
+          "displayName": "Whirlwind Helmet",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:wildfire_crown": {
+          "displayName": "Wildfire Crown",
+          "shouldIgnore": false
+        },
+        "minecraft:dark_oak_log": {
+          "displayName": "Dark Oak Log",
+          "shouldIgnore": false
+        },
+        "whirl_wind:whirl_wind_spawn_egg": {
+          "displayName": "Whirl Wind Spawn Egg",
+          "shouldIgnore": false
+        },
+        "create:wand_of_symmetry": {
+          "displayName": "Wand Of Symmetry",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_oxidized_copper_trapdoor": {
+          "displayName": "Waxed Oxidized Copper Trapdoor",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_oxidized_chiseled_copper": {
+          "displayName": "Waxed Oxidized Chiseled Copper",
+          "shouldIgnore": false
+        },
+        "minecraft:oxidized_cut_copper_slab": {
+          "displayName": "Oxidized Cut Copper Slab",
+          "shouldIgnore": false
+        },
+        "minecraft:comparator": {
+          "displayName": "Redstone Comparator",
+          "shouldIgnore": false
+        },
+        "minecraft:wind_charge": {
+          "displayName": "Wind Charge",
+          "shouldIgnore": false
+        },
+        "minecraft:dispenser": {
+          "displayName": "Dispenser",
+          "shouldIgnore": false
+        },
+        "minecraft:target": {
+          "displayName": "Target",
+          "shouldIgnore": false
+        },
+        "minecraft:tuff_bricks": {
+          "displayName": "Tuff Bricks",
+          "shouldIgnore": false
+        },
+        "minecraft:oak_button": {
+          "displayName": "Oak Button",
+          "shouldIgnore": false
+        },
+        "minecraft:chiseled_tuff": {
+          "displayName": "Chiseled Tuff",
+          "shouldIgnore": false
+        },
+        "minecraft:orange_stained_glass": {
+          "displayName": "Orange Stained Glass",
+          "shouldIgnore": false
+        },
+        "minecraft:cyan_stained_glass": {
+          "displayName": "Cyan Stained Glass",
+          "shouldIgnore": false
+        },
+        "minecraft:mangrove_button": {
+          "displayName": "Mangrove Button",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_oxidized_copper_grate": {
+          "displayName": "Waxed Oxidized Copper Grate",
+          "shouldIgnore": false
+        },
+        "minecraft:stripped_oak_wood": {
+          "displayName": "Stripped Oak Wood",
+          "shouldIgnore": false
+        },
+        "minecraft:polished_tuff": {
+          "displayName": "Polished Tuff",
+          "shouldIgnore": false
+        },
+        "minecraft:chiseled_tuff_bricks": {
+          "displayName": "Chiseled Tuff Bricks",
+          "shouldIgnore": false
+        },
+        "minecraft:soul_campfire": {
+          "displayName": "Soul Campfire",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_copper_bulb": {
+          "displayName": "Waxed Copper Bulb",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_oxidized_cut_copper_stairs": {
+          "displayName": "Waxed Oxidized Cut Copper Stairs",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_cut_copper_stairs": {
+          "displayName": "Waxed Cut Copper Stairs",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_chiseled_copper": {
+          "displayName": "Waxed Chiseled Copper",
+          "shouldIgnore": false
+        },
+        "minecraft:stripped_crimson_stem": {
+          "displayName": "Stripped Crimson Stem",
+          "shouldIgnore": false
+        },
+        "minecraft:crimson_slab": {
+          "displayName": "Crimson Slab",
+          "shouldIgnore": false
+        },
+        "minecraft:crimson_planks": {
+          "displayName": "Crimson Planks",
+          "shouldIgnore": false
+        },
+        "minecraft:stripped_warped_stem": {
+          "displayName": "Stripped Warped Stem",
+          "shouldIgnore": false
+        },
+        "minecraft:stripped_crimson_hyphae": {
+          "displayName": "Stripped Crimson Hyphae",
+          "shouldIgnore": false
+        },
+        "minecraft:warped_slab": {
+          "displayName": "Warped Slab",
+          "shouldIgnore": false
+        },
+        "minecraft:stripped_warped_hyphae": {
+          "displayName": "Stripped Warped Hyphae",
+          "shouldIgnore": false
+        },
+        "minecraft:tuff_brick_stairs": {
+          "displayName": "Tuff Brick Stairs",
+          "shouldIgnore": false
+        },
+        "minecraft:tuff_brick_slab": {
+          "displayName": "Tuff Brick Slab",
+          "shouldIgnore": false
+        },
+        "minecraft:pointed_dripstone": {
+          "displayName": "Pointed Dripstone",
+          "shouldIgnore": false
+        },
+        "create:extendo_grip": {
+          "displayName": "Extendo Grip",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_cut_copper_slab": {
+          "displayName": "Waxed Cut Copper Slab",
+          "shouldIgnore": false
+        },
+        "minecraft:crimson_button": {
+          "displayName": "Crimson Button",
+          "shouldIgnore": false
+        },
+        "minecraft:warped_button": {
+          "displayName": "Warped Button",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_copper_block": {
+          "displayName": "Waxed Block of Copper",
+          "shouldIgnore": false
+        },
+        "minecraft:hoglin_spawn_egg": {
+          "displayName": "Hoglin Spawn Egg",
+          "shouldIgnore": false
+        },
+        "minecraft:light_blue_stained_glass": {
+          "displayName": "Light Blue Stained Glass",
+          "shouldIgnore": false
+        },
+        "minecraft:orange_concrete_powder": {
+          "displayName": "Orange Concrete Powder",
+          "shouldIgnore": false
+        },
+        "minecraft:cyan_concrete_powder": {
+          "displayName": "Cyan Concrete Powder",
+          "shouldIgnore": false
+        },
+        "minecraft:white_stained_glass": {
+          "displayName": "White Stained Glass",
+          "shouldIgnore": false
+        },
+        "minecraft:breeze_spawn_egg": {
+          "displayName": "Breeze Spawn Egg",
+          "shouldIgnore": false
+        },
+        "minecraft:frog_spawn_egg": {
+          "displayName": "Frog Spawn Egg",
+          "shouldIgnore": false
+        },
+        "minecraft:light_gray_stained_glass": {
+          "displayName": "Light Gray Stained Glass",
+          "shouldIgnore": false
+        },
+        "minecraft:oxidized_chiseled_copper": {
+          "displayName": "Oxidized Chiseled Copper",
+          "shouldIgnore": false
+        },
+        "create_sa:brass_boots": {
+          "displayName": "Brass Boots",
+          "shouldIgnore": false
+        },
+        "create_sa:brass_chestplate": {
+          "displayName": "Brass Chestplate",
+          "shouldIgnore": false
+        },
+        "create_sa:brass_helmet": {
+          "displayName": "Brass Helmet",
+          "shouldIgnore": false
+        },
+        "farmersdelight:steak_and_potatoes": {
+          "displayName": "Steak and Potatoes",
+          "shouldIgnore": false
+        },
+        "minecraft:trial_spawner": {
+          "displayName": "Trial Spawner",
+          "shouldIgnore": false
+        },
+        "minecraft:observer": {
+          "displayName": "Observer",
+          "shouldIgnore": false
+        },
+        "minecraft:oxidized_cut_copper_stairs": {
+          "displayName": "Oxidized Cut Copper Stairs",
+          "shouldIgnore": false
+        },
+        "minecraft:zombie_spawn_egg": {
+          "displayName": "Zombie Spawn Egg",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_copper_trapdoor": {
+          "displayName": "Waxed Copper Trapdoor",
+          "shouldIgnore": false
+        },
+        "minecraft:lava_bucket": {
+          "displayName": "Lava Bucket",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_oxidized_copper_bulb": {
+          "displayName": "Waxed Oxidized Copper Bulb",
+          "shouldIgnore": false
+        },
+        "create:crafting_blueprint": {
+          "displayName": "Crafting Blueprint",
+          "shouldIgnore": false
+        },
+        "create:iron_sheet": {
+          "displayName": "Iron Sheet",
+          "shouldIgnore": false
+        },
+        "powergrid:zinc_sheet": {
+          "displayName": "Zinc Sheet",
+          "shouldIgnore": false
+        },
+        "minecraft:waxed_oxidized_cut_copper": {
+          "displayName": "Waxed Oxidized Cut Copper",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:copper_golem_spawn_egg": {
+          "displayName": "Copper Golem Spawn Egg",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:waxed_copper_button": {
+          "displayName": "Waxed Copper Button",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:waxed_oxidized_copper_button": {
+          "displayName": "Waxed Oxidized Copper Button",
+          "shouldIgnore": false
+        },
+        "minecraft:copper_ingot": {
+          "displayName": "Copper Ingot",
+          "shouldIgnore": false
+        },
+        "create:schematic_and_quill": {
+          "displayName": "Schematic And Quill",
+          "shouldIgnore": false
+        },
+        "kubejs:whirlwind_helmet_fragment": {
+          "displayName": "Whirlwind Crown Fragment",
+          "shouldIgnore": false
+        },
+        "minecraft:jack_o_lantern": {
+          "displayName": "Jack o\u0027Lantern",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:waxed_lightning_rod": {
+          "displayName": "Waxed Lightning Rod",
+          "shouldIgnore": false
+        },
+        "minecraft:piston": {
+          "displayName": "Piston",
+          "shouldIgnore": false
+        },
+        "minecraft:oxidized_copper_trapdoor": {
+          "displayName": "Oxidized Copper Trapdoor",
+          "shouldIgnore": false
+        },
+        "minecraft:mud_brick_wall": {
+          "displayName": "Mud Brick Wall",
+          "shouldIgnore": false
+        },
+        "create:radial_chassis": {
+          "displayName": "Radial Chassis",
+          "shouldIgnore": false
+        },
+        "aeronautics:propeller_bearing": {
+          "displayName": "Propeller Bearing",
+          "shouldIgnore": false
+        },
+        "create:water_wheel": {
+          "displayName": "Water Wheel",
+          "shouldIgnore": false
+        },
+        "minecraft:cut_copper_stairs": {
+          "displayName": "Cut Copper Stairs",
+          "shouldIgnore": false
+        },
+        "minecraft:cracked_stone_bricks": {
+          "displayName": "Cracked Stone Bricks",
+          "shouldIgnore": false
+        },
+        "minecraft:tuff_wall": {
+          "displayName": "Tuff Wall",
+          "shouldIgnore": false
+        },
+        "minecraft:tuff_brick_wall": {
+          "displayName": "Tuff Brick Wall",
+          "shouldIgnore": false
+        },
+        "minecraft:wooden_sword": {
+          "displayName": "Wooden Sword",
+          "shouldIgnore": false
+        },
+        "get_creative:empty_breeze_whirler": {
+          "displayName": "Empty Breeze Whirler",
+          "shouldIgnore": false
+        },
+        "create:empty_blaze_burner": {
+          "displayName": "Empty Blaze Burner",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:wildfire_spawn_egg": {
+          "displayName": "Wildfire Spawn Egg",
+          "shouldIgnore": false
+        },
+        "friendsandfoes:wildfire_crown_fragment": {
+          "displayName": "Wildfire Crown Fragment",
+          "shouldIgnore": false
+        },
+        "minecraft:netherite_boots": {
+          "displayName": "Netherite Boots",
+          "shouldIgnore": false
+        },
+        "minecraft:netherite_leggings": {
+          "displayName": "Netherite Leggings",
+          "shouldIgnore": false
+        },
+        "minecraft:netherite_chestplate": {
+          "displayName": "Netherite Chestplate",
           "shouldIgnore": false
         }
       }
