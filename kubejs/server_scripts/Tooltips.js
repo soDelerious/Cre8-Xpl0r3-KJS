@@ -68,8 +68,9 @@
         text.insert(1, Text.join([
             Text.gray("An Infinite, Fuelless Heat Source. Provides"),
             Text.gold(" Draconic/Heated ").italic(),
-            Text.gray("heat level to basins. Alternatively, can be used for bulk"),
-            Text.gold(" Blasting ").italic()
+            Text.gray("heat level to basins. Alternatively, can be"),
+            Text.gold(" Crushed ").italic(),
+            Text.gray("to obtain the Dragon Guard's Shield."),
             // Text.gray("Hold [Shift] for Summary")
         ]))
     })
@@ -134,8 +135,9 @@
         text.insert(1, Text.join([
             Text.gray("An Infinite, Fuelless Heat Source. Provides"),
             Text.aqua(" Withered/Super-Heated ").italic(),
-            Text.gray("heat level to basins. Alternatively, can be used for bulk"),
-            Text.aqua(" Haunting ").italic()            // Text.gray("Hold [Shift] for Summary")
+            Text.gray("heat level to basins. Alternatively, can be"),
+            Text.aqua(" Deployed ").italic(),
+            Text.gray("to obtain Helvar's Sword."),
         ]))
     })
 
@@ -254,6 +256,27 @@ event.modify('kubejs:copper_map', { shift: false }, text => {
 
     })
 
+event.modify('kubejs:chunk_pulser', { shift: false }, text => {
+        // Insert a nice "hold Shift" hint at line #1
+        text.insert(1, Text.join([
+            Text.gray("Hold ["),
+            Text.white("Shift"),
+            Text.gray("] for Summary")
+
+            // Text.gray("Hold [Shift] for Summary")
+        ]))
+
+    })
+ event.modify('kubejs:chunk_pulser', { shift: true }, text => {
+        // Insert a nice "hold Shift" hint at line #1
+        text.insert(1, Text.join([
+            Text.gray("Pre-Loads chunks within a 50 chunk radius, chunky operations cannot be interrupted by other pulsers. Activate by feeding an "),
+            Text.gray("§5Amethyst Shard ").italic(),
+            Text.gray("while the device is Redstone powered.")
+        ]))
+
+    })
+
 
         event.modify('kubejs:whirlwind_helmet', { shift: false }, text => {
         // Insert a nice "hold Shift" hint at line #1
@@ -269,7 +292,7 @@ event.modify('kubejs:copper_map', { shift: false }, text => {
     event.modify('kubejs:whirlwind_helmet', { shift: true }, text => {
         // Insert a nice "hold Shift" hint at line #1
         text.insert(1, Text.join([
-            Text.gray("Applies 'Wind Charged' to nearby mobs when falling."),
+            Text.gray("Applies 'Wind Charged' to nearby mobs when falling. Additionally helps protect the player from fall damage."),
 
         ]))
 
@@ -290,7 +313,7 @@ event.modify('kubejs:copper_map', { shift: false }, text => {
     event.modify('friendsandfoes:wildfire_crown', { shift: true }, text => {
         // Insert a nice "hold Shift" hint at line #1
         text.insert(1, Text.join([
-            Text.gray("Applies 'Fire Resistance' to the player temporarily when taking fire damage."),
+            Text.gray("Applies 'Fire Resistance' to the player temporarily when taking fire damage. Additionally sets hurt entities on fire."),
 
         ]))
 

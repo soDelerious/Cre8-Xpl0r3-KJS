@@ -1451,7 +1451,7 @@
 		}
 		{
 			height: 1.0d
-			image: "farmersdelight:block/rope_fence_gate"
+			image: "farmersdelight:block/rope"
 			rotation: 0.0d
 			width: 1.0d
 			x: -0.85d
@@ -1737,28 +1737,11 @@
 		}
 		{
 			height: 1.0d
-			image: "create:block/copper/copper_roof_top"
-			rotation: 0.0d
-			width: 1.0d
-			x: -11.9d
-			y: 4.25d
-		}
-		{
-			height: 1.0d
 			image: "minecraft:block/carved_pumpkin"
 			rotation: 0.0d
 			width: 1.0d
 			x: -11.9d
 			y: 3.4d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/lightning_rod"
-			order: -1
-			rotation: 0.0d
-			width: 1.0d
-			x: -11.513095238095222d
-			y: 2.55d
 		}
 		{
 			height: 1.0d
@@ -2147,6 +2130,7 @@
 		{
 			height: 1.0d
 			image: "minecraft:block/frosted_ice_0"
+			order: 100
 			rotation: 0.0d
 			width: 1.0d
 			x: -11.9d
@@ -2191,14 +2175,6 @@
 			width: 1.0d
 			x: -11.9d
 			y: 5.95d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/frosted_ice_0"
-			rotation: 0.0d
-			width: 1.0d
-			x: -11.9d
-			y: 5.1d
 		}
 		{
 			height: 1.0d
@@ -2847,6 +2823,7 @@
 			alpha: 125
 			height: 1.0d
 			image: "minecraft:block/frosted_ice_3"
+			order: 100
 			rotation: 0.0d
 			width: 1.0d
 			x: -11.9d
@@ -4489,7 +4466,7 @@
 		}
 		{
 			height: 1.0d
-			image: "farmersdelight:block/rope_fence_gate_wall"
+			image: "farmersdelight:block/rope"
 			rotation: 0.0d
 			width: 1.0d
 			x: 7.6499999999999995d
@@ -8313,71 +8290,23 @@
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			rotation: 0.0d
 			width: 1.0d
-			x: -3.4d
-			y: 17.849999999999998d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.55d
-			y: 17.849999999999998d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.1d
-			y: 17.0d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.1d
-			y: 17.849999999999998d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.1d
-			y: 18.7d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
 			x: -4.25d
 			y: 17.849999999999998d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: 18.7d
-		}
-		{
-			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: 19.55d
 		}
 		{
 			height: 1.0d
 			image: "minecraft:block/pale_hanging_moss"
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.25d
+			x: -6.8d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/pale_hanging_moss_tip"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.8d
 			y: 18.7d
 		}
 		{
@@ -8385,16 +8314,8 @@
 			image: "minecraft:block/pale_hanging_moss_tip"
 			rotation: 0.0d
 			width: 1.0d
-			x: -4.25d
+			x: -5.95d
 			y: 19.55d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/pale_hanging_moss_tip"
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.4d
-			y: 20.4d
 		}
 		{
 			height: 1.0d
@@ -8403,6 +8324,177 @@
 			width: 1.0d
 			x: -2.55d
 			y: 12.75d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cinnabar"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/chiseled_sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.55d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cinnabar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cinnabar"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 18.7d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: 19.55d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cinnabar"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 17.849999999999998d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/sulfur_spike_down_frustum"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 20.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/sulfur_spike"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.4d
+			y: 21.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/sulfur_spike"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.1d
+			y: 20.4d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/resin_clump"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 5.1d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/snow"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.9d
+			y: 4.25d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/basalt_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.2d
+			y: 2.55d
+		}
+		{
+			color: 12511227
+			height: 1.0d
+			image: "minecraft:item/carrot_on_a_stick"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.322619047619071d
+			y: 3.7642857142856982d
+		}
+		{
+			height: 1.5d
+			image: "simulated:block/redstone_accumulator/block_powered"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/gui/sprites/container/crafter/powered_redstone.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.7130952380951854d
+			y: 8.014285714285698d
 		}
 	]
 	order_index: 1
@@ -8650,6 +8742,7 @@
 						id: "yungscavebiomes:suspicious_ancient_sand"
 					}
 					id: "321416B305275B99"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "yungscavebiomes:suspicious_ancient_sand"
@@ -8660,6 +8753,7 @@
 						id: "yungscavebiomes:sand_snapper_spawn_egg"
 					}
 					id: "376134914A0E658B"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "yungscavebiomes:sand_snapper"
@@ -8685,6 +8779,7 @@
 			tasks: [
 				{
 					id: "00A009A298EB2656"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "molten_vents:active_molten_ochrum"
@@ -8692,6 +8787,7 @@
 				}
 				{
 					id: "1F9FB6E338C305E9"
+					observation_type: "block"
 					observe_type: 0
 					optional_task: true
 					timer: 0L
@@ -9499,6 +9595,7 @@
 						id: "friendsandfoes:moobloom_spawn_egg"
 					}
 					id: "5A6069ADB29A0361"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "friendsandfoes:moobloom"
@@ -9509,6 +9606,7 @@
 						id: "minecraft:sniffer_spawn_egg"
 					}
 					id: "223D8DCD4808A0C6"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:sniffer"
@@ -9519,6 +9617,7 @@
 						id: "friendsandfoes:glare_spawn_egg"
 					}
 					id: "7BB60E965D40CC18"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "friendsandfoes:glare"
@@ -9529,6 +9628,7 @@
 						id: "friendsandfoes:rascal_spawn_egg"
 					}
 					id: "25FA5DFCD050C5EB"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "friendsandfoes:rascal"
@@ -9539,6 +9639,7 @@
 						id: "minecraft:allay_spawn_egg"
 					}
 					id: "403FE423B38AD5CC"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:allay"
@@ -9639,6 +9740,7 @@
 						id: "friendsandfoes:copper_golem_spawn_egg"
 					}
 					id: "14A08161BBF537AE"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "friendsandfoes:copper_golem"
@@ -9649,6 +9751,7 @@
 						id: "minecraft:iron_golem_spawn_egg"
 					}
 					id: "324EF16A45E659CE"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:iron_golem"
@@ -9659,6 +9762,7 @@
 						id: "takesapillage:clay_golem_spawn_egg"
 					}
 					id: "37CE4F0B71211B94"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "takesapillage:clay_golem"
@@ -9669,14 +9773,26 @@
 						id: "friendsandfoes:tuff_golem_spawn_egg"
 					}
 					id: "245317F0DD37FE32"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "friendsandfoes:tuff_golem"
 					type: "observation"
 				}
+				{
+					icon: {
+						id: "minecraft:snow_golem_spawn_egg"
+					}
+					id: "1C5E39D8761E7422"
+					observation_type: "entity_type"
+					observe_type: 5
+					timer: 0L
+					to_observe: "minecraft:snow_golem"
+					type: "observation"
+				}
 			]
-			x: -12.134523809523799d
-			y: 2.180952380952391d
+			x: -12.39404761904764d
+			y: 2.9785714285714135d
 		}
 		{
 			dependencies: ["0F6E9698A7EFDC08"]
@@ -9825,6 +9941,7 @@
 			tasks: [
 				{
 					id: "5021EAEC16D391CD"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "molten_vents:active_molten_asurine"
@@ -9832,6 +9949,7 @@
 				}
 				{
 					id: "51E55A5B5D0D4CC8"
+					observation_type: "block"
 					observe_type: 0
 					optional_task: true
 					timer: 0L
@@ -10005,6 +10123,7 @@
 						id: "endermanoverhaul:mushroom_fields_enderman_spawn_egg"
 					}
 					id: "7E7A5B0468924E0C"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "endermanoverhaul:mushroom_fields_enderman"
@@ -10015,6 +10134,7 @@
 						id: "creeperoverhaul:mushroom_creeper_spawn_egg"
 					}
 					id: "1911142388EB4F37"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "creeperoverhaul:mushroom_creeper"
@@ -10025,6 +10145,7 @@
 						id: "minecraft:mooshroom_spawn_egg"
 					}
 					id: "5A9EC7F48F2D7F6E"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "minecraft:mooshroom"
@@ -10089,6 +10210,7 @@
 			tasks: [
 				{
 					id: "7B6A41061B00A9DF"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "molten_vents:active_molten_crimsite"
@@ -10096,6 +10218,7 @@
 				}
 				{
 					id: "501FBB600E3E5ECF"
+					observation_type: "block"
 					observe_type: 0
 					optional_task: true
 					timer: 0L
@@ -10135,6 +10258,7 @@
 						id: "piglinproliferation:piglin_traveler_spawn_egg"
 					}
 					id: "097F54879378CFA1"
+					observation_type: "entity_type"
 					observe_type: 5
 					timer: 0L
 					to_observe: "piglinproliferation:piglin_traveler"
@@ -10400,6 +10524,7 @@
 			tasks: [
 				{
 					id: "6237852EDDA9A48D"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "molten_vents:active_molten_veridium"
@@ -10407,6 +10532,7 @@
 				}
 				{
 					id: "4D291A90CBA51CE6"
+					observation_type: "block"
 					observe_type: 0
 					optional_task: true
 					timer: 0L
@@ -10450,6 +10576,7 @@
 				"2DB2B539369296BC"
 				"7FD4BCFDD74D64E7"
 				"48258C7DDB3E0151"
+				"7AE978D47EC511E7"
 			]
 			hide_dependency_lines: true
 			icon: {
@@ -10480,8 +10607,8 @@
 				id: "7C96BAAD1EDBABCC"
 				type: "checkmark"
 			}]
-			x: -0.5d
-			y: 8.0d
+			x: 0.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["1DFE4980354295BB"]
@@ -10793,8 +10920,8 @@
 					type: "item"
 				}
 			]
-			x: -4.025000000000027d
-			y: 15.669047619047603d
+			x: -5.263095238095275d
+			y: 16.954761904761867d
 		}
 		{
 			dependencies: ["1B1C7D4D69C72C1F"]
@@ -11110,8 +11237,8 @@
 				id: "59E23AD5E4AA8C55"
 				type: "checkmark"
 			}]
-			x: 0.5d
-			y: 8.0d
+			x: 1.5d
+			y: 7.0d
 		}
 		{
 			dependencies: ["72362C507A0A5F9B"]
@@ -11185,14 +11312,68 @@
 						id: "minecraft:creaking_heart"
 					}
 					id: "37B3487D4D437804"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "minecraft:creaking_heart"
 					type: "observation"
 				}
 			]
-			x: -3.025000000000027d
-			y: 16.335714285714268d
+			x: -3.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["0D368181A7C84F06"]
+			id: "57002DF4609D28EF"
+			rewards: [{
+				id: "62D939B5C35BD81A"
+				item: {
+					count: 1
+					id: "minecraft:raw_gold_block"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "minecraft:sulfur_caves"
+					icon: {
+						id: "minecraft:sulfur_spike"
+					}
+					id: "6B3D91DD506B3CB9"
+					type: "biome"
+				}
+				{
+					icon: {
+						id: "minecraft:sulfur_cube_bucket"
+					}
+					id: "19BFE3078E7C06F0"
+					observation_type: "entity_type"
+					observe_type: 5
+					timer: 0L
+					to_observe: "minecraft:sulfur_cube"
+					type: "observation"
+				}
+			]
+			x: -3.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			id: "5C3DB9CF7DFB8279"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "73217C9C8BE63827"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			shape: "square"
+			tasks: [{
+				id: "31915F55D1B68BE7"
+				item: { count: 1, id: "kubejs:chunk_pulser" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
 		}
 	]
 }

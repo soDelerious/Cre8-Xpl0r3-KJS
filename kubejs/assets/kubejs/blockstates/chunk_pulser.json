@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "kubejs:block/chunk_pulser" },
+    "powered=true": { "model": "kubejs:block/chunk_pulser_on" }
+  }
+}

@@ -2156,6 +2156,10 @@
         "minecraft:netherite_chestplate": {
           "displayName": "Netherite Chestplate",
           "shouldIgnore": false
+        },
+        "kubejs:chunk_pulser": {
+          "displayName": "Chunk Pulser",
+          "shouldIgnore": false
         }
       }
     }

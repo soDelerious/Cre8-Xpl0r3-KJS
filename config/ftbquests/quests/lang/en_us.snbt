@@ -368,7 +368,7 @@
 	]
 	quest.1A8688EE1280FDF8.quest_subtitle: "Obtain a Swivel Bearing"
 	quest.1AEB88C5EA168751.quest_desc: [
-		"Dried kelp and kelp belts are used for many item transport (and player transport) recipes in this mod, obtain some and check the recipes with JEI!"
+		"Dried kelp/resin and item belts are used for many item transport (and player transport) recipes in this mod, obtain some and check the recipes with JEI!"
 		""
 		"{image:create:block/belt/yellow_scroll width:25 height:25 align:center}"
 	]
@@ -710,6 +710,15 @@
 	]
 	quest.3299C86A694A4A18.quest_subtitle: "Obtain a Mechanical Bearing"
 	quest.3299C86A694A4A18.title: "Getting Kinda Dizzy"
+	quest.32B1BEEF5BC43652.quest_desc: [
+		"Resin is a great alternative stand-in for rubber. It's used for a LOT of crafts in the create mod, especially item transport!"
+		""
+		"In the future, use what you've learned to create an automatic resin farm!"
+		""
+		"{image:minecraft:block/chiseled_resin_bricks width:25 height:25 align:center}"
+	]
+	quest.32B1BEEF5BC43652.quest_subtitle: "Obtain Resin"
+	quest.32B1BEEF5BC43652.title: "This Resinates With Me."
 	quest.33F0FBD579158868.quest_subtitle: "Establish an Oilfield"
 	quest.33F0FBD579158868.title: "Louisiana Coast"
 	quest.343CC7B39EB201E7.quest_desc: [
@@ -1298,6 +1307,9 @@
 	quest.56F81E33B2E82001.quest_desc: ["Platinum spawns up near &osky islands&r. They will generate in &nfloating pylons&r rarely across the biome (~Y: 215)"]
 	quest.56F81E33B2E82001.quest_subtitle: "Obtain Platinum ingots"
 	quest.56F81E33B2E82001.title: "Rare *above* Earth Metals"
+	quest.57002DF4609D28EF.quest_desc: ["Locate command is currently broken for this biome, but it exists I promise."]
+	quest.57002DF4609D28EF.quest_subtitle: "Find the Sulphur Caves"
+	quest.57002DF4609D28EF.title: "Sulpheric Station"
 	quest.5724E10021271829.quest_subtitle: "Find Most Forest/Jungle Structures"
 	quest.5724E10021271829.title: "Forest Findings"
 	quest.5742483B1616BBD8.quest_desc: ["Use JEI and backtrack the recipe to create an infinitely regenerating source of Iron!"]
@@ -1335,6 +1347,8 @@
 	]
 	quest.5B84764DC8F39D9F.quest_subtitle: "Douse Apples in various metals"
 	quest.5B84764DC8F39D9F.title: "Candied... Apples?"
+	quest.5C3DB9CF7DFB8279.quest_subtitle: "Obtain a Chunk Pulser"
+	quest.5C3DB9CF7DFB8279.title: "Chunk Chaser"
 	quest.5CE0A6BDCFFBD273.quest_desc: [
 		"Mechanical belts allow for horizonal rotational transport, much like encased chain drives. However, these belts can transport items! Items will simply travel in the direction of rotation."
 		""

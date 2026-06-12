@@ -7,7 +7,13 @@
 	naturalSpawnRates = []
 	#Chunk-gen spawn rates (0.0–1.0, empty = default 1.0)
 	worldGenSpawnRates = []
+	#Per-dimension banned mobs.
+	#Format:
+	#minecraft:overworld=minecraft:creeper,minecraft:zombie
+	#minecraft:the_nether=minecraft:ghast
+	#
+	dimensionBannedMobs = []
 
 	[config_v1.spawn_caps_config_v1]
-		#Per‑category spawn caps per chunk (ex: "monster=70", "creature=10"). Values outside 0–999 are ignored.
+		#Per‑category spawn caps (ex: "monster=70", "creature=10"). Values outside 0–10000 are ignored.
 		spawnCaps = ["water_creature=5", "glares=5", "rascals=1", "underground_water_creature=5", "ambient=8", "axolotls=5", "creature=10", "water_ambient=6", "monster=60"]

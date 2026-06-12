@@ -6,6 +6,14 @@ EntityEvents.drops('block_factorys_bosses:yeti', event => {
         frostCatalyst.setGlowing(true)
 })
 
+EntityEvents.drops('block_factorys_bosses:infernal_dragon', event => {
+    
+
+    event.drops.clear()
+        let frostCatalyst = event.addDrop('block_factorys_bosses:dragon_skull')
+        frostCatalyst.setGlowing(true)
+})
+
 EntityEvents.drops('block_factorys_bosses:sandworm', event => {
     
 
@@ -14,6 +22,95 @@ EntityEvents.drops('block_factorys_bosses:sandworm', event => {
         sandCatalyst.setGlowing(true)
         // event.removeDrop('block_factorys_bosses:ice_gauntlet')
 })
+// // Update "powered" state when redstone signal changes on chunk_pulser
+BlockEvents.detectorChanged('kubejs:chunk_pulser', event => {
+    let powered = event.powered;
+    // Set block with powered property
+    event.block.set(`kubejs:chunk_pulser[powered=${powered}]`);
+});
+
+// BlockEvents.detectorPowered('chunk_pulser', event => {
+
+
+
+
+
+
+let commandQueue = [];
+let pulserCooldown = {}; // Track cooldown per player
+
+EntityEvents.spawned('whirl_wind:whirl_wind', event => {
+    commandQueue.push({
+        command: `effect give @e[type=whirl_wind:whirl_wind] minecraft:resistance infinite 2 true`,
+        executeAt: event.level.time + 5 
+    });
+});
+
+BlockEvents.rightClicked('kubejs:chunk_pulser', event => {
+    let playerName = event.player.getName().getString();
+    let currentTime = event.level.time;
+    let lastActivation = pulserCooldown[playerName] || 0;
+
+    let pos = event.block.getPos();
+    let x = pos.getX();
+    let y = pos.getY()+0.35;
+    let z = pos.getZ();
+
+    // Only allow activation if more than 5 ticks have passed since last activation
+    if (currentTime - lastActivation < 5) {
+        // event.player.tell("please wait at least 1 minute before activating another pulser.");
+        return;
+    }
+    
+    // Check if player is holding amethyst shard in mainhand
+    let mainHandItem = event.player.mainHandItem;
+
+    
+    
+    let blockString = event.block.toString();
+    let isPowered = blockString.includes('powered=true')
+    if (isPowered) {
+
+
+
+    if (!mainHandItem || mainHandItem.id !== 'minecraft:amethyst_shard') {
+        return;
+    }
+
+        commandQueue.push({
+            command: "particle create:wifi "+x+" "+y+" "+z,
+            executeAt: event.level.time + 5 
+        });
+        commandQueue.push({
+            command: "clear "+playerName+" minecraft:amethyst_shard 1",
+            executeAt: event.level.time + 5 
+        });
+        commandQueue.push({
+            command: "say Attempting Chunk Loading...",
+            executeAt: event.level.time + 5 
+        });
+        commandQueue.push({
+            command: "execute as " + playerName + " at " + playerName + " run chunky center",
+            executeAt: event.level.time + 5 
+        });
+        commandQueue.push({
+            command: "execute as " + playerName + " at " + playerName + " run chunky radius 50c",
+            executeAt: event.level.time + 5 
+        });
+        commandQueue.push({
+            command: "chunky continue",
+            executeAt: event.level.time + 5 
+        });
+        commandQueue.push({
+            command: "execute as " + playerName + " at " + playerName + " run chunky start",
+            executeAt: event.level.time + 5 
+        });
+    }
+        pulserCooldown[playerName] = currentTime;
+
+});
+
+
 
 
 EntityEvents.drops('endermanoverhaul:end_islands_enderman', event => {
@@ -180,7 +277,7 @@ EntityEvents.drops('friendsandfoes:crab', event => {
 EntityEvents.drops('block_factorys_bosses:underworld_knight', event => {
     
 
-    // event.drops.clear()
+    event.drops.clear()
         let withercar = event.addDrop('kubejs:wither_knight_catalyst')
         withercar.setGlowing(true)
         // event.removeDrop('block_factorys_bosses:ice_gauntlet')
@@ -380,7 +477,6 @@ EntityEvents.drops('whirl_wind:whirl_wind', event => {
     }
 })
 
-let commandQueue = [];
 
 EntityEvents.spawned('whirl_wind:whirl_wind', event => {
     commandQueue.push({

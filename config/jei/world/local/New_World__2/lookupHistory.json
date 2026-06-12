@@ -1,8 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"createpropulsion:raw_platinum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createpropulsion:platinum_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createpropulsion:platinum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createpropulsion:raw_platinum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simulated:auger_cog"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simulated:auger_shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:schematic_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},

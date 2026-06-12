@@ -36,35 +36,11 @@ ServerEvents.recipes(event => {
 //     {
 //       "type": "get_creative:arm_assembly",
 //       "ingredients": [
-//         { "item": "create:incomplete_precision_mechanism" },
-//         { "item": "create:large_cogwheel" }
+//         { "item": "create:incomplete_precision_mechanism" }
 //       ],
-//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
-//     },
-//     {
-//       "type": "get_creative:arm_assembly",
-//       "ingredients": [
-//         { "item": "create:incomplete_precision_mechanism" },
-//         { "item": "create:wrench" }
-//       ],
-//       "keep_held_item": true,
-//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
-//     },
-//     {
-//       "type": "get_creative:arm_assembly",
-//       "ingredients": [
-//         { "item": "create:incomplete_precision_mechanism" },
-//         { "tag": "c:nuggets/iron" }
-//       ],
-//       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
-//     },
-//     {
-//       "type": "get_creative:arm_assembly",
-//       "ingredients": [ { "item": "create:incomplete_precision_mechanism" } ],
 //       "results": [ { "id": "create:incomplete_precision_mechanism" } ]
 //     }
-//   ],
-//   "loops": 3
+//   ]
 // })
 
 
@@ -188,7 +164,7 @@ const transitionalCOP = 'create_sa:incomplete_hydraulic_engine' // Making a cons
       [
         // The transitional item is a constant, that is 'kubejs:incomplete_spore_blossom' and is used during the intermediate stages of the assembly.
         // Like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item.
-        event.recipes.create.deploying(transitionalCOP, [transitionalCOP, 'create:electron_tube']),
+        event.recipes.create.deploying(transitionalCOP, [transitionalCOP, Ingredient.of('#powergrid:circuit_component')]),
         event.recipes.create.filling(transitionalCOP, [transitionalCOP, Fluid.of('create_enchantment_industry:experience', 150)]),
         // event.recipes.create.pressing(transitionalCOP, transitionalCOP),
         event.recipes.create.deploying(transitionalCOP, [transitionalCOP, 'ftbquests:book']),
@@ -255,7 +231,7 @@ const transitionalToT = 'kubejs:incomplete_totem' // Making a constant to store 
         event.recipes.create.deploying(transitional, [transitional, 'simulated:gyroscopic_mechanism']),
         event.recipes.create.filling(transitional, [transitional, Fluid.of('blazinghot:molten_blaze_gold', 500)]),
         // event.recipes.create.pressing(transitional, transitional),
-        event.recipes.create.deploying(transitional, [transitional, 'create:electron_tube']),
+        event.recipes.create.deploying(transitional, [transitional, Ingredient.of('#powergrid:circuit_component')]),
         // event.recipes.create.pressing(transitional, transitional),
         event.recipes.create.deploying(transitional, [transitional, 'create_sa:steam_engine']),
         event.recipes.create.deploying(transitional, [transitional, 'create:brass_sheet'])
@@ -386,6 +362,22 @@ event.recipes.create.mechanical_crafting('aeronautics_utility_objects:brass_univ
         
     //     // P:'create:piston_extension_pole'
     // });
+
+    event.shaped('kubejs:chunk_pulser', [
+        'OSO',
+        'BZB',
+        'ECR'
+    ], {  
+        E: 'create:electron_tube',
+        Z: 'powergrid:zinc_sheet',
+        C:'powergrid:empty_circuit',
+        R:'powergrid:regulator_tube',
+        B:'powergrid:barretter_tube',
+        O:'create:sturdy_sheet',
+        S:'minecraft:spyglass'
+
+        // P:'create:piston_extension_pole'
+    });
 event.remove('ftbquests:book')
 event.remove('get_creative:empty_breeze_whirler')
 
@@ -715,21 +707,73 @@ event.custom({
         event.remove('create:crushing/crimsite')
         event.remove('create:crushing/crimsite_recycling')
         event.recipes.create.crushing([CreateItem.of('create:crushed_raw_iron',0.12),CreateItem.of('minecraft:iron_nugget',0.12)], 'create:crimsite').processingTime(1000);
+//RESIN ALTERNATIVE**************************************************
 
+    event.shaped('create:belt_connector', [
+        '   ',
+        'RRR',
+        'RRR'
+    ], {
+        R: 'minecraft:resin_clump'
+        // P:'create:piston_extension_pole'
+    });
+event.shaped('create:andesite_tunnel', [
+        ' AA',
+        ' RR',
+        '   '
+    ], {
+        R: 'minecraft:resin_clump',
+        A: 'create:andesite_alloy'
+
+        // P:'create:piston_extension_pole'
+    });
+event.shaped('create:brass_tunnel', [
+        ' T ',
+        ' AA',
+        ' RR'
+    ], {
+        R: 'minecraft:resin_clump',
+        A: 'create:brass_ingot',
+        T: 'create:electron_tube'
+
+        // P:'create:piston_extension_pole'
+    });
+event.shaped('create:andesite_funnel', [
+        ' A ',
+        ' R ',
+        '   '
+    ], {
+        R: 'minecraft:resin_clump',
+        A: 'create:andesite_alloy'
+
+        // P:'create:piston_extension_pole'
+    });
+event.shaped('create:brass_funnel', [
+        ' T ',
+        ' A ',
+        ' R '
+    ], {
+        R: 'minecraft:resin_clump',
+        A: 'create:brass_ingot',
+        T: 'create:electron_tube'
+
+        // P:'create:piston_extension_pole'
+    });
 // DRACONIC HEAT RECIPES ***************************************************
 
 
 
+
   event.recipes.create.mixing("create_dragons_plus:blaze_upgrade_smithing_template", ['blazinghot:nether_essence', 'minecraft:netherrack', 'create:blaze_burner']).heatLevel("DRACONIC");
-  event.recipes.create.mixing('block_factorys_bosses:dragon_bone', 'minecraft:bone').heatLevel("DRACONIC").processingTime(2000);
-  event.recipes.create.compacting(Item.of('blazinghot:nether_essence',3), 'block_factorys_bosses:dragon_bone').heatLevel("DRACONIC");
+  // event.recipes.create.mixing('block_factorys_bosses:dragon_bone', 'minecraft:bone').heatLevel("DRACONIC").processingTime(2000);
+  // event.recipes.create.compacting(Item.of('blazinghot:nether_essence',3), 'block_factorys_bosses:dragon_bone').heatLevel("DRACONIC");
   event.recipes.create.mixing(Item.of('create:blaze_cake',2), 'minecraft:cake').heatLevel("DRACONIC").processingTime(2000);
   event.recipes.create.compacting('minecraft:fire_charge',  'minecraft:clay_ball').heatLevel("DRACONIC").processingTime(2000);
   event.recipes.create.compacting('rottencreatures:magma_rotten_flesh', 'minecraft:rotten_flesh').heatLevel("DRACONIC").processingTime(2000);
   event.recipes.create.mixing('minecraft:blaze_rod', 'minecraft:breeze_rod').heatLevel("DRACONIC").processingTime(2000);
   event.recipes.create.compacting('friendsandfoes:wildfire_crown_fragment', 'blazinghot:blaze_gold_block').heatLevel("DRACONIC").processingTime(2000);
   event.recipes.create.mixing('rottencreatures:corrupted_wart', 'minecraft:nether_wart').heatLevel("DRACONIC").processingTime(2000);
-  event.recipes.create.mixing('minecraft:redstone', 'blazinghot:netherrack_dust').heatLevel("DRACONIC").processingTime(2000);
+  event.recipes.create.mixing('minecraft:redstone', Item.of('blazinghot:netherrack_dust', 3)).heatLevel("DRACONIC").processingTime(2000);
 //   event.recipes.create.mixing('minecraft:netherite_upgrade_smithing_template', ['friendsandfoes:wildfire_crown_fragment', Item.of('blazinghot:nether_essence', 2), 'minecraft:netherite_scrap', Item.of('minecraft:nether_brick', 9)]).heatLevel("DRACONIC").processingTime(2000);
   event.recipes.create.mixing( 'minecraft:slime_block',['minecraft:green_dye', 'minecraft:honey_block']).heatLevel("DRACONIC").processingTime(2000);
 
@@ -741,6 +785,8 @@ event.custom({
 // 'block_factorys_bosses:ice_gauntlet', 'block_factorys_bosses:sandworm_gauntlet', 'minecraft:sand']
 event.recipes.create.mixing([Fluid.of('minecraft:water',300), 'block_factorys_bosses:ice_gauntlet'],'kubejs:frost_catalyst').heated().processingTime(2000);
 event.recipes.create.mixing( ['block_factorys_bosses:sandworm_gauntlet', Item.of('minecraft:sand',3)],['kubejs:snad_catalyst',Fluid.of('minecraft:water',300)]).processingTime(2000);
+  event.recipes.create.deploying(['block_factorys_bosses:knight_sword','minecraft:wither_skeleton_skull'], ['kubejs:wither_knight_catalyst', 'minecraft:shears'])
+  event.recipes.create.crushing([Item.of('block_factorys_bosses:dragon_bone',6), CreateItem.of('minecraft:fire_charge', 0.5)], 'block_factorys_bosses:dragon_skull')
 
 // OXIDIZING RECIPES **************************************************
 // ['friendsandfoes:copper_button', 'friendsandfoes:exposed_copper_button', 'friendsandfoes:weathered_copper_button', 'friendsandfoes:oxidized_copper_button',

@@ -8766,6 +8766,62 @@
 			x: 2.5d
 			y: 0.5d
 		}
+		{
+			height: 1.0d
+			image: "minecraft:block/resin_clump"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.914285714285711d
+			y: 14.29999999999999d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/kelp"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.9857142857142875d
+			y: 13.799999999999997d
+		}
+		{
+			height: 1.0d
+			image: "create_sa:item/brass_drill_head"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.1404761904762d
+			y: 12.00238095238096d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/wheat_stage7"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.95000000000001d
+			y: 12.597619047619048d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/stonecutter_saw"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 11.0d
+		}
+		{
+			height: 1.0d
+			image: "create:block/depot_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cobweb"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.764285714285691d
+			y: 11.216666666666669d
+		}
 	]
 	order_index: 0
 	progression_mode: "linear"
@@ -9626,6 +9682,7 @@
 					type: "random"
 				}
 			]
+			shape: "circle"
 			tasks: [
 				{
 					id: "4D0481AAB3793191"
@@ -9974,8 +10031,8 @@
 				item: { count: 1, id: "minecraft:kelp" }
 				type: "item"
 			}]
-			x: -6.0625d
-			y: 14.630357142857136d
+			x: -5.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["4F526DBDC123BD43"]
@@ -10382,7 +10439,11 @@
 			y: 15.5d
 		}
 		{
-			dependencies: ["3967FB3C2DFFCD2E"]
+			dependencies: [
+				"3967FB3C2DFFCD2E"
+				"32B1BEEF5BC43652"
+			]
+			dependency_requirement: "one_completed"
 			id: "1AEB88C5EA168751"
 			rewards: [{
 				id: "6C67247EE55F81BF"
@@ -10392,21 +10453,13 @@
 				}
 				type: "item"
 			}]
-			tasks: [
-				{
-					count: 10L
-					id: "7E8FFBDE96A69C66"
-					item: { count: 1, id: "minecraft:dried_kelp" }
-					type: "item"
-				}
-				{
-					id: "10F871CED4958ACB"
-					item: { count: 1, id: "create:belt_connector" }
-					type: "item"
-				}
-			]
-			x: -6.0625d
-			y: 16.130357142857136d
+			tasks: [{
+				id: "10F871CED4958ACB"
+				item: { count: 1, id: "create:belt_connector" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["1AEB88C5EA168751"]
@@ -10451,8 +10504,8 @@
 					type: "advancement"
 				}
 			]
-			x: -4.5625d
-			y: 17.130357142857136d
+			x: -5.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["5CE0A6BDCFFBD273"]
@@ -12611,6 +12664,7 @@
 						id: "farmersdelight:wild_tomatoes"
 					}
 					id: "64A8A5A098C373B2"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "farmersdelight:wild_tomatoes"
@@ -12621,6 +12675,7 @@
 						id: "farmersdelight:wild_onions"
 					}
 					id: "62B75C6D2BD20218"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "farmersdelight:wild_onions"
@@ -12631,6 +12686,7 @@
 						id: "farmersdelight:wild_cabbages"
 					}
 					id: "7AA2C7ABF8F424BB"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "farmersdelight:wild_cabbages"
@@ -12641,6 +12697,7 @@
 						id: "farmersdelight:wild_carrots"
 					}
 					id: "1C0819ADAB5B9F53"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "farmersdelight:wild_carrots"
@@ -13122,6 +13179,7 @@
 				}
 				{
 					id: "395FE54ABFC626BF"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "powergrid:potato_battery"
@@ -13153,6 +13211,7 @@
 						id: "minecraft:enchanted_book"
 					}
 					id: "6F94DF56DC9AF938"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "createenchantablemachinery:enchantable_mechanical_drill"
@@ -13215,6 +13274,7 @@
 						id: "powergrid:vfet"
 					}
 					id: "6C5AC3B00392E67F"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "powergrid:transformer_medium"
@@ -14150,14 +14210,14 @@
 		{
 			dependencies: ["1D2711B00222E38D"]
 			id: "00D9AB2E11B905A4"
-			size: 0.75d
+			size: 1.0d
 			tasks: [{
 				id: "0ABEE454BE840D49"
 				item: { count: 1, id: "overpacked:giant_backpack" }
 				type: "item"
 			}]
-			x: 6.75d
-			y: 11.25d
+			x: 5.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["5AE88E715F56FB0B"]
@@ -14258,6 +14318,7 @@
 			size: 0.85d
 			tasks: [{
 				id: "4BF15B1DADCA8106"
+				observation_type: "block_state"
 				observe_type: 2
 				timer: 0L
 				to_observe: "powergrid:basin_heater[blaze=seething]"
@@ -14289,6 +14350,7 @@
 			size: 0.85d
 			tasks: [{
 				id: "029EFFF516CE1895"
+				observation_type: "block_state"
 				observe_type: 2
 				timer: 0L
 				to_observe: "createdieselgenerators:burner[blaze=seething]"
@@ -14320,6 +14382,7 @@
 			size: 0.85d
 			tasks: [{
 				id: "32E4C19222F792C3"
+				observation_type: "block_state"
 				observe_type: 2
 				timer: 0L
 				to_observe: "create:blaze_burner[blaze=seething]"
@@ -14460,6 +14523,7 @@
 			tasks: [
 				{
 					id: "69C05DDC652FB7AC"
+					observation_type: "block_state"
 					observe_type: 2
 					timer: 0L
 					to_observe: "create_enchantment_industry:blaze_enchanter[blaze=seething]"
@@ -14489,6 +14553,7 @@
 			size: 0.85d
 			tasks: [{
 				id: "1A85BAE234C7D3A9"
+				observation_type: "block_state"
 				observe_type: 2
 				timer: 0L
 				to_observe: "create_enchantment_industry:blaze_forger[blaze=seething]"
@@ -15142,6 +15207,7 @@
 						id: "simulated:auger_cog"
 					}
 					id: "186573B4688817D7"
+					observation_type: "block"
 					observe_type: 0
 					timer: 0L
 					to_observe: "simulated:auger_cog"
@@ -15183,6 +15249,27 @@
 			]
 			x: -5.5d
 			y: 12.5d
+		}
+		{
+			dependencies: ["0419803138CF7B0A"]
+			id: "32B1BEEF5BC43652"
+			rewards: [{
+				count: 5
+				id: "18E7724FCF0776C0"
+				item: {
+					count: 1
+					id: "create:andesite_casing"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 10L
+				id: "5F4CC5FD3A1531A4"
+				item: { count: 1, id: "minecraft:resin_clump" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 14.0d
 		}
 	]
 }

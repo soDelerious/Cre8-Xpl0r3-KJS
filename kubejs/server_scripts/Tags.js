@@ -10,6 +10,9 @@ const Tanks =['create_sa:small_filling_tank', 'create_sa:medium_filling_tank', '
 Tanks.forEach(tank => {
     event.add('curios:tank', tank)
 })
+
+// 'block_factorys_bosses:dragon_skull'
+event.remove('minecraft:head_armor', 'block_factorys_bosses:dragon_skull')
   // event.add('c:enchantables', 'create_sa:rose_quartz_pickaxe')
   // event.add('minecraft:enchantable/mining', 'create_sa:rose_quartz_pickaxe')
   // event.add('minecraft:enchantable/mining_loot', 'create_sa:rose_quartz_pickaxe')
@@ -365,6 +368,8 @@ ServerEvents.tags('block', event => {
       event.remove('create_dragons_plus:passive_block_freezers', 'minecraft:snow_block')
         event.add('create:fan_processing_catalysts/blasting', 'block_factorys_bosses:dragon_skull')
 
+              event.add('minecraft:asurine_geode', 'minecraft:ice')
+
       event.add('create:passive_boiler_heaters', 'block_factorys_bosses:dragon_skull')
       event.add('sable:slippery', 'yungscavebiomes:rare_ice')
       event.add('sable:slippery', 'yungscavebiomes:ice_sheet')
@@ -378,7 +383,10 @@ PlatinumOres.forEach(ore => {
     event.add('terralith:island_blocks', ore)
 })
 
-
+const resin = ['minecraft:chiseled_resin_bricks', 'minecraft:resin_brick_stairs', 'minecraft:resin_brick_slab', 'minecraft:resin_brick_wall', 'minecraft:resin_block', 'minecraft:resin_bricks']
+resin.forEach(block => {
+    event.add('sable:frictive', block)
+});
 
 const bulkSanding = [ 'friendsandfoes:totem_of_illusion','minecraft:prismarine_crystals', 'minecraft:suspicious_sand',  'minecraft:suspicious_gravel', 'yungscavebiomes:ancient_sand', 'yungscavebiomes:suspicious_ancient_sand'];
 

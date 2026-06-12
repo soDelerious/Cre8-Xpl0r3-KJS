@@ -325,6 +325,145 @@ event.modify('kubejs:snad_catalyst', item => {
   item.rarity = "UNCOMMON"
 })
 
+
+
+
+event.modify('friendsandfoes:crab_claw', item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+
+        .withModifierAdded(
+     "sable:player.sub_level_punch_strength", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 0.2,
+       "operation": 0
+     }, 
+     "hand"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+
+
+event.modify('block_factorys_bosses:dragon_guard_shield', item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+        .withModifierAdded(
+     "block_factorys_bosses:roll_count", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 1,
+       "operation": 0
+     }, 
+     "offhand"
+    )
+        .withModifierAdded(
+     "minecraft:generic.movement_speed", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 0.02,
+       "operation": 0
+     }, 
+     "offhand"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+
+
+event.modify('kubejs:whirlwind_helmet', item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+        .withModifierAdded(
+     "minecraft:generic.safe_fall_distance", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 15,
+       "operation": 0
+     }, 
+     "head"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+event.modify('friendsandfoes:wildfire_crown', item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+        .withModifierAdded(
+     "artifacts:generic.attack_burning_duration", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 5,
+       "operation": 0
+     }, 
+     "head"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+
+
+event.modify('block_factorys_bosses:dragon_skull', item => {
+  item.maxDamage = 65;
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+    .withModifierAdded(
+      "minecraft:generic.armor", 
+      {
+        "id": "minecraft:armor.helmet",
+        "amount": -3,
+        "operation": 0
+      }, 
+      "head"
+    )
+    .withModifierAdded(
+      "minecraft:generic.armor_toughness", 
+      {
+        "id": "minecraft:armor.helmet",
+        "amount": -2,
+        "operation": 0
+      }, 
+      "head"
+    )
+    .withModifierAdded(
+     "minecraft:generic.burning_time", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 2,
+       "operation": 0
+     }, 
+     "head"
+    )
+        .withModifierAdded(
+     "block_factorys_bosses:roll_count", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": -1,
+       "operation": 0
+     }, 
+     "head"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 event.modify('create_sa:copper_helmet', item => {
   item.maxDamage = 65;
   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()

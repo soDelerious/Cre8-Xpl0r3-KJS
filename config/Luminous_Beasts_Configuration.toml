@@ -65,12 +65,12 @@
 	"Rare Furnace Spawning" = false
 	"Scarecrow Spawning" = false
 	#1 is normal, 2 is doubled, 3 is tripled
-	"Rare Phoenix Egg Rarity" = 1.0
+	"Rare Phoenix Egg Rarity" = 9999999999.0
 	#1 is normal, 2 is doubled, 3 is tripled
-	"Rare Sea Viper Egg Rarity" = 1.0
-	"Rare Witchdoctor Rarity" = true
+	"Rare Sea Viper Egg Rarity" = 99999999999.0
+	"Rare Witchdoctor Rarity" = false
 	#1 is normal, 2 is doubled, 3 is tripled
-	"Rare Luminous Moth Cocoon Rarity" = 1.0
+	"Rare Luminous Moth Cocoon Rarity" = 99999999.0
 
 ["Beast Pit Configuration"]
 	#Determines the max number of Beast pits that can be lit at any given time per world

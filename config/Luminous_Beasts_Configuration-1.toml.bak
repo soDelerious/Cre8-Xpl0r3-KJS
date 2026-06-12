@@ -9,12 +9,14 @@
 	"Piglin Executioner Spawning" = false
 	"Mushlin King Spawning" = false
 	"Furnace Spawning" = true
-	"Horseless Headsman Spawning" = true
+	"Horseless Headsman Spawning" = false
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Phoenix Egg Rarity" = 1.0
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Sea Viper Egg Rarity" = 1.0
 	"Witch Doctor Spawning" = true
+	#1 is normal, 2 is doubled, 3 is tripled
+	"Luminous Moth Cocoon Rarity" = 1.0
 
 ["Beast Items Configuration"]
 	#Determines the slowness level applied by the root
@@ -47,28 +49,32 @@
 	"Jungle Pendant Resistance" = 1.0
 	#Determines the duration of resistance granted to the player
 	"Jungle Pendant Timer" = 6.0
+	#Determines the distance of the cubed area around the player which gives other mobs the glowing effect
+	"Moth Antennae Radius" = 70.0
 
 ["Rare Beasts Configuration"]
 	#true means spawns are on, false means they are not
 	"Rare Tree Ent Spawning" = false
-	"Rare Hermit King Spawning" = true
-	"Rare Mummy Spawning" = true
-	"Rare Yeti Spawning" = true
-	"Rare Vile Gator Spawning" = true
-	"Rare Bone Stalker Spawning" = true
+	"Rare Hermit King Spawning" = false
+	"Rare Mummy Spawning" = false
+	"Rare Yeti Spawning" = false
+	"Rare Vile Gator Spawning" = false
+	"Rare Bone Stalker Spawning" = false
 	"Rare Piglin Executioner Spawning" = false
 	"Rare Mushlin King Spawning" = false
-	"Rare Furnace Spawning" = true
-	"Scarecrow Spawning" = true
+	"Rare Furnace Spawning" = false
+	"Scarecrow Spawning" = false
 	#1 is normal, 2 is doubled, 3 is tripled
-	"Rare Phoenix Egg Rarity" = 1.0
+	"Rare Phoenix Egg Rarity" = 0
 	#1 is normal, 2 is doubled, 3 is tripled
 	"Rare Sea Viper Egg Rarity" = 1.0
 	"Rare Witchdoctor Rarity" = true
+	#1 is normal, 2 is doubled, 3 is tripled
+	"Rare Luminous Moth Cocoon Rarity" = 1.0
 
 ["Beast Pit Configuration"]
 	#Determines the max number of Beast pits that can be lit at any given time per world
-	"Allowed Beast Pit Number" = 2.0
+	"Allowed Beast Pit Number" = 5000.0
 	#Determines how long the Beast Pit stays lit (in ticks, default is 300)
 	"Beast Pit Lit Timer" = 100.0
 	#NOT WORKING AT THE MOMENT

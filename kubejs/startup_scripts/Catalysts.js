@@ -1,5 +1,16 @@
 
 StartupEvents.registry("block", (event) => {
+
+      event.create("chunk_pulser", 'detector') 
+    .displayName('Chunk Pulser')
+    .property(BlockProperties.POWERED)
+    .box(1, 0, 1, 15, 4, 15, true)
+    .detectorId('chunk_pulser') // Crucial for the server events to find it
+ 
+    // .item(item => {
+    //   item.parentModel('kubejs:item/chunk_pulser')
+    // })
+
   event.create("frost_catalyst") // You don't need 'kubejs:' prefix inside the quotes here
     .displayName('Freezing Catalyst')
     .notSolid()
@@ -65,6 +76,10 @@ event.create('whirlwind_helmet_fragment').texture('kubejs:item/whirlwind_crown_f
 
 event.create('whirlwind_helmet', 'helmet').material('kubejs:whirl').texture('kubejs:item/whirlwind_crown').maxDamage(407).displayName('Whirlwind Crown')
 
+
+
+
+
 });
 
 StartupEvents.registry("armor_material", (event) => {
@@ -74,9 +89,12 @@ StartupEvents.registry("armor_material", (event) => {
   .equipSound('minecraft:item.armor.equip_iron')
   .repairIngredient(() => Ingredient.of('kubejs:whirlwind_helmet_fragment'))
   .toughness(1) // diamond has 2, netherite 3
-  .knockbackResistance(0.65);
+
 
 })
+
+
+
 
 // BlockEvents.modification(event => {
 //   event.modify('block_factorys_bosses:dragon_skull', block => {

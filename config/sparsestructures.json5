@@ -46,7 +46,14 @@
       {"structure": "bettermineshafts:mineshafts",
       "factor": 0.85
       },
-
+      {
+      "structure": "minecraft:igloos",
+      "factor": 1
+      },
+{
+  "structure": "create_rustic_structures:rustic_windmill",
+  "factor": 3
+},
 
 {
   "structure": "minecraft:nether_fossils",
@@ -70,7 +77,7 @@
 },
 {
   "structure": "terralith:rubble",
-  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+  "factor": 1.5//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
   "structure": "minecraft:end_cities",
@@ -102,7 +109,7 @@
 },
 {
   "structure": "skyvillages:skyvillage",
-  "factor": 15//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+  "factor": 25//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
   "structure": "block_factorys_bosses:sandworm_nest",
