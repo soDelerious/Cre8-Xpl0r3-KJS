@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"create:millstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crushing_wheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:whirlwind_helmet_fragment"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

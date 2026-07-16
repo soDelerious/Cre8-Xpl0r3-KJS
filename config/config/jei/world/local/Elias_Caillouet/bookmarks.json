@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:stone_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/kinetics/goggles","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"create:crafting/kinetics/wrench","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"create:mechanical_mixer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:crafting/kinetics/whisk","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:birch_planks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

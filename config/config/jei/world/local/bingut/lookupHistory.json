@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:mechanical_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_bearing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jungle_log"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"artifacts:plastic_drinking_hat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:attribute_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bedrock"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:repackager"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"overpacked:giant_backpack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"overpacked:backpack_pocket"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

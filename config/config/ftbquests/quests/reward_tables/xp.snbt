@@ -1,0 +1,51 @@
+{
+	id: "666F75CFDD3FB55F"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			id: "7C5932DB54984A73"
+			item: {
+				count: 1
+				id: "create:experience_nugget"
+			}
+			weight: 50.0f
+		}
+		{
+			id: "19255026194EBAB7"
+			item: {
+				count: 1
+				id: "create_sa:heap_of_experience"
+			}
+			weight: 10.0f
+		}
+		{ id: "177830287BEDF0F5", item: { count: 1, id: "create_sa:experience_pickaxe" } }
+		{ id: "4B84CA8FDA18281B", item: { count: 1, id: "create_sa:experience_shovel" } }
+		{ id: "7FDE1E415ED00D8C", item: { count: 1, id: "create_sa:experience_axe" } }
+		{ id: "72F616D9C62B5C8E", item: { count: 1, id: "create_sa:experience_sword" } }
+		{
+			id: "4A4C65BE9CD09B45"
+			item: {
+				count: 1
+				id: "create:experience_block"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "4DC6015989809F7D"
+			item: {
+				count: 1
+				id: "create_enchantment_industry:super_experience_nugget"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "411B686C71B57E4D"
+			item: {
+				count: 1
+				id: "create_enchantment_industry:super_experience_block"
+			}
+			weight: 0.5f
+		}
+	]
+}
