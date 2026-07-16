@@ -1,0 +1,15 @@
+taxtg:generator_birch_tree	inventory_particles:generator_birch_tree/leaves/small/leaves_0.png	0	0	8	8
+taxtg:generator_birch_tree	inventory_particles:generator_birch_tree/leaves/small/leaves_1.png	8	0	8	8
+taxtg:generator_birch_tree	inventory_particles:generator_birch_tree/leaves/small/leaves_2.png	16	0	8	8
+taxtg:generator_cherryblossom_tree	inventory_particles:generator_cherryblossom_tree/leaves/small/leaves_0.png	24	0	8	8
+taxtg:generator_cherryblossom_tree	inventory_particles:generator_cherryblossom_tree/leaves/small/leaves_1.png	32	0	8	8
+taxtg:generator_cherryblossom_tree	inventory_particles:generator_cherryblossom_tree/leaves/small/leaves_2.png	40	0	8	8
+taxtg:generator_jungle_tree	inventory_particles:generator_jungle_tree/leaves/small/leaves_0.png	48	0	8	8
+taxtg:generator_jungle_tree	inventory_particles:generator_jungle_tree/leaves/small/leaves_1.png	56	0	8	8
+taxtg:generator_jungle_tree	inventory_particles:generator_jungle_tree/leaves/small/leaves_2.png	64	0	8	8
+taxtg:generator_oak_tree	inventory_particles:generator_oak_tree/leaves/small/leaves_0.png	72	0	8	8
+taxtg:generator_oak_tree	inventory_particles:generator_oak_tree/leaves/small/leaves_1.png	80	0	8	8
+taxtg:generator_oak_tree	inventory_particles:generator_oak_tree/leaves/small/leaves_2.png	88	0	8	8
+taxtg:generator_spruce_tree	inventory_particles:generator_spruce_tree/leaves/small/leaves_0.png	96	0	8	8
+taxtg:generator_spruce_tree	inventory_particles:generator_spruce_tree/leaves/small/leaves_1.png	104	0	8	8
+taxtg:generator_spruce_tree	inventory_particles:generator_spruce_tree/leaves/small/leaves_2.png	112	0	8	8

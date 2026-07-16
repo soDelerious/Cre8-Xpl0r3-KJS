@@ -160,13 +160,13 @@
 
 [Burners]
 	#If true - both solid and liquid burners can provide heat to heated mixers allowing for pre-nether brass.
-	"Burners power heated mixers" = true
+	"Burners power heated mixers" = false
 	#Allow propulsion burners to heat Create steam engines.
-	"Burners heat steam engines" = true
+	"Burners heat steam engines" = false
 	#Allow seething burners to count as superheated for steam engines.
-	"Burners superheat steam engines" = true
+	"Burners superheat steam engines" = false
 	#Allow vanilla blaze burners under stirling engines to provide heat.
-	"Blaze burners heat stirling engines" = true
+	"Blaze burners heat stirling engines" = false
 	#Fuel consumption multiplier for solid burners. Higher values make inserted items burn faster.
 	# Default: 1.0
 	# Range: 0.01 ~ 100.0

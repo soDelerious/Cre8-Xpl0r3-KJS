@@ -342,14 +342,6 @@
 			y: 15.0d
 		}
 		{
-			height: 0.65d
-			image: "minecraft:block/campfire_fire"
-			rotation: 0.0d
-			width: 0.65d
-			x: 7.0d
-			y: 9.0d
-		}
-		{
 			height: 1.0d
 			image: "minecraft:block/soul_campfire_fire"
 			rotation: 0.0d
@@ -412,14 +404,6 @@
 			width: 1.15d
 			x: -1.5d
 			y: 9.0d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:item/blaze_rod"
-			rotation: 0.0d
-			width: 1.0d
-			x: 7.0d
-			y: 9.5d
 		}
 		{
 			height: 2.0d
@@ -5594,8 +5578,8 @@
 			image: "create:block/andesite_casing"
 			rotation: 0.0d
 			width: 2.0d
-			x: 2.55d
-			y: 1.7d
+			x: 2.5d
+			y: 4.5d
 		}
 		{
 			color: 9276813
@@ -5606,16 +5590,6 @@
 			width: 1.0d
 			x: 0.85d
 			y: 5.1d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.85d
-			y: 4.25d
 		}
 		{
 			color: 9276813
@@ -5700,7 +5674,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "minecraft:block/spruce_planks"
+			image: "create:block/palettes/limesand"
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
@@ -5734,66 +5708,6 @@
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
-			x: 1.7d
-			y: 3.4d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.55d
-			y: 3.4d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.4d
-			y: 3.4d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.4d
-			y: 2.55d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.55d
-			y: 2.55d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.85d
-			y: 3.4d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
 			x: 0.85d
 			y: 5.1d
 		}
@@ -5804,8 +5718,8 @@
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
-			x: 3.4d
-			y: 1.7d
+			x: 3.5d
+			y: 4.5d
 		}
 		{
 			color: 9276813
@@ -5824,8 +5738,8 @@
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
-			x: 1.7d
-			y: 1.7d
+			x: 1.5d
+			y: 4.5d
 		}
 		{
 			color: 9276813
@@ -5856,26 +5770,6 @@
 			width: 1.0d
 			x: 8.5d
 			y: 5.1d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 4.25d
-			y: 3.4d
-		}
-		{
-			color: 9276813
-			height: 1.0d
-			image: "minecraft:block/spruce_planks"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 5.1d
-			y: 3.4d
 		}
 		{
 			color: 9276813
@@ -8237,14 +8131,14 @@
 			order: -300
 			rotation: 0.0d
 			width: 4.0d
-			x: 1.7d
+			x: 2.55d
 			y: 3.4d
 		}
 		{
 			color: 12046079
 			height: 4.0d
 			image: "create:entity/blueprint_large"
-			order: -300
+			order: -5001
 			rotation: 0.0d
 			width: 4.0d
 			x: -0.85d
@@ -8642,7 +8536,7 @@
 		}
 		{
 			height: 1.0d
-			image: "soulgravestone:textures/mob_effect/soul_shape.png"
+			image: "block_factorys_bosses:textures/particle/knight/souls_9.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 2.24047619047618d
@@ -8732,11 +8626,11 @@
 			color: 15453067
 			height: 4.0d
 			image: "create:entity/blueprint_large"
-			order: -700
+			order: -299
 			rotation: 0.0d
 			width: 4.0d
-			x: -0.5d
-			y: 2.5d
+			x: 0.0d
+			y: 2.55d
 		}
 		{
 			color: 15453067
@@ -8745,8 +8639,8 @@
 			order: -700
 			rotation: 0.0d
 			width: 4.0d
-			x: -0.27142857142856514d
-			y: 1.038095238095245d
+			x: 0.0d
+			y: 0.85d
 		}
 		{
 			height: 1.25d
@@ -8822,14 +8716,200 @@
 			x: 4.764285714285691d
 			y: 11.216666666666669d
 		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "yungscavebiomes:block/ancient_sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "create:block/palettes/limesand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.55d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.1d
+			y: 2.55d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.95d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.8d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.85d
+			y: 3.4d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/sand"
+			order: -299
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.85d
+			y: 4.25d
+		}
+		{
+			height: 2.0d
+			image: "everycomp:block/af/createdieselgenerators/table/chip_wood_top"
+			rotation: 0.0d
+			width: 2.0d
+			x: 2.55d
+			y: 1.7d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/barrel_side"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4d
+			y: 1.7d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "minecraft:block/barrel_side"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.7d
+			y: 1.7d
+		}
+		{
+			height: 5.0d
+			image: "farmersdelight:textures/particle/steam_3.png"
+			order: -9
+			rotation: 90.0d
+			width: 5.0d
+			x: -8.5d
+			y: 3.0d
+		}
 	]
 	order_index: 0
 	progression_mode: "linear"
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["76EBE455344AE32C"]
-			hide_dependency_lines: true
+			dependencies: ["385F00786255DB0A"]
+			hide_dependency_lines: false
 			id: "7D1EE1D0D73F8792"
 			rewards: [{
 				id: "170D7E5803BC2AE4"
@@ -8845,8 +8925,8 @@
 				item: { count: 1, id: "create:andesite_alloy" }
 				type: "item"
 			}]
-			x: 2.55d
-			y: 1.7d
+			x: 2.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -8887,7 +8967,7 @@
 				}
 			]
 			x: 2.5d
-			y: 6.0d
+			y: 6.5d
 		}
 		{
 			dependencies: ["352EFA139CCA3AD9"]
@@ -10347,14 +10427,9 @@
 					item: { count: 1, id: "create_sa:brass_boots" }
 					type: "item"
 				}
-				{
-					id: "7B696EDA37D4EF52"
-					item: { count: 1, id: "minecraft:diamond" }
-					type: "item"
-				}
 			]
-			x: 6.0d
-			y: 9.0d
+			x: 7.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["6FFA30F3DE3897B6"]
@@ -10666,7 +10741,7 @@
 			y: 18.130357142857136d
 		}
 		{
-			dependencies: ["0777EC74AD052E2F"]
+			dependencies: ["62E0BBAB197813F5"]
 			dependency_requirement: "one_started"
 			id: "1D2711B00222E38D"
 			rewards: [
@@ -10706,7 +10781,7 @@
 				}
 			]
 			x: 6.0d
-			y: 10.5d
+			y: 11.0d
 		}
 		{
 			dependencies: ["048882EB61A875BC"]
@@ -11418,62 +11493,6 @@
 			]
 			x: 6.0d
 			y: 18.0d
-		}
-		{
-			dependencies: ["0777EC74AD052E2F"]
-			id: "3F3CBD03A5C17EC5"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "3EF3C3B198738058"
-					table_id: 8128522960503969447L
-					type: "random"
-				}
-				{
-					id: "5E04DD76B3204209"
-					item: {
-						count: 1
-						id: "create_sa:heap_of_experience"
-					}
-					type: "item"
-				}
-			]
-			tasks: [
-				{
-					id: "23A3ED038715EE96"
-					item: { count: 1, id: "create_sa:blazing_cleaver" }
-					type: "item"
-				}
-				{
-					id: "77B62F02072C9BB1"
-					item: { count: 1, id: "create_sa:blazing_axe" }
-					type: "item"
-				}
-				{
-					id: "1DFC94B1FEF08956"
-					item: { count: 1, id: "create_sa:blazing_shovel" }
-					type: "item"
-				}
-				{
-					id: "76E7B0560EF5EB4F"
-					item: { count: 1, id: "create_sa:blazing_pickaxe" }
-					type: "item"
-				}
-				{
-					count: 12L
-					id: "08652D5CC99EB2B4"
-					item: { count: 1, id: "create:powdered_obsidian" }
-					type: "item"
-				}
-				{
-					id: "285DAF71AA2564EF"
-					item: { count: 1, id: "friendsandfoes:wildfire_crown" }
-					optional_task: true
-					type: "item"
-				}
-			]
-			x: 7.0d
-			y: 9.5d
 		}
 		{
 			dependencies: ["1D2711B00222E38D"]
@@ -14930,7 +14949,7 @@
 				type: "advancement"
 			}]
 			x: 1.5d
-			y: 4.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["7D1EE1D0D73F8792"]
@@ -14969,7 +14988,7 @@
 				}
 			]
 			x: 3.5d
-			y: 4.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["5180F77FE1C64FD1"]
@@ -15270,6 +15289,152 @@
 			}]
 			x: -6.0d
 			y: 14.0d
+		}
+		{
+			dependencies: ["76EBE455344AE32C"]
+			hide_dependency_lines: true
+			id: "065E2574E78A7349"
+			rewards: [{
+				id: "094E8C791EE0DB71"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "30F6D8F625FAEEB0"
+				item: { components: { "ftbfiltersystem:filter": "or(item_tag(minecraft:logs))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.55d
+			y: 1.7d
+		}
+		{
+			dependencies: ["065E2574E78A7349"]
+			icon: {
+				id: "minecraft:leaf_litter"
+			}
+			id: "08D672DE70A32C67"
+			rewards: [{
+				count: 3
+				id: "487CD42236DE7A2B"
+				item: {
+					count: 1
+					id: "minecraft:wheat_seeds"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0BC4440CEEDEECC9"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["08D672DE70A32C67"]
+			icon: {
+				id: "create:brass_hand"
+			}
+			id: "163CB8EC780CD0E3"
+			rewards: [{
+				count: 2
+				id: "67F07E84D23997C3"
+				item: {
+					count: 1
+					id: "minecraft:cobblestone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0F7D71945D0A3DEE"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["163CB8EC780CD0E3"]
+			icon: {
+				id: "minecraft:slime_ball"
+			}
+			id: "385F00786255DB0A"
+			rewards: [{
+				id: "494862CE6F2B4F1E"
+				item: {
+					count: 1
+					id: "create_sa:copper_axe"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "235DE8220CC6E44C"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["065E2574E78A7349"]
+			icon: {
+				components: {
+					"ftbquests:icon": "block_factorys_bosses:textures/gui/roll/dash_green.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "485E3FA3D7C52F5E"
+			rewards: [{
+				id: "23E6FB177A2BC9ED"
+				item: {
+					count: 1
+					id: "minecraft:wooden_sword"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "13778668147CEB42"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0777EC74AD052E2F"]
+			id: "1D5E8EC37D528ABC"
+			rewards: [{
+				id: "17131450A0E80D1A"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "53181DF2ED6A7AA7"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 6.25d
+			y: 9.25d
+		}
+		{
+			dependencies: ["1D5E8EC37D528ABC"]
+			id: "62E0BBAB197813F5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0178E0A0081C99F9"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
+			tasks: [{
+				id: "50AF9900EB92A51D"
+				item: { count: 1, id: "kubejs:forged_diamond" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 10.25d
 		}
 	]
 }

@@ -124,13 +124,85 @@
   "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
-  "structure": "terralith:mage",
+  "structure": "taxtg:giant_birch_tree",
   "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "taxtg:giant_cherryblossom_tree",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "taxtg:giant_jungle_tree",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "taxtg:giant_oak_tree",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "taxtg:giant_spruce_tree_001",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:mage",
+  "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "villager_gold_washing_facility:villager_gold_washing_facility",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "towns_and_towers:other",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "towns_and_towers:towers",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "towns_and_towers:towns",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "villagesandpillages:village_witch",
+  "factor": 4//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "friendsandfoes:iceologer_cabin",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "friendsandfoes:illusioner_shack",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "friendsandfoes:illusioner_training_grounds",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "joshie:village_ocean",
+  "factor": 8//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "friendsandfoes:beekeeper_hut",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "structory:outcast_villager",
+  "factor": 5//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "takesapillage:pillager_structure",
+  "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "terralith:desert_outpost",
+  "factor": 20//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "plat:whirlwind_struct",
+  "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 }
-
-
-
-
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)
     //

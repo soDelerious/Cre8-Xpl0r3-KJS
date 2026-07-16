@@ -193,7 +193,7 @@ event.modify('kubejs:copper_map', { shift: false }, text => {
  event.modify('kubejs:copper_map', { shift: true }, text => {
         // Insert a nice "hold Shift" hint at line #1
         text.insert(1, Text.join([
-            Text.gray("An intelligent navigation device. When in hotbar, allows the player access to a mini and world map by pressing [x]"),
+            Text.gray("An intelligent navigation device. When in hotbar, allows the player access to a mini and world map by pressing [m] (default keybind)"),
 
         ]))
     })

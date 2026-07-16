@@ -1,6 +1,7 @@
 ClientEvents.lang("en_us", (event) => {
     event.add("create.recipe.heat_requirement.draconic", "Draconic");
     event.add("create.recipe.heat_requirement.withered", "Withered");
+    event.add("create.recipe.heat_requirement.pressurized", "Pressurized");
 
 
 
@@ -15,6 +16,7 @@ ClientEvents.lang("en_us", (event) => {
     event.renameItem('luminous_beasts:yeti_horn', 'Abnormal Goat Horn')
     event.renameItem('luminous_beasts:rare_yeti_trophy', 'Arid Abnormal Goat Trophy')
     event.renameItem('luminous_beasts:yeti_trophy', 'Abnormal Goat Trophy')
+    event.renameItem('minecraft:diamond', 'Diamond Shard')
 
 });
 

@@ -272,19 +272,22 @@ overworldFIRE.forEach(biome => {
 })
 
 event.add('bettermineshafts:has_structure/better_mineshaft_desert','yungscavebiomes:lost_caves')
-const YetiBiomes = ['minecraft:ice_spikes','minecraft:snowy_beach','minecraft:snowy_plains','minecraft:snowy_slopes','minecraft:snowy_taiga', 'terralith:frozen_cliffs', 'terralith:ice_marsh']
-
+const YetiBiomes = ['terralith:glacial_chasm','minecraft:ice_spikes','minecraft:snowy_beach','minecraft:snowy_plains','minecraft:snowy_slopes','minecraft:snowy_taiga', 'terralith:frozen_cliffs', 'terralith:ice_marsh']
+const ColdBiomes = ['#c:is_cold','#c:is_snowy','#c:is_frozen','#c:is_icy']
 event.add('rottencreatures:can_frostbitten_spawn_on', '#c:is_mountain')
 
-YetiBiomes.forEach(biome => {
-    event.add('block_factorys_bosses:yeti_hideout', biome)
+ColdBiomes.forEach(biome => {
+    event.add('rottencreatures:can_frostbitten_spawn_on', biome)
     event.add('rottencreatures:can_glacial_hunter_spawn_on', biome)
     event.add('endermanoverhaul:ice_spikes_spawns', biome)
-    event.add('rottencreatures:can_frostbitten_spawn_on', biome)
-    event.add('rottencreatures:can_frostbitten_spawn_on', biome)
+    event.add('friendsandfoes:has_iceologer', biome)
 
 })
-event.add('friendsandfoes:has_iceologer', '#c:is_icy')
+YetiBiomes.forEach(biome => {
+    event.add('block_factorys_bosses:yeti_hideout', biome)
+
+
+})
 const SandwormBiomes = ['terralith:lush_desert', 'minecraft:desert', 'terralith:desert_canyon', 'terralith:desert_oasis', 'terralith:desert_spires','yungscavebiomes:lost_caves']
 
 SandwormBiomes.forEach(biome => {
@@ -330,7 +333,7 @@ YetiBiomes.forEach(biome => {
   event.add('friendsandfoes:has_iceologer', biome)
 })
 
-const ForestBiomes = ['minecraft:dark_forest', 'minecraft:forest', 'minecraft:old_growth_birch_forest', 'minecraft:old_growth_pine_taiga', 'minecraft:old_growth_spruce_taiga', 'minecraft:wooded_badlands', 'terralith:forested_highlands', 'terralith:rocky_jungle']
+const ForestBiomes = ['#c:is_forest', '#c:is_magical']
 
 ForestBiomes.forEach(biome => {
   event.add('friendsandfoes:has_illusioner', biome)

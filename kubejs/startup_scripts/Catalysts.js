@@ -72,6 +72,7 @@ event.create('incomplete_totem', 'create:sequenced_assembly')
   .rarity("UNCOMMON")
 
 event.create('whirlwind_helmet_fragment').texture('kubejs:item/whirlwind_crown_fragment').displayName('Whirlwind Crown Fragment')
+event.create('forged_diamond').texture('kubejs:item/forged_diamond').displayName('Forged Diamond')
 
 
 event.create('whirlwind_helmet', 'helmet').material('kubejs:whirl').texture('kubejs:item/whirlwind_crown').maxDamage(407).displayName('Whirlwind Crown')

@@ -115,7 +115,11 @@
 		"&oPonder for more details&r"
 	]
 	quest.05F6F9E0FF952DE2.quest_subtitle: "Shift some gears!"
+	quest.065E2574E78A7349.quest_subtitle: "Chop down a tree"
+	quest.065E2574E78A7349.title: "That's...... Not Right."
 	quest.075C991E8FE1F95F.quest_desc: [
+		"Bit of a challenge now huh? Travel out and get yourself a piece of the &oWildfire's Crown&r if you want a metal heat resistant enough to capture the blaze."
+		""
 		"Blaze burners allow the player to heat basins! an important item for crafting to make &nbrass&r"
 		""
 		"{image:create:item/brass_sheet width:25 height:25 align:center}"
@@ -156,6 +160,11 @@
 	]
 	quest.085241DA4E3192DB.quest_subtitle: "Obtain and generate [su] with a waterwheel"
 	quest.085241DA4E3192DB.title: "Wheelie'"
+	quest.08D672DE70A32C67.quest_desc: [
+		"As you may have noticed- things in this minecraft world are a little &oquirky&r."
+		"Congratulations! You can play with physics! Over the next few quests you'll learn how to master your new very own abilities of creation."
+	]
+	quest.08D672DE70A32C67.quest_subtitle: "Learn about your new abilities"
 	quest.08EA67EB3409A6AD.quest_desc: [
 		"Augers work as a great precursor to item belts!"
 		"They can be attatched to arrays contraption actors on physics contraptions to manage item output aswell!"
@@ -294,6 +303,8 @@
 	quest.10A3764D948B7004.quest_desc: ["This is going to require a large scale XP farm- and this will be tough, but worth it."]
 	quest.10A3764D948B7004.quest_subtitle: "Obtain 5 Buckets of Liquid Experience"
 	quest.10A3764D948B7004.title: "Xp for the win!"
+	quest.120F3A6976D6A87C.quest_subtitle: "Slay the Whirlwind"
+	quest.120F3A6976D6A87C.title: "Spin me right round'"
 	quest.1254AEF3D79FAEE6.quest_subtitle: "Explore the Lost Caves Biome"
 	quest.1254AEF3D79FAEE6.title: "Lost Caverns"
 	quest.12FF48BA0F39B78C.quest_desc: ["Found in most vanilla minecraft jungle biomes"]
@@ -309,6 +320,12 @@
 	quest.148422B11AB746BE.title: "High Energy Thrust!"
 	quest.15033BD7C44E0845.quest_subtitle: "Find All Badlands Biomes"
 	quest.15033BD7C44E0845.title: "Badlands Bounce"
+	quest.163CB8EC780CD0E3.quest_desc: [
+		"First task! You can grab and hold physics bodies by holding left and right click simultaneously. Moreover, you can create physics bodies by grabbing the ground whilst crouching!"
+		""
+		"Try it out!"
+	]
+	quest.163CB8EC780CD0E3.quest_subtitle: "Pull a block out of the ground"
 	quest.166EE51E3827DB02.quest_desc: ["Precision Mechanisms are used in the most expensive machines- Don't drop it!"]
 	quest.166EE51E3827DB02.quest_subtitle: "Obtain a Precision Mechanism"
 	quest.166EE51E3827DB02.title: "Precise Manufacturing"
@@ -385,6 +402,13 @@
 	quest.1B86AC6168CC2190.title: "Extended Ssslurrrp.."
 	quest.1D2711B00222E38D.quest_subtitle: "Obtain a full set of diamond armor"
 	quest.1D2711B00222E38D.title: "Diamonds!"
+	quest.1D5E8EC37D528ABC.quest_desc: [
+		"Something has been driving the diamonds further and further underground, whilst making them even more brittle."
+		""
+		"It'd take some sort of mining vessel in order to obtain a proper amount of diamonds, lucky you'd be prepared for this."
+	]
+	quest.1D5E8EC37D528ABC.quest_subtitle: "Obtain a Diamond Shard"
+	quest.1D5E8EC37D528ABC.title: "What's Going on Here?"
 	quest.1DB939C97C64EB37.quest_desc: [
 		"Okay, This is a big step, I know, but it's a wildly important one."
 		"In order for a generator to function, the electrical windings on it's exterior must conenct in a way such that the commutator connects to the coils in an alternating fashion. Powergrid makes this easy for us in two ways:"
@@ -830,6 +854,13 @@
 	]
 	quest.37EFDC24F8320B97.quest_subtitle: "Obtain a Universal Shaft and 2 Heads"
 	quest.37EFDC24F8320B97.title: "Universal Connections"
+	quest.385F00786255DB0A.quest_desc: [
+		"Physics bodies can be rejoined to the main world or one another in a few ways, chiefly:"
+		"A- Slamming blocks held in your hands against the world or other physics bodies"
+		"B- Pressing Q whilst blocks are held in your hands and they are near a supported structure"
+		"C- Using slimeballs to join physics bodies together across long distances"
+	]
+	quest.385F00786255DB0A.quest_subtitle: "Learn to rejoin physics bodies"
 	quest.38ABA2963DF36D76.quest_desc: ["There is a variety of items capable of transporting items, these are nessecary for the creating of automatic factories! You'll learn how to use these items in the next few quests, for now, here's a reward for your efforts!"]
 	quest.38ABA2963DF36D76.quest_subtitle: "Learn about item transport"
 	quest.392EDF481C1ED630.quest_desc: [
@@ -941,7 +972,7 @@
 	quest.3D46765FB3300D78.quest_desc: [
 		"The pulse extender is like an easily configurable repeater, with a much clearer interface for extending pulses."
 		""
-		"{image:deeperdarker:block/sculk_stone_redstone_ore_renovatedstudios width:25 height:25 align:center}"
+		"{image:byg:block/cryptic_redstone_ore_e width:25 height:25 align:center}"
 		""
 		"Advanced redstone sensing requires advanced redstone logic!"
 		"&oPonder for more details&r"
@@ -966,8 +997,6 @@
 	]
 	quest.3F0C1B8AFD6E27FE.quest_subtitle: "Obtain a few copycat blocks"
 	quest.3F0C1B8AFD6E27FE.title: "CopyCats+!"
-	quest.3F3CBD03A5C17EC5.quest_subtitle: "Obtain a set of blazing tools"
-	quest.3F3CBD03A5C17EC5.title: "Hot!"
 	quest.3FC59B54E32D5738.quest_desc: ["Copper is kind of in the middle of iron and leather. Pretty decent for some starter survival, yet very weak."]
 	quest.3FC59B54E32D5738.quest_subtitle: "Obtain a set of copper armor"
 	quest.3FC59B54E32D5738.title: "Suit u- no, nvm, Adequately."
@@ -1066,6 +1095,9 @@
 	quest.48258C7DDB3E0151.quest_desc: ["This colorscale seems familiar...."]
 	quest.48258C7DDB3E0151.quest_subtitle: "Discover The Alpha Islands"
 	quest.48258C7DDB3E0151.title: "Retro Throwback"
+	quest.485E3FA3D7C52F5E.quest_desc: ["The last of your new abilities, pressing [z] (default keybind) allows the player to perform a dodge roll, providing brief invulerability to all mob based damage!"]
+	quest.485E3FA3D7C52F5E.quest_subtitle: "Perform a dodge roll"
+	quest.485E3FA3D7C52F5E.title: "Rollin' and Trollin'"
 	quest.48B31C2F1809CC4C.quest_subtitle: "Explore all kinds of new Mountain Biomes!"
 	quest.48B31C2F1809CC4C.title: "Mountain Excursion"
 	quest.49CFD3B6087DF6CD.quest_desc: [
@@ -1131,6 +1163,8 @@
 	quest.4B9F785FCFE4BE78.quest_desc: ["&oPonder for more details&r"]
 	quest.4B9F785FCFE4BE78.quest_subtitle: "Superheat a gas burner"
 	quest.4B9F785FCFE4BE78.title: "Cooking with *Explosive* Gas"
+	quest.4BD359CD58C0B9EE.quest_subtitle: "Find the new and improved Trial Chambers"
+	quest.4BD359CD58C0B9EE.title: "Tricky Trials"
 	quest.4BE2DDB0EF6E7015.quest_desc: [
 		"Item vaults allow for additional, heavy duty storage of items. However, they cannot be used  like a chest, and require items like chutes to extract items from them."
 		""
@@ -1455,6 +1489,17 @@
 	]
 	quest.62BF5B8B62806FD2.quest_subtitle: "Create an autonomous drilling mechanism!"
 	quest.62BF5B8B62806FD2.title: "Robo-Drill"
+	quest.62E0BBAB197813F5.quest_desc: [
+		"Forging diamonds is tough work. A lot of pressure is needed on all sides to bond those shards back together huh?"
+		""
+		"Lucky you know just the place."
+		""
+		""
+		""
+		"{image:minecraft:block/bedrock width:35 height:35 align:center}"
+	]
+	quest.62E0BBAB197813F5.quest_subtitle: "Forge a new, harder diamond."
+	quest.62E0BBAB197813F5.title: "Peer Pressure"
 	quest.63096257B0A6BDFB.quest_desc: [
 		"Brass can be made by heating a basin and mixing zinc with copper- Late game resource!"
 		""
@@ -2018,11 +2063,15 @@
 	quest.7FD4BCFDD74D64E7.title: "Mushy Rooms"
 	task.0001280E5E8D0B21.title: "Accept Knowledge"
 	task.0292050A8840461B.title: "Factory time"
+	task.0BC4440CEEDEECC9.title: "What was that?!"
 	task.0DAA6322A1075C70.title: "Acknowledge knowledge?"
+	task.0F7D71945D0A3DEE.title: "Getting a Grasp"
 	task.117F2CA58BCB5E96.title: "Acknowledge Knowledge?"
 	task.12493B2AFDB55D60.title: "Andesite Casing"
+	task.13778668147CEB42.title: "Read that?"
 	task.1C8F2B195236A812.title: "Acknowledge knowledge?"
 	task.1F5D01AA0DABA942.title: "Acknowledge knowledge?"
+	task.235DE8220CC6E44C.title: "One Block at a Time"
 	task.2543DEF9EE730A7C.title: "Done Reading?"
 	task.2FFEC274DBDB976F.title: "Acknowledge knowledge?"
 	task.3374F5B2726AC130.title: "Modpack Information"

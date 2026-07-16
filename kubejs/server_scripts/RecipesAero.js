@@ -82,6 +82,58 @@ event.custom({
 })
 event.remove('get_creative:clockwork_motor')
 
+
+
+
+//************DIAMOND*************************************************************************** */
+event.remove('minecraft:diamond')
+
+event.smelting(Item.of('minecraft:diamond',2), 'minecraft:deepslate_diamond_ore').cookingTime(200)
+event.smelting(Item.of('minecraft:diamond',2), 'minecraft:diamond_ore').cookingTime(200)
+
+// Blast 1 iron ingot into 10 nuggets in a Blast Furnace: 
+event.blasting(Item.of('minecraft:diamond',2), 'minecraft:deepslate_diamond_ore').cookingTime(100)
+event.blasting(Item.of('minecraft:diamond',2), 'minecraft:diamond_ore').cookingTime(100)
+
+event.replaceInput(
+  { input: 'minecraft:diamond' },         // Arg 1: the filter
+  'minecraft:diamond',                    // Arg 2: the item to replace
+  Ingredient.of('kubejs:forged_diamond')  // Arg 3: the item to replace it with 
+  // Do /kjs hand with the items you want to use to see all their tags.
+)
+
+event.replaceOutput(
+  { input: 'minecraft:diamond' },         // Arg 1: the filter
+  'minecraft:diamond',                    // Arg 2: the item to replace
+  Ingredient.of('kubejs:forged_diamond')  // Arg 3: the item to replace it with 
+  // Do /kjs hand with the items you want to use to see all their tags.
+)
+event.remove('diamond_from_blasting_deepslate_diamond_ore')
+event.remove('diamond_from_blasting_diamond_ore')
+event.remove('diamond_from_smelting_diamond_ore')
+event.remove('diamond_from_smelting_deepslate_diamond_ore')
+
+
+                            event.shapeless(Item.of('kubejs:forged_diamond',9),[
+                                "minecraft:diamond_block"
+                            ])
+
+
+  event.recipes.create.compacting('kubejs:forged_diamond', Item.of('minecraft:diamond', 3)).heatLevel("PRESSURIZED")
+
+
+const template = ['minecraft:netherite_upgrade_smithing_template', 'minecraft:sentry_armor_trim_smithing_template', 'minecraft:vex_armor_trim_smithing_template', 'minecraft:wild_armor_trim_smithing_template', 'minecraft:dune_armor_trim_smithing_template', 'minecraft:wayfinder_armor_trim_smithing_template', 'minecraft:raiser_armor_trim_smithing_template', 'minecraft:shaper_armor_trim_smithing_template', 'minecraft:coast_armor_trim_smithing_template', 'minecraft:flow_armor_trim_smithing_template', 'minecraft:spire_armor_trim_smithing_template', 'minecraft:eye_armor_trim_smithing_template', 'minecraft:rib_armor_trim_smithing_template', 'minecraft:snout_armor_trim_smithing_template', 'minecraft:tide_armor_trim_smithing_template', 'minecraft:silence_armor_trim_smithing_template', 'minecraft:ward_armor_trim_smithing_template', 'minecraft:host_armor_trim_smithing_template', 'minecraft:bolt_armor_trim_smithing_template', 'yungscavebiomes:ancient_armor_trim_smithing_template']
+// template.forEach(template => {
+//   event.remove(template)
+  
+// })
+event.replaceInput(
+  { input: template },         // Arg 1: the filter
+  'kubejs:forged_diamond',                    // Arg 2: the item to replace
+  Ingredient.of('minecraft:diamond')  // Arg 3: the item to replace it with 
+  // Do /kjs hand with the items you want to use to see all their tags.
+)
+
 // SEQUENCED **************************************************
 const transitionalBE = 'minecraft:reinforced_deepslate' // Making a constant to store the transitional item makes the code more readable
   event.recipes.create.sequenced_assembly(

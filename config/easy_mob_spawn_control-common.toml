@@ -1,19 +1,21 @@
 [config_v1]
-	#Banned mobs (ex: "minecraft:creeper", "minecraft:zombie"
 	bannedMobs = []
-	#Global mob spawn rate entries overrides natural and world-gen spawn rate entries (0.0–1.0, empty = default 1.0)
 	spawnRates = []
-	#Natural spawn rates (0.0–1.0, empty = default 1.0)
 	naturalSpawnRates = []
-	#Chunk-gen spawn rates (0.0–1.0, empty = default 1.0)
 	worldGenSpawnRates = []
-	#Per-dimension banned mobs.
-	#Format:
-	#minecraft:overworld=minecraft:creeper,minecraft:zombie
-	#minecraft:the_nether=minecraft:ghast
-	#
 	dimensionBannedMobs = []
+	disabledMobSpawnTypes = []
+	biomeBannedMobs = []
+	biomeSpawns = []
+	biomeSpawnAssignments = []
+	spawnRules = []
+	spawnRuleAssignments = []
+	spawnCaps = []
 
-	[config_v1.spawn_caps_config_v1]
-		#Per‑category spawn caps (ex: "monster=70", "creature=10"). Values outside 0–10000 are ignored.
-		spawnCaps = ["water_creature=5", "glares=5", "rascals=1", "underground_water_creature=5", "ambient=8", "axolotls=5", "creature=10", "water_ambient=6", "monster=60"]
+[misc]
+	#CREATURE-type mobs NATURAL spawn gets checked every 400 ticks (20s). Which is very long time compared to MONSTERs 1 tick spawn check.
+	#NATURAL spawn is a random spawn type. You can decrease tick value to make creatures spawn faster.
+	#-1 = Default value (400).
+	# Default: -1
+	# Range: -1 ~ 4000
+	creatureNaturalSpawnCheckTicks = -1

@@ -32,9 +32,14 @@ BlockEvents.detectorChanged('kubejs:chunk_pulser', event => {
 // BlockEvents.detectorPowered('chunk_pulser', event => {
 
 
-
-
-
+// BlockEvents.drops('minecraft:diamond_ore', event => {
+// // let tool = event.player.mainHandItem.getEnchantments()
+// event.addItem(Item.of('minecraft:diamond').withCount(1))
+// })
+// BlockEvents.drops('minecraft:deepslate_diamond_ore', event => {
+// // let tool = event.player.mainHandItem.getEnchantments()
+// event.addItem(Item.of('minecraft:diamond').withCount(1))
+// })
 
 let commandQueue = [];
 let pulserCooldown = {}; // Track cooldown per player
@@ -591,6 +596,11 @@ CreateHeatJS.registerHeatEvent(event => {
             .color(0x2C6862)
             .addHeatSource('kubejs:wither_knight_catalyst') //Block
             .satisfies("SUPERHEATED")
+    )
+
+    event.registerHeat("PRESSURIZED", builder => builder
+            .color(0x252930)
+            .addHeatSource('minecraft:bedrock') //Block
     )
 
     // addHeatSource('block_factorys_bosses:dragon_skull', "HEATED")

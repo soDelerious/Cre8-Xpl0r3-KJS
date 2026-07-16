@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"luminous_beasts:beast_pit_off"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:physics_assembler"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:acacia_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stripped_cherry_wood"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

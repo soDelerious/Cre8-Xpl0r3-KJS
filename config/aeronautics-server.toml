@@ -56,7 +56,7 @@
 	#kpg lifted per cubic meter of Steam
 	# Default: 1.5
 	# Range: 0.0 ~ 3.4028234663852886E38
-	steamStrength = 1.5
+	steamStrength = 2.0
 
 #.
 #Parameters and abilities of Aeronautics Blocks

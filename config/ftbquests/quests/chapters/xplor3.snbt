@@ -4781,7 +4781,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "minecraft:block/sandstone_bottom"
+			image: "minecraft:block/cut_copper"
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
@@ -4821,7 +4821,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "minecraft:block/sandstone_bottom"
+			image: "create:block/copper/exposed_copper_roof_top"
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
@@ -4831,7 +4831,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			image: "luminous_beasts:block/wpbreaka"
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.95d
@@ -4858,7 +4858,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "yungscavebiomes:block/ancient_sandstone_bottom"
+			image: "minecraft:block/weathered_chiseled_copper"
 			rotation: 0.0d
 			width: 1.0d
 			x: 5.95d
@@ -6543,7 +6543,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "minecraft:block/sandstone_bottom"
+			image: "minecraft:block/chiseled_copper"
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
@@ -6553,7 +6553,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "minecraft:block/sandstone_bottom"
+			image: "create:block/copper/copper_roof_top"
 			order: -200
 			rotation: 0.0d
 			width: 1.0d
@@ -7277,7 +7277,7 @@
 		{
 			color: 9013641
 			height: 1.0d
-			image: "minecraft:block/azalea_leaves"
+			image: "minecraft:block/oxidized_copper_grate"
 			order: 2
 			rotation: 0.0d
 			width: 1.0d
@@ -8496,6 +8496,24 @@
 			x: 0.7130952380951854d
 			y: 8.014285714285698d
 		}
+		{
+			color: 9276813
+			height: 1.0d
+			image: "get_creative:block/handle/copper"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:textures/mob_effect/wind_charged.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 7.5d
+		}
 	]
 	order_index: 1
 	quest_links: [ ]
@@ -8594,17 +8612,6 @@
 				type: "item"
 			}]
 			tasks: [
-				{
-					icon: {
-						components: {
-							"ftbquests:icon": "minecraft:block/acacia_sapling"
-						}
-						id: "ftbquests:custom_icon"
-					}
-					id: "5C12DAD1B975A18D"
-					structure: "more_tree_sizes:hugeacaciatree"
-					type: "structure"
-				}
 				{
 					icon: {
 						id: "minecraft:golden_pickaxe"
@@ -9473,16 +9480,6 @@
 				{
 					id: "403F92EA2D46FADB"
 					structure: "bettermineshafts:mineshaft_mushroom"
-					type: "structure"
-				}
-				{
-					id: "0EE955C9BDDF49A3"
-					structure: "more_tree_sizes:largeredmushroom"
-					type: "structure"
-				}
-				{
-					id: "0439190096429BBD"
-					structure: "more_tree_sizes:largebrownmushroom"
 					type: "structure"
 				}
 				{
@@ -10440,15 +10437,25 @@
 		{
 			dependencies: ["1DFE4980354295BB"]
 			icon: {
-				id: "friendsandfoes:wildfire_spawn_egg"
+				id: "friendsandfoes:wildfire_crown"
 			}
 			id: "3E2B142744D88060"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "7FB8D03262C86026"
-				table_id: 7381247849914152287L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FB8D03262C86026"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+				{
+					id: "67CDEC0E6FD325F0"
+					item: {
+						count: 1
+						id: "friendsandfoes:wildfire_crown_fragment"
+					}
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					count: 3L
@@ -11374,6 +11381,81 @@
 			}]
 			x: 0.0d
 			y: 8.5d
+		}
+		{
+			dependencies: ["4BD359CD58C0B9EE"]
+			icon: {
+				id: "kubejs:whirlwind_helmet"
+			}
+			id: "120F3A6976D6A87C"
+			rewards: [
+				{
+					id: "3F0DF22B09976128"
+					item: {
+						count: 1
+						id: "kubejs:whirlwind_helmet_fragment"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B0454159D7E72F6"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					entity: "whirl_wind:whirl_wind"
+					id: "2B5B11DD2432704B"
+					type: "kill"
+					value: 1L
+				}
+				{
+					icon: {
+						id: "kubejs:whirlwind_helmet_fragment"
+					}
+					id: "587AD435FBDFA9EB"
+					structure: "plat:whirlwind_struct"
+					type: "structure"
+				}
+			]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["72362C507A0A5F9B"]
+			disable_recipe_mod: true
+			hide_dependent_lines: true
+			id: "4BD359CD58C0B9EE"
+			rewards: [{
+				id: "27B06655CEBD1304"
+				item: {
+					count: 1
+					id: "create_sa:heap_of_experience"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					icon: {
+						id: "minecraft:oxidized_copper"
+					}
+					id: "770BDD9B7C0C9E3C"
+					structure: "minecraft:trial_chambers"
+					type: "structure"
+				}
+				{
+					icon: {
+						id: "minecraft:copper_block"
+					}
+					id: "602C35B68AF1B9C4"
+					structure: "notenoughtrials:vertical_trial_chambers"
+					type: "structure"
+				}
+			]
+			x: 4.5d
+			y: 7.0d
 		}
 	]
 }
