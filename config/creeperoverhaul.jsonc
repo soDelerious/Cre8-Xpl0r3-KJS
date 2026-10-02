@@ -25,7 +25,7 @@
         // Change the Dripstone Creeper to spawn or not.
         "allowDripstoneCreeperSpawning": true,
         // Change the Cave Creeper to spawn or not.
-        "allowCaveCreeperSpawning": true,
+        "allowCaveCreeperSpawning": false,
         // Change the Dark Oak Creeper to spawn or not.
         "allowDarkOakCreeperSpawning": true,
         // Change the Spruce Creeper to spawn or not.

@@ -1,0 +1,7 @@
+{
+  "wan_ancient_beasts:walker": {
+    "weight": 150,
+    "min": 64,
+    "max": 64
+  }
+}

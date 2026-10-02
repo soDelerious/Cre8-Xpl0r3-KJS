@@ -1,0 +1,25 @@
+{
+  "config_version": "2.0.41",
+  "config_datetime": "2026-09-25_23-52-14",
+  "general": {},
+  "structure_namespaces": [],
+  "structures": [
+    {
+      "name": "friendsandfoes:citadel",
+      "step": "underground_ores",
+      "max_horizontal_distance_from_center": 128,
+      "max_vertical_distance_from_center": 128,
+      "start_height": {
+        "min_inclusive": {
+          "absolute": 0
+        },
+        "max_inclusive": {
+          "absolute": 80
+        },
+        "type": "minecraft:uniform"
+      }
+    }
+  ],
+  "structure_sets": [],
+  "structure_template_pools": []
+}

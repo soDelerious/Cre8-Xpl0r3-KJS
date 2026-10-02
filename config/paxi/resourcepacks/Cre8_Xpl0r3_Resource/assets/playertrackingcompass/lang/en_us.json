@@ -1,0 +1,8 @@
+{
+  "item.playertrackingcompass.player_tracking_compass": "Player Tracking Compass",
+  "message.playertrackingcompass.bound": "follow \"%s\"",
+  "message.playertrackingcompass.cleared": "Tracking cleared",
+  "tooltip.playertrackingcompass.unbound": "Right-click a player to bind. Place in a Navigation Table to track yourself.",
+  "tooltip.playertrackingcompass.bound": "follow \"%s\"",
+  "tooltip.playertrackingcompass.clear": "Sneak right-click to clear"
+}

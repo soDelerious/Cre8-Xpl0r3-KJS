@@ -1,0 +1,61 @@
+[durability]
+	#Modifies the max uses of wood tools and weapons. vanilla is 59
+	# Default: 64
+	# Range: > -1
+	wood_max_uses = 64
+	#Modifies the max uses of gold tools and weapons. vanilla is 32
+	# Default: 128
+	# Range: > -1
+	gold_max_uses = 128
+	#Modifies the max uses of stone tools and weapons. vanilla is 131
+	# Default: 192
+	# Range: > -1
+	stone_max_uses = 192
+	#Modifies the max uses of tin tools and weapons. vanilla is 256
+	# Default: 256
+	# Range: > -1
+	tin_max_uses = 256
+	#Modifies the max uses of iron tools and weapons. vanilla is 250
+	# Default: 448
+	# Range: > -1
+	iron_max_uses = 448
+	#Modifies the max uses of platinum tools and weapons. vanilla is 768
+	# Default: 768
+	# Range: > -1
+	platinum_max_uses = 768
+	#Modifies the max uses of diamond tools and weapons. vanilla is 1561
+	# Default: 1600
+	# Range: > -1
+	diamond_max_uses = 1600
+	#Modifies the max uses of netherite tools and weapons. vanilla is 2031
+	# Default: 2432
+	# Range: > -1
+	netherite_max_uses = 2432
+	#Modifies the max uses of aethersteel tools and weapons. vanilla is 3520
+	# Default: 3520
+	# Range: > -1
+	aethersteel_max_uses = 3520
+	#Modifies the max uses of livingstone tools and weapons. vanilla is 192
+	# Default: 192
+	# Range: > -1
+	livingstone_max_uses = 192
+	#Modifies the max uses of verdite tools and weapons. vanilla is 448
+	# Default: 448
+	# Range: > -1
+	verdite_max_uses = 448
+	#Modifies the max uses of steel tools. vanilla is 1152
+	# Default: 1152
+	# Range: > -1
+	steel_max_uses = 1152
+	#Modifies the max uses of moonstone tools and weapons. vanilla is 1024
+	# Default: 1024
+	# Range: > -1
+	moonstone_max_uses = 1024
+
+[capability]
+	#Stone tools won't mine iron and must instead be used to get Tin tools
+	stone_follows_tin = true
+	#Gold tools will be capable of harvesting tin and iron tiered blocks
+	gold_buff = true
+	#Iron tools won't mine diamond and must instead be used to get Platinum tools
+	iron_follows_platinum = true

@@ -1,0 +1,19 @@
+[vault]
+	#Cooldown (in ticks) before a normal (non-ominous) automatable vault can be triggered again. Default: 6000 (5 minutes).
+	# Default: 6000
+	# Range: > 0
+	cooldownTicksNormal = 6000
+	#Cooldown (in ticks) before an ominous automatable vault can be triggered again. Default: 12000 (10 minutes).
+	# Default: 12000
+	# Range: > 0
+	cooldownTicksOminous = 12000
+	#Multiplier applied to how fast minecraft:trial_spawner can be mined (does not change what it drops - it never drops anything vanilla, with or without Silk Touch, and that is untouched by this setting). Vanilla trial spawners have a hardness of 50, making them extremely slow to mine; a multiplier of 25 brings that down to roughly hardness-2 territory, a bit tougher than stone but breakable in a few seconds with a decent pickaxe. Set to 1.0 to restore vanilla mining time.
+	# Default: 25.0
+	# Range: 1.0 ~ 1000.0
+	trialSpawnerBreakSpeedMultiplier = 25.0
+
+[worldgen]
+	#Whether vanilla vaults generated in Trial Chambers are automatically replaced with automatable vaults.
+	replaceVaultsInWorldgen = true
+	#Whether ominous vaults are included in the automatic worldgen replacement (requires replaceVaultsInWorldgen).
+	replaceOminousVaults = true

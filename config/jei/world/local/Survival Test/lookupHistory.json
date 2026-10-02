@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"naturalist:morsel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:ochrum"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"caverns_and_chasms:sparkler"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

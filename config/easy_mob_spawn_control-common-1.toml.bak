@@ -1,19 +1,28 @@
-[config_v1]
-	#Banned mobs (ex: "minecraft:creeper", "minecraft:zombie"
-	bannedMobs = []
-	#Global mob spawn rate entries overrides natural and world-gen spawn rate entries (0.0–1.0, empty = default 1.0)
-	spawnRates = []
-	#Natural spawn rates (0.0–1.0, empty = default 1.0)
-	naturalSpawnRates = []
-	#Chunk-gen spawn rates (0.0–1.0, empty = default 1.0)
-	worldGenSpawnRates = []
-	#Per-dimension banned mobs.
-	#Format:
-	#minecraft:overworld=minecraft:creeper,minecraft:zombie
-	#minecraft:the_nether=minecraft:ghast
-	#
-	dimensionBannedMobs = []
+[misc]
+	#Decrease this value to make creatures spawn faster. Or increase for opposite effect.
+	#-1 = default value (400 ticks).
+	# Default: -1
+	# Range: -1 ~ 4000
+	creatureNaturalSpawnCheckTicks = -1
+	#Minimum spacing between mobs when spawning.
+	#-1 = disabled.
+	# Default: -1
+	# Range: -1 ~ 512
+	sparseMobRange = -1
+	#Should SPARSE_MOB_RANGE affect monsters?
+	sparse_mob_affect_monsters = true
+	#Should SPARSE_MOB_RANGE affect animals?
+	sparse_mob_affect_animals = true
 
-	[config_v1.spawn_caps_config_v1]
-		#Per‑category spawn caps (ex: "monster=70", "creature=10"). Values outside 0–10000 are ignored.
-		spawnCaps = ["water_creature=5", "glares=5", "rascals=1", "underground_water_creature=5", "ambient=8", "axolotls=5", "creature=10", "water_ambient=6", "monster=60"]
+[permission]
+	#Is creative mode required?
+	requireCreative = false
+	#Require easy_mob_spawn_control.admin permission (Forge Permission API).
+	requireAdmin = true
+	#Vanilla permission level required to use the mod.0 - All players, 1 - Moderator, 2 - GameMaster, 3 - Admin, 4 - OP
+	# Default: 2
+	# Range: 0 ~ 4
+	permissionLevel = 2
+
+[update]
+	skipUpdate = "1.5.4"

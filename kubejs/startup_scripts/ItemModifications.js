@@ -73,7 +73,7 @@ ItemEvents.modification(event => {
         "minecraft:generic.attack_damage", 
         {
           "id": "minecraft:base_attack_damage",
-          "amount": 3.5,
+          "amount": 3,
           "operation": 0
         }, 
         "mainhand"
@@ -152,6 +152,10 @@ ItemEvents.modification(event => {
 
 // // EXPERIENCE ***********************
 
+
+
+
+
   event.modify('create_sa:experience_sword', item => {
     let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
       .withModifierAdded(
@@ -175,51 +179,51 @@ ItemEvents.modification(event => {
 //     event.modify('create_sa:experience_axe', item => {
 //     item.digSpeed = 9;
 //   });
-  event.modify('minecraft:stone_sword', item => {
-    let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
-      .withModifierAdded(
-        "minecraft:generic.attack_damage", 
-        {
-          "id": "minecraft:base_attack_damage",
-          "amount": 1,
-          "operation": 0
-        }, 
-        "mainhand"
-      )
-      .modifiers();
-    item.setAttributeModifiersWithTooltip(modifiers);
-  });
-  event.modify('minecraft:wooden_sword', item => {
-    let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
-      .withModifierAdded(
-        "minecraft:generic.attack_damage", 
-        {
-          "id": "minecraft:base_attack_damage",
-          "amount": 0,
-          "operation": 0
-        }, 
-        "mainhand"
-      )
-      .modifiers();
-    item.setAttributeModifiersWithTooltip(modifiers);
-  });
+//   event.modify('minecraft:stone_sword', item => {
+//     let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//       .withModifierAdded(
+//         "minecraft:generic.attack_damage", 
+//         {
+//           "id": "minecraft:base_attack_damage",
+//           "amount": 1,
+//           "operation": 0
+//         }, 
+//         "mainhand"
+//       )
+//       .modifiers();
+//     item.setAttributeModifiersWithTooltip(modifiers);
+//   });
+//   event.modify('minecraft:wooden_sword', item => {
+//     let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//       .withModifierAdded(
+//         "minecraft:generic.attack_damage", 
+//         {
+//           "id": "minecraft:base_attack_damage",
+//           "amount": 0,
+//           "operation": 0
+//         }, 
+//         "mainhand"
+//       )
+//       .modifiers();
+//     item.setAttributeModifiersWithTooltip(modifiers);
+//   });
 
-//   // IRON ***********************
+// //   // IRON ***********************
 
-  event.modify('minecraft:iron_sword', item => {
-    let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
-      .withModifierAdded(
-        "minecraft:generic.attack_damage", 
-        {
-          "id": "minecraft:base_attack_damage",
-          "amount": 2.5,
-          "operation": 0
-        }, 
-        "mainhand"
-      )
-      .modifiers();
-    item.setAttributeModifiersWithTooltip(modifiers);
-  });
+//   event.modify('minecraft:iron_sword', item => {
+//     let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//       .withModifierAdded(
+//         "minecraft:generic.attack_damage", 
+//         {
+//           "id": "minecraft:base_attack_damage",
+//           "amount": 2.5,
+//           "operation": 0
+//         }, 
+//         "mainhand"
+//       )
+//       .modifiers();
+//     item.setAttributeModifiersWithTooltip(modifiers);
+//   });
 //   // event.modify('minecraft:iron_axe', item => {
 
 //   // });
@@ -248,70 +252,70 @@ ItemEvents.modification(event => {
 
 
 
-  event.modify('minecraft:iron_chestplate', item => {
+//   event.modify('minecraft:iron_chestplate', item => {
     
-    // 1. Get the item's default attribute modifiers
-    let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     // 1. Get the item's default attribute modifiers
+//     let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
     
-      // 2. Overwrite the base armor value
-      .withModifierAdded(
-        "minecraft:generic.armor", 
-        {
-          "id": "minecraft:armor.body", // Using the vanilla ID overwrites the original stat
-          "amount": -2, // New armor point value
-          "operation": 0 // 0 = ADDITION
-        }, 
-        "chest" // Target equipment slot
-      )
+//       // 2. Overwrite the base armor value
+//       .withModifierAdded(
+//         "minecraft:generic.armor", 
+//         {
+//           "id": "minecraft:armor.body", // Using the vanilla ID overwrites the original stat
+//           "amount": -2, // New armor point value
+//           "operation": 0 // 0 = ADDITION
+//         }, 
+//         "chest" // Target equipment slot
+//       )
       
-      // 4. Overwrite knockback resistance (optional)
+//       // 4. Overwrite knockback resistance (optional)
 
-      .modifiers(); // Finalize the modifier map
+//       .modifiers(); // Finalize the modifier map
 
-    // 5. Apply the modified components back to the item, retaining tooltips
-    item.setAttributeModifiersWithTooltip(modifiers);
-  })
+//     // 5. Apply the modified components back to the item, retaining tooltips
+//     item.setAttributeModifiersWithTooltip(modifiers);
+//   })
 
-event.modify('minecraft:iron_helmet', item => {
+// event.modify('minecraft:iron_helmet', item => {
     
-    // 1. Get the item's default attribute modifiers
-    let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     // 1. Get the item's default attribute modifiers
+//     let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
     
-      // 2. Overwrite the base armor value
-      .withModifierAdded(
-        "minecraft:generic.armor", 
-        {
-          "id": "minecraft:armor.helmet", // Using the vanilla ID overwrites the original stat
-          "amount": 1, // New armor point value
-          "operation": 0 // 0 = ADDITION
-        }, 
-        "head" // Target equipment slot
-      )
+//       // 2. Overwrite the base armor value
+//       .withModifierAdded(
+//         "minecraft:generic.armor", 
+//         {
+//           "id": "minecraft:armor.helmet", // Using the vanilla ID overwrites the original stat
+//           "amount": 1, // New armor point value
+//           "operation": 0 // 0 = ADDITION
+//         }, 
+//         "head" // Target equipment slot
+//       )
 
       
-      // 4. Overwrite knockback resistance (optional)
+//       // 4. Overwrite knockback resistance (optional)
 
-      .modifiers(); // Finalize the modifier map
+//       .modifiers(); // Finalize the modifier map
 
-    // 5. Apply the modified components back to the item, retaining tooltips
-    item.setAttributeModifiersWithTooltip(modifiers);
-  })
+//     // 5. Apply the modified components back to the item, retaining tooltips
+//     item.setAttributeModifiersWithTooltip(modifiers);
+//   })
 
-event.modify('minecraft:iron_leggings', item => {
-  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
-    .withModifierAdded(
-      "minecraft:generic.armor", 
-      {
-        "id": "minecraft:armor.legs",
-        "amount": -3,
-        "operation": 0
-      }, 
-      "legs"
-    )
+// event.modify('minecraft:iron_leggings', item => {
+//   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     .withModifierAdded(
+//       "minecraft:generic.armor", 
+//       {
+//         "id": "minecraft:armor.legs",
+//         "amount": -3,
+//         "operation": 0
+//       }, 
+//       "legs"
+//     )
 
-    .modifiers();
-  item.setAttributeModifiersWithTooltip(modifiers);
-})
+//     .modifiers();
+//   item.setAttributeModifiersWithTooltip(modifiers);
+// })
 
 event.modify('kubejs:wither_knight_catalyst', item => {
   item.rarity = "EPIC"
@@ -335,7 +339,7 @@ event.modify('friendsandfoes:crab_claw', item => {
      "sable:player.sub_level_punch_strength", 
      {
        "id": "minecraft:armor.helmet",
-       "amount": 0.2,
+       "amount": 1,
        "operation": 0
      }, 
      "hand"
@@ -443,90 +447,204 @@ event.modify('block_factorys_bosses:dragon_skull', item => {
   item.setAttributeModifiersWithTooltip(modifiers);
 })
 
+const aethersteeltool = ['orevolution:aethersteel_shovel', 'orevolution:aethersteel_axe', 'orevolution:aethersteel_hoe', 'orevolution:aethersteel_pickaxe', 'orevolution:aethersteel_sword']
+aethersteeltool.forEach(plat => {
+event.modify(plat, item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
 
+        .withModifierAdded(
+     "artifacts:generic.invincibility_ticks", 
+     {
+       "id": "minecraft:armor.sword",
+       "amount": 1,
+       "operation": 0
+     }, 
+     "hand"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+})
+const tintools = ['orevolution:tin_shovel', 'orevolution:tin_pickaxe', 'orevolution:tin_axe', 'orevolution:tin_hoe']
+tintools.forEach(plat => {
+event.modify(plat, item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
 
+        .withModifierAdded(
+     "minecraft:player.block_interaction_range", 
+     {
+       "id": "minecraft:armor.sword",
+       "amount": 1,
+       "operation": 0
+     }, 
+     "hand"
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+})
+const armor = ["head", "chest", "legs", "feet"]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-event.modify('create_sa:copper_helmet', item => {
-  item.maxDamage = 65;
+const livingstonearm = ['orevolution:livingstone_helmet', 'orevolution:livingstone_chestplate', 'orevolution:livingstone_leggings', 'orevolution:livingstone_boots']
+livingstonearm.forEach((plat, index) => {
+  event.modify(plat, item => {
   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
     .withModifierAdded(
-      "minecraft:generic.armor", 
+      "minecraft:player.block_break_speed", 
       {
         "id": "minecraft:armor.helmet",
-        "amount": 2,
+        "amount": 1,
         "operation": 0
       }, 
-      "head"
+      armor[index]
     )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+})
+
+
+const verditearm = ['orevolution:verdite_helmet', 'orevolution:verdite_chestplate', 'orevolution:verdite_leggings', 'orevolution:verdite_boots']
+verditearm.forEach((plat, index) => {
+  event.modify(plat, item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
     .withModifierAdded(
-      "minecraft:generic.armor_toughness", 
+      "minecraft:generic.luck", 
       {
         "id": "minecraft:armor.helmet",
-        "amount": 2,
+        "amount": 1,
         "operation": 0
       }, 
-      "head"
+      armor[index]
     )
     .modifiers();
   item.setAttributeModifiersWithTooltip(modifiers);
 })
+})
 
-event.modify('create_sa:copper_chestplate', item => {
-  item.maxDamage = 75;
+
+const reinforcedarm = ['orevolution:reinforced_netherite_helmet', 'orevolution:reinforced_netherite_chestplate', 'orevolution:reinforced_netherite_leggings', 'orevolution:reinforced_netherite_boots']
+reinforcedarm.forEach((plat, index) => {
+  event.modify(plat, item => {
   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
     .withModifierAdded(
-      "minecraft:generic.armor", 
+      "minecraft:generic.safe_fall_distance", 
       {
-        "id": "minecraft:armor.body",
-        "amount": -3,
+        "id": "minecraft:armor.helmet",
+        "amount": -1,
         "operation": 0
       }, 
-      "chest"
+      armor[index]
+    )
+      .withModifierAdded(
+      "minecraft:generic.knockback_resistance", 
+      {
+        "id": "minecraft:armor.helmet",
+        "amount": 5,
+        "operation": 0
+      }, 
+      armor[index]
     )
     .modifiers();
   item.setAttributeModifiersWithTooltip(modifiers);
 })
-
-event.modify('create_sa:copper_leggings', item => {
-  item.maxDamage = 80;
+})
+const aethersteelarm = ['orevolution:aethersteel_helmet', 'orevolution:aethersteel_chestplate', 'orevolution:aethersteel_leggings', 'orevolution:aethersteel_boots']
+aethersteelarm.forEach((plat, index) => {
+  event.modify(plat, item => {
   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
     .withModifierAdded(
-      "minecraft:generic.armor", 
+      "minecraft:generic.gravity", 
       {
-        "id": "minecraft:armor.legs",
-        "amount": -3,
+        "id": "minecraft:armor.helmet",
+        "amount": -0.05,
         "operation": 0
       }, 
-      "legs"
+      armor[index]
     )
-
+        .withModifierAdded(
+     "minecraft:generic.safe_fall_distance", 
+     {
+       "id": "minecraft:armor.helmet",
+       "amount": 1,
+       "operation": 0
+     }, 
+      armor[index]
+    )
+  
     .modifiers();
   item.setAttributeModifiersWithTooltip(modifiers);
 })
+})
 
-// event.modify('create_sa:copper_boots', item => {
-//   item.maxDamage = 55;
+const platarm = ['orevolution:platinum_helmet', 'orevolution:platinum_chestplate', 'orevolution:platinum_leggings', 'orevolution:platinum_boots']
+platarm.forEach((plat, index) => {
+  event.modify(plat, item => {
+  let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+    .withModifierAdded(
+      "minecraft:player.submerged_mining_speed", 
+      {
+        "id": "minecraft:armor.helmet",
+        "amount": 3,
+        "operation": 0
+      }, 
+      armor[index]
+    )
+    .modifiers();
+  item.setAttributeModifiersWithTooltip(modifiers);
+})
+})
+
+// event.modify('orevolution:platinum_helmet', item => {
 //   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
 //     .withModifierAdded(
-//       "minecraft:generic.armor", 
+//       "sable:player.sub_level_punch_strength", 
+//       {
+//         "id": "minecraft:armor.helmet",
+//         "amount": 2,
+//         "operation": 0
+//       }, 
+//       "head"
+//     )
+//     .modifiers();
+//   item.setAttributeModifiersWithTooltip(modifiers);
+// })
+
+// event.modify('create_sa:copper_chestplate', item => {
+//   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     .withModifierAdded(
+//       "sable:player.sub_level_punch_strength", 
+//       {
+//         "id": "minecraft:armor.body",
+//         "amount": -3,
+//         "operation": 0
+//       }, 
+//       "chest"
+//     )
+//     .modifiers();
+//   item.setAttributeModifiersWithTooltip(modifiers);
+// })
+
+// event.modify('create_sa:copper_leggings', item => {
+//   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     .withModifierAdded(
+//       "sable:player.sub_level_punch_strength", 
+//       {
+//         "id": "minecraft:armor.legs",
+//         "amount": -3,
+//         "operation": 0
+//       }, 
+//       "legs"
+//     )
+
+//     .modifiers();
+//   item.setAttributeModifiersWithTooltip(modifiers);
+// })
+
+// event.modify('create_sa:copper_boots', item => {
+//   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     .withModifierAdded(
+//       "sable:player.sub_level_punch_strength", 
 //       {
 //         "id": "minecraft:armor.feet",
 //         "amount": -1,
@@ -535,6 +653,24 @@ event.modify('create_sa:copper_leggings', item => {
 //       "feet"
 //     )
 
+//     .modifiers();
+//   item.setAttributeModifiersWithTooltip(modifiers);
+// })
+
+
+// event.modify('orevolution:tin_sword', item => {
+//   item.maxDamage = 195;
+//   let modifiers = item.item().getDefaultInstance().getAttributeModifiers()
+//     .withModifierAdded(
+//       "minecraft:generic.attack_damage"
+// , 
+//       {
+//         "id": "minecraft:armor.sword",
+//         "amount": 3,
+//         "operation": 0
+//       }, 
+//       "mainhand"
+//     )
 //     .modifiers();
 //   item.setAttributeModifiersWithTooltip(modifiers);
 // })
@@ -551,6 +687,15 @@ event.modify('create_sa:zinc_helmet', item => {
       }, 
       "head"
     )
+    .withModifierAdded(
+      "artifacts:player.entity_experience", 
+      {
+        "id": "artifacts:player.entity_experience",
+        "amount": 2,
+        "operation": 0
+      }, 
+      "head"
+    )   
     .modifiers();
   item.setAttributeModifiersWithTooltip(modifiers);
 })
@@ -562,11 +707,20 @@ event.modify('create_sa:zinc_chestplate', item => {
       "minecraft:generic.armor", 
       {
         "id": "minecraft:armor.body",
-        "amount": -1,
+        "amount": 1,
         "operation": 0
       }, 
       "chest"
     )
+    .withModifierAdded(
+      "artifacts:player.entity_experience", 
+      {
+        "id": "artifacts:player.entity_experience",
+        "amount": 2,
+        "operation": 0
+      }, 
+      "chest"
+    )   
     .modifiers();
   item.setAttributeModifiersWithTooltip(modifiers);
 })
@@ -578,12 +732,20 @@ event.modify('create_sa:zinc_leggings', item => {
       "minecraft:generic.armor", 
       {
         "id": "minecraft:armor.legs",
-        "amount": -1,
+        "amount": 1,
         "operation": 0
       }, 
       "legs"
     )
-
+    .withModifierAdded(
+      "artifacts:player.entity_experience", 
+      {
+        "id": "artifacts:player.entity_experience",
+        "amount": 2,
+        "operation": 0
+      }, 
+      "legs"
+    )   
     .modifiers();
   item.setAttributeModifiersWithTooltip(modifiers);
 })
@@ -591,9 +753,135 @@ event.modify('create_sa:zinc_leggings', item => {
 
 
 
-
-
-
+event.modify('orevolution:bronze_totem_emerald', item => {
+        item.attachCuriosCapability(
+            CuriosJSCapabilityBuilder.create()
+                .curioTick((slotContext, stack) => {
+                    let entity = (typeof slotContext.entity === 'function' ? slotContext.entity() : slotContext.entity) || (typeof slotContext.getEntity === 'function' ? slotContext.getEntity() : null);
+                    if (entity && entity.potionEffects) {
+                        entity.potionEffects.add('minecraft:haste', 80, 0, false, true);
+                    }
+                })
+                .onEquip((slotContext, oldStack, newStack) => {
+                    let entity = (typeof slotContext.entity === 'function' ? slotContext.entity() : slotContext.entity) || (typeof slotContext.getEntity === 'function' ? slotContext.getEntity() : null);
+                    if (entity && entity.potionEffects) {
+                        entity.potionEffects.add('minecraft:haste', 80, 0, false, true);
+                    }
+                })
+                .onUnequip((slotContext, oldStack, newStack) => { })
+                .canEquip((slotContext, stack) => true)
+                .canUnequip((slotContext, stack) => true)
+                .modifySlotsTooltip((tooltips, stack) => tooltips)
+                // .addAttribute(
+                //     "minecraft:player.mining_efficiency",
+                //     "identifier",
+                //     5,
+                //     'add_value'
+                // )
+                // .modifyAttribute(attributeModificationContext => {
+                //     let { slotContext, UUID, stack, modifiers } = attributeModificationContext
+                //     attributeModificationContext.modify(
+                //         "minecraft:generic.armor",
+                //         UUID,
+                //         20,
+                //         'add_value'
+                //     )
+                // })
+                .canDrop((slotContext, source, lootingLevel, recentlyHit, stack) => true)
+                .modifyAttributesTooltip((tooltips, stack) => tooltips)
+                .modifyFortuneLevel((slotContext, lootContext, stack) => 0)
+                .modifyLootingLevel((slotContext, source, target, baseLooting, stack) => 0)
+                .makesPiglinsNeutral((slotContext, stack) => false)
+                .canWalkOnPowderedSnow((slotContext, stack) => false)
+                .isEnderMask((slotContext, enderMan, stack) => false)
+        )
+    })
+event.modify('orevolution:bronze_totem_lapis_lazuli', item => {
+        item.attachCuriosCapability(
+            CuriosJSCapabilityBuilder.create()
+                .curioTick((slotContext, stack) => {
+                    let entity = (typeof slotContext.entity === 'function' ? slotContext.entity() : slotContext.entity) || (typeof slotContext.getEntity === 'function' ? slotContext.getEntity() : null);
+                    if (entity && entity.potionEffects) {
+                        entity.potionEffects.add('minecraft:night_vision', 80, 0, false, true);
+                    }
+                })
+                .onEquip((slotContext, oldStack, newStack) => {
+                    let entity = (typeof slotContext.entity === 'function' ? slotContext.entity() : slotContext.entity) || (typeof slotContext.getEntity === 'function' ? slotContext.getEntity() : null);
+                    if (entity && entity.potionEffects) {
+                        entity.potionEffects.add('minecraft:night_vision', 80, 0, false, true);
+                    }
+                })
+                .onUnequip((slotContext, oldStack, newStack) => { })
+                .canEquip((slotContext, stack) => true)
+                .canUnequip((slotContext, stack) => true)
+                .modifySlotsTooltip((tooltips, stack) => tooltips)
+                // .addAttribute(
+                //     "minecraft:player.mining_efficiency",
+                //     "identifier",
+                //     5,
+                //     'add_value'
+                // )
+                // .modifyAttribute(attributeModificationContext => {
+                //     let { slotContext, UUID, stack, modifiers } = attributeModificationContext
+                //     attributeModificationContext.modify(
+                //         "minecraft:generic.armor",
+                //         UUID,
+                //         20,
+                //         'add_value'
+                //     )
+                // })
+                .canDrop((slotContext, source, lootingLevel, recentlyHit, stack) => true)
+                .modifyAttributesTooltip((tooltips, stack) => tooltips)
+                .modifyFortuneLevel((slotContext, lootContext, stack) => 0)
+                .modifyLootingLevel((slotContext, source, target, baseLooting, stack) => 0)
+                .makesPiglinsNeutral((slotContext, stack) => false)
+                .canWalkOnPowderedSnow((slotContext, stack) => false)
+                .isEnderMask((slotContext, enderMan, stack) => false)
+        )
+    })
+event.modify('orevolution:bronze_totem_diamond', item => {
+        item.attachCuriosCapability(
+            CuriosJSCapabilityBuilder.create()
+                .curioTick((slotContext, stack) => {
+                    let entity = (typeof slotContext.entity === 'function' ? slotContext.entity() : slotContext.entity) || (typeof slotContext.getEntity === 'function' ? slotContext.getEntity() : null);
+                    if (entity && entity.potionEffects) {
+                        entity.potionEffects.add('minecraft:regeneration', 80, 0, false, true);
+                    }
+                })
+                .onEquip((slotContext, oldStack, newStack) => {
+                    let entity = (typeof slotContext.entity === 'function' ? slotContext.entity() : slotContext.entity) || (typeof slotContext.getEntity === 'function' ? slotContext.getEntity() : null);
+                    if (entity && entity.potionEffects) {
+                        entity.potionEffects.add('minecraft:regeneration', 80, 0, false, true);
+                    }
+                })
+                .onUnequip((slotContext, oldStack, newStack) => { })
+                .canEquip((slotContext, stack) => true)
+                .canUnequip((slotContext, stack) => true)
+                .modifySlotsTooltip((tooltips, stack) => tooltips)
+                // .addAttribute(
+                //     "minecraft:player.mining_efficiency",
+                //     "identifier",
+                //     5,
+                //     'add_value'
+                // )
+                // .modifyAttribute(attributeModificationContext => {
+                //     let { slotContext, UUID, stack, modifiers } = attributeModificationContext
+                //     attributeModificationContext.modify(
+                //         "minecraft:generic.armor",
+                //         UUID,
+                //         20,
+                //         'add_value'
+                //     )
+                // })
+                .canDrop((slotContext, source, lootingLevel, recentlyHit, stack) => true)
+                .modifyAttributesTooltip((tooltips, stack) => tooltips)
+                .modifyFortuneLevel((slotContext, lootContext, stack) => 0)
+                .modifyLootingLevel((slotContext, source, target, baseLooting, stack) => 0)
+                .makesPiglinsNeutral((slotContext, stack) => false)
+                .canWalkOnPowderedSnow((slotContext, stack) => false)
+                .isEnderMask((slotContext, enderMan, stack) => false)
+        )
+    })
 
 
 

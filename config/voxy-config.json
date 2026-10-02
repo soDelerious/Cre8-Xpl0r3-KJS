@@ -2,11 +2,18 @@
   "enabled": true,
   "enable_rendering": true,
   "ingest_enabled": true,
-  "section_render_distance": 9,
+  "section_render_distance": 2,
   "service_threads": 6,
-  "sub_division_size": 186.0,
+  "sub_division_size": 256.0,
   "use_environmental_fog": true,
   "dont_use_sodium_builder_threads": false,
-  "lod_boundary_buffer": 1,
-  "earth_curve_ratio": 0
+  "color_fix": true,
+  "curve_fix": true,
+  "lod_boundary_buffer": 2,
+  "earth_curve_ratio": 600,
+  "lod_center_width_pct": 100,
+  "distant_gen_enabled": true,
+  "distant_gen_radius": 64,
+  "distant_gen_max_in_flight": 31,
+  "distant_gen_max_mspt": 15
 }

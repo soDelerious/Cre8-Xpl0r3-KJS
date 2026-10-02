@@ -21,6 +21,10 @@
       "factor": 2},
       {"structure": "minecraft:village_desert",
       "factor": 5},    
+      {"structure": "galosphere:pink_salt_shrine",
+      "factor": 1}, 
+      {"structure": "galosphere:forgotten_ruins",
+      "factor": 0.75},
       {"structure": "#terralith:fortified_villages",
       "factor": 10},    
       {"structure": "#minecraft:village",
@@ -34,15 +38,32 @@
       {"structure": "minecraft:village_taiga",
       "factor": 5},
       {"structure": "piglinproliferation:traveler_camp",
-      "factor": 0.85},
+      "factor": 0.55},
       {"structure": "piglinproliferation:traveler_camp_gathering",
-      "factor": 1},
+      "factor": 0.75},
       {"structure": "piglinproliferation:traveler_soul_camp",
       "factor": 0.5},
       {"structure": "friendsandfoes:citadel",
-      "factor": 1},
+      "factor": 0.25},
       {"structure": "block_factorys_bosses:underworld_arena",
-      "factor": 5},
+      "factor": 1},
+      {
+  "structure": "hearths:netherrack_spirals",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "netherexp:chapel",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "netherexp:devils_ruins",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "netherexp:mega_fossils",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+
       {"structure": "bettermineshafts:mineshafts",
       "factor": 0.85
       },
@@ -55,6 +76,10 @@
   "factor": 3
 },
 
+{
+  "structure": "betterfortresses:fortress",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
 {
   "structure": "minecraft:nether_fossils",
   "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
@@ -69,16 +94,21 @@
 },
 {
   "structure": "terralith:underground",
-  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+  "factor": 1.25//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
   "structure": "terralith:underground_dungeon",
-  "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+  "factor": 1.5//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
   "structure": "terralith:rubble",
   "factor": 1.5//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
+{
+  "structure": "caverns_and_chasms:tin_monolith",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+
 {
   "structure": "minecraft:end_cities",
   "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
@@ -100,10 +130,6 @@
   "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
-  "structure": "terralith:rare_dungeon",
-  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
-},
-{
   "structure": "terralith:rare_village",
   "factor": 15//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
@@ -119,10 +145,7 @@
   "structure": "block_factorys_bosses:yeti_hideout",
   "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
-{
-  "structure": "terralith:regular",
-  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
-},
+
 {
   "structure": "taxtg:giant_birch_tree",
   "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
@@ -165,7 +188,7 @@
 },
 {
   "structure": "villagesandpillages:village_witch",
-  "factor": 4//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
   "structure": "friendsandfoes:iceologer_cabin",
@@ -193,7 +216,7 @@
 },
 {
   "structure": "takesapillage:pillager_structure",
-  "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 },
 {
   "structure": "terralith:desert_outpost",
@@ -202,6 +225,59 @@
 {
   "structure": "plat:whirlwind_struct",
   "factor": 3//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "wan_ancient_beasts:digsite",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "wan_ancient_beasts:abandoned_village",
+  "factor": 4//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "wan_ancient_beasts:ancient_nest",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "caverns_and_chasms:forge",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "wan_ancient_beasts:dead_coral",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:aberrant_remains",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:arch",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:bonfire",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:bridge",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:fountain",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:jump_platform",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+{
+  "structure": "the_beyond:jump_platform_end",
+  "factor": 1//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
+},
+
+{
+  "structure": "wan_ancient_beasts:desert_ruins",
+  "factor": 2//REPLACE WITH YOUR CUSTOM SPREADING FACTOR HERE
 }
     // add the structures you want to modify in the format:
     // (don't forget to remove "//", and use dots for decimal numbers)

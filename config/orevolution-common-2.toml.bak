@@ -1,0 +1,37 @@
+[powers]
+	#Defines if tools will have their special characteristic (aka power), like tin's drop duplication. check client configs to disable the tooltip too
+	tools_powers = false
+	#Defines if weapons will have their special characteristic (aka power), like tin's drop duplication. check client configs to disable the tooltip too
+	weapons_powers = false
+	#Defines if armors will have their special characteristic (aka power), like platinum's strength II effect. check client configs to disable the tooltip too
+	armors_powers = false
+
+[worldgen]
+	#Defines if Tin will be available in your world
+	generate_tin_ore = false
+	#Defines if Platinum will be available in your world
+	generate_platinum_ore = true
+	#Defines if Limestone will generate in your world
+	generate_limestone = false
+	#Defines if Tungsten will be available in your world
+	generate_tungsten_ore = true
+	#Defines if experience ore will generate in your world
+	generate_experience_ore = true
+	#Defines if Livingstone is obtainable through farming
+	generate_livingstone_ore = true
+	#Defines if Verdite is obtainable through composting
+	generate_verdite_ore = true
+	#Defines if Aethersteel will be available in your world
+	generate_aethersteel_ore = true
+	#Defines if aetherrock meteor will generate in your world (this will also disable aethersteel)
+	generate_aetherrock_meteor = true
+	#Ores won't break if mined with the incorrect tool
+	safe_ore_breaking = false
+	#Replaces the original ore progression of the game
+	modded_progression = false
+
+[other]
+	#Defines if tools and weapons will have their durability replaced
+	equipment_durability = true
+	#Defines if steel tools will increase their durability cost for each mined block per efficiency level
+	steel_efficiency_nerf = true

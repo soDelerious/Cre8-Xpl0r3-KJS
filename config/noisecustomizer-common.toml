@@ -1,0 +1,44 @@
+#Fix the section limit to allow lighting and entities to work past 2^25
+fixSections = false
+#Enable the 32bit version of the farlands
+enableFarlands = false
+#Amount in chunks to offset generation by
+# Default: 0
+# Range: > -2147483648
+genOffset = 0
+#The xz noise coordinate scale
+# Default: 171.103
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+xzCoordinateScale = 171.103
+#The y noise coordinate scale
+# Default: 85.5515
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+yCoordinateScale = 85.5515
+#Scale applied to the low noise
+# Default: 1.0
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+lowNoiseScale = 1.0
+#Scale applied to the high noise
+# Default: 1.0
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+highNoiseScale = 1.0
+#Scale applied to the selector noise
+# Default: 1.0
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+selectorNoiseScale = 1.0
+#The amount of octaves to use for low and high noise
+# Default: 16
+# Range: 0 ~ 16
+noiseOctaves = 16
+#The amount of octaves to use for selector noise
+# Default: 8
+# Range: 0 ~ 8
+selectorNoiseOctaves = 8
+#The input factor for new normal noise
+# Default: 1.0181268882175227
+# Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
+normalNoiseInputFactor = 1.0181268882175227
+#The coordinate to clamp normal noise values at
+# Default: 1.7976931348623157E308
+# Range: 0.0 ~ 1.7976931348623157E308
+normalNoiseClamp = 1.7976931348623157E308

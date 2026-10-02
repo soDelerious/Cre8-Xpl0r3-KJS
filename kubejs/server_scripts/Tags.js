@@ -6,6 +6,12 @@ ServerEvents.tags('item', event => {
   event.add('curios:tank', 'create_sa:creative_filling_tank')
   event.add('curios:back', 'create:netherite_backtank')
   event.add('curios:back', 'create:copper_backtank')
+
+
+const totem =['orevolution:bronze_totem_emerald', 'orevolution:bronze_totem_lapis_lazuli', 'orevolution:bronze_totem_diamond']
+totem.forEach(totem => {
+    event.add('curios:charm', totem)
+})
 const Tanks =['create_sa:small_filling_tank', 'create_sa:medium_filling_tank', 'create_sa:large_filling_tank', 'create_sa:small_fueling_tank', 'create_sa:medium_fueling_tank', 'create_sa:large_fueling_tank']
 Tanks.forEach(tank => {
     event.add('curios:tank', tank)
@@ -269,11 +275,16 @@ const overworldFIRE =['terralith:volcanic_crater', 'terralith:volcanic_peaks','t
 overworldFIRE.forEach(biome => {
     event.add('rottencreatures:can_burned_spawn_on', biome)
     event.add('endermanoverhaul:crimson_forest_spawns', biome)
+
+
 })
+
+
+
 
 event.add('bettermineshafts:has_structure/better_mineshaft_desert','yungscavebiomes:lost_caves')
 const YetiBiomes = ['terralith:glacial_chasm','minecraft:ice_spikes','minecraft:snowy_beach','minecraft:snowy_plains','minecraft:snowy_slopes','minecraft:snowy_taiga', 'terralith:frozen_cliffs', 'terralith:ice_marsh']
-const ColdBiomes = ['#c:is_cold','#c:is_snowy','#c:is_frozen','#c:is_icy']
+const ColdBiomes = ['#c:is_cold/overworld','#c:is_snowy','#c:is_frozen','#c:is_icy']
 event.add('rottencreatures:can_frostbitten_spawn_on', '#c:is_mountain')
 
 ColdBiomes.forEach(biome => {
@@ -281,6 +292,9 @@ ColdBiomes.forEach(biome => {
     event.add('rottencreatures:can_glacial_hunter_spawn_on', biome)
     event.add('endermanoverhaul:ice_spikes_spawns', biome)
     event.add('friendsandfoes:has_iceologer', biome)
+
+
+    
 
 })
 YetiBiomes.forEach(biome => {
@@ -305,13 +319,7 @@ BadlandsBiomes.forEach(biome => {
 
 })
 
-AllEndBiomes.forEach(biome => {
-event.add('endermanoverhaul:end_spawns', biome)
-event.add('endermanoverhaul:end_islands_spawns', biome)
-})
 
-  event.add('endermanoverhaul:windswept_hills_spawns', '#c:is_windswept')
-  event.add('endermanoverhaul:windswept_hills_spawns', '#c:is_windswept')
 
 const JungleTempleBiomes = ['minecraft:jungle', 'minecraft:sparse_jungle', 'terralith:tropical_jungle', 'terralith:rocky_jungle','terralith:cave/underground_jungle','terralith:amethyst_rainforest']
 JungleTempleBiomes.forEach(biome => {
@@ -338,16 +346,36 @@ const ForestBiomes = ['#c:is_forest', '#c:is_magical']
 ForestBiomes.forEach(biome => {
   event.add('friendsandfoes:has_illusioner', biome)
 })
+const NetherWild = ["minecraft:basalt_deltas",
+"minecraft:crimson_forest",
+"minecraft:nether_wastes"]
+event.add('kubejs:wildfire_spawn', NetherWild)
+event.add('friendsandfoes:has_structure/citadel', "#c:is_nether")
 
+
+const dino =["galosphere:pink_salt_caves","terralith:cave/underground_jungle","atmospheric:petrified_dunes", "minecraft:old_growth_pine_taiga"]
+dino.forEach(biome => {
+  event.add('kubejs:has_ancient_beasts', biome)
+})
+
+AllEndBiomes.forEach(biome => {
+event.add('endermanoverhaul:end_spawns', biome)
+event.add('endermanoverhaul:end_islands_spawns', biome)
+})
+
+    event.add('endermanoverhaul:all_spawns', '#c:is_end')
+    event.remove('rottencreatures:can_glacial_hunter_spawn_on', AllEndBiomes)
+    event.remove('rottencreatures:can_frostbitten_spawn_on', AllEndBiomes)
+    event.add('spider_overhaul:is_ice', 'yungscavebiomes:frosted_caves')
 
 })
 
-
+  
 
 
 
 ServerEvents.tags('worldgen/structure', event => {
-const NetherStructureAdd = ['friendsandfoes:citadel','block_factorys_bosses:underworld_arena']
+const NetherStructureAdd = ['block_factorys_bosses:underworld_arena','netherexp:chapel']
   NetherStructureAdd.forEach(strut => {
     event.add('piglinproliferation:travelers_compass_search', strut)
   })
@@ -371,7 +399,28 @@ ServerEvents.tags('block', event => {
       event.remove('create_dragons_plus:passive_block_freezers', 'minecraft:snow_block')
         event.add('create:fan_processing_catalysts/blasting', 'block_factorys_bosses:dragon_skull')
 
-              event.add('minecraft:asurine_geode', 'minecraft:ice')
+        event.add('create:zinky_binky', 'minecraft:sulfur')
+        event.add('create:zinky_binky', 'minecraft:cinnabar')
+        event.add('create:zinky_binky', 'minecraft:diorite')
+        event.add('create:zinky_binky', 'minecraft:calcite')
+        event.add('create:zinky_binky', 'minecraft:tuff')
+        event.add('create:zinky_binky', 'minecraft:andesite')
+        event.add('create:zinky_binky', 'minecraft:cobblestone')
+
+        // event.add('kubejs:tungsten_spawn', 'create:veridium')
+        event.add('kubejs:palladium_spawn', 'minecraft:basalt')
+
+      event.remove('minecraft:incorrect_for_gold_tool', 'minecraft:iron_ore')
+
+      event.remove('minecraft:incorrect_for_stone_tool', 'minecraft:iron_ore')
+const replaceable = ['minecraft:sulfur', 'minecraft:cinnabar', 'galosphere:pink_salt', 'galosphere:rose_pink_salt', 'galosphere:pastel_pink_salt']
+const fragile = ['caverns_and_chasms:fragile_stone', 'caverns_and_chasms:fragile_deepslate', 'atmospheric:snowy_bamboo','netherexp:pyroclast_crusts']
+
+        event.add('minecraft:deepslate_ore_replaceables', replaceable)
+        event.add('minecraft:stone_ore_replaceables', replaceable)
+        event.add('minecraft:deepslate_ore_replaceables', 'minecraft:blackstone')
+
+        event.add('sable:fragile', fragile)
 
       event.add('create:passive_boiler_heaters', 'block_factorys_bosses:dragon_skull')
       event.add('sable:slippery', 'yungscavebiomes:rare_ice')
@@ -386,11 +435,17 @@ PlatinumOres.forEach(ore => {
     event.add('terralith:island_blocks', ore)
 })
 
+const Metals = ['galosphere:deepslate_palladium_ore', 'orevolution:nether_tungsten_ore', 'galosphere:palladium_ore', 'caverns_and_chasms:deepslate_silver_ore', 'caverns_and_chasms:soul_silver_ore', 'orevolution:deepslate_platinum_ore', 'orevolution:platinum_ore', 'caverns_and_chasms:tin_ore', 'caverns_and_chasms:deepslate_tin_ore', 'caverns_and_chasms:gold_brick_slab', 'caverns_and_chasms:gold_brick_stairs', 'caverns_and_chasms:gold_bricks', 'caverns_and_chasms:tinplate_block', 'caverns_and_chasms:tin_chain', 'caverns_and_chasms:tin_bars', 'caverns_and_chasms:chiseled_tin_bricks', 'caverns_and_chasms:tin_brick_slab', 'caverns_and_chasms:tin_brick_wall', 'orevolution:tungsten_block', 'orevolution:platinum_bars', 'orevolution:platinum_tiles', 'orevolution:platinum_pillar', 'orevolution:platinum_block', 'caverns_and_chasms:cylindrite_tin_ore', 'caverns_and_chasms:cassiterite_tin_ore', 'caverns_and_chasms:silver_ore', 'create:deepslate_zinc_ore', 'caverns_and_chasms:iron_brick_wall', 'caverns_and_chasms:iron_brick_slab', 'caverns_and_chasms:iron_brick_stairs', 'orevolution:tin_block', 'orevolution:tin_bricks', 'orevolution:tin_tiles', 'caverns_and_chasms:iron_bricks', 'create:zinc_ore', 'caverns_and_chasms:chiseled_iron_bricks', 'caverns_and_chasms:tin_brick_stairs', 'caverns_and_chasms:tin_bricks', 'caverns_and_chasms:tin_block', 'orevolution:tungsten_bars', 'orevolution:chiseled_tungsten_block', 'orevolution:cut_tungsten_block', 'orevolution:tungsten_bricks', 'orevolution:polished_tungsten_block', 'orevolution:chiseled_tungsten_bricks', 'galosphere:palladium_tiles', 'galosphere:palladium_tiles_stairs', 'galosphere:palladium_tiles_slab', 'galosphere:palladium_block', 'galosphere:palladium_panel', 'galosphere:palladium_lattice', 'galosphere:palladium_panel_stairs', 'galosphere:palladium_panel_slab']
+
+    event.add('the_beyond:metal_blocks', Metals)
+
 const resin = ['minecraft:chiseled_resin_bricks', 'minecraft:resin_brick_stairs', 'minecraft:resin_brick_slab', 'minecraft:resin_brick_wall', 'minecraft:resin_block', 'minecraft:resin_bricks']
 resin.forEach(block => {
     event.add('sable:frictive', block)
 });
-
+    event.add('sable:slippery', 'create:brass_block')
+    event.add('sable:weightless', 'the_beyond:auroracite')
+    event.add('create:movable_empty_collider', 'the_beyond:auroracite')
 const bulkSanding = [ 'friendsandfoes:totem_of_illusion','minecraft:prismarine_crystals', 'minecraft:suspicious_sand',  'minecraft:suspicious_gravel', 'yungscavebiomes:ancient_sand', 'yungscavebiomes:suspicious_ancient_sand'];
 
 bulkSanding.forEach(item => {

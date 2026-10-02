@@ -1,0 +1,37 @@
+{
+	id: "5386C0A8D9DA2A3A"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "1807860E1A479B2F", item: { count: 1, id: "wan_ancient_beasts:nasty_stew" } }
+		{ id: "35EA16F9E514AAF1", item: { count: 1, id: "wan_ancient_beasts:frozen_ancient_meat" } }
+		{ id: "0EF324A787873B61", item: { count: 1, id: "wan_ancient_beasts:raw_ancient_meat" } }
+		{ id: "4241715E0E84A14E", item: { count: 1, id: "wan_ancient_beasts:cooked_ancient_meat" } }
+		{ id: "2CCABBEDDE3E1BD7", item: { count: 1, id: "blazinghot:zinc_apple" } }
+		{ id: "1C76D720BB9A288B", item: { count: 1, id: "blazinghot:copper_apple" } }
+		{ id: "43B7656F1AAA571B", item: { count: 1, id: "blazinghot:blaze_apple" } }
+		{ id: "5B68C5E102F792AB", item: { count: 1, id: "blazinghot:iron_apple" } }
+		{ id: "59E47770AD062EF8", item: { count: 1, id: "atmospheric:currant" } }
+		{ id: "599CA3171D17A031", item: { count: 1, id: "minecraft:golden_apple" } }
+		{ id: "57BB634B24D402BD", item: { count: 1, id: "minecraft:apple" } }
+		{ id: "1E60958E0EC8558C", item: { count: 1, id: "caverns_and_chasms:bejeweled_apple" } }
+		{ id: "7DB2FF7527403848", item: { count: 1, id: "orevolution:verdite_apple" } }
+		{ id: "67F64DF2BF445310", item: { count: 1, id: "orevolution:platinum_berries" } }
+		{ id: "12290FD3EC6C47F2", item: { count: 1, id: "minecraft:golden_carrot" } }
+		{ id: "38E83E02B0FE5E38", item: { count: 1, id: "yungscavebiomes:prickly_peach" } }
+		{ id: "5EE8BEC544812737", item: { count: 1, id: "naturalist:tortoise_egg" } }
+		{ id: "7EA66B6E63E7E026", item: { count: 1, id: "naturalist:duck_egg" } }
+		{ id: "4624E236AAF9040F", item: { count: 1, id: "naturalist:alligator_egg" } }
+		{ id: "1BAAED0A46715577", item: { count: 1, id: "blazinghot:enchanted_zinc_apple" } }
+		{ id: "26A94066C0D0AAC8", item: { count: 1, id: "create:honeyed_apple" } }
+		{ id: "38432781696E300E", item: { count: 1, id: "blazinghot:zinc_carrot" } }
+		{ id: "2D7EE5ABF12D4C15", item: { count: 1, id: "blazinghot:iron_carrot" } }
+		{ id: "3CE971B9FEACE3D1", item: { count: 1, id: "blazinghot:copper_carrot" } }
+		{ id: "5EBBBC9F3F3F6EE4", item: { count: 1, id: "blazinghot:blaze_carrot" } }
+		{ id: "7D192F15203E216D", item: { count: 1, id: "blazinghot:brass_carrot" } }
+		{ id: "293C88ABB7BEE91E", item: { count: 1, id: "blazinghot:brass_apple" } }
+		{ id: "34B87AC51B2EF084", item: { count: 1, id: "naturalist:ant" } }
+		{ id: "3D1A333EC2FBFEEB", item: { components: { "minecraft:bucket_entity_data": { Color: 0 }, "minecraft:custom_data": { Color: 0 } }, count: 1, id: "naturalist:snail" } }
+		{ id: "3CF677A799FF0BF7", item: { count: 1, id: "naturalist:scorpion" } }
+	]
+}

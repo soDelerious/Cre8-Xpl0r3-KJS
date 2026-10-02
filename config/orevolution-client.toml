@@ -1,0 +1,10 @@
+#Display the text 'You can't harvest this block yet!'
+warn_break = false
+#Display the 3x3 outline on all blocks while holding, for example, the steel hammer
+steel_outline = true
+# Default: 0
+# Range: -1000 ~ 1000
+ancient_caves_min_fog = 0
+# Default: 96
+# Range: -1000 ~ 1000
+ancient_caves_max_fog = 96

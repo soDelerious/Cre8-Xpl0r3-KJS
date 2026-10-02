@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#kubejs:has_ancient_beasts",
+  "spawners": {
+    "type": "wan_ancient_beasts:eater",
+    "maxCount": 1,
+    "minCount": 1,
+    "weight": 5
+  }
+}

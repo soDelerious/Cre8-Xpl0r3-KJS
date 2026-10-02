@@ -1,0 +1,27 @@
+{
+  "type": "orevolution:tin_ore_feature",
+  "config": {
+    "discard_chance_on_air_exposure": 0.3,
+    "size": 16,
+    "targets": [
+      {
+        "state": {
+          "Name": "orevolution:tin_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:not_a_real_tag"
+        }
+      },
+      {
+        "state": {
+          "Name": "orevolution:deepslate_tin_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:not_a_real_tag"
+        }
+      }
+    ]
+  }
+}

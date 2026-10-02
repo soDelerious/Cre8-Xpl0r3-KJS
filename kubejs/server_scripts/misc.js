@@ -41,6 +41,16 @@ BlockEvents.detectorChanged('kubejs:chunk_pulser', event => {
 // event.addItem(Item.of('minecraft:diamond').withCount(1))
 // })
 
+
+
+
+
+
+
+
+
+
+
 let commandQueue = [];
 let pulserCooldown = {}; // Track cooldown per player
 
@@ -159,69 +169,69 @@ EntityEvents.drops('naturalist:snail', event => {
 })
 
 
-const Beasts = [
-'luminous_beasts:arid_yeti',
-'luminous_beasts:baby_phoenix',
-'luminous_beasts:baby_wind_phoenix',
-'luminous_beasts:bogged_bone_stalker',
-'luminous_beasts:bogged_shadow',
-'luminous_beasts:bone_stalker',
-'luminous_beasts:coral_sea_viper',
-'luminous_beasts:frigid_gator',
-'luminous_beasts:golden_hermit_king',
-'luminous_beasts:hermit_king',
-'luminous_beasts:horseless_headsman',
-'luminous_beasts:mummy',
-'luminous_beasts:phoenix',
-'luminous_beasts:red_mummy',
-'luminous_beasts:sand_crab',
-'luminous_beasts:scarecrow_minion',
-'luminous_beasts:sea_viper',
-'luminous_beasts:shadow',
-'luminous_beasts:soul_furnace',
-'luminous_beasts:the_furnace',
-'luminous_beasts:the_scarecrow',
-'luminous_beasts:tree_ent',
-'luminous_beasts:vile_gator',
-'luminous_beasts:wind_phoenix',
-'luminous_beasts:witch_doctor',
-'luminous_beasts:woodland_witch_doctor',
-'luminous_beasts:yeti'
-]
+// const Beasts = [
+// 'luminous_beasts:arid_yeti',
+// 'luminous_beasts:baby_phoenix',
+// 'luminous_beasts:baby_wind_phoenix',
+// 'luminous_beasts:bogged_bone_stalker',
+// 'luminous_beasts:bogged_shadow',
+// 'luminous_beasts:bone_stalker',
+// 'luminous_beasts:coral_sea_viper',
+// 'luminous_beasts:frigid_gator',
+// 'luminous_beasts:golden_hermit_king',
+// 'luminous_beasts:hermit_king',
+// 'luminous_beasts:horseless_headsman',
+// 'luminous_beasts:mummy',
+// 'luminous_beasts:phoenix',
+// 'luminous_beasts:red_mummy',
+// 'luminous_beasts:sand_crab',
+// 'luminous_beasts:scarecrow_minion',
+// 'luminous_beasts:sea_viper',
+// 'luminous_beasts:shadow',
+// 'luminous_beasts:soul_furnace',
+// 'luminous_beasts:the_furnace',
+// 'luminous_beasts:the_scarecrow',
+// 'luminous_beasts:tree_ent',
+// 'luminous_beasts:vile_gator',
+// 'luminous_beasts:wind_phoenix',
+// 'luminous_beasts:witch_doctor',
+// 'luminous_beasts:woodland_witch_doctor',
+// 'luminous_beasts:yeti'
+// ]
 
-const trophy = [
-'luminous_beasts:rare_yeti_trophy',
-'luminous_beasts:rare_witch_doctor_trophy',
- 'luminous_beasts:furnace_trophy',
-  'luminous_beasts:witch_doctor_trophy',
-   'luminous_beasts:bone_stalker_trophy',
-    'luminous_beasts:phoenix_trophy',
-     'luminous_beasts:vile_gator_trophy',
-       'luminous_beasts:mummy_trophy',
-        'luminous_beasts:hermit_king_trophy',
-         'luminous_beasts:viper_trophy',
-          'luminous_beasts:rare_bone_stalker_trophy',
-           'luminous_beasts:rare_phoenix_trophy',
-            'luminous_beasts:rare_vile_gator_trophy',
-              'luminous_beasts:rare_viper_trophy',
-               'luminous_beasts:rare_mummy_trophy',
-                'luminous_beasts:rare_hermit_king_trophy',
-                 'luminous_beasts:horseless_headsman_trophy',
-                  'luminous_beasts:scarecrow_trophy',
-                   'luminous_beasts:rare_executioner_trophy',
-                    'luminous_beasts:rare_spitter_trophy',
-     'luminous_beasts:soul_furnace_trophy',
-'luminous_beasts:yeti_trophy'
-]
+// const trophy = [
+// 'luminous_beasts:rare_yeti_trophy',
+// 'luminous_beasts:rare_witch_doctor_trophy',
+//  'luminous_beasts:furnace_trophy',
+//   'luminous_beasts:witch_doctor_trophy',
+//    'luminous_beasts:bone_stalker_trophy',
+//     'luminous_beasts:phoenix_trophy',
+//      'luminous_beasts:vile_gator_trophy',
+//        'luminous_beasts:mummy_trophy',
+//         'luminous_beasts:hermit_king_trophy',
+//          'luminous_beasts:viper_trophy',
+//           'luminous_beasts:rare_bone_stalker_trophy',
+//            'luminous_beasts:rare_phoenix_trophy',
+//             'luminous_beasts:rare_vile_gator_trophy',
+//               'luminous_beasts:rare_viper_trophy',
+//                'luminous_beasts:rare_mummy_trophy',
+//                 'luminous_beasts:rare_hermit_king_trophy',
+//                  'luminous_beasts:horseless_headsman_trophy',
+//                   'luminous_beasts:scarecrow_trophy',
+//                    'luminous_beasts:rare_executioner_trophy',
+//                     'luminous_beasts:rare_spitter_trophy',
+//      'luminous_beasts:soul_furnace_trophy',
+// 'luminous_beasts:yeti_trophy'
+// ]
 
-const trinkets = ['luminous_beasts:pumpkin_helmet_helmet', 'luminous_beasts:mummy_wraps_helmet', 'luminous_beasts:molten_coal', 'luminous_beasts:jungle_pendant', 'luminous_beasts:bone_rattle', 'luminous_beasts:phoenix_feather', 'luminous_beasts:gator_tooth', 'luminous_beasts:yeti_horn', 'luminous_beasts:viper_tooth', 'luminous_beasts:shellmet_helmet']
-// LootJS.modifiers(event => {
-//   // Target the specific array of entities
-//   event.addEntityModifier(Beasts)
-//     // Replace 'minecraft:bone' with the item ID you want to remove
-//     .removeLoot(trophy) 
-// })
-const disks = ['luminous_beasts:hermit_king_disc', 'luminous_beasts:mummy_disc', 'luminous_beasts:sea_viper_disc', 'luminous_beasts:yeti_disc', 'luminous_beasts:vile_gator_disc', 'luminous_beasts:phoenix_disc', 'luminous_beasts:bone_stalker_disc', 'luminous_beasts:furnace_disc', 'luminous_beasts:headsman_disc']
+// const trinkets = ['luminous_beasts:pumpkin_helmet_helmet', 'luminous_beasts:mummy_wraps_helmet', 'luminous_beasts:molten_coal', 'luminous_beasts:jungle_pendant', 'luminous_beasts:bone_rattle', 'luminous_beasts:phoenix_feather', 'luminous_beasts:gator_tooth', 'luminous_beasts:yeti_horn', 'luminous_beasts:viper_tooth', 'luminous_beasts:shellmet_helmet']
+// // LootJS.modifiers(event => {
+// //   // Target the specific array of entities
+// //   event.addEntityModifier(Beasts)
+// //     // Replace 'minecraft:bone' with the item ID you want to remove
+// //     .removeLoot(trophy) 
+// // })
+// const disks = ['luminous_beasts:hermit_king_disc', 'luminous_beasts:mummy_disc', 'luminous_beasts:sea_viper_disc', 'luminous_beasts:yeti_disc', 'luminous_beasts:vile_gator_disc', 'luminous_beasts:phoenix_disc', 'luminous_beasts:bone_stalker_disc', 'luminous_beasts:furnace_disc', 'luminous_beasts:headsman_disc']
 
 
 
@@ -241,35 +251,35 @@ EntityEvents.drops('minecraft:ravager', event => {
 
 
 
-EntityEvents.drops('luminous_beasts:hermit_king', event => {
-            event.drops.clear()
+// EntityEvents.drops('luminous_beasts:hermit_king', event => {
+//             event.drops.clear()
 
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:shellmet_helmet')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:hermit_king_disc')
-    }
-})
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:shellmet_helmet')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:hermit_king_disc')
+//     }
+// })
 
-EntityEvents.drops('luminous_beasts:golden_hermit_king', event => {
-            event.drops.clear()
+// EntityEvents.drops('luminous_beasts:golden_hermit_king', event => {
+//             event.drops.clear()
 
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:shellmet_helmet')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:hermit_king_disc')
-    }
-})
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:shellmet_helmet')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:hermit_king_disc')
+//     }
+// })
 
 EntityEvents.drops('friendsandfoes:crab', event => {
     
 
     event.drops.clear()
-
+    event.addDrop('naturalist:crab_meat')
         let chance = Math.random()
         if (chance > 0.5) {
             let sandCatalyst = event.addDrop('friendsandfoes:crab_claw')
@@ -288,185 +298,182 @@ EntityEvents.drops('block_factorys_bosses:underworld_knight', event => {
         // event.removeDrop('block_factorys_bosses:ice_gauntlet')
 })
 
-EntityEvents.drops('luminous_beasts:yeti', event => {
-            event.drops.clear()
+// EntityEvents.drops('luminous_beasts:yeti', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:yeti_horn')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:yeti_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:arid_yeti', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:yeti_horn')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:yeti_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:mummy', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:mummy_wraps_helmet')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:mummy_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:red_mummy', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:mummy_wraps_helmet')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:mummy_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:the_furnace', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:molten_coal')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:furnace_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:soul_furnace', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:molten_coal')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:furnace_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:sea_viper', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:viper_tooth')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:sea_viper_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:coral_sea_viper', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:viper_tooth')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:sea_viper_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:baby_phoenix', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:phoenix_feather')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:phoenix_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:baby_wind_phoenix', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:phoenix_feather')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:phoenix_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:witch_doctor', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:jungle_pendant')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:firebugs_disc')
+//     }
+// })
+// EntityEvents.drops('luminous_beasts:woodland_witch_doctor', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:jungle_pendant')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:firebugs_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:bone_stalker', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:bone_rattle')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:bone_stalker_disc')
+//     }
+// })
+
+// EntityEvents.drops('luminous_beasts:bogged_bone_stalker', event => {
+//             event.drops.clear()
+
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:bone_rattle')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:bone_stalker_disc')
+//     }
+// })
+
+EntityEvents.drops('environmental:deer', event => {
+            // event.drops.clear()
 
     let chance = Math.random()
     if (chance < 0.4) {
-        event.addDrop('luminous_beasts:yeti_horn')
+        event.addDrop('naturalist:antler')
     }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:yeti_disc')
-    }
+
 })
-
-EntityEvents.drops('luminous_beasts:arid_yeti', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:yeti_horn')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:yeti_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:mummy', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:mummy_wraps_helmet')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:mummy_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:red_mummy', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:mummy_wraps_helmet')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:mummy_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:the_furnace', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:molten_coal')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:furnace_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:soul_furnace', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:molten_coal')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:furnace_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:sea_viper', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:viper_tooth')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:sea_viper_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:coral_sea_viper', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:viper_tooth')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:sea_viper_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:baby_phoenix', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:phoenix_feather')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:phoenix_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:baby_wind_phoenix', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:phoenix_feather')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:phoenix_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:witch_doctor', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:jungle_pendant')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:firebugs_disc')
-    }
-})
-EntityEvents.drops('luminous_beasts:woodland_witch_doctor', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:jungle_pendant')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:firebugs_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:bone_stalker', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:bone_rattle')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:bone_stalker_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:bogged_bone_stalker', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:bone_rattle')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:bone_stalker_disc')
-    }
-})
-
-EntityEvents.drops('luminous_beasts:luminous_moth', event => {
-            event.drops.clear()
-
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:luminous_antennae')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:luminous_moth_disc')
-    }
-})
-
 
 EntityEvents.drops('whirl_wind:whirl_wind', event => {
             event.drops.clear()
@@ -505,64 +512,64 @@ ServerEvents.tick(event => {
 });
 
 
-EntityEvents.drops('luminous_beasts:albino_moth', event => {
-            event.cancel()
+// EntityEvents.drops('luminous_beasts:albino_moth', event => {
+//             event.cancel()
 
 
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:luminous_antennae')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:luminous_moth_disc')
-    }
-})
-EntityEvents.drops('luminous_beasts:horseless_headsman', event => {
-            event.drops.clear()
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:luminous_antennae')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:luminous_moth_disc')
+//     }
+// })
+// EntityEvents.drops('luminous_beasts:horseless_headsman', event => {
+//             event.drops.clear()
 
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:pumpkin_helmet_helmet')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:headsman_disc')
-    }
-})
-EntityEvents.drops('luminous_beasts:the_scarecrow', event => {
-            event.drops.clear()
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:pumpkin_helmet_helmet')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:headsman_disc')
+//     }
+// })
+// EntityEvents.drops('luminous_beasts:the_scarecrow', event => {
+//             event.drops.clear()
 
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:pumpkin_helmet_helmet')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:headsman_disc')
-    }
-})
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:pumpkin_helmet_helmet')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:headsman_disc')
+//     }
+// })
 
-EntityEvents.drops('luminous_beasts:vile_gator', event => {
-            event.drops.clear()
+// EntityEvents.drops('luminous_beasts:vile_gator', event => {
+//             event.drops.clear()
 
-    let chance = Math.random()
-    if (chance < 0.4) {
-        event.addDrop('luminous_beasts:gator_tooth')
-    }
-    if (chance > 0.9) {
-        event.addDrop('luminous_beasts:vile_gator_disc')
-    }
-})
+//     let chance = Math.random()
+//     if (chance < 0.4) {
+//         event.addDrop('luminous_beasts:gator_tooth')
+//     }
+//     if (chance > 0.9) {
+//         event.addDrop('luminous_beasts:vile_gator_disc')
+//     }
+// })
 
-EntityEvents.drops('luminous_beasts:frigid_gator', event => {
-            event.drops.clear()
+// EntityEvents.drops('luminous_beasts:frigid_gator', event => {
+//             event.drops.clear()
 
-    let chance = Math.random()
-    if (chance < 0.6) {
-        event.addDrop('luminous_beasts:gator_tooth')
-    }
-    if (chance > 0.4) {
-        event.addDrop('luminous_beasts:vile_gator_disc')
-    }
-})
+//     let chance = Math.random()
+//     if (chance < 0.6) {
+//         event.addDrop('luminous_beasts:gator_tooth')
+//     }
+//     if (chance > 0.4) {
+//         event.addDrop('luminous_beasts:vile_gator_disc')
+//     }
+// })
 
 const platinum = [ 'createpropulsion:coral_generator',
      'createpropulsion:cable',
@@ -584,27 +591,7 @@ RecipeViewerEvents.removeEntriesCompletely('item', event => {
         event.remove(plat)
     });
 })
-CreateHeatJS.registerHeatEvent(event => {
 
-    event.registerHeat("DRACONIC", builder => builder
-            .color(0xFA512D)
-            .addHeatSource('block_factorys_bosses:dragon_skull') //Block
-            .satisfies("HEATED")
-    )
-
-    event.registerHeat("WITHERED", builder => builder
-            .color(0x2C6862)
-            .addHeatSource('kubejs:wither_knight_catalyst') //Block
-            .satisfies("SUPERHEATED")
-    )
-
-    event.registerHeat("PRESSURIZED", builder => builder
-            .color(0x252930)
-            .addHeatSource('minecraft:bedrock') //Block
-    )
-
-    // addHeatSource('block_factorys_bosses:dragon_skull', "HEATED")
-})
 
 ItemEvents.foodEaten(event => {
     // Check if the eaten item matches the prickly peach id

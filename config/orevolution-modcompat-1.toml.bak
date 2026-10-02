@@ -1,0 +1,23 @@
+[oreganized]
+	electrum_kinetic_damage = false
+	electrum_tool_powers = true
+	electrum_weapon_powers = true
+	electrum_armor_powers = true
+	#Modifies the max uses of electrum tools and weapons. vanilla is 1561, modded is 1920
+	# Default: 1920
+	# Range: > -1
+	electrum_max_uses = 1920
+	electrum_speed_per_armor_piece = false
+	#Electrum tools won't mine diamond and must instead be used to get Platinum tools
+	electrum_follows_platinum = true
+
+[copperagebackport]
+	copper_armor_powers = true
+	#Modifies the max uses of electrum tools and weapons. vanilla is 190, modded is 320
+	# Default: 320
+	# Range: > -1
+	copper_max_uses = 320
+	#Copper tools won't mine iron and must instead be used to get Tin tools
+	copper_follows_tin = true
+	#Tin tools won't mine iron and must instead be used to get Copper tools
+	tin_follows_copper = false

@@ -1,0 +1,30 @@
+{
+  "config_version": "2.0.13",
+  "config_datetime": "2026-09-12_22-34-38",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [],
+  "biomes": [
+    {
+      "name": "orevolution:ancient_caves",
+      "is_disabled": true
+    },
+    {
+      "name": "terralith:cave/andesite_caves",
+      "replacement_biome": "galosphere:lichen_caves"
+    },
+    {
+      "name": "terralith:cave/diorite_caves",
+      "replacement_biome": "galosphere:pink_salt_caves"
+    },
+    {
+      "name": "terralith:cave/granite_caves",
+      "replacement_biome": "galosphere:crystal_canyons"
+    },
+    {
+      "name": "terralith:cave/tuff_caves",
+      "replacement_biome": "minecraft:sulfur_caves"
+    }
+  ]
+}

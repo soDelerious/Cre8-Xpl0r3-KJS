@@ -94,9 +94,61 @@ StartupEvents.registry("armor_material", (event) => {
 
 })
 
+CreateHeatJS.registerHeatEvent(event => {
 
+    event.registerHeat("DRACONIC", builder => builder
+            .color(0xFA512D)
+            .addHeatSource('block_factorys_bosses:dragon_skull') //Block
+            .satisfies("HEATED")
+    )
 
+    event.registerHeat("WITHERED", builder => builder
+            .color(0x2C6862)
+            .addHeatSource('kubejs:wither_knight_catalyst') //Block
+            .satisfies("SUPERHEATED")
+    )
 
+    event.registerHeat("PRESSURIZED", builder => builder
+            .color(0x252930)
+            .addHeatSource('minecraft:bedrock') //Block
+    )
+
+    // addHeatSource('block_factorys_bosses:dragon_skull', "HEATED")
+})
+
+const $SoundEvents = Java.loadClass('net.minecraft.sounds.SoundEvents')
+const $ParticleTypes = Java.loadClass('net.minecraft.core.particles.ParticleTypes')
+
+StartupEvents.registry('fluid', event => {
+  event.create('molten_tin', 'thick')
+    .displayName('Molten Tin')
+    .tint(0x968e82)//da
+
+      event.create('molten_aethersteel', 'thick')
+    .displayName('Molten Aethersteel')
+    .tint(0xff5f47)
+          event.create('molten_bronze', 'thick')
+    .displayName('Molten Bronze')
+    .tint(0xff9c47)
+          event.create('molten_tungsten', 'thick')
+    .displayName('Molten Tungsten')
+    .tint(0xd1f3d2)
+          event.create('molten_platinum', 'thick')
+    .displayName('Molten Platinum')
+    .tint(0xb1f1fc)
+          event.create('molten_verdite', 'thick')
+    .displayName('Molten Verdite')
+    .tint(0xb6ff7f)
+           event.create('molten_silver', 'thick')
+    .displayName('Molten Silver')
+    .tint(0xb3fff1)
+})
+
+BlockEvents.modification(event => {
+  event.modify('the_beyond:auroracite', block => {
+    block.hasCollision = false
+  })
+})
 // BlockEvents.modification(event => {
 //   event.modify('block_factorys_bosses:dragon_skull', block => {
 //     block.destroySpeed = 0.1

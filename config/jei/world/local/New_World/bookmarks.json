@@ -15,5 +15,6 @@
   {"recipe":"create:crafting/kinetics/super_glue","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
   {"ingredient":{"id":"create:mechanical_drill"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"recipe":"create:crafting/kinetics/gantry_carriage","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
-  {"ingredient":{"id":"create:gantry_shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"create:gantry_shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"orevolution:bronze_totem_emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

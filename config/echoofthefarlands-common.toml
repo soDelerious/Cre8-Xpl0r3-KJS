@@ -1,0 +1,37 @@
+#this is where the custom value you can change from the in-game menu is stored, this is not referenced by the server
+#FARLANDS CUSTOM LOCATION
+# Default: 1000000
+# Range: > 1
+farlandsCustomLocation = 1000000
+#
+#these are the internal values, only change these manually if you are setting up a server
+#FARLANDS LOCATION
+# Default: 1000000
+# Range: > 1
+farlandsLocation = 1000000
+#
+#FARLANDS GEN TYPE
+#types are as follows:
+#0. piecewise
+#1. proportional piecewise
+#2. Unscaled
+#3. exponential
+#4. proportional exponential
+#5. Linear
+#6. Sine
+#7. Multi Trig
+# Default: 0
+# Range: 0 ~ 7
+farlandsGenType = 0
+#
+#FARLANDS WALL TEXTURE PATCH
+farlandsWallTexturePatch = true
+#
+#FARLANDS LIQUID FIX
+farlandsLiquidFix = true
+#
+#FARLANDS BEDROCK FIX
+farlandsBedrockFix = true
+#
+#WALL STRUCTURES GENERATION
+wallStructuresGeneration = false

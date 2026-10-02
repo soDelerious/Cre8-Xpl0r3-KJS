@@ -108,6 +108,8 @@ event.replaceOutput(
   Ingredient.of('kubejs:forged_diamond')  // Arg 3: the item to replace it with 
   // Do /kjs hand with the items you want to use to see all their tags.
 )
+
+
 event.remove('diamond_from_blasting_deepslate_diamond_ore')
 event.remove('diamond_from_blasting_diamond_ore')
 event.remove('diamond_from_smelting_diamond_ore')
@@ -133,38 +135,43 @@ event.replaceInput(
   Ingredient.of('minecraft:diamond')  // Arg 3: the item to replace it with 
   // Do /kjs hand with the items you want to use to see all their tags.
 )
-
+// event.replaceOutput(
+//   { input: 'orevolution:raw_tungsten' },         // Arg 1: the filter
+//   'orevolution:raw_tungsten',                    // Arg 2: the item to replace
+//   Ingredient.of('orevolution:tungsten_nugget')  // Arg 3: the item to replace it with 
+//   // Do /kjs hand with the items you want to use to see all their tags.
+// )
 // SEQUENCED **************************************************
-const transitionalBE = 'minecraft:reinforced_deepslate' // Making a constant to store the transitional item makes the code more readable
-  event.recipes.create.sequenced_assembly(
-      // Outputs:
-      [
-        CreateItem.of('luminous_beasts:beast_pit_off', 0.06), // Main output, will appear in JEI as the result
-        CreateItem.of('minecraft:polished_deepslate', 0.02),
-        CreateItem.of('minecraft:deepslate', 0.01),
-        CreateItem.of('minecraft:cobbled_deepslate', 0.01),
-        CreateItem.of('minecraft:smooth_basalt', 0.01)
+// const transitionalBE = 'minecraft:reinforced_deepslate' // Making a constant to store the transitional item makes the code more readable
+//   event.recipes.create.sequenced_assembly(
+//       // Outputs:
+//       [
+//         CreateItem.of('luminous_beasts:beast_pit_off', 0.06), // Main output, will appear in JEI as the result
+//         CreateItem.of('minecraft:polished_deepslate', 0.02),
+//         CreateItem.of('minecraft:deepslate', 0.01),
+//         CreateItem.of('minecraft:cobbled_deepslate', 0.01),
+//         CreateItem.of('minecraft:smooth_basalt', 0.01)
 
-      ],
-      // Input:
-      'minecraft:reinforced_deepslate',
-      // Sequence:
-      [
-        // The transitional item is a constant, that is 'kubejs:incomplete_spore_blossom' and is used during the intermediate stages of the assembly.
-        // Like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item.
-        // event.recipes.create.pressing(transitionalRE, transitionalRE),
-        event.recipes.create.cutting(transitionalBE, transitionalBE),
-        event.recipes.create.deploying(transitionalBE, [transitionalBE, 'blazinghot:soul_dust']),
-        event.recipes.create.pressing(transitionalBE, transitionalBE),
-        event.recipes.create.pressing(transitionalBE, transitionalBE),
-        event.recipes.create.deploying(transitionalBE, [transitionalBE, 'blazinghot:soul_dust'])
+//       ],
+//       // Input:
+//       'minecraft:reinforced_deepslate',
+//       // Sequence:
+//       [
+//         // The transitional item is a constant, that is 'kubejs:incomplete_spore_blossom' and is used during the intermediate stages of the assembly.
+//         // Like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item.
+//         // event.recipes.create.pressing(transitionalRE, transitionalRE),
+//         event.recipes.create.cutting(transitionalBE, transitionalBE),
+//         event.recipes.create.deploying(transitionalBE, [transitionalBE, 'blazinghot:soul_dust']),
+//         event.recipes.create.pressing(transitionalBE, transitionalBE),
+//         event.recipes.create.pressing(transitionalBE, transitionalBE),
+//         event.recipes.create.deploying(transitionalBE, [transitionalBE, 'blazinghot:soul_dust'])
 
 
 
-      ]
-    )
-    .transitionalItem(transitionalBE).loops(3) // Set the transitional item
-event.remove('luminous_beasts:beast_pit_recipe')
+//       ]
+//     )
+//     .transitionalItem(transitionalBE).loops(3) // Set the transitional item
+// event.remove('luminous_beasts:beast_pit_recipe')
 
 
 const transitionalRE = 'minecraft:cracked_deepslate_tiles' // Making a constant to store the transitional item makes the code more readable
@@ -185,7 +192,7 @@ const transitionalRE = 'minecraft:cracked_deepslate_tiles' // Making a constant 
         // The transitional item is a constant, that is 'kubejs:incomplete_spore_blossom' and is used during the intermediate stages of the assembly.
         // Like a normal recipe function, is used as a sequence step in this array. Input and output have the transitional item.
         // event.recipes.create.pressing(transitionalRE, transitionalRE),
-        event.recipes.create.deploying(transitionalRE, [transitionalRE, 'create:brass_sheet']),
+        event.recipes.create.deploying(transitionalRE, [transitionalRE, 'orevolution:tungsten_ingot']),
         event.recipes.create.pressing(transitionalRE, transitionalRE),
         event.recipes.create.deploying(transitionalRE, [transitionalRE, 'powergrid:zinc_sheet']),
         event.recipes.create.pressing(transitionalRE, transitionalRE),
@@ -221,7 +228,7 @@ const transitionalCOP = 'create_sa:incomplete_hydraulic_engine' // Making a cons
         // event.recipes.create.pressing(transitionalCOP, transitionalCOP),
         event.recipes.create.deploying(transitionalCOP, [transitionalCOP, 'ftbquests:book']),
         // event.recipes.create.pressing(transitionalCOP, transitionalCOP),
-        event.recipes.create.deploying(transitionalCOP, [transitionalCOP, 'create_sa:hydraulic_engine']),
+        event.recipes.create.deploying(transitionalCOP, [transitionalCOP, 'playertrackingcompass:player_tracking_compass']),
         event.recipes.create.pressing(transitionalCOP, transitionalCOP),
         event.recipes.create.deploying(transitionalCOP, [transitionalCOP, 'powergrid:copper_coil'])
 
@@ -285,7 +292,7 @@ const transitionalToT = 'kubejs:incomplete_totem' // Making a constant to store 
         // event.recipes.create.pressing(transitional, transitional),
         event.recipes.create.deploying(transitional, [transitional, Ingredient.of('#powergrid:circuit_component')]),
         // event.recipes.create.pressing(transitional, transitional),
-        event.recipes.create.deploying(transitional, [transitional, 'create_sa:steam_engine']),
+        event.recipes.create.deploying(transitional, [transitional, 'playertrackingcompass:player_tracking_compass']),
         event.recipes.create.deploying(transitional, [transitional, 'create:brass_sheet'])
 
 
@@ -295,6 +302,7 @@ const transitionalToT = 'kubejs:incomplete_totem' // Making a constant to store 
 
     event.remove('naturescompass:natures_compass')
     event.remove('naturescompass:repair_natures_compass')
+    event.remove('ftbfiltersystem:smart_filter')
 
 
   event.recipes.create.sequenced_assembly(
@@ -415,6 +423,90 @@ event.recipes.create.mechanical_crafting('aeronautics_utility_objects:brass_univ
     //     // P:'create:piston_extension_pole'
     // });
 
+event.remove('simulated:altitude_sensor')
+// [, , , ]
+ event.shaped('simulated:altitude_sensor', [
+        ' I ',
+        ' D ',
+        ' C '
+    ], {  
+        I: 'create:iron_sheet',
+        C: 'create:andesite_casing',
+        D:'caverns_and_chasms:depth_gauge'
+
+        // P:'create:piston_extension_pole'
+    });
+    event.remove('create_enchantment_industry:crafting/mechanical_grindstone')
+
+     event.shaped('create_enchantment_industry:mechanical_grindstone', [
+        'NIN',
+        'ICI',
+        'NIN'
+    ], {  
+        I: 'galosphere:palladium_ingot',
+        N: 'galosphere:palladium_nugget',
+        C: 'create:cogwheel'
+
+        // P:'create:piston_extension_pole'
+    });
+    event.remove('create:crafting/kinetics/mechanical_drill')
+
+     event.shaped('create:mechanical_drill', [
+        ' A ',
+        'APA',
+        ' C '
+    ], {  
+        A: 'create:andesite_alloy',
+        P: 'galosphere:palladium_ingot',
+        C: 'create:andesite_casing'
+
+        // P:'create:piston_extension_pole'
+    });
+
+    event.remove('offroad:rockcutting_wheel')
+
+     event.shaped('offroad:rockcutting_wheel', [
+        ' P ',
+        'PWP',
+        ' I '
+    ], {  
+        W: 'create:crushing_wheel',
+        P: 'galosphere:palladium_ingot',
+        I: 'create:industrial_iron_block'
+
+        // P:'create:piston_extension_pole'
+    });
+
+
+
+// Nether
+
+
+const Soul = ['endermanoverhaul:soul_pearl', 'netherexp:soul_torchflower', 'netherexp:soul_magma_block', 'netherexp:ecto_soul_sand', 'netherexp:banshee_rod', 'netherexp:banshee_powder', 'netherexp:sanctum_compass', 'blazinghot:soul_dust'] 
+const regular = ['minecraft:ender_pearl', 'minecraft:torchflower', 'minecraft:soul_soil', 'minecraft:soul_sand', 'minecraft:blaze_rod', 'minecraft:blaze_powder', 'piglinproliferation:travelers_compass', 'blazinghot:netherrack_dust']
+
+Soul.forEach((soul,index) => {
+    event.recipes.create.mixing(soul,[ regular[index], Fluid.of('netherexp:ectoplasm',1000)]).processingTime(2000);
+})
+    event.recipes.create.compacting('the_beyond:ectoplasm',Fluid.of('netherexp:ectoplasm',500));
+    // event.recipes.create.compacting(Fluid.of('create_enchantment_industry:experience',75),Fluid.of('netherexp:ectoplasm',500));
+    event.recipes.create.mixing(Fluid.of('aeronautics:levitite_blend',1000),[Fluid.of('the_beyond:gellid_void',500),Fluid.of('netherexp:ectoplasm',500)]).processingTime(2000).heated();
+
+
+const regluarVoid = ['minecraft:glowstone_dust', 'minecraft:red_mushroom', 'minecraft:flint', 'minecraft:slime_ball', 'minecraft:leaf_litter', 'minecraft:ender_pearl', 'naturalist:tooth'] 
+const Void = ['netherexp:pearlescent_frogmist', 'netherexp:nightspores', 'the_beyond:gravistar', 'the_beyond:ferrojelly', 'the_beyond:ferropetal', 'endermanoverhaul:corrupted_pearl', 'endermanoverhaul:enderman_tooth']
+Void.forEach((voids,index) => {
+    event.recipes.create.mixing(voids,[ regluarVoid[index], Fluid.of('the_beyond:gellid_void',1000)]).processingTime(2000);
+})
+
+
+    event.recipes.create.mixing(Fluid.of('create_dragons_plus:dragon_breath',1000),Fluid.of('the_beyond:gellid_void',500)).processingTime(5000);
+    event.recipes.create.compacting('the_beyond:void_crystal',Fluid.of('the_beyond:gellid_void',500));
+
+  event.recipes.create.splashing('minecraft:ender_pearl', Ingredient.of('#c:ender_pearls'));
+    event.recipes.create.mixing(Fluid.of('netherexp:ectoplasm',3000),'the_beyond:lantern_shed').processingTime(2000);
+
+
     event.shaped('kubejs:chunk_pulser', [
         'OSO',
         'BZB',
@@ -447,19 +539,19 @@ event.remove('get_creative:empty_breeze_whirler')
     });
     event.remove('ftbquests:book')
 
-event.remove('create_linear_motion_simulated:crafting/pneumatic_cylinder')
-    event.shaped('ftbquests:book', [
-        'S  ',
-        'CDP',
-        ' G '
-    ], {
-        C: 'create:copper_sheet',
-        S: 'create:cogwheel',
-        D:'create:andesite_casing',
-        P:'create:sand_paper',
-        G:'create:golden_sheet'
-        // P:'create:piston_extension_pole'
-    });
+// event.remove('create_linear_motion_simulated:crafting/pneumatic_cylinder')
+//     event.shaped('ftbquests:book', [
+//         'S  ',
+//         'CDP',
+//         ' G '
+//     ], {
+//         C: 'create:copper_sheet',
+//         S: 'create:cogwheel',
+//         D:'create:andesite_casing',
+//         P:'create:sand_paper',
+//         G:'create:golden_sheet'
+//         // P:'create:piston_extension_pole'
+//     });
 event.recipes.create.mechanical_crafting('overpacked:giant_backpack', [
         ' RHR ',
         ' BLB ',
@@ -484,7 +576,7 @@ event.recipes.create.mechanical_crafting('create_sa:grapplin_whisk', [
         'UUU',
         ' W '   
     ], {
-        P: 'createpropulsion:platinum_ingot',
+        P: 'orevolution:platinum_ingot',
         H: 'create_sa:heat_engine',
         C:'create:cogwheel', 
         U:'create:minecart_coupling',
@@ -507,6 +599,25 @@ event.custom({
     }
   ]
 })
+
+const rememberances = ['the_beyond:mount_remembrance', 'the_beyond:hand_remembrance', 'the_beyond:cloth_remembrance', 'the_beyond:ornament_remembrance', 'the_beyond:spike_remembrance', 'the_beyond:eye_remembrance', 'the_beyond:home_remembrance', 'the_beyond:brace_remembrance', 'the_beyond:idol_remembrance', 'the_beyond:broche_remembrance', 'the_beyond:beads_remembrance', 'the_beyond:ring_remembrance', 'the_beyond:memory_remembrance', 'the_beyond:horn_remembrance', 'the_beyond:lace_remembrance', 'the_beyond:life_remembrance']
+
+rememberances.forEach(rememberance => {
+event.custom({
+  "type": "create_dragons_plus:ending",
+  "ingredients": [
+    {
+    "tag": "artifacts:artifacts" 
+    }
+  ],
+  "results": [
+    {
+    "id": rememberance
+    }
+  ]
+})
+})
+
 event.custom({
   "type": "create_dragons_plus:ending",
   "ingredients": [
@@ -724,10 +835,10 @@ event.custom({
 
     // WITHERING RECIPES **************************************************
     event.recipes.create.mixing('minecraft:netherite_upgrade_smithing_template', ['friendsandfoes:wildfire_crown_fragment', Item.of('blazinghot:nether_essence', 2), 'minecraft:netherite_scrap', Item.of('minecraft:nether_brick', 9)]).heatLevel("WITHERED").processingTime(2000);
-    event.recipes.create.mixing('create:crushed_raw_platinum',['create:crushed_raw_zinc', 'minecraft:diamond', 'create:crushed_raw_iron']).heatLevel("WITHERED").processingTime(2000);
+    event.recipes.create.mixing('orevolution:crushed_raw_tungsten',['create:crushed_raw_zinc', 'minecraft:diamond', 'create:crushed_raw_iron']).heatLevel("WITHERED").processingTime(2000);
     event.recipes.create.mixing('minecraft:wither_skeleton_skull',['minecraft:skeleton_skull', Item.of('minecraft:coal', 3), 'minecraft:ender_eye']).heatLevel("WITHERED").processingTime(2000);
     event.recipes.create.mixing('create:powdered_obsidian',[ 'blazinghot:soul_dust', 'blazinghot:stone_dust', Fluid.of('minecraft:lava',250)]).heatLevel("WITHERED").processingTime(2000);
-    event.recipes.create.compacting('minecraft:ghast_tear', Item.of('createpropulsion:platinum_nugget',3)).heatLevel("WITHERED").processingTime(2000);
+    event.recipes.create.compacting('minecraft:ghast_tear', Item.of('orevolution:platinum_nugget',3)).heatLevel("WITHERED").processingTime(2000);
     event.recipes.create.compacting('minecraft:recovery_compass',['minecraft:compass', Item.of('createpropulsion:platinum_sheet',4)]).heatLevel("WITHERED").processingTime(2000);
     event.recipes.create.mixing('minecraft:ender_eye', ['minecraft:ender_pearl', Fluid.of('create_enchantment_industry:experience', 250)]).heatLevel("WITHERED").processingTime(2000);
     event.recipes.create.mixing('block_factorys_bosses:ancient_trial_key', 'minecraft:trial_key').heatLevel("WITHERED").processingTime(2000);
@@ -736,6 +847,7 @@ event.custom({
     // MOLTEN VENT BALANCING *`************************************************
 
 
+    event.remove('aeronautics:mixing/levitite_blend')
 
     event.remove('create:crushing/asurine_recycling')
     event.remove('create_copper_and_zinc:crushing_asurine')
@@ -816,7 +928,7 @@ event.shaped('create:brass_funnel', [
 
 
 
-  event.recipes.create.mixing("create_dragons_plus:blaze_upgrade_smithing_template", ['blazinghot:nether_essence', 'minecraft:netherrack', 'create:blaze_burner']).heatLevel("DRACONIC");
+  event.recipes.create.mixing("orevolution:reinforced_smithing_template", ['blazinghot:nether_essence', 'minecraft:blackstone', 'create:blaze_burner','orevolution:tungsten_ingot']).heatLevel("DRACONIC");
   // event.recipes.create.mixing('block_factorys_bosses:dragon_bone', 'minecraft:bone').heatLevel("DRACONIC").processingTime(2000);
   // event.recipes.create.compacting(Item.of('blazinghot:nether_essence',3), 'block_factorys_bosses:dragon_bone').heatLevel("DRACONIC");
   event.recipes.create.mixing(Item.of('create:blaze_cake',2), 'minecraft:cake').heatLevel("DRACONIC").processingTime(2000);
@@ -903,7 +1015,7 @@ Lightning.forEach((light, index) => {
         ' PYP '   
     ], {
         R: 'create:flywheel',
-        N: 'minecraft:netherite_ingot',
+        N: 'orevolution:aethersteel_ingot',
         P:'createpropulsion:platinum_sheet', 
         G:'simulated:gyroscopic_mechanism',
         I:'simulated:redstone_inductor',
@@ -913,6 +1025,7 @@ Lightning.forEach((light, index) => {
     }) 
 event.remove('gyro:joystick');
 event.remove('gyro:gyroscope');
+event.remove('orevolution:aethersteel_ingot');
 
 
 
@@ -1007,8 +1120,8 @@ event.recipes.create.filling('createdieselgenerators:mold[createdieselgenerators
         event.remove("createdieselgenerators:cutting/lines_mold");
         event.remove("createdieselgenerators:cutting/bowl_mold");
 
-const rawMetals = ['minecraft:raw_iron', 'minecraft:raw_copper', 'minecraft:raw_gold', 'create:raw_zinc', 'create:crushed_raw_iron', 'create:crushed_raw_gold', 'create:crushed_raw_copper', 'create:crushed_raw_zinc'];
-const moltenMetals = ['blazinghot:molten_iron', 'blazinghot:molten_copper', 'blazinghot:molten_gold', 'blazinghot:molten_zinc', 'blazinghot:molten_iron', 'blazinghot:molten_gold', 'blazinghot:molten_copper', 'blazinghot:molten_zinc'];
+const rawMetals = ['minecraft:raw_iron', 'minecraft:raw_copper', 'minecraft:raw_gold', 'create:raw_zinc', 'create:crushed_raw_iron', 'create:crushed_raw_gold', 'create:crushed_raw_copper', 'create:crushed_raw_zinc','caverns_and_chasms:raw_tin', 'create:crushed_raw_tin', 'orevolution:raw_platinum', 'create:crushed_raw_platinum', 'orevolution:raw_tungsten', 'orevolution:crushed_raw_tungsten', 'orevolution:aethersteel_chunk', 'orevolution:crushed_raw_aethersteel'];
+const moltenMetals = ['blazinghot:molten_iron', 'blazinghot:molten_copper', 'blazinghot:molten_gold', 'blazinghot:molten_zinc', 'blazinghot:molten_iron', 'blazinghot:molten_gold', 'blazinghot:molten_copper', 'blazinghot:molten_zinc','kubejs:molten_tin', 'kubejs:molten_tin', 'kubejs:molten_platinum', 'kubejs:molten_platinum', 'kubejs:molten_tungsten', 'kubejs:molten_tungsten', 'kubejs:molten_aethersteel', 'kubejs:molten_aethersteel'];
 rawMetals.forEach((metal, index) => {
     event.recipes.create.mixing(Fluid.of(moltenMetals[index], 120), metal).superheated().processingTime(2000);
 });
@@ -1047,7 +1160,7 @@ rawMetals.forEach((metal, index) => {
 
 
 
-        const chainItems = ['minecraft:chain', 'block_factorys_bosses:big_chain', 'create:minecart_coupling']
+        const chainItems = ['minecraft:chain', 'block_factorys_bosses:big_chain', 'create:minecart_coupling', 'caverns_and_chasms:tin_chain', 'caverns_and_chasms:golden_chain', 'caverns_and_chasms:copper_chain', 'caverns_and_chasms:silver_chain']
 
     chainItems.forEach(item => {
         event.recipes.create.filling('createdieselgenerators:mold[createdieselgenerators:mold_type="createdieselgenerators:chain"]', [Fluid.of('blazinghot:molten_sturdy_alloy', 180), item]);
@@ -1058,6 +1171,10 @@ rawMetals.forEach((metal, index) => {
   event.recipes.createdieselgenerators.casting("blazinghot:blaze_gold_rod", "createdieselgenerators:lines", Fluid.of("blazinghot:molten_blaze_gold", 45));
   event.recipes.createdieselgenerators.casting("create:minecart_coupling", "createdieselgenerators:chain", Fluid.of("blazinghot:molten_andesite", 35));
   event.recipes.createdieselgenerators.casting("minecraft:chain", "createdieselgenerators:chain", Fluid.of("blazinghot:molten_iron", 35));
+  event.recipes.createdieselgenerators.casting('caverns_and_chasms:tin_chain', "createdieselgenerators:chain", Fluid.of("kubejs:molten_tin", 35));
+  event.recipes.createdieselgenerators.casting('caverns_and_chasms:golden_chain', "createdieselgenerators:chain", Fluid.of("blazinghot:molten_gold", 35));
+  event.recipes.createdieselgenerators.casting('caverns_and_chasms:copper_chain', "createdieselgenerators:chain", Fluid.of("blazinghot:molten_copper", 35));
+  event.recipes.createdieselgenerators.casting('caverns_and_chasms:silver_chain', "createdieselgenerators:chain", Fluid.of("kubejs:molten_silver", 35));
 
 
     //MISC RECIPES **************************************************
@@ -1897,11 +2014,26 @@ event.remove({id:'create_sa:experience_shovel_recipe'});
     event.recipes.createdieselgenerators.casting('create:brass_ingot','createdieselgenerators:bar', Fluid.of('blazinghot:molten_brass',90))
         event.recipes.createdieselgenerators.casting('minecraft:netherite_scrap','createdieselgenerators:bar', Fluid.of('blazinghot:molten_ancient_debris',90))
     event.recipes.createdieselgenerators.casting('blazinghot:blaze_gold_ingot','createdieselgenerators:bar', Fluid.of('blazinghot:molten_blaze_gold',90))
+    event.recipes.createdieselgenerators.casting('orevolution:verdite_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_verdite',90))
+    event.recipes.createdieselgenerators.casting('orevolution:tungsten_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_tungsten',90))
+    event.recipes.createdieselgenerators.casting('orevolution:bronze_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_bronze',90))
+    event.recipes.createdieselgenerators.casting('caverns_and_chasms:tin_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_tin',90))
+    event.recipes.createdieselgenerators.casting('orevolution:aethersteel_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_aethersteel',90))
+    event.recipes.createdieselgenerators.casting('orevolution:platinum_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_platinum',90))
+    event.recipes.createdieselgenerators.casting('caverns_and_chasms:silver_ingot','createdieselgenerators:bar', Fluid.of('kubejs:molten_silver',90))
 
 
+    event.recipes.create.filling('orevolution:verdite_apple', [Fluid.of('kubejs:molten_verdite',3600), 'minecraft:apple'])
+        event.recipes.create.filling('orevolution:verdite_spider_eye', [Fluid.of('kubejs:molten_verdite',80), 'minecraft:spider_eye'])
+        event.recipes.create.filling('orevolution:platinum_berries', [Fluid.of('kubejs:molten_platinum',80), 'minecraft:sweet_berries'])
 
+const bars=['create:andesite_bars', 'create:brass_bars', 'create:copper_bars', 'orevolution:tin_bars', 'orevolution:platinum_bars', 'orevolution:tungsten_bars', 'orevolution:gold_bars', 'orevolution:bronze_bars']
+const fluidsbars=['blazinghot:molten_andesite', 'blazinghot:molten_brass', 'blazinghot:molten_copper', 'kubejs:molten_tin', 'kubejs:molten_platinum', 'kubejs:molten_tungsten', 'blazinghot:molten_gold', 'kubejs:molten_bronze']
+bars.forEach((metal, index) => {
+    event.recipes.createdieselgenerators.casting(metal,'createdieselgenerators:lines', Fluid.of(fluidsbars[index], 270))
+})
 
-
+event.remove({id:'orevolution:verdite_apple'});
 
 // DIESEL ENGINE RECIPES **************************************************
         // ['minecraft:flint', 'create_sa:heat_engine', 'blazinghot:blaze_gold_sheet', 'blazinghot:blaze_gold_block', '2x create:brass_sheet'
@@ -1939,6 +2071,10 @@ event.remove({id:'createdieselgenerators:crafting/huge_diesel_engine'});
                                             })
 
 
+
+
+
+                                            
         
     // event.recipes.createdieselgenerators.casting('createbigcannons:cast_iron_ingot', Fluid.of('createbigcannons:molten_cast_iron').withAmount(144),'createdieselgenerators:bar')
     // event.recipes.createdieselgenerators.casting('createbigcannons:steel_ingot', Fluid.of('createbigcannons:molten_steel').withAmount(144),'createdieselgenerators:bar')
@@ -1992,8 +2128,46 @@ event.remove({id:'createdieselgenerators:crafting/huge_diesel_engine'});
 
     event.recipes.createdieselgenerators.casting('minecraft:lightning_rod','createdieselgenerators:lines', Fluid.of('blazinghot:molten_copper', 270))
     event.recipes.createdieselgenerators.casting('create_sa:zinc_handle','createdieselgenerators:lines', Fluid.of('blazinghot:molten_zinc', 180))
+
+
+
+    
     event.recipes.createdieselgenerators.compression_molding('createdieselgenerators:kelp_handle',"createdieselgenerators:lines", 'minecraft:dried_kelp')
 
+const silver = ['caverns_and_chasms:raw_silver', 'caverns_and_chasms:silver_ingot', 'caverns_and_chasms:silver_nugget']
+const tin =['caverns_and_chasms:raw_tin', 'caverns_and_chasms:tin_ingot', 'caverns_and_chasms:tin_nugget']
+const platinum =['orevolution:raw_platinum', 'orevolution:platinum_ingot', 'orevolution:platinum_nugget']
+const tungsten =['orevolution:raw_tungsten', 'orevolution:tungsten_ingot', 'orevolution:tungsten_nugget']
+const FluidNumb = [120,90,10]
+const verdite=['orevolution:verdite_ingot', 'orevolution:verdite_nugget']
+const FluidNumb2 = [90,10]
+
+const aethersteel=['orevolution:aethersteel_ingot', 'orevolution:aethersteel_chunk']
+
+
+tin.forEach((metal, index) => {
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_tin', FluidNumb[index]), metal).superheated()
+});
+platinum.forEach((metal, index) => {
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_platinum',FluidNumb[index]), metal).superheated()
+});
+tungsten.forEach((metal, index) => {
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_tungsten',FluidNumb[index]), metal).superheated()
+});
+aethersteel.forEach((metal, index) => {
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_aethersteel',FluidNumb2[index]), metal).superheated()
+});
+verdite.forEach((metal, index) => {
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_verdite',FluidNumb2[index]), metal).superheated()
+});
+silver.forEach((metal, index) => {
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_silver',FluidNumb[index]), metal).superheated()
+});
+  event.recipes.create.mixing(Fluid.of('kubejs:molten_bronze',90), 'orevolution:bronze_ingot').superheated()
+
+
+    // event.recipes.create.mixing(Fluid.of('kubejs:molten_tin').withAmount(1296), ['createbigcannons:cast_iron_block']).heated()
+    // event.recipes.create.mixing(Fluid.of('kubejs:molten_tin').withAmount(16), ['createbigcannons:cast_iron_nugget']).heated()
 
 
     // List of recipe IDs
@@ -2157,6 +2331,179 @@ event.remove({id:"blazinghot:crafting/brass_apple"});
 //         event.recipes.create.mixing('mace_port:wind_charge', ['minecraft:quartz', 'vs_clockwork:wanderlite_crystal'])
 
 
+// OREVOLUTION RECIPES **************************************************
 
+[, , ]
+
+
+
+    event.shaped('create_enchantment_industry:experience_lantern', [
+        ' B ',
+        ' T ',
+        ' C '
+    ], {  
+        C: 'create:copper_casing',
+        T: 'orevolution:tungsten_ingot',
+        B:'create:experience_block'
+
+        // P:'create:piston_extension_pole'
+    });
+event.remove({id:'create_enchantment_industry:crafting/experience_lantern'})
+
+
+
+    event.shaped(Item.of('orevolution:reinforced_smithing_template',2), [
+        'NTN',
+        'NRN',
+        'NNN'
+    ], {  
+        R: 'minecraft:blackstone',
+        T: 'orevolution:reinforced_smithing_template',
+        N:'orevolution:tungsten_nugget'
+
+        // P:'create:piston_extension_pole'
+    });
+event.remove({id:'orevolution:reinforced_smithing_template'})
+
+
+
+    event.shaped('create_enchantment_industry:printer', [
+        ' R ',
+        ' N ',
+        ' T '
+    ], {  
+        R: 'create:brass_sheet',
+        T: 'orevolution:tungsten_ingot',
+        N:'create:spout'
+
+        // P:'create:piston_extension_pole'
+    });
+event.remove({id:'create_enchantment_industry:crafting/printer'})
+const brasstobronza = ['create_sa:brass_drill_head', 'create:smart_chute', 'aeronautics:steam_vent', 'create:content_observer', 'create:stockpile_switch','create:copper_diving_boots', 'create:copper_diving_helmet']
+const bronzatobras = ['create:brass_casing', 'create:golden_sheet', 'create:brass_sheet', 'create:brass_ingot','minecraft:copper_ingot']
+bronzatobras.forEach((item) => {
+    event.replaceInput(
+      { output: brasstobronza },         // Arg 1: the filter
+      item,                    // Arg 2: the item to replace
+      Ingredient.of('orevolution:bronze_ingot')  // Arg 3: the item to replace it with 
+      // Do /kjs hand with the items you want to use to see all their tags.
+    )
+})
+event.remove('playertrackingcompass:player_tracking_compass')
+    event.shaped('playertrackingcompass:player_tracking_compass', [
+        ' R ',
+        'BEB',
+        ' B '
+    ], {  
+        
+        E: 'minecraft:ender_eye',
+        R:'minecraft:lightning_rod',
+        B:'orevolution:bronze_ingot'
+
+        // P:'create:piston_extension_pole'
+    });
+
+    event.shaped('create:andesite_alloy', [
+        '   ',
+        'NA ',
+        'AN '
+    ], {  
+        
+        A: 'minecraft:andesite',
+        N:'caverns_and_chasms:tin_nugget'
+
+        // P:'create:piston_extension_pole'
+    });
+
+event.recipes.create.mixing('create:andesite_alloy', [ 'minecraft:andesite','caverns_and_chasms:tin_nugget']);
+
+
+
+  
+// const irontotin = ['create:chute', 'create:packager', 'create:item_vault']
+// const bronzatotin = ['minecraft:iron_ingot', 'create:iron_sheet']
+// bronzatotin.forEach((item) => {
+//     event.replaceInput(
+//       { output: irontotin },         // Arg 1: the filter
+//       item,                    // Arg 2: the item to replace
+//       Ingredient.of('caverns_and_chasms:tin_ingot')  // Arg 3: the item to replace it with 
+//       // Do /kjs hand with the items you want to use to see all their tags.
+//     )
+// })
+
+
+
+    event.remove('orevolution:bronze_ingot');
+
+
+event.recipes.create.mixing('orevolution:petrified_seed', [ Ingredient.of('#c:seeds'), Ingredient.of('#c:stones') ]);
+event.recipes.create.mixing('orevolution:dead_seed', [ Ingredient.of('#c:seeds'), 'minecraft:emerald' ]);
+
+
+
+
+
+    event.recipes.create.crushing([CreateItem.of('create:crushed_raw_tin',0.05),CreateItem.of('caverns_and_chasms:tin_nugget',0.05)], 'create:scoria').processingTime(1000);
+    event.recipes.create.crushing([CreateItem.of('create:crushed_raw_platinum',0.05),CreateItem.of('orevolution:platinum_nugget',0.05)], 'create:scorchia').processingTime(1000);
+
+    event.remove('createpropulsion:splashing/crushed_raw_platinum');
+
+      event.recipes.create.pressing('createpropulsion:platinum_sheet', 'orevolution:platinum_ingot')
+  event.recipes.create.splashing([CreateItem.of('minecraft:amethyst_shard', 0.05), 'caverns_and_chasms:tin_nugget'], 'create:crushed_raw_tin')
+  event.recipes.create.splashing([CreateItem.of('minecraft:quartz', 0.05), 'orevolution:platinum_nugget'], 'create:crushed_raw_platinum')
+
+const platinums = ['createpropulsion:platinum_ingot','createpropulsion:platinum_nugget']
+const platinumREP = ['orevolution:platinum_ingot','orevolution:platinum_nugget']
+
+// platinums.forEach((plat,index) => {
+// event.replaceOutput(  
+//   { output: Item.of(plat) },  
+//   plat,  
+//   Ingredient.of(platinumREP[index])  
+// )
+// })
+
+platinums.forEach((item,index) => {
+    event.replaceInput(
+      { input: item },         // Arg 1: the filter
+      item,                    // Arg 2: the item to replace
+      Ingredient.of(platinumREP[index])  // Arg 3: the item to replace it with 
+      // Do /kjs hand with the items you want to use to see all their tags.
+    )
+})
+ 
+    event.replaceInput(
+      { input: 'orevolution:tin_ingot' },         // Arg 1: the filter
+      'orevolution:tin_ingot',                    // Arg 2: the item to replace
+      Ingredient.of('caverns_and_chasms:tin_ingot')  // Arg 3: the item to replace it with 
+      // Do /kjs hand with the items you want to use to see all their tags.
+    )
+    event.replaceInput(
+      { input: 'orevolution:tin_nugget' },         // Arg 1: the filter
+      'orevolution:tin_nugget',                    // Arg 2: the item to replace
+      Ingredient.of('caverns_and_chasms:tin_nugget')  // Arg 3: the item to replace it with 
+      // Do /kjs hand with the items you want to use to see all their tags.
+    )
+    event.replaceInput(
+      { input: 'orevolution:raw_tin' },         // Arg 1: the filter
+      'orevolution:raw_tin',                    // Arg 2: the item to replace
+      Ingredient.of('caverns_and_chasms:raw_tin')  // Arg 3: the item to replace it with 
+      // Do /kjs hand with the items you want to use to see all their tags.
+    )
+
+
+event.smithing(
+  'create_enchantment_industry:blaze_enchanter',                     // arg 1: output
+  'orevolution:reinforced_smithing_template', // arg 2: the smithing template
+  'create:blaze_burner',                          // arg 3: the item to be upgraded
+  'minecraft:enchanting_table'                           // arg 4: the upgrade item
+)
+
+event.smithing(
+  'create_enchantment_industry:blaze_forger',                     // arg 1: output
+  'orevolution:reinforced_smithing_template', // arg 2: the smithing template
+  'create:blaze_burner',                          // arg 3: the item to be upgraded
+   'minecraft:anvil'                          // arg 4: the upgrade item
+)
 
 })

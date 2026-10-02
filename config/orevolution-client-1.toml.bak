@@ -1,0 +1,24 @@
+#Displays the text 'You can't harvest this block yet'
+warn_break = false
+#Display the 3x3 outline on all blocks while holding, for example, the steel hammer
+steel_outline = true
+#Displays the text 'This block requires a x tool'
+warn_incorrect_tool_type = true
+#Displays the text 'Tungsten Reinforced/Coated' in the tooltip of the item
+display_reinforced_or_coated = true
+#Displays the text '+/- % Durability' in the tooltip of the item
+display_durability_modifier = true
+#Displays the text 'Fire Resistant' in the tooltip of the item
+display_fire_resistant = true
+# Default: -25
+# Range: -1000 ~ 1000
+forgotten_cave_min_fog = -25
+# Default: 50
+# Range: -1000 ~ 1000
+forgotten_cave_max_fog = 50
+# Default: -5
+# Range: -1000 ~ 1000
+geode_gardens_min_fog = -5
+# Default: 96
+# Range: -1000 ~ 1000
+geode_gardens_max_fog = 96

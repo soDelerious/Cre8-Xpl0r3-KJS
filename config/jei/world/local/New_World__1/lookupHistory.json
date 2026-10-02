@@ -1,5 +1,10 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:diamond"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"kubejs:forged_diamond"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_upgrade_smithing_template"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbfiltersystem:smart_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"taxtg:generator_oak_tree"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"endermanoverhaul:corrupted_shield"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"luminous_beasts:woodland_witch_doctor_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:reinforced_deepslate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -94,10 +99,5 @@
   {"ingredient":{"id":"farmersdelight:steak_and_potatoes"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"farmersdelight:honey_glazed_ham"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"farmersdelight:shepherds_pie_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:packager"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create_sa:blazing_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create_sa:blazing_cleaver"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:golden_sheet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create_sa:experience_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:wither_skeleton_skull"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"create:packager"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

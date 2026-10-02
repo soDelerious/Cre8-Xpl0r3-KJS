@@ -1,0 +1,18 @@
+{
+  "type": "orevolution:tungsten_ore_feature",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 5,
+    "targets": [
+      {
+        "state": {
+          "Name": "orevolution:nether_tungsten_ore"
+        },
+        "target": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "kubejs:tungsten_spawn"
+        }
+      }
+    ]
+  }
+}

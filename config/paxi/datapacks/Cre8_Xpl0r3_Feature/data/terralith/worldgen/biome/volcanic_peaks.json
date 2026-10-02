@@ -103,9 +103,9 @@
         "monster": [
             {
                 "type": "rottencreatures:burned",
-                "maxCount": 40,
+                "maxCount": 5,
                 "minCount": 4,
-                "weight": 200
+                "weight": 100
             },
             {
                 "type": "minecraft:spider",

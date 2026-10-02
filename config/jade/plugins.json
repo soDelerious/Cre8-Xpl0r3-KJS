@@ -86,7 +86,7 @@
     "block_properties": false,
     "mod_name": true
   },
-  "entombed": {
-    "tomb_owner": true
+  "corpse": {
+    "corpse": true
   }
 }

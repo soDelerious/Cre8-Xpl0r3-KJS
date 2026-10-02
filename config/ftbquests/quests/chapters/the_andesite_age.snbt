@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 0.5d
+			id: "4956BF285E463FF3"
 			image: "aeronautics:block/steam_vent/steam_anim"
 			rotation: 0.0d
 			width: 0.5d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7AAA35D7C68B0266"
 			image: "create_enchantment_industry:item/super_experience_nugget"
 			rotation: 0.0d
 			width: 1.0d
@@ -27,6 +29,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3C195B689F35599D"
 			image: "create:item/experience_nugget"
 			rotation: 0.0d
 			width: 1.0d
@@ -35,6 +38,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2D00B70542A73C9A"
 			image: "minecraft:block/soul_fire_0"
 			rotation: 0.0d
 			width: 1.0d
@@ -43,6 +47,7 @@
 		}
 		{
 			height: 0.35d
+			id: "7C86DB090D673BED"
 			image: "minecraft:textures/particle/soul_fire_flame.png"
 			rotation: 15.0d
 			width: 0.35d
@@ -51,6 +56,7 @@
 		}
 		{
 			height: 1.0d
+			id: "44DA3399E2BA7D17"
 			image: "minecraft:item/chain"
 			rotation: 0.0d
 			width: 1.0d
@@ -59,6 +65,7 @@
 		}
 		{
 			height: 0.5d
+			id: "427907EBC1325FF4"
 			image: "inventory_particles:textures/iparticles/redstone/redstone_1.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -67,6 +74,7 @@
 		}
 		{
 			height: 0.5d
+			id: "06BD4D1691B8A3B9"
 			image: "inventory_particles:textures/iparticles/redstone/redstone_2.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -75,6 +83,7 @@
 		}
 		{
 			height: 0.5d
+			id: "1967F7465D054D9D"
 			image: "inventory_particles:textures/iparticles/redstone/redstone_2.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -83,6 +92,7 @@
 		}
 		{
 			height: 0.5d
+			id: "0A39593ED40DFC8A"
 			image: "inventory_particles:textures/iparticles/redstone/redstone_1.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -91,6 +101,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2B8C46F23F25BCFB"
 			image: "minecraft:textures/mob_effect/slow_falling.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -99,6 +110,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4D9488B87F45D838"
 			image: "minecraft:block/redstone_torch"
 			rotation: 0.0d
 			width: 1.0d
@@ -107,6 +119,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4E9F1D0A48E9096C"
 			image: "minecraft:item/iron_pickaxe"
 			rotation: 0.0d
 			width: 1.0d
@@ -115,6 +128,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4B805B65253ABF37"
 			image: "aeronautics:item/aviators_goggles"
 			rotation: 0.0d
 			width: 1.0d
@@ -123,6 +137,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3EA4A129E4101099"
 			image: "ponder:textures/gui/logo.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -131,6 +146,7 @@
 		}
 		{
 			height: 1.0d
+			id: "27137E8354D72BB6"
 			image: "inventorymanagement:textures/gui/icon/roundalib/rotate-18.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -139,6 +155,7 @@
 		}
 		{
 			height: 1.0d
+			id: "76FC8D488C349753"
 			image: "minecraft:textures/mob_effect/wind_charged.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -147,6 +164,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7E620F79EB8F89BD"
 			image: "create:item/belt_connector"
 			rotation: 0.0d
 			width: 1.0d
@@ -155,6 +173,7 @@
 		}
 		{
 			height: 0.65d
+			id: "78004EAEF06F9188"
 			image: "createpropulsion:textures/particle/plume/plume1.png"
 			rotation: 0.0d
 			width: 0.65d
@@ -163,6 +182,7 @@
 		}
 		{
 			height: 0.6d
+			id: "2B21F94E9ECB9EC3"
 			image: "createpropulsion:textures/particle/plume/plume3.png"
 			order: -1
 			rotation: 0.0d
@@ -172,6 +192,7 @@
 		}
 		{
 			height: 0.55d
+			id: "5169843320140AEA"
 			image: "createpropulsion:textures/particle/plume/plume4_e.png"
 			order: -2
 			rotation: 0.0d
@@ -181,6 +202,7 @@
 		}
 		{
 			height: 0.5d
+			id: "67954F8789439103"
 			image: "createpropulsion:textures/particle/plume/plume6_e.png"
 			order: -3
 			rotation: 0.0d
@@ -190,6 +212,7 @@
 		}
 		{
 			height: 1.0d
+			id: "74E9E720D53B4FB1"
 			image: "createdieselgenerators:item/engine_piston"
 			rotation: 0.0d
 			width: 1.0d
@@ -198,6 +221,7 @@
 		}
 		{
 			height: 1.75d
+			id: "7B6EEB6B7F9F113D"
 			image: "create:item/package/cardboard_particle"
 			rotation: 0.0d
 			width: 1.75d
@@ -206,6 +230,7 @@
 		}
 		{
 			height: 0.65d
+			id: "1A682B9293DBDF17"
 			image: "inventory_particles:textures/iparticles/piece/blocks/wool/pink_wool_piece_0.png"
 			rotation: 165.0d
 			width: 0.65d
@@ -214,6 +239,7 @@
 		}
 		{
 			height: 0.65d
+			id: "452963EC1E186C62"
 			image: "inventory_particles:textures/iparticles/piece/blocks/wool/lime_wool_piece_2.png"
 			rotation: 25.0d
 			width: 0.65d
@@ -222,6 +248,7 @@
 		}
 		{
 			height: 0.65d
+			id: "6FA8E4765720549D"
 			image: "inventory_particles:textures/iparticles/piece/blocks/wool/blue_wool_piece_1.png"
 			rotation: 0.0d
 			width: 0.65d
@@ -230,6 +257,7 @@
 		}
 		{
 			height: 0.65d
+			id: "2A3781E0B8B11155"
 			image: "inventory_particles:textures/iparticles/piece/blocks/wool/red_wool_piece_2.png"
 			rotation: 175.0d
 			width: 0.65d
@@ -238,14 +266,16 @@
 		}
 		{
 			height: 1.0d
+			id: "54B986F76BDB8F4F"
 			image: "create_sa:item/large_fueling_tank"
 			rotation: 0.0d
 			width: 1.0d
-			x: 13.690476190476176d
-			y: 8.769047619047626d
+			x: 7.0d
+			y: 5.5d
 		}
 		{
 			height: 1.0d
+			id: "240E3C0ED614CF66"
 			image: "kubejs:textures/font/icons/warn.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -254,6 +284,7 @@
 		}
 		{
 			height: 1.0d
+			id: "296C2AC1A1409602"
 			image: "minecraft:textures/mob_effect/water_breathing.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -262,6 +293,7 @@
 		}
 		{
 			height: 1.0d
+			id: "0D46335B316EC143"
 			image: "create:textures/particle/steam_jet_10.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -270,6 +302,7 @@
 		}
 		{
 			height: 0.35d
+			id: "253D81FFE5D1AB76"
 			image: "minecraft:textures/particle/spark_4.png"
 			rotation: 0.0d
 			width: 0.35d
@@ -278,6 +311,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4CE3A96F9C80B67B"
 			image: "createdieselgenerators:item/plant_oil_bucket"
 			rotation: -25.0d
 			width: 1.0d
@@ -286,6 +320,7 @@
 		}
 		{
 			height: 1.0d
+			id: "24ED9ECB9FFE62F8"
 			image: "inventory_particles:textures/iparticles/piece/blocks/terracotta/glazed/light_blue_glazed_terracotta_piece_2.png"
 			rotation: 5.0d
 			width: 1.0d
@@ -294,6 +329,7 @@
 		}
 		{
 			height: 1.0d
+			id: "72071A0F72FEA1BA"
 			image: "inventory_particles:textures/iparticles/piece/blocks/terracotta/glazed/light_blue_glazed_terracotta_piece_2.png"
 			rotation: 170.0d
 			width: 1.0d
@@ -302,6 +338,7 @@
 		}
 		{
 			height: 0.5d
+			id: "1B3F8947957516BE"
 			image: "inventory_particles:textures/iparticles/glint/copper0_glint1_2.png"
 			order: 20
 			rotation: 0.0d
@@ -311,6 +348,7 @@
 		}
 		{
 			height: 0.75d
+			id: "103F5350E53FE4FC"
 			image: "inventory_particles:textures/iparticles/glint/iron_glint1_1.png"
 			rotation: 0.0d
 			width: 0.75d
@@ -319,6 +357,7 @@
 		}
 		{
 			height: 0.5d
+			id: "6F57EE49B2B3A95C"
 			image: "inventory_particles:textures/iparticles/glint/glass_glint1_3.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -327,6 +366,7 @@
 		}
 		{
 			height: 0.5d
+			id: "4A6020A559D3565A"
 			image: "friendsandfoes:item/crab_claw"
 			rotation: 0.0d
 			width: 0.5d
@@ -335,6 +375,7 @@
 		}
 		{
 			height: 0.5d
+			id: "6B6F2DE69D37A525"
 			image: "minecraft:block/crafter_north"
 			rotation: 0.0d
 			width: 0.5d
@@ -343,6 +384,7 @@
 		}
 		{
 			height: 1.0d
+			id: "45B5CB2F21DAC91F"
 			image: "minecraft:block/soul_campfire_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -351,6 +393,7 @@
 		}
 		{
 			height: 1.0d
+			id: "41348E578842AA8F"
 			image: "minecraft:block/campfire_fire"
 			rotation: 0.0d
 			width: 1.0d
@@ -359,6 +402,7 @@
 		}
 		{
 			height: 0.5d
+			id: "728BCED5DCC68491"
 			image: "inventory_particles:textures/iparticles/drip/lava_drip_1.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -367,6 +411,7 @@
 		}
 		{
 			height: 0.5d
+			id: "18F9B8EE22AEE8F4"
 			image: "inventory_particles:textures/iparticles/drip/magma_cream_drip_2.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -375,6 +420,7 @@
 		}
 		{
 			height: 0.5d
+			id: "6B81F7529BC3E7EB"
 			image: "inventory_particles:textures/iparticles/drip/lava_drip_1.png"
 			rotation: 0.0d
 			width: 0.5d
@@ -383,6 +429,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D14B951F06CED38"
 			image: "blazinghot:item/blaze_gold_sheet"
 			rotation: 0.0d
 			width: 1.0d
@@ -391,22 +438,25 @@
 		}
 		{
 			height: 1.15d
+			id: "534ACBFEAEAF9017"
 			image: "create_sa:textures/particle/water_cloud_1.png"
 			rotation: 0.0d
 			width: 1.15d
-			x: -1.470238095238102d
-			y: 5.9928571428571376d
+			x: -2.0d
+			y: 6.5d
 		}
 		{
 			height: 1.15d
+			id: "0A0D511364C6CFC1"
 			image: "create_sa:textures/particle/steam_cloud_1.png"
 			rotation: 0.0d
 			width: 1.15d
-			x: -1.5d
-			y: 9.0d
+			x: -2.0d
+			y: 8.5d
 		}
 		{
 			height: 2.0d
+			id: "1BAAE78E75DB0AA7"
 			image: "create:block/copper_casing"
 			rotation: 0.0d
 			width: 2.0d
@@ -416,6 +466,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7FE2BFF9BFBE7F6B"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -426,6 +477,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "57D0ACC31F2CA332"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -436,6 +488,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1BF9436E4A34B269"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -446,6 +499,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7EA89639F83D23C4"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -456,6 +510,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "389CAD1B1F95148F"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -466,6 +521,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2BD339422187F16B"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -476,6 +532,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6DC8BC79DEDEED9F"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -486,6 +543,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "03E4FF195D6B4660"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -496,6 +554,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0227B302CDED0E7F"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -506,6 +565,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7599075434EE3901"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -516,6 +576,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "25DE39EF734DCBA6"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -526,6 +587,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "71AB2E7D61B5A23E"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -536,6 +598,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "116EDDA6107BED43"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -546,6 +609,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "410323EAFA39A1C0"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -556,6 +620,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "783AB5B43DD76AE0"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -566,6 +631,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1F0A0DD8F092665F"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -576,6 +642,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0A82EAA602EF1107"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -586,6 +653,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "00A816F3C38E0E13"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -596,6 +664,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2DA4BDDC9C01F4C2"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -606,6 +675,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "29AAC8F13C17A829"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -616,6 +686,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "39F0CD683B2522E8"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -626,6 +697,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "621687A7AEE4C872"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -636,6 +708,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5D541183A0CBD25D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -646,6 +719,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "798F26DAB90201CA"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -656,6 +730,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "347985551BC1B5E4"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -666,6 +741,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5C0250123F7D1715"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -676,6 +752,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2738F79A2B67EE5B"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -686,6 +763,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0C438A7A19E436B6"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -696,6 +774,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "19C16B9E78E66834"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -706,6 +785,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6DFE3D6BBAE15320"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -716,6 +796,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0068317141BF64CE"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -726,6 +807,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "229C5B4954F3693A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -736,6 +818,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33FC1AF3895DAEF5"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -746,6 +829,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3040222A0DB2E145"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -756,6 +840,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "22F20032FC27BF5F"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -766,6 +851,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3C424ADA20464E2D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -776,6 +862,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1CDAA08B7A620818"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -786,6 +873,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "36493D140CAD22A5"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -796,6 +884,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "140E1CC3F0FDC6C8"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -806,6 +895,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "356B557CEF0B45C3"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -816,6 +906,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1D1435AB57174908"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -826,6 +917,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41D09278B63A6A1E"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -836,6 +928,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "62846D4088B62031"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -846,6 +939,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "12BAB6306B5D4360"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -856,6 +950,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "025534666DD56F47"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -866,6 +961,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5A90148F7FEF2CA0"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -876,6 +972,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "08E4ADB4771DCD0B"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -886,6 +983,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "23E0152C4235A12F"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -896,6 +994,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "787DEEC75E3196F7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -906,6 +1005,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5E56FBEBBFDCAFB1"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -916,6 +1016,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1392F389F1EABB21"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -926,6 +1027,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B046D89080DA7AF"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -936,6 +1038,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B5534F9D6A3A0A6"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -946,6 +1049,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "42DEB00E531B07EC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -956,6 +1060,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2BF263DBDE65D406"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -966,6 +1071,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5D9EC2065830B0B5"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -976,6 +1082,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4EEB60460F5FF6EC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -986,6 +1093,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "16DBC02AECDB9883"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -996,6 +1104,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7288D8B9095F1D8C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1006,6 +1115,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5267BB64B1927FA8"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1016,6 +1126,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3E1AA005F9036264"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1026,6 +1137,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "27B795FC7B244359"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1036,6 +1148,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "63BD7CA44C7D27BB"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1046,6 +1159,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6213B3748DA93EBC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1056,6 +1170,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "27A42E448E493E17"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1066,6 +1181,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "343835C2ED58A03E"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1076,6 +1192,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3AEC1CEFEA7103AE"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1086,6 +1203,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "25A8ACFA9B229DE8"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1096,6 +1214,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "532907913D7FF904"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1106,6 +1225,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "355FE4E05E2D6BD3"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1116,6 +1236,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4983419B149020A1"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1126,6 +1247,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "559EC77D98933508"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1136,6 +1258,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7B435F3E50EC2F8E"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1146,6 +1269,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1EEBBB88F94591F2"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1156,6 +1280,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "526EF93EB82DF794"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1166,6 +1291,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "070981B5833F1635"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1176,6 +1302,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "69E615A1B47B5CDC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1186,6 +1313,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0BABD5AD405616E3"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1196,6 +1324,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3E06FBBF184460B7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1206,6 +1335,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "49558820FF2DAC92"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1216,6 +1346,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0FAFDB3C72F54FC2"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1226,6 +1357,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0CC13AC89426922B"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1236,6 +1368,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "581C7ED341A9ADD4"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1246,6 +1379,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6DC2C155B2CFFECF"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1256,6 +1390,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2B17331CE0204E90"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1266,6 +1401,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "529163315D8408AE"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1276,6 +1412,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "6CE2594E8D599720"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1286,6 +1423,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "02ED1B118DFAE6DE"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1296,6 +1434,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "483161697331C640"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1306,6 +1445,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "72CA6D1DC1952E64"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1316,6 +1456,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "707CA9F2EA79B2BA"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1326,6 +1467,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "1196EA8A510BA670"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1336,6 +1478,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "0698C0A6CAEF0AAE"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1346,6 +1489,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "1EB92605498DABEB"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1356,6 +1500,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "1155C0E98FB229C7"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1366,6 +1511,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "163FE82DAFB90813"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1376,6 +1522,7 @@
 		{
 			color: 13674394
 			height: 4.0d
+			id: "3ED7969A7A869EAF"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -1386,6 +1533,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "445703CEF9D1675C"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1396,6 +1544,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "11E92909B89213C4"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1406,6 +1555,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "726DDD7A955B2CC4"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1416,6 +1566,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0228B24A56548F0B"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1426,6 +1577,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "19FAC8599FA28ABD"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1436,6 +1588,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "50F43955032FC29B"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1446,6 +1599,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "07B6BD5E3B43F76D"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1456,6 +1610,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "689DD0815E863CFF"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1466,6 +1621,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3316201B6CD715BB"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1476,6 +1632,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "55C40429FB511B0F"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1486,6 +1643,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "261D03D5F72DCB01"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1496,6 +1654,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "02FE104F7D7CF8BC"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1506,6 +1665,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6367EE5DAEF9ED09"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1516,6 +1676,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "464B0E68A4088B5D"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1526,6 +1687,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "49C8ED80087C1C62"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1536,6 +1698,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "094E778724F96BE6"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1546,6 +1709,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0F7F50ED66339043"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1556,6 +1720,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "65B6DEB36D9E9662"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1566,6 +1731,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4576849A78BA08C7"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1576,6 +1742,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "34C978C093A62BEB"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1586,6 +1753,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "10BAD22AF4F565E6"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1596,6 +1764,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "149EE43EB514F055"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1606,6 +1775,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "11C3E82A83CD41AF"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1616,6 +1786,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "644D1FAC6E8AF2A9"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1626,6 +1797,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "49D904088975B4E0"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1636,6 +1808,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "26B229538C641448"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1646,6 +1819,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "078B5335276FE8E1"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1656,6 +1830,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6DC7F7E2A4DC6CAC"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1666,6 +1841,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "436E85B120F7402C"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1676,6 +1852,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "53AE337B635C43CE"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1686,6 +1863,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "311E7021DA31C18C"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1696,6 +1874,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "63D9242F46719577"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1706,6 +1885,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0250E88BA2C9FDE0"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1716,6 +1896,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6182854053CED71E"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1726,6 +1907,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "63D7666446F96327"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1736,6 +1918,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1E09F8BAD89BE2AA"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1746,6 +1929,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7B4436E589943525"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1756,6 +1940,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1FAC13D5635B021A"
 			image: "minecraft:block/andesite"
 			order: -200
 			rotation: 0.0d
@@ -1766,6 +1951,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "07D320A3D0EC4FCC"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1776,6 +1962,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5F3047294EC383F0"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1786,6 +1973,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3D2C5390F1A3F346"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1796,6 +1984,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "45D9F4413EC693E0"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1806,6 +1995,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6C7933B147B5E97D"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1816,6 +2006,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "60B451542C9F5FD9"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1826,6 +2017,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "02A70145433B9691"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1836,6 +2028,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4709A0F9EBB01790"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1846,6 +2039,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1DBA1D50610FC4FF"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1856,6 +2050,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "02E5643D8CE89EBF"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1866,6 +2061,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2F8BCA3DFA68E355"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1876,6 +2072,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1B804A290387DAB7"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1886,6 +2083,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7BF5486C07EB9F27"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1896,6 +2094,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6B18CBA275285E76"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1906,6 +2105,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3D7614602DF662E7"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1916,6 +2116,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "07BFC4CD100E0726"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1926,6 +2127,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2132DD04D93D9C80"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1936,6 +2138,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "646980B8D29D9E8E"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1946,6 +2149,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7A7F10D5AACFB231"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -1956,6 +2160,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "35B133B0EF2C36AD"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1966,6 +2171,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "53F085A64F65323B"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1976,6 +2182,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3F8C500EC9FD3F2B"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1986,6 +2193,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "69AB22B96E962756"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -1996,6 +2204,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3015524B8F958FC3"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2006,6 +2215,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "04C69BDD115677A6"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2016,6 +2226,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "61A2AC5F2DA9754A"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2026,6 +2237,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7130803C47286B08"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2036,6 +2248,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "221DA85265EFBC47"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2046,6 +2259,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3B352777070605D0"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2056,6 +2270,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7BBEB1A063667F1C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2066,6 +2281,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "24F902DEFC217CEB"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2076,6 +2292,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "58F6C423646F8EBE"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2086,6 +2303,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7702EA46E6123D63"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2096,6 +2314,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7827390808C8257C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2106,6 +2325,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "760E8CC50B4ACE2E"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2116,6 +2336,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4088903B807F54B7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2126,6 +2347,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "18B1D51DE7A89284"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2136,6 +2358,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4D4E45073D940FA2"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2146,6 +2369,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "528265DDBB96EBC4"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2156,6 +2380,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "78182457A58BE7C2"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2166,6 +2391,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "02FA108E2E00AAD1"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2176,6 +2402,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6D319C4A3CB76A70"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2186,6 +2413,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "16E71582AFF41BDE"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2196,6 +2424,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "23BA4DFD9F1F4148"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2206,6 +2435,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5E049A840054E245"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2216,6 +2446,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1E18257B1B8CA50F"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2226,6 +2457,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "11AE984FC050C26A"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2236,6 +2468,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2C8B9C6C2ED9B1EE"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2246,6 +2479,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "601B0E9DD3520BF1"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -2256,6 +2490,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4E0F2082B4E997CF"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2266,6 +2501,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6471DFC493561D98"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2276,6 +2512,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "73FD8743113A7CDA"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2286,6 +2523,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "741C521DBA8EADBF"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2296,6 +2534,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "270F2CF1CE00BB96"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2306,6 +2545,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32993EF89D37EB5A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2316,6 +2556,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7E4E4D4866CDE8D9"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2326,6 +2567,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0596A469F07706E9"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2336,6 +2578,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3CD50FB6D0915B8A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2346,6 +2589,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2A6958E1CFB409EA"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2356,6 +2600,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5CA177FF915578CD"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2366,6 +2611,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1D1CC0729BBC9980"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2376,6 +2622,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0DE6AB9AA0C2C19D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2386,6 +2633,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5C15AE967E054E52"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2396,6 +2644,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5C6D35D541D08491"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2406,6 +2655,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "421A774CF90D2E1A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2416,6 +2666,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0ED7ADCF99594A05"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2426,6 +2677,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "37A8D2A1F39D0EA9"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2436,6 +2688,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "52ECA30BD8031577"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2446,6 +2699,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "064FD0AFF583FB54"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2456,6 +2710,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41873F7749E3C6A0"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2466,6 +2721,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5DD204B5569F26C9"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2476,6 +2732,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "62BA33635F96056D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2486,6 +2743,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "128FA47A6BE68855"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2496,6 +2754,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5BC01E5D82E7B1EE"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2506,6 +2765,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "515D4A9679B75497"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2516,6 +2776,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5869B0EA1FA19120"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2526,6 +2787,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4EC3ADAAA15EA849"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2536,6 +2798,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "632E31D6AA8E8938"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2546,6 +2809,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6FC3EFA611AE7ACF"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2556,6 +2820,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "504E862791B85CD1"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2566,6 +2831,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0CA2DCFFB3AB051D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2576,6 +2842,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0C6419B9160E3A50"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2586,6 +2853,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B2CFD16C9A52E53"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2596,6 +2864,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "52A628601DFE1883"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2606,6 +2875,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "68B137246F333955"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2616,6 +2886,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4ED774850FF18B56"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2626,6 +2897,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5CED0531B1C5D35F"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2636,6 +2908,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1C2F963064863DD0"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2646,6 +2919,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "34147E3A76058083"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2656,6 +2930,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "11E41BF6845262F6"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2666,6 +2941,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2A05868E32B2D9B7"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2676,6 +2952,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "57CACFF4FB467D1A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2686,6 +2963,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2D2991198B4B62F7"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2696,6 +2974,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "03F62F773FCF321A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2706,6 +2985,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4396AF84D272C61C"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2716,6 +2996,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6146F8D3911C3B2C"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2726,6 +3007,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "68A6A08BBDB8C151"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2736,6 +3018,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3F1C2B0F8C6ACB95"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2746,6 +3029,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "46DBC5873F12B28B"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2756,6 +3040,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1114E20FAD841AE0"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2766,6 +3051,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6EDFA9562400D0D3"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2776,6 +3062,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0ED786638D4C402E"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2786,6 +3073,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "34E3B3433876B106"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2796,6 +3084,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3032F9E8D1752DDC"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2806,6 +3095,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4C25D154EC9690CA"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2816,6 +3106,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2BBE9839C306EFF9"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2826,6 +3117,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5751113BFF0DEE15"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2836,6 +3128,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3CEF57A70C0E846F"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2846,6 +3139,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1CC1B1477AC20E27"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2856,6 +3150,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "22B6FF32EA1760C6"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2866,6 +3161,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4AA3929DD35008FA"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2876,6 +3172,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6E9EB6A93CBD7AC3"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2886,6 +3183,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "55ECE85FBC53B396"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2896,6 +3194,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32B7CD2D3466BFAC"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2906,6 +3205,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2632350B18825BA4"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2916,6 +3216,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0FFD6B09FB28DFD8"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2926,6 +3227,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32F23A20CF7D2841"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2936,6 +3238,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4F27BC86C3B3F12C"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2946,6 +3249,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0FBEBE0743283415"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2956,6 +3260,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2748A13A9753C298"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2966,6 +3271,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "246EB3D0CB6F4B5D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2976,6 +3282,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3ED8A1215B7199B1"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2986,6 +3293,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2516AC86D1C23D1F"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -2996,6 +3304,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3036F6B2292FE8A1"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3006,6 +3315,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "69BCB92A2C9366F5"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3016,6 +3326,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "54D9B7730C115DD1"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3026,6 +3337,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "12B15BD2558DA64D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3036,6 +3348,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "09EC166705F270C6"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3046,6 +3359,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6ABCFA7CA6754BE3"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3056,6 +3370,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6EA22C273E49EF6D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3066,6 +3381,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "43ED5FAA56040637"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3076,6 +3392,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "101365586D6A458E"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3086,6 +3403,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "02C528B75D1186B0"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3096,6 +3414,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0AA21A0245A8BA46"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3106,6 +3425,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4DD9C20564DE3273"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3116,6 +3436,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "56F3BF049FC25FB4"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3126,6 +3447,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "014630A2D294C890"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3136,6 +3458,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7B1E779DD27B5F51"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3146,6 +3469,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "358D1A4D4D41B068"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3156,6 +3480,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6A8E41F46F59D8A5"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3166,6 +3491,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1DD2A59A4AFCAF1D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3176,6 +3502,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "37440CB1676E0188"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3186,6 +3513,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "47B3B2BCA09ED830"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3196,6 +3524,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "211A2C2E6D9BCD05"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3206,6 +3535,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0D8626FDE52BF94B"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3216,6 +3546,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "22EBA867BF759CFB"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3226,6 +3557,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4EB66C1E05E3A335"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3236,6 +3568,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "096FC7C005010F2A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3246,6 +3579,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2924C9D4D745423F"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3256,6 +3590,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3BD1A54768F3102B"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3266,6 +3601,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "207EC039E8FA69F8"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3276,6 +3612,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41CB98C3D25A5661"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3286,6 +3623,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5DC65BE75E0EB99A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3296,6 +3634,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2765D9D265DFFFAB"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3306,6 +3645,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "50B92E8E40972CE1"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3316,6 +3656,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "11268DCB12E3CE5D"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3326,6 +3667,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "47BD186477E86A3A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3336,6 +3678,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2121FDCF1D7E1204"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3346,6 +3689,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33E070D26170B858"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3356,6 +3700,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3FC081C67D68E9A8"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3366,6 +3711,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "363F9FD920A90D8A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3376,6 +3722,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "567CF1376D2E45CC"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3386,6 +3733,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "16DA74CADA55B26E"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3396,6 +3744,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3B168D0BCA4EB3D4"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3406,6 +3755,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6B4102CF6E8364FC"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3416,6 +3766,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "001AC49072BBD22A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3426,6 +3777,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "23349BD0A78E5CBD"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3436,6 +3788,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6C3825A6EF57D483"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3446,6 +3799,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "04DB16D47E842F88"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3456,6 +3810,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0DAB15B6A0BC054B"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3466,6 +3821,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "29167BC2C697DFA0"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3476,6 +3832,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "67B0C43C844484C3"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3486,6 +3843,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "449B351C41469992"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3496,6 +3854,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4F7DCC1500A60AF0"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3506,6 +3865,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3C9674F4A3F34214"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3516,6 +3876,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0DD8DB082F36AB2A"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3526,6 +3887,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3486E71A9750CF41"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -3536,6 +3898,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7695D6BB052C4F1A"
 			image: "minecraft:block/iron_ore"
 			order: -200
 			rotation: 0.0d
@@ -3546,6 +3909,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "433E9A25BCB4D6FA"
 			image: "minecraft:block/iron_ore"
 			order: -200
 			rotation: 0.0d
@@ -3556,6 +3920,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4F374BFC8C38A14C"
 			image: "minecraft:block/iron_ore"
 			order: -200
 			rotation: 0.0d
@@ -3566,6 +3931,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41888D3C229DB269"
 			image: "minecraft:block/raw_iron_block"
 			order: -200
 			rotation: 0.0d
@@ -3576,6 +3942,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7FC564DB60624A14"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -3586,6 +3953,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0CE81EAF3C059879"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -3596,6 +3964,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "31F9F5F05A97B77A"
 			image: "minecraft:block/copper_ore"
 			order: -200
 			rotation: 0.0d
@@ -3606,6 +3975,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7D7B492D52AEE1A2"
 			image: "minecraft:block/raw_copper_block"
 			order: -200
 			rotation: 0.0d
@@ -3616,6 +3986,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3D9B7FA4A1DA8BC8"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3626,6 +3997,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "608CCF9D44929E42"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3636,6 +4008,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3A4D872B0137E8D4"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3646,6 +4019,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0E574E8697D0F185"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3656,6 +4030,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6EBC03350646A40D"
 			image: "create:block/raw_zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -3666,16 +4041,7 @@
 		{
 			color: 9276813
 			height: 1.0d
-			image: "create:block/palettes/stone_types/cut/andesite_cut"
-			order: -200
-			rotation: 0.0d
-			width: 1.0d
-			x: 11.049999999999999d
-			y: 10.2d
-		}
-		{
-			color: 9276813
-			height: 1.0d
+			id: "1BD8A7899D16D0B8"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3686,6 +4052,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "10E397CB9B8970D8"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3696,6 +4063,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "514DDE21C85E3DB8"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3706,6 +4074,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6D066756BA5CE010"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3716,6 +4085,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "19D63F6C895BEEF1"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3726,6 +4096,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0C9EC97B3E8CBD71"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3736,6 +4107,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7C166FB0B3B89AE7"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3746,6 +4118,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1646F4E869AF6F24"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3756,6 +4129,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "326F57C276BA5E2F"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3766,6 +4140,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "40EB5FFA6A066C51"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3776,6 +4151,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "31E52203E947831A"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3786,6 +4162,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3391E91904C447AD"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3796,6 +4173,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6ED4D4C2E0ADE207"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3806,6 +4184,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "36C0A16280104F57"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3816,6 +4195,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "264AA6C7317B974C"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3826,6 +4206,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "31B41D878A03D5E4"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3836,6 +4217,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "00CBE0BAE940AC8A"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3846,6 +4228,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "79D08F0996F58748"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3856,6 +4239,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "68F3D7AA2BF79153"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3866,6 +4250,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4251C8CAF1300869"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3876,6 +4261,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "70F0361084E3F7B4"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3886,6 +4272,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B9CB06C89848E85"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3896,6 +4283,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7B32B0AB8D7A82A7"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3906,6 +4294,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "77F52F02E2A11AA7"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3916,6 +4305,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1E37E806AF184F74"
 			image: "create:block/palettes/stone_types/cut/andesite_cut"
 			order: -200
 			rotation: 0.0d
@@ -3926,6 +4316,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0392EC414450BFFB"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3936,6 +4327,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6951C6FBACB5DC99"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3946,6 +4338,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5F0B6A3A1438AB8A"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3956,6 +4349,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7EB820D076F8927C"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3966,6 +4360,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0D4244AAC639BE69"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3976,6 +4371,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0C2711580AA97724"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3986,6 +4382,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "520B9CF797BD2C37"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -3996,6 +4393,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "75FF25F1B36F0738"
 			image: "create:block/zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -4006,6 +4404,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1687AA6213E93EB8"
 			image: "create:block/raw_zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -4016,6 +4415,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "00EC8422B093505F"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -4026,6 +4426,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3944E0FAA2018883"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -4036,6 +4437,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0B055D4690783FDB"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -4046,6 +4448,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6835A47312497211"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -4056,6 +4459,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "226AC77D734C9053"
 			image: "minecraft:block/stone"
 			order: -200
 			rotation: 0.0d
@@ -4066,6 +4470,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2BD1C187B7DAE8E9"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4076,6 +4481,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "70540AF6B0868721"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4086,6 +4492,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "595EA30D5B5C210B"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4096,6 +4503,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "292D00768C4960A4"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4106,6 +4514,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "623F50882EE4ECC0"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4116,6 +4525,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6807563B5C6F764D"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4126,6 +4536,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "52B716A77A393AE6"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4136,6 +4547,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2911F1A20A73F7ED"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4146,6 +4558,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "750CCF499E379D1E"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4156,6 +4569,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "250826A936C5B5DA"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4166,6 +4580,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "551DB33152498710"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4176,6 +4591,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3CBAEA289CA36C7C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4186,6 +4602,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "61D52BCE176AC043"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4196,6 +4613,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0D216BD383D5BC94"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4206,6 +4624,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "780132904FD959CA"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4216,6 +4635,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "77182C12ADC323B1"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4226,6 +4646,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "38388500B0623BD2"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4236,6 +4657,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "23A2A0C9CCFCCD0F"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4246,6 +4668,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33225D6391B927E6"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4256,6 +4679,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7538E00AE773A1F3"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4266,6 +4690,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "21D702766D2E3DC9"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4276,6 +4701,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "397F3F9819D2232C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -4286,6 +4712,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0C178174610BA0D0"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4296,6 +4723,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1BDE4DA3D5182601"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4306,6 +4734,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3B53911A66D62F16"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4316,6 +4745,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2466DB3E0AC7AE67"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4326,6 +4756,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "10767E719B0EDDE7"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4336,6 +4767,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3AC67CF457801896"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4346,6 +4778,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0B691B9F6AB0A1D4"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4356,6 +4789,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1FA3E2CDE12CCF4F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4366,6 +4800,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "037BD6BA8F35DE49"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4376,6 +4811,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32110BA39CB44EE7"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4386,6 +4822,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3BBBCA0CCAA476B5"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4396,6 +4833,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3030FA47DF144AEC"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4406,6 +4844,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B04E7B1798B3F0A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4416,6 +4855,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "060BBF78E03FE0AE"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4426,6 +4866,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2FFB36C8957576D8"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4436,6 +4877,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0D25467CDDBDAAF9"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4446,6 +4888,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5CBAA304A28F62F6"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4456,6 +4899,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "13AF85C3130F164D"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4466,6 +4910,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4FF872BCDFB9F84D"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4476,6 +4921,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "504EAE929F8605DC"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4486,6 +4932,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3B9BBD1A52F86CD6"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4496,6 +4943,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "39E6860C3CF54CB9"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4506,6 +4954,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3267B6EEC7114748"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4516,6 +4965,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "47DC54932118EB1B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4526,6 +4976,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "005897140D2F3BDA"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4536,6 +4987,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "39BDDBA2688EA634"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4546,6 +4998,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "751074E953245B3A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4556,6 +5009,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2AC0EE06E46D60F6"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4566,6 +5020,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1A4F0B2AB22DD35E"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4576,6 +5031,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3F45C27A3F94A22C"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4586,6 +5042,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "74A225CBEE0DE98A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4596,6 +5053,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6682EDDCA1E36F73"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4606,6 +5064,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "765577ED6CFA0F0F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4616,6 +5075,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "010A2BFE50CFFF5F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4626,6 +5086,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "563957D8D7986D90"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4636,6 +5097,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3DEAE5AD9E9A2785"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4646,6 +5108,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6A2503DD60ADF68B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4656,6 +5119,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "65FB9D1DE54A3818"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4666,6 +5130,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2B189DC9D706B84A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4676,6 +5141,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "05435518338A89D3"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4686,6 +5152,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5816E2E455EE0408"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4696,6 +5163,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "73051ED4DC7B9B56"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4706,6 +5174,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6C043996B092B076"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4716,6 +5185,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "180119C4EA55B6C8"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4726,6 +5196,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "48E6C800F0FB00AE"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4736,6 +5207,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "18BB48C4267DF7C6"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4746,6 +5218,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7545581C34FA8D35"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4756,6 +5229,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1EC645C32A4BA2BF"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4766,6 +5240,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "276D0EA7544A042B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4776,6 +5251,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "19BA66584190FF5D"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4786,6 +5262,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B9918211EED1A9B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4796,6 +5273,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5E983A39677E9B4E"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4806,6 +5284,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3A1C5B7B1A45CAA5"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4816,6 +5295,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "546D0A8A496B9230"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4826,6 +5306,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6F221DED1026A637"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4836,6 +5317,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "53C23D877C19D801"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4846,6 +5328,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "61187CBD9C225DA7"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4856,6 +5339,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32B54841567F4222"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4866,6 +5350,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7DE992FB54541820"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4876,6 +5361,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "364612ABB8EC0BDA"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4886,6 +5372,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1887B52BF914DE91"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4896,6 +5383,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "26BD11F0541C812E"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4906,6 +5394,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "033640BFE7E9973E"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4916,6 +5405,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "40AA8092AE2FFC67"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4926,6 +5416,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6037B8C8C1572A0B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4936,6 +5427,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6C5A8400F380DA04"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4946,6 +5438,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2A07CC6D93C9ED17"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4956,6 +5449,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "63B15C7DEF3CEC2D"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4966,6 +5460,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5BE4FB36A6E81E22"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4976,6 +5471,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33DA2B6782904857"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4986,6 +5482,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4173868B80CED1E3"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -4996,6 +5493,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2CA930A8A18554CD"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5006,6 +5504,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "299778A883E60022"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5016,6 +5515,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6887982B38358846"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5026,6 +5526,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "247BD8D84F82851A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5036,6 +5537,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3D6D2722D682E503"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5046,6 +5548,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3BE3BA5D6FC6CF60"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5056,6 +5559,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "50838A158D3E60AA"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5066,6 +5570,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1653B0C0C4121717"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5076,6 +5581,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4EEB5DCC784D045D"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5086,6 +5592,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5891AC7FD343C3F9"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5096,6 +5603,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2D00644E4A5C7454"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5106,6 +5614,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1FE02BA4D0F14695"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5116,6 +5625,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "702AB4A60656CB0F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5126,6 +5636,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3AAC213134719D5F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5136,6 +5647,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "06B9C58FB760792B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5146,6 +5658,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6D56D4898FC4A5D2"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5156,6 +5669,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "77395545D3C2335F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5166,6 +5680,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41D08EAD9BCA76DE"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5176,6 +5691,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "59899C3158CB74BC"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5186,6 +5702,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "227EB3782C2F51C3"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5196,6 +5713,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "16D85B66249844DD"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5206,6 +5724,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6C5BC85F32076673"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5216,6 +5735,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0FC2308E724F52A4"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5226,6 +5746,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B3719D9FD3238E1"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5236,6 +5757,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7D1074A642DA6D79"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5246,6 +5768,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "730A4C2BF4C4F8A2"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5256,6 +5779,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "10688023B62A1CAE"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5266,6 +5790,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1D2F622ED5716E4B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5276,6 +5801,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "61824D05213DAB70"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5286,6 +5812,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "183DEC943E6EC753"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5296,6 +5823,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "57E894464DFAE4A3"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5306,6 +5834,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6964DC5EF99E691B"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5316,6 +5845,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "768929D8AE99A521"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5326,6 +5856,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "39DAE52BC6ACDEBB"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5336,6 +5867,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "65BD9C662C22C6D3"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5346,6 +5878,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2028B38E0C957561"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5356,6 +5889,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "297494C1F0273072"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5366,6 +5900,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "549797A921B9645F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5376,6 +5911,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "21B0313043D4961A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5386,6 +5922,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "43527CF78EB33BBF"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5396,6 +5933,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "76EAA7A6C025C96C"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5406,6 +5944,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "578BC3319E89025F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5416,6 +5955,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "738BC00D39E8A160"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5426,6 +5966,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "087D438F7DD5BC62"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5436,6 +5977,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5A51DC48ED43AE7C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5446,6 +5988,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4289AADF4EEC21A2"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5456,6 +5999,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "773A195E3CAC56E9"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5466,6 +6010,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4C520E8444DBCED7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5476,6 +6021,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "79FAE211EA126674"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5486,6 +6032,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "223D1D241A6F32BE"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5496,6 +6043,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7A65BE4FB07704BF"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5506,6 +6054,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B18EA9D95052763"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5516,6 +6065,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7AC4698B9EE1A2C1"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5526,6 +6076,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4F6D2C82822B97C3"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5536,6 +6087,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3EC6E84CEAC0079C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5546,6 +6098,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "61210940E4F0341F"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5556,6 +6109,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5117981D282EAA85"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -5566,6 +6120,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "54555976393A842A"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -5575,6 +6130,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5A25A625C6CC3A1C"
 			image: "create:block/andesite_casing"
 			rotation: 0.0d
 			width: 2.0d
@@ -5584,6 +6140,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3CF40DAA02B3854C"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5594,6 +6151,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2ACBF257D6FB0AFC"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5604,6 +6162,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "225D9C82F15835D7"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5614,6 +6173,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "57DBE4C477F65875"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5624,6 +6184,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6EEC776FEF0BF61D"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5634,6 +6195,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3D3A542F02245AB9"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5644,6 +6206,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0D2939A54BF3B2B2"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5654,6 +6217,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "05333245B7872B61"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5664,6 +6228,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5D62957A693BC20A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5674,6 +6239,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "749E5F31FFE605E8"
 			image: "create:block/palettes/limesand"
 			order: -200
 			rotation: 0.0d
@@ -5684,6 +6250,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "43C408238361318F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5694,6 +6261,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "70AF542EDE932D28"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5704,6 +6272,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "075BC6FE6E919D94"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5714,6 +6283,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "27FB40D6724F9FDC"
 			image: "create:block/andesite_block"
 			order: -200
 			rotation: 0.0d
@@ -5724,6 +6294,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7F45402D2634B39E"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5734,6 +6305,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "12463926C1511339"
 			image: "create:block/andesite_block"
 			order: -200
 			rotation: 0.0d
@@ -5744,6 +6316,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "63AD6461C563933E"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5754,6 +6327,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3EBD3AF05414D037"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5764,6 +6338,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5BAE794EF3A1FEE3"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5774,6 +6349,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0527A8353F9EC0AA"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5784,6 +6360,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1AE64064DB0C95FA"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5794,6 +6371,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4AEF95D58649E580"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5804,6 +6382,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3E84B85FD5157C87"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5814,6 +6393,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "03A51CFFD5132D0F"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5824,6 +6404,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2F307350E18A07BF"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5834,6 +6415,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0D4BD21652FDE640"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5844,6 +6426,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "73EB8958BD825F42"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5854,6 +6437,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "383F0EBEA5A9F530"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5864,6 +6448,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "21A18D4A03F17E49"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5874,6 +6459,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "394854B7F0443A49"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5884,6 +6470,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "59BE361213942450"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5894,6 +6481,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6520C43803079AF1"
 			image: "create:block/copper/copper_roof_top"
 			order: -200
 			rotation: 0.0d
@@ -5904,6 +6492,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "03EAB31FFD06E15B"
 			image: "create:block/copper/copper_roof_top"
 			order: -200
 			rotation: 0.0d
@@ -5914,6 +6503,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0ECA8027320C67A9"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -5924,6 +6514,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "53DF51C4ACAD4DA0"
 			image: "minecraft:block/birch_planks"
 			order: -200
 			rotation: 0.0d
@@ -5934,6 +6525,7 @@
 		{
 			color: 9276813
 			height: 1.5d
+			id: "0D6B01F74146A430"
 			image: "aeronautics:block/levitite"
 			rotation: 0.0d
 			width: 1.5d
@@ -5942,6 +6534,7 @@
 		}
 		{
 			height: 5.0d
+			id: "4DD52B7D85B221AA"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -5951,6 +6544,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3E1F57E750DE7D47"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -5960,6 +6554,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5C97855CA7E33FA7"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -5969,6 +6564,7 @@
 		}
 		{
 			height: 5.0d
+			id: "50035F36473B0823"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -5978,6 +6574,7 @@
 		}
 		{
 			height: 5.0d
+			id: "25930A5BCFF46BD6"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -5987,6 +6584,7 @@
 		}
 		{
 			height: 5.0d
+			id: "47D009ED44D86A1F"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -5996,6 +6594,7 @@
 		}
 		{
 			height: 5.0d
+			id: "46757BF2FFF815CF"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6005,6 +6604,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0B07D845F433EE5E"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6014,6 +6614,7 @@
 		}
 		{
 			height: 5.0d
+			id: "40DE5EE22B52CDA2"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6023,6 +6624,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0B79DBFF15F167CC"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6032,6 +6634,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7F5A8A3180AA7484"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6041,6 +6644,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3CADD33F40418C0A"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6050,6 +6654,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5ABBD06B9979F78B"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6059,6 +6664,7 @@
 		}
 		{
 			height: 5.0d
+			id: "00EAF124A5A5CE7E"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6068,6 +6674,7 @@
 		}
 		{
 			height: 5.0d
+			id: "0DAA8440187631E4"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6077,6 +6684,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7137ABACBFC17451"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 0.0d
@@ -6086,6 +6694,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7A2D9B9170E98021"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6095,6 +6704,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7D13B3CEF34438C3"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -9
 			rotation: 90.0d
@@ -6104,6 +6714,7 @@
 		}
 		{
 			height: 5.0d
+			id: "5C87CF5CA9408086"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6113,6 +6724,7 @@
 		}
 		{
 			height: 5.0d
+			id: "3F936A613C8B390C"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6122,6 +6734,7 @@
 		}
 		{
 			height: 5.0d
+			id: "6A37D214FF4C9C65"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6131,6 +6744,7 @@
 		}
 		{
 			height: 5.0d
+			id: "7FC2A37451364EDF"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6140,6 +6754,7 @@
 		}
 		{
 			height: 5.0d
+			id: "57ABB95F60589650"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -10
 			rotation: 90.0d
@@ -6149,6 +6764,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5D293509EED51B58"
 			image: "create:block/brass_casing"
 			rotation: 0.0d
 			width: 2.0d
@@ -6158,6 +6774,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "17C379F96DFEDA6B"
 			image: "create:block/brass_block"
 			order: -200
 			rotation: 0.0d
@@ -6168,6 +6785,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4DF52BC8DA089C7A"
 			image: "create:block/brass_block"
 			order: -200
 			rotation: 0.0d
@@ -6177,6 +6795,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3D9F9A83F24D76D2"
 			image: "create_sa:block/brass_cube_face"
 			rotation: 0.0d
 			width: 1.0d
@@ -6186,6 +6805,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "29FE46C8B8909047"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6196,6 +6816,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "55C676CF954371B7"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6206,6 +6827,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "126146416C6A621E"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6216,6 +6838,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0F4DDFAAF79EF4F9"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6226,6 +6849,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "34E8C592065073CE"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6236,6 +6860,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6B438C4B5FE25482"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6246,6 +6871,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "56423F55BF0C93E2"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6256,6 +6882,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3AD211C4F1256C99"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6266,6 +6893,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1B1BE70B097D8026"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6276,6 +6904,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2B0AA20BDEF2CC7C"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6286,6 +6915,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "305126B51069EBD7"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6296,6 +6926,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4FDEC3A476FC8184"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6306,6 +6937,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6F826D53E1EFF2C7"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6316,6 +6948,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "53A64E73F80D6D2A"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6326,6 +6959,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1DF4B89706E3F44E"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6336,6 +6970,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "414EDF000C97D62F"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6346,6 +6981,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "66317F65973CE9A8"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6356,6 +6992,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "57F7BB2EE7D2003A"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6366,6 +7003,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2209D64ACDA7139D"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6376,6 +7014,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "22D47C8CCC89889D"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6386,6 +7025,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0851C0067E7632CA"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6396,6 +7036,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "27471623C9B2D9E6"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6406,6 +7047,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33913AC085811582"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6416,6 +7058,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7D2D69D3A853592A"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6426,6 +7069,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1BA00210C897AAD3"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6436,6 +7080,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "22895D6FD03FB74D"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6446,6 +7091,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "59233BE8A19830DF"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6456,6 +7102,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3B328C1AC49123CD"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6466,6 +7113,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1EE48D6D65EF5F52"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6476,6 +7124,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "02B1FD3606864907"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6486,6 +7135,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7D6700597FA92CFB"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6496,6 +7146,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1C50CC617CFF47E6"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6506,6 +7157,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "46C78CEA80876E83"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6516,6 +7168,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6798BCF9EEE265A0"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6526,6 +7179,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2A143E48286DFCDB"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6536,6 +7190,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0549756E2211A372"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6546,6 +7201,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1AE571D48F057C8F"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6556,6 +7212,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1A8A126AED9B489B"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6566,6 +7223,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3934F3A85195C4F4"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6576,6 +7234,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7EB4A47F176FB92F"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6586,6 +7245,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0728EABB129D8ABB"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6596,6 +7256,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "62569C00FF6299D6"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6605,6 +7266,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2D4EF8B7EBED2631"
 			image: "create:item/brass_hand"
 			rotation: 0.0d
 			width: 1.0d
@@ -6614,6 +7276,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "46C6BF29E2D32AC8"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6624,6 +7287,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3444659C7090BFA3"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6634,6 +7298,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5D2E5972A2E554EE"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6644,6 +7309,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5A751EB39BB36C67"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6654,6 +7320,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "59EBBBA802C187BC"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6664,6 +7331,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6995DA72AE620D1F"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6674,6 +7342,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B94BA2F287E84D2"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6684,6 +7353,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4A6BB081012E083A"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6694,6 +7364,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "00431157BC64B3E0"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6704,6 +7375,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "110832960D4A257F"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6714,6 +7386,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "11196315051B0016"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6724,6 +7397,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2D9BE4BC239398F0"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6734,6 +7408,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3886C6C3A3666225"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6744,6 +7419,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0A4EEBAE28DB1A7B"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6754,6 +7430,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1B230120514F3938"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6764,6 +7441,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33CED6F626519180"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6774,6 +7452,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1EDF41866150BA58"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6784,6 +7463,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4A1375D82CD219A0"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6794,6 +7474,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "461A4F178AC1AFDF"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6804,6 +7485,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "573B7D212E00A296"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6814,6 +7496,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7FECDEDC00901318"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6824,6 +7507,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "45E46C139E5F8D7C"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6834,6 +7518,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "17EED621DCC1D3A9"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6844,6 +7529,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3EF51449CD13297C"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6854,6 +7540,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "079044AEB6B083B3"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6864,6 +7551,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2D62770003D14C4C"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6874,6 +7562,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5C7B9CE2A6C7CCEE"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6884,6 +7573,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "73A1A133409DF351"
 			image: "minecraft:block/crimson_planks"
 			order: -400
 			rotation: 0.0d
@@ -6894,6 +7584,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "63C1E79593AA03C0"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -6904,6 +7595,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1716361C109F74DA"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6914,6 +7606,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "592A6FBC22E02076"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6924,6 +7617,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "27794298E3E7BD38"
 			image: "minecraft:block/dark_oak_planks"
 			order: -200
 			rotation: 0.0d
@@ -6934,6 +7628,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7F655122BF5AA6C3"
 			image: "minecraft:block/dark_oak_planks"
 			order: -400
 			rotation: 0.0d
@@ -6943,6 +7638,7 @@
 		}
 		{
 			height: 1.25d
+			id: "4650ACA559F8E5CE"
 			image: "blazinghot:block/blaze_casing"
 			rotation: 0.0d
 			width: 1.25d
@@ -6952,6 +7648,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2DBB03A15C651DAC"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -6962,6 +7659,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "423A98136F2FF6DA"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -6972,6 +7670,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5BF4F3F9C710C49E"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -6982,6 +7681,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "48FEA00BFFCF2B0B"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -6992,6 +7692,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "31846855D30886FD"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -7002,6 +7703,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "713578B6D7349F3F"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -7012,6 +7714,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3078026166781323"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -7022,6 +7725,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0A70611EA790B730"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -7032,6 +7736,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "55117623C2843B71"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 90.0d
@@ -7042,6 +7747,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1A9A677A8FA512A7"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -7052,6 +7758,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "164455EF69FFB037"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -7062,6 +7769,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5A0B4B634564E662"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -7072,6 +7780,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "453468E5DD15C2E5"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -7082,6 +7791,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0A2F5C97752C7681"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -7092,6 +7802,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32BEF15C432DE5EE"
 			image: "minecraft:block/stripped_dark_oak_log"
 			order: -200
 			rotation: 0.0d
@@ -7101,6 +7812,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3818DD7C208D15C1"
 			image: "minecraft:block/chiseled_tuff_bricks"
 			order: -200
 			rotation: 0.0d
@@ -7110,6 +7822,7 @@
 		}
 		{
 			height: 5.0d
+			id: "131BE81414D29EA5"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -9
 			rotation: 0.0d
@@ -7120,6 +7833,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "52AAC588C2A47B91"
 			image: "minecraft:block/dark_oak_planks"
 			order: -300
 			rotation: 0.0d
@@ -7129,6 +7843,7 @@
 		}
 		{
 			height: 2.0d
+			id: "7588BD2D74302602"
 			image: "powergrid:block/conductive_casing"
 			rotation: 0.0d
 			width: 2.0d
@@ -7138,6 +7853,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3836A18D0D2FCF0A"
 			image: "create:block/zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -7148,6 +7864,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "67BDA1BD24D2751A"
 			image: "create:block/zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -7158,6 +7875,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1F9FE048B4A58C1D"
 			image: "create:block/raw_zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -7168,6 +7886,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "24E099914C97E2CA"
 			image: "create:block/raw_zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -7178,6 +7897,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5C39CD5390AC4E7C"
 			image: "create:block/raw_zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -7188,6 +7908,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2520C0A20C52704A"
 			image: "create:block/raw_zinc_block"
 			order: -200
 			rotation: 0.0d
@@ -7198,6 +7919,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "09F3DA857CCB21D2"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7208,6 +7930,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0066FA3A4B9DE7DB"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7218,6 +7941,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "740A936E55BCDBC5"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7228,6 +7952,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "65A2C67CC87F0561"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7238,6 +7963,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "61CEE52E75B40A7E"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7248,6 +7974,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41BAF50148AE3FDD"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7258,6 +7985,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "60A108D35EAB07B5"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7268,6 +7996,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "77E56F43A3C1DFDC"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7278,6 +8007,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32846E768E8E7A66"
 			image: "create:block/deepslate_zinc_ore"
 			order: -200
 			rotation: 0.0d
@@ -7288,6 +8018,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4029EFA65495339F"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7298,6 +8029,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2D6508DB37D0FD25"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7308,6 +8040,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4D31C1624F2BB77B"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7318,6 +8051,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "183690332DEC0B47"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7328,6 +8062,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "00EC57E79FB5A9A8"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7338,6 +8073,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5B93695F49E6129F"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7348,6 +8084,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "46E9FCF040586B4A"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7358,6 +8095,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5D26A6DB0D98D0F9"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7368,6 +8106,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0393B8ECFF57E7E0"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7378,6 +8117,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "35B86E7BE9171556"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7388,6 +8128,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5820FF7DA7634AEA"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7398,6 +8139,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "49F777B0F54D885C"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7408,6 +8150,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1473A4CD97641045"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7418,6 +8161,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "112286586CEF6D4B"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7428,6 +8172,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "771433F192BCA4BD"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7438,6 +8183,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3080F2163B07CE31"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7448,6 +8194,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "19CD386BC788041A"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7458,6 +8205,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7D8F44734825892B"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7468,6 +8216,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "014A48D5E27C2F2B"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7478,6 +8227,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "782785C10071411C"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7488,6 +8238,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2C7E386FE45F7A27"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7498,6 +8249,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "0B0F410FBAB5C227"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7508,6 +8260,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "125699E4D45FD7CD"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7518,6 +8271,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7A7A8091BC9F7B1E"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7528,6 +8282,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6E69C5CEBA0AB8C1"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7538,6 +8293,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "445EF310C4D16345"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7548,6 +8304,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "13C08A6BF888CC1B"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7558,6 +8315,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5F694EB86F337F43"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7568,6 +8326,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1B828BCEFEBC52BB"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7578,6 +8337,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "00B39843267BCD6B"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7588,6 +8348,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2165048446087518"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7598,6 +8359,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "35AE5460B3D76236"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7608,6 +8370,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "27AFB71C7514AA07"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7618,6 +8381,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "26F8C57DAD56E750"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7628,6 +8392,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "54367EEC015D78F5"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7638,6 +8403,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1BE914345D187D1E"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7648,6 +8414,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "72FB5A2E19E4BAAE"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7658,6 +8425,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32D1D6E8F710DD76"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7668,6 +8436,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1B477D99ED54D4A6"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7678,6 +8447,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "32F5EA042FC392EF"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7688,6 +8458,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "24E5760EBE54D161"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7698,6 +8469,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "346CEF09F91E9062"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7708,6 +8480,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "07F5F3B3201C3089"
 			image: "minecraft:block/deepslate"
 			order: -200
 			rotation: 0.0d
@@ -7718,6 +8491,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "320F1DF3E68D60A7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7728,6 +8502,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "51FCB10CC67057ED"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7738,6 +8513,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "12756F13BBFCBD83"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7748,6 +8524,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "357A409639E3FEBC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7758,6 +8535,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2BB20DB864E2A3F7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7768,6 +8546,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "000C61AE1DF2AFFD"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7778,6 +8557,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "48FDA7ADB8561CA5"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7788,6 +8568,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "41C18368AAB989CA"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7798,6 +8579,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2D1DA82614BDAFE5"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7808,6 +8590,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "432D002BF99025A6"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7818,6 +8601,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2BDF26745D19C3F5"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7828,6 +8612,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "74B4BD59607C6DA5"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7838,6 +8623,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1578D54E2D1DB0AD"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7848,6 +8634,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "51C2F771C218DA53"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7858,6 +8645,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2E28ECE1526CD4FC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7868,6 +8656,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5FC2E7D019D4B477"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7878,6 +8667,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "551A2D75D33ACCC8"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7888,6 +8678,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "34DDD671F8F1BBBC"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7898,6 +8689,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "6182AC14ADA00F6C"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7908,6 +8700,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "60BC22BB4E02F546"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7918,6 +8711,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "10211949D23CC7C7"
 			image: "minecraft:block/tuff"
 			order: -200
 			rotation: 0.0d
@@ -7928,6 +8722,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "58688A1B742ACC95"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7938,6 +8733,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "519E4F2A717314D6"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7948,6 +8744,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "1BFA232C39E6266E"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7958,6 +8755,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "7DE6C2F9171D7604"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7968,6 +8766,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "77DD6E8DA51E368B"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7978,6 +8777,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "3C8EC1F8D7E66E4E"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7988,6 +8788,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "5E3FE67DBBCD7BFF"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -7998,6 +8799,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "264B2C29F2A02ADF"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8008,6 +8810,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "1840CE493DD74875"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8018,6 +8821,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "34EF33F7595E327D"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8028,6 +8832,7 @@
 		{
 			color: 9419963
 			height: 4.0d
+			id: "4FBE2E39B3BB15FE"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8038,6 +8843,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "5242B0BB9A891FB6"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8048,6 +8854,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "044A2E59FF569027"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8058,6 +8865,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "18736A7825C8B5A8"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8068,6 +8876,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "6CD5E96AE10EC1CF"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8077,6 +8886,7 @@
 		}
 		{
 			height: 4.0d
+			id: "4D87902353E21425"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8087,6 +8897,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "5A0E21A628E31D99"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8097,6 +8908,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "3353145219D6CCC7"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8107,6 +8919,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "50CBF5B5CEE9F435"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8117,6 +8930,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "735357594A3D6101"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8127,6 +8941,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "64EC66F7C336F77A"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8137,6 +8952,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "14E9003FA781B6D9"
 			image: "create:entity/blueprint_large"
 			order: -5001
 			rotation: 0.0d
@@ -8147,6 +8963,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "37FDCEA4D61788B3"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8157,6 +8974,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5F818D59A8746AD0"
 			image: "minecraft:block/crimson_planks"
 			order: -400
 			rotation: 0.0d
@@ -8167,6 +8985,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1EE92A6E58E4319D"
 			image: "minecraft:block/crimson_planks"
 			order: -400
 			rotation: 0.0d
@@ -8177,6 +8996,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1CE5BD81D66EE1C9"
 			image: "minecraft:block/crimson_planks"
 			order: -400
 			rotation: 0.0d
@@ -8187,6 +9007,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "798FAA6A5B48FF36"
 			image: "minecraft:block/crimson_planks"
 			order: -400
 			rotation: 0.0d
@@ -8197,6 +9018,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "3BAB6FA81ED1E44C"
 			image: "minecraft:block/dark_oak_planks"
 			order: -400
 			rotation: 0.0d
@@ -8207,6 +9029,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "13451C7ADFF607FE"
 			image: "minecraft:block/dark_oak_planks"
 			order: -400
 			rotation: 0.0d
@@ -8217,6 +9040,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "61D0CE0B59653670"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8227,6 +9051,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "20F490E0E22CC691"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8237,6 +9062,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "57B1413975AE1F1D"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8247,6 +9073,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "44DC68638A86000A"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8257,6 +9084,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "6564E111BCB81ED7"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8267,6 +9095,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "1A4C1C96F311799C"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8277,6 +9106,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "0DAE653D841E48C6"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8287,6 +9117,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "31BE3A0B0C2166C2"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8297,6 +9128,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "37C105EDF05BCAD7"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8307,6 +9139,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "55AC3577A6821479"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8317,6 +9150,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "3D756FA391C9B3A6"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8327,6 +9161,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "44997C25A2C2859E"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8337,6 +9172,7 @@
 		{
 			color: 12046079
 			height: 4.0d
+			id: "428E5B361371CF79"
 			image: "create:entity/blueprint_large"
 			order: -300
 			rotation: 0.0d
@@ -8346,6 +9182,7 @@
 		}
 		{
 			height: 4.0d
+			id: "4951A428DBB0F9C9"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8355,6 +9192,7 @@
 		}
 		{
 			height: 4.0d
+			id: "0C8AF1FFF0AA9AB1"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8364,6 +9202,7 @@
 		}
 		{
 			height: 4.0d
+			id: "52418B0A03C033CE"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8373,6 +9212,7 @@
 		}
 		{
 			height: 4.0d
+			id: "46AC39BC83460F86"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8382,6 +9222,7 @@
 		}
 		{
 			height: 4.0d
+			id: "1CB72A4EB8E49D3E"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8391,6 +9232,7 @@
 		}
 		{
 			height: 4.0d
+			id: "18792B69ACB8FB9B"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8400,6 +9242,7 @@
 		}
 		{
 			height: 1.25d
+			id: "593F71D017799FE9"
 			image: "createpropulsion:block/platinum_casing"
 			rotation: 0.0d
 			width: 1.25d
@@ -8409,6 +9252,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "40A9CD4DB86AED52"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8419,6 +9263,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "58F083FD868E1DAE"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8429,6 +9274,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4896690460DFAD2A"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8439,6 +9285,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "10DAEB40FD9E8607"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8449,6 +9296,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7B108F3554A086FC"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8459,6 +9307,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "180711A24F6C6396"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8469,6 +9318,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2DAB4DD1F6B7FC89"
 			image: "minecraft:block/spruce_planks"
 			order: -200
 			rotation: 0.0d
@@ -8478,6 +9328,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2A96AE84FA67335D"
 			image: "farmersdelight:item/rope"
 			rotation: 0.0d
 			width: 1.0d
@@ -8486,6 +9337,7 @@
 		}
 		{
 			height: 1.0d
+			id: "67B0B6EAA3149FA0"
 			image: "artifacts:item/pocket_piston"
 			rotation: 0.0d
 			width: 1.0d
@@ -8494,6 +9346,7 @@
 		}
 		{
 			height: 1.0d
+			id: "1A1E5DFA3ADAAD18"
 			image: "inventorymanagement:textures/gui/icon/roundalib/rotate-13.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -8503,6 +9356,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "221F438DCE73F70F"
 			image: "minecraft:block/crimson_planks"
 			order: -200
 			rotation: 0.0d
@@ -8512,6 +9366,7 @@
 		}
 		{
 			height: 0.65d
+			id: "7661232A2018AED6"
 			image: "minecraft:textures/particle/small_gust_4.png"
 			rotation: 0.0d
 			width: 0.65d
@@ -8520,6 +9375,7 @@
 		}
 		{
 			height: 0.65d
+			id: "3403271B91FF5BC0"
 			image: "inventory_particles:textures/iparticles/vanilla/small_gust/small_gust_3.png"
 			rotation: 0.0d
 			width: 0.65d
@@ -8528,6 +9384,7 @@
 		}
 		{
 			height: 0.65d
+			id: "5937D28E86BA65AD"
 			image: "minecraft:textures/particle/small_gust_5.png"
 			rotation: 0.0d
 			width: 0.65d
@@ -8536,6 +9393,7 @@
 		}
 		{
 			height: 1.0d
+			id: "183F92D5373B7575"
 			image: "block_factorys_bosses:textures/particle/knight/souls_9.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -8545,6 +9403,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "07F911B70EA76926"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8555,6 +9414,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "28A6358619EF5C0C"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8565,6 +9425,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "41E8BD8CB3F257AD"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8575,6 +9436,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "4213D9CF6E0F41FF"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8585,6 +9447,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "2BDAFFF4F8A22D48"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8595,6 +9458,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "72759E8E46F4F8B8"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8605,6 +9469,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "7A50446AB3CB13F8"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8615,6 +9480,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "34A4A6AB6AA9F0A3"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8625,6 +9491,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "5968DA653FF19925"
 			image: "create:entity/blueprint_large"
 			order: -299
 			rotation: 0.0d
@@ -8635,6 +9502,7 @@
 		{
 			color: 15453067
 			height: 4.0d
+			id: "357BB25476005903"
 			image: "create:entity/blueprint_large"
 			order: -700
 			rotation: 0.0d
@@ -8644,6 +9512,7 @@
 		}
 		{
 			height: 1.25d
+			id: "56D117B5BFE39E0E"
 			image: "minecraft:textures/particle/gust_9.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -8653,6 +9522,7 @@
 		{
 			color: 15988475
 			height: 1.5d
+			id: "09BFF4188E03E18C"
 			image: "jei:textures/jei/atlas/gui/icons/arrow_previous.png"
 			order: 5
 			rotation: -90.0d
@@ -8662,6 +9532,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6991E2E03645A0B2"
 			image: "minecraft:block/resin_clump"
 			rotation: 0.0d
 			width: 1.0d
@@ -8670,6 +9541,7 @@
 		}
 		{
 			height: 1.0d
+			id: "7EB19036D32FC8B9"
 			image: "minecraft:block/kelp"
 			rotation: 0.0d
 			width: 1.0d
@@ -8678,6 +9550,7 @@
 		}
 		{
 			height: 1.0d
+			id: "13BFD900F3F2B639"
 			image: "create_sa:item/brass_drill_head"
 			rotation: 0.0d
 			width: 1.0d
@@ -8686,6 +9559,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4220B5CDFB651398"
 			image: "minecraft:block/wheat_stage7"
 			rotation: 0.0d
 			width: 1.0d
@@ -8694,6 +9568,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2C0110EF85E1ADCE"
 			image: "minecraft:block/stonecutter_saw"
 			rotation: 0.0d
 			width: 1.0d
@@ -8702,6 +9577,7 @@
 		}
 		{
 			height: 1.0d
+			id: "13C4ADB1DB7CC250"
 			image: "create:block/depot_side"
 			rotation: 0.0d
 			width: 1.0d
@@ -8710,15 +9586,17 @@
 		}
 		{
 			height: 1.0d
+			id: "2FD452801287F574"
 			image: "minecraft:block/cobweb"
 			rotation: 0.0d
 			width: 1.0d
-			x: 4.764285714285691d
-			y: 11.216666666666669d
+			x: 3.5d
+			y: 10.0d
 		}
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B4B750311EEC6DB"
 			image: "minecraft:block/sand"
 			rotation: 0.0d
 			width: 1.0d
@@ -8728,6 +9606,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "17EE1F1941DA4169"
 			image: "yungscavebiomes:block/ancient_sand"
 			order: -200
 			rotation: 0.0d
@@ -8738,6 +9617,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "7A51D711C994F2B4"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8748,6 +9628,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "12599F5C06898BC4"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8758,6 +9639,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "1B4E0309703910E6"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8768,6 +9650,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "74BB937552FF1454"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8778,6 +9661,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5E5199D6C7982E04"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8788,6 +9672,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "4B384E3F124D7EDD"
 			image: "create:block/palettes/limesand"
 			order: -200
 			rotation: 0.0d
@@ -8798,6 +9683,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "400FE896DCB089AF"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8808,6 +9694,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "704ADD20F4A4ECFA"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8818,6 +9705,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "2E0C86B5574E7F43"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8828,6 +9716,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "33B16170A30D30B2"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8838,6 +9727,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5FCCA6E26DECB0D2"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8848,6 +9738,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5F2DFA2C9A5D1357"
 			image: "minecraft:block/sand"
 			order: -200
 			rotation: 0.0d
@@ -8858,6 +9749,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "5D8025A2E964516C"
 			image: "minecraft:block/sand"
 			order: -299
 			rotation: 0.0d
@@ -8867,6 +9759,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6DB392AA27D8F4F8"
 			image: "everycomp:block/af/createdieselgenerators/table/chip_wood_top"
 			rotation: 0.0d
 			width: 2.0d
@@ -8876,6 +9769,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "12E0019ED7ACA86D"
 			image: "minecraft:block/barrel_side"
 			order: -200
 			rotation: 0.0d
@@ -8886,6 +9780,7 @@
 		{
 			color: 9276813
 			height: 1.0d
+			id: "13AD784C4937372D"
 			image: "minecraft:block/barrel_side"
 			order: -200
 			rotation: 0.0d
@@ -8895,12 +9790,342 @@
 		}
 		{
 			height: 5.0d
+			id: "7B651A5AFBD2F9E9"
 			image: "farmersdelight:textures/particle/steam_3.png"
 			order: -9
 			rotation: 90.0d
 			width: 5.0d
 			x: -8.5d
 			y: 3.0d
+		}
+		{
+			height: 1.0d
+			id: "1B778B1A449FAE4F"
+			image: "minecraft:item/netherite_upgrade_smithing_template"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.478571428571421d
+			y: 10.133333333333333d
+		}
+		{
+			height: 1.0d
+			id: "06B6D1E8781AA28A"
+			image: "orevolution:item/ingredient/aethersteel_smithing_template"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.300000000000004d
+			y: 9.728571428571414d
+		}
+		{
+			height: 1.0d
+			id: "0F374E4398778CCE"
+			image: "orevolution:item/ingredient/reinforced_smithing_template"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.871428571428581d
+			y: 10.72857142857142d
+		}
+		{
+			click_action: "none:"
+			height: 1.1d
+			id: "7149A4F0CA5941D6"
+			image: "create:block/palettes/rose_quartz_top"
+			rotation: 0.0d
+			width: 1.1d
+			x: 7.035714285714285d
+			y: 8.557142857142864d
+		}
+		{
+			height: 1.0d
+			id: "29E2A558929FBDF3"
+			image: "create:item/rose_quartz"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.549999999999997d
+			y: 8.785714285714285d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "32DF2E53E1CF5BFC"
+			image: "galosphere:block/allurite_cluster"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.9666666666666544d
+			y: 8.395238095238092d
+		}
+		{
+			height: 1.0d
+			id: "1E88518A87AA584D"
+			image: "minecraft:textures/mob_effect/wind_charged.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.750000000000007d
+			y: 7.7071428571428555d
+		}
+		{
+			height: 1.0d
+			id: "02F6A4AD0E9D870A"
+			image: "create:item/experience_nugget"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.4428571428571075d
+			y: 5.692857142857143d
+		}
+		{
+			height: 1.0d
+			id: "367AE4BA9CE0AB4F"
+			image: "minecraft:item/netherite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.799999999999969d
+			y: 6.835714285714282d
+		}
+		{
+			height: 1.0d
+			id: "4728889BCDD32C44"
+			image: "orevolution:item/ingredient/verdite_ingot"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.88333333333334d
+			y: 11.78809523809523d
+		}
+		{
+			height: 1.0d
+			id: "45991FB8CC0875A5"
+			image: "orevolution:item/ingredient/livingstone_shard"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.740476190476201d
+			y: 10.597619047619041d
+		}
+		{
+			height: 1.0d
+			id: "701A6E3852FF96F9"
+			image: "minecraft:block/pitcher_crop_top_stage_4"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.633333333333326d
+			y: 12.990476190476187d
+		}
+		{
+			height: 1.0d
+			id: "5921175BC8388B7B"
+			image: "create:item/brass_hand"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.871428571428567d
+			y: 13.56190476190475d
+		}
+		{
+			height: 1.0d
+			id: "0326AF2D13566027"
+			image: "orevolution:item/tool/aethersteel_pickaxe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.26428571428572d
+			y: 9.07380952380953d
+		}
+		{
+			click_action: "none:"
+			color: 9276813
+			height: 1.0d
+			id: "190D39B0283BD14A"
+			image: "galosphere:block/palladium_ore"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.049999999999999d
+			y: 10.2d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			id: "7114EF2B72EBE6C7"
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			color: 9276813
+			height: 1.0d
+			id: "466E7F8AFEAA8416"
+			image: "minecraft:block/stone"
+			order: -200
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "25D63542E9B044EE"
+			image: "galosphere:item/pink_salt_straw"
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.407142857142858d
+			y: 6.383333333333333d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "646456DC42BB2925"
+			image: "simulatedcoasters:item/coaster_track"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.045238095238091d
+			y: 11.686054421768702d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "002EDDCC4DDAEA8E"
+			image: "simulatedcoasters:item/coaster_track"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.2357142857142875d
+			y: 11.40034013605441d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "2C3E9E16B53BD81B"
+			image: "simulatedcoasters:item/coaster_track"
+			rotation: -10.0d
+			width: 1.0d
+			x: -7.497619047619047d
+			y: 11.162244897959177d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "570E67D0C7CDD7F7"
+			image: "simulatedcoasters:item/coaster_track"
+			rotation: -20.0d
+			width: 1.0d
+			x: -7.783333333333324d
+			y: 10.995578231292505d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "30E72DD389E464D8"
+			image: "simulatedcoasters:item/coaster_track"
+			rotation: -30.0d
+			width: 1.0d
+			x: -8.116666666666653d
+			y: 10.876530612244892d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "631D5CB663B5B49A"
+			image: "simulatedcoasters:item/rivet"
+			rotation: 90.0d
+			width: 1.0d
+			x: 0.33571428571428186d
+			y: 11.228571428571428d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "2F9D1027B1235EE8"
+			image: "simulatedcoasters:item/rivet"
+			rotation: -90.0d
+			width: 1.0d
+			x: -0.23571428571428754d
+			y: 10.22857142857142d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "3C05B39DFC8EEC39"
+			image: "simulatedcoasters:item/red_balloon"
+			rotation: -55.0d
+			width: 1.0d
+			x: 2.69285714285715d
+			y: 11.585714285714289d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "44722927B0564DF1"
+			image: "simulatedcoasters:item/red_balloon"
+			rotation: -45.0d
+			width: 1.0d
+			x: 3.0500000000000114d
+			y: 11.371428571428574d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "36A790046DD0F9FA"
+			image: "simulatedcoasters:item/red_balloon"
+			rotation: -25.0d
+			width: 1.0d
+			x: 3.478571428571435d
+			y: 11.44285714285715d
+		}
+		{
+			height: 1.0d
+			id: "041828A65EDC1ED7"
+			image: "caverns_and_chasms:item/raw_tin"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.4071428571428655d
+			y: 19.728571428571435d
+		}
+		{
+			height: 1.0d
+			id: "7DDA86FD02EE9704"
+			image: "minecraft:block/smithing_table_side"
+			rotation: 0.0d
+			width: 1.0d
+			x: 14.4785714285714d
+			y: 8.799999999999997d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "5A751A1B804A0EEC"
+			image: "orevolution:item/tool/steel_hammer"
+			rotation: -115.0d
+			width: 2.0d
+			x: 12.097619047619048d
+			y: 5.2642857142857125d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "5B009350B0BF7EE3"
+			image: "caverns_and_chasms:textures/particle/orange_sparkler_spark_1.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.383333333333326d
+			y: 5.597619047619055d
+		}
+		{
+			height: 1.0d
+			id: "5045107CDB85ADA8"
+			image: "caverns_and_chasms:textures/particle/yellow_sparkler_spark_0.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.597619047619048d
+			y: 5.57380952380953d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "09700B0232D509B5"
+			image: "caverns_and_chasms:textures/particle/sparkler_spark_1.png"
+			rotation: -110.0d
+			width: 1.0d
+			x: 11.002380952380946d
+			y: 5.19285714285715d
 		}
 	]
 	order_index: 0
@@ -9036,8 +10261,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 6.4928571428571376d
+			x: -0.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["5180F77FE1C64FD1"]
@@ -9090,8 +10315,8 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: 8.492857142857137d
+			x: -0.5d
+			y: 9.0d
 		}
 		{
 			dependencies: [
@@ -9099,6 +10324,7 @@
 				"72964910579FBFB1"
 				"25E79D6B39398B15"
 			]
+			dependency_requirement: "one_completed"
 			id: "5FA8C5E41061B197"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -9106,6 +10332,7 @@
 				table_id: 7381247849914152287L
 				type: "random"
 			}]
+			shape: "square"
 			tasks: [
 				{
 					advancement: "create:windmill"
@@ -9125,8 +10352,8 @@
 					type: "item"
 				}
 			]
-			x: -1.5d
-			y: 9.0d
+			x: -2.0d
+			y: 8.5d
 		}
 		{
 			dependencies: [
@@ -9134,6 +10361,7 @@
 				"72964910579FBFB1"
 				"25E79D6B39398B15"
 			]
+			dependency_requirement: "one_completed"
 			id: "085241DA4E3192DB"
 			rewards: [{
 				count: 3
@@ -9144,6 +10372,7 @@
 				}
 				type: "item"
 			}]
+			shape: "square"
 			tasks: [
 				{
 					advancement: "create:water_wheel"
@@ -9157,8 +10386,8 @@
 					type: "item"
 				}
 			]
-			x: -1.5d
-			y: 6.033333333333329d
+			x: -2.0d
+			y: 6.5d
 		}
 		{
 			dependencies: [
@@ -9201,8 +10430,8 @@
 				item: { count: 1, id: "create:linear_chassis" }
 				type: "item"
 			}]
-			x: -3.0d
-			y: 5.5d
+			x: -5.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["503AB809B060C1B3"]
@@ -9222,7 +10451,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: 8.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["503AB809B060C1B3"]
@@ -9730,8 +10959,8 @@
 				item: { count: 1, id: "create:portable_storage_interface" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 8.5d
+			x: -2.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["6C6C650980F7492A"]
@@ -10117,50 +11346,29 @@
 		{
 			dependencies: ["4F526DBDC123BD43"]
 			id: "3FC59B54E32D5738"
-			rewards: [
-				{
-					id: "2BF9D045786C787D"
-					item: {
-						count: 1
-						id: "create:experience_nugget"
-					}
-					type: "item"
+			rewards: [{
+				id: "2BF9D045786C787D"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
 				}
-				{
-					exclude_from_claim_all: true
-					id: "7FD2BEBD05460EF6"
-					table_id: 6383787071741019849L
-					type: "random"
-				}
-			]
-			tasks: [
-				{
-					id: "61F55F310FC3609E"
-					item: { count: 1, id: "create_sa:copper_helmet" }
-					type: "item"
-				}
-				{
-					id: "2C66510FF8DB4AA6"
-					item: { count: 1, id: "create_sa:copper_chestplate" }
-					type: "item"
-				}
-				{
-					id: "7A10FBAED311AAF5"
-					item: { count: 1, id: "create_sa:copper_leggings" }
-					type: "item"
-				}
-				{
-					id: "2824B648247DAE0C"
-					item: { count: 1, id: "create_sa:copper_boots" }
-					type: "item"
-				}
-			]
-			x: 5.5d
-			y: 8.0d
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E7F04073C3EDD56"
+				item: { components: { "ftbfiltersystem:filter": "or(item(caverns_and_chasms:copper_shovel)item(caverns_and_chasms:copper_pickaxe)item(caverns_and_chasms:copper_axe)item(caverns_and_chasms:copper_hoe)item(caverns_and_chasms:copper_sword)item(caverns_and_chasms:copper_helmet)item(caverns_and_chasms:copper_chestplate)item(caverns_and_chasms:copper_leggings)item(caverns_and_chasms:copper_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.5d
 		}
 		{
-			dependencies: ["2DC4A8318BDA518F"]
+			dependencies: [
+				"2DC4A8318BDA518F"
+				"3FC59B54E32D5738"
+			]
 			id: "5AE88E715F56FB0B"
+			min_required_dependencies: 1
 			rewards: [
 				{
 					id: "6B3D7EE2A9F79282"
@@ -10177,30 +11385,13 @@
 					type: "random"
 				}
 			]
-			tasks: [
-				{
-					id: "6B9477E52854E072"
-					item: { count: 1, id: "create_sa:zinc_helmet" }
-					type: "item"
-				}
-				{
-					id: "068E317AA1EF459A"
-					item: { count: 1, id: "create_sa:zinc_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5DE3B0DE522EB019"
-					item: { count: 1, id: "create_sa:zinc_leggings" }
-					type: "item"
-				}
-				{
-					id: "467601A9C6DD12B2"
-					item: { count: 1, id: "create_sa:zinc_boots" }
-					type: "item"
-				}
-			]
-			x: 8.0d
-			y: 8.0d
+			tasks: [{
+				id: "467601A9C6DD12B2"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:zinc_hoe)item(create_sa:zinc_shovel)item(create_sa:zinc_sword)item(create_sa:zinc_axe)item(create_sa:zinc_pickaxe)item(create_sa:zinc_boots)item(create_sa:zinc_leggings)item(create_sa:zinc_chestplate)item(create_sa:zinc_helmet))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["5FA8C5E41061B197"]
@@ -10222,7 +11413,8 @@
 			y: 7.5d
 		}
 		{
-			dependencies: ["3FC59B54E32D5738"]
+			dependencies: ["4F526DBDC123BD43"]
+			dependency_requirement: "one_completed"
 			id: "2DC4A8318BDA518F"
 			rewards: [
 				{
@@ -10240,29 +11432,12 @@
 					type: "random"
 				}
 			]
-			tasks: [
-				{
-					id: "1DE1085489551DB4"
-					item: { count: 1, id: "minecraft:iron_helmet" }
-					type: "item"
-				}
-				{
-					id: "0D31FE0B4CC2460B"
-					item: { count: 1, id: "minecraft:iron_chestplate" }
-					type: "item"
-				}
-				{
-					id: "5D65A49BB8B460BC"
-					item: { count: 1, id: "minecraft:iron_leggings" }
-					type: "item"
-				}
-				{
-					id: "7FB0392689B437CA"
-					item: { count: 1, id: "minecraft:iron_boots" }
-					type: "item"
-				}
-			]
-			x: 7.0d
+			tasks: [{
+				id: "1DE1085489551DB4"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:iron_helmet)item(minecraft:iron_chestplate)item(minecraft:iron_leggings)item(minecraft:iron_boots)item(minecraft:iron_sword)item(minecraft:iron_hoe)item(minecraft:iron_axe)item(minecraft:iron_pickaxe)item(minecraft:iron_shovel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
 			y: 7.5d
 		}
 		{
@@ -10285,13 +11460,7 @@
 			tasks: [
 				{
 					id: "11DD2BD3DD3F18C5"
-					item: { count: 1, id: "create_sa:andesite_jetpack_chestplate" }
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "4CF919C9946286BD"
-					item: { count: 1, id: "create_sa:andesite_exoskeleton_chestplate" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:andesite_jetpack_chestplate)item(create_sa:andesite_exoskeleton_chestplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					optional_task: true
 					type: "item"
 				}
@@ -10301,8 +11470,8 @@
 					type: "item"
 				}
 			]
-			x: 9.5d
-			y: 7.0d
+			x: 6.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["18D8AA2635984BAA"]
@@ -10322,16 +11491,11 @@
 					type: "random"
 				}
 			]
+			size: 1.0d
 			tasks: [
 				{
 					id: "75A5980169F634F1"
-					item: { count: 1, id: "create_sa:copper_exoskeleton_chestplate" }
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "7AE06C95DDE60F24"
-					item: { count: 1, id: "create_sa:copper_jetpack_chestplate" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:copper_exoskeleton_chestplate)item(create_sa:copper_jetpack_chestplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					optional_task: true
 					type: "item"
 				}
@@ -10341,8 +11505,8 @@
 					type: "item"
 				}
 			]
-			x: 11.5d
-			y: 8.0d
+			x: 7.5d
+			y: 5.5d
 		}
 		{
 			dependencies: [
@@ -10366,17 +11530,11 @@
 				}
 			]
 			shape: "square"
-			size: 0.85d
+			size: 1.0d
 			tasks: [
 				{
 					id: "0E5C03A080D37082"
-					item: { count: 1, id: "create_sa:brass_jetpack_chestplate" }
-					optional_task: true
-					type: "item"
-				}
-				{
-					id: "6CF637B25BE21116"
-					item: { count: 1, id: "create_sa:brass_exoskeleton_chestplate" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:brass_exoskeleton_chestplate)item(create_sa:brass_jetpack_chestplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					optional_task: true
 					type: "item"
 				}
@@ -10386,11 +11544,11 @@
 					type: "item"
 				}
 			]
-			x: 10.625d
-			y: 8.924999999999999d
+			x: 7.5d
+			y: 6.5d
 		}
 		{
-			dependencies: ["3FC59B54E32D5738"]
+			dependencies: ["5AE88E715F56FB0B"]
 			id: "0777EC74AD052E2F"
 			rewards: [
 				{
@@ -10406,30 +11564,13 @@
 					type: "random"
 				}
 			]
-			tasks: [
-				{
-					id: "7DF090C1F7F97E6D"
-					item: { count: 1, id: "create_sa:brass_helmet" }
-					type: "item"
-				}
-				{
-					id: "361486B5AB7A61D6"
-					item: { count: 1, id: "create_sa:brass_chestplate" }
-					type: "item"
-				}
-				{
-					id: "389DC74BF92731FB"
-					item: { count: 1, id: "create_sa:brass_leggings" }
-					type: "item"
-				}
-				{
-					id: "629EE83A8D7747F7"
-					item: { count: 1, id: "create_sa:brass_boots" }
-					type: "item"
-				}
-			]
-			x: 7.0d
-			y: 8.5d
+			tasks: [{
+				id: "629EE83A8D7747F7"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:brass_pickaxe)item(create_sa:brass_axe)item(create_sa:brass_sword)item(create_sa:brass_shovel)item(create_sa:brass_hoe)item(create_sa:brass_helmet)item(create_sa:brass_chestplate)item(create_sa:brass_leggings)item(create_sa:brass_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["6FFA30F3DE3897B6"]
@@ -10737,8 +11878,8 @@
 					type: "item"
 				}
 			]
-			x: 3.9375d
-			y: 18.130357142857136d
+			x: 4.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["62E0BBAB197813F5"]
@@ -10758,30 +11899,13 @@
 					type: "random"
 				}
 			]
-			tasks: [
-				{
-					id: "1AA2353756065D58"
-					item: { count: 1, id: "minecraft:diamond_helmet" }
-					type: "item"
-				}
-				{
-					id: "55DB9C349594A7F6"
-					item: { count: 1, id: "minecraft:diamond_chestplate" }
-					type: "item"
-				}
-				{
-					id: "086BAB6829C66FF2"
-					item: { count: 1, id: "minecraft:diamond_leggings" }
-					type: "item"
-				}
-				{
-					id: "36A76295E2E7368F"
-					item: { count: 1, id: "minecraft:diamond_boots" }
-					type: "item"
-				}
-			]
-			x: 6.0d
-			y: 11.0d
+			tasks: [{
+				id: "36A76295E2E7368F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:diamond_shovel)item(minecraft:diamond_pickaxe)item(minecraft:diamond_axe)item(minecraft:diamond_hoe)item(minecraft:diamond_sword)item(minecraft:diamond_helmet)item(minecraft:diamond_chestplate)item(minecraft:diamond_leggings)item(minecraft:diamond_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["048882EB61A875BC"]
@@ -10864,35 +11988,8 @@
 				item: { count: 1, id: "create_sa:grapplin_whisk" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 7.0d
-		}
-		{
-			dependencies: ["763D2A6DDE42E714"]
-			id: "4B80D7EA0868887A"
-			rewards: [
-				{
-					id: "673BE26C5CA51EB6"
-					item: {
-						count: 1
-						id: "create:experience_nugget"
-					}
-					type: "item"
-				}
-				{
-					exclude_from_claim_all: true
-					id: "66EB4B8B7D6C7806"
-					table_id: 8128522960503969447L
-					type: "random"
-				}
-			]
-			tasks: [{
-				id: "3BE4B0D687F7E110"
-				item: { count: 1, id: "create_sa:block_picker" }
-				type: "item"
-			}]
-			x: 13.0d
-			y: 8.0d
+			x: 8.5d
+			y: 6.0d
 		}
 		{
 			dependencies: ["763D2A6DDE42E714"]
@@ -10918,8 +12015,8 @@
 				item: { count: 1, id: "create_sa:portable_drill" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 6.5d
+			x: 6.5d
+			y: 5.0d
 		}
 		{
 			dependencies: ["29A60C9F0B082F5A"]
@@ -11495,7 +12592,7 @@
 			y: 18.0d
 		}
 		{
-			dependencies: ["1D2711B00222E38D"]
+			dependencies: ["0777EC74AD052E2F"]
 			id: "6361CB74A7AC9974"
 			rewards: [
 				{
@@ -11513,23 +12610,8 @@
 			]
 			tasks: [
 				{
-					id: "64BA14E4D286E79F"
-					item: { count: 1, id: "create_sa:rose_quartz_sword" }
-					type: "item"
-				}
-				{
-					id: "5E95E22B4331EA51"
-					item: { count: 1, id: "create_sa:rose_quartz_pickaxe" }
-					type: "item"
-				}
-				{
 					id: "1D436400CD0A15EA"
-					item: { count: 1, id: "create_sa:rose_quartz_shovel" }
-					type: "item"
-				}
-				{
-					id: "6951847B30F6F619"
-					item: { count: 1, id: "create_sa:rose_quartz_axe" }
+					item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:rose_quartz_sword)item(create_sa:rose_quartz_axe)item(create_sa:rose_quartz_shovel)item(create_sa:rose_quartz_pickaxe))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 					type: "item"
 				}
 				{
@@ -11539,8 +12621,8 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: 12.0d
+			x: 7.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["516C3FF8A6323339"]
@@ -11565,11 +12647,11 @@
 			]
 			tasks: [{
 				id: "363376E0AE543A9E"
-				item: { count: 1, id: "create_sa:netherite_jetpack_chestplate" }
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:netherite_exoskeleton_chestplate)item(create_sa:netherite_jetpack_chestplate))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 12.5d
-			y: 9.5d
+			x: 9.5d
+			y: 6.5d
 		}
 		{
 			dependencies: ["245B6AB017E78631"]
@@ -12026,8 +13108,8 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
-			y: 15.5d
+			x: 7.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["29778BBC4A8BAC37"]
@@ -12059,8 +13141,8 @@
 					type: "fluid"
 				}
 			]
-			x: 7.5d
-			y: 16.5d
+			x: 6.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["76EBE455344AE32C"]
@@ -12134,7 +13216,7 @@
 				}
 			]
 			x: 8.5d
-			y: 0.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["26BEC1FF16606A59"]
@@ -12243,6 +13325,12 @@
 		{
 			dependencies: ["53850B8C8717DEB5"]
 			id: "0D55EE4EF7FF55C1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A97A89C8F3DABA3"
+				table_id: 6383787071741019849L
+				type: "random"
+			}]
 			tasks: [{
 				id: "72820608D844AE6C"
 				item: { count: 1, id: "create_enchantment_industry:printer" }
@@ -12723,8 +13811,8 @@
 					type: "observation"
 				}
 			]
-			x: 8.5d
-			y: 13.0d
+			x: 6.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["048882EB61A875BC"]
@@ -12741,11 +13829,11 @@
 			}]
 			tasks: [{
 				id: "7A2620D5461E2094"
-				item: { count: 1, id: "create_sa:copper_hoe" }
+				item: { count: 1, id: "caverns_and_chasms:copper_hoe" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: 13.5d
+			x: 5.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["4E40D122248B90B2"]
@@ -12797,8 +13885,8 @@
 					type: "item"
 				}
 			]
-			x: 10.0d
-			y: 13.0d
+			x: 7.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["7E3D0727351AEC60"]
@@ -12817,7 +13905,7 @@
 				item: { count: 1, id: "farmersdelight:organic_compost" }
 				type: "item"
 			}]
-			x: 10.0d
+			x: 8.5d
 			y: 14.0d
 		}
 		{
@@ -12834,8 +13922,8 @@
 				item: { count: 1, id: "farmersdelight:rich_soil" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 14.5d
+			x: 9.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["22ECD514A0F89D76"]
@@ -12851,11 +13939,11 @@
 				item: { count: 1, id: "farmersdelight:brown_mushroom_colony" }
 				type: "item"
 			}]
-			x: 11.0d
-			y: 15.5d
+			x: 10.5d
+			y: 14.0d
 		}
 		{
-			dependencies: ["187E8AD73B7B50F3"]
+			dependencies: ["0ACC7160F0C5F309"]
 			id: "24922A0FA89BF6E2"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -12868,8 +13956,8 @@
 				item: { count: 1, id: "create:builders_tea" }
 				type: "item"
 			}]
-			x: 8.0d
-			y: 14.0d
+			x: 9.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["24922A0FA89BF6E2"]
@@ -12879,8 +13967,8 @@
 				item: { count: 1, id: "farmersdelight:melon_juice" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 14.5d
+			x: 10.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["547C90D6D29CA7C4"]
@@ -12890,8 +13978,8 @@
 				item: { count: 1, id: "farmersdelight:apple_cider" }
 				type: "item"
 			}]
-			x: 9.5d
-			y: 15.5d
+			x: 9.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["36C4B517511E35FC"]
@@ -12939,10 +14027,10 @@
 				}
 			]
 			x: 10.5d
-			y: 12.0d
+			y: 13.0d
 		}
 		{
-			dependencies: ["187E8AD73B7B50F3"]
+			dependencies: ["4E40D122248B90B2"]
 			id: "26032AA81F9E32AA"
 			tasks: [
 				{
@@ -12956,8 +14044,8 @@
 					type: "item"
 				}
 			]
-			x: 7.5d
-			y: 12.5d
+			x: 8.5d
+			y: 13.0d
 		}
 		{
 			dependencies: ["26032AA81F9E32AA"]
@@ -12976,8 +14064,8 @@
 					type: "item"
 				}
 			]
-			x: 9.0d
-			y: 12.0d
+			x: 9.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["187E8AD73B7B50F3"]
@@ -13025,8 +14113,8 @@
 					type: "item"
 				}
 			]
-			x: 7.0d
-			y: 15.0d
+			x: 6.0d
+			y: 13.5d
 		}
 		{
 			dependencies: [
@@ -13054,8 +14142,8 @@
 					type: "item"
 				}
 			]
-			x: 9.0d
-			y: 16.5d
+			x: 7.5d
+			y: 16.0d
 		}
 		{
 			dependencies: ["030E9B31D4831406"]
@@ -13771,8 +14859,8 @@
 				item: { count: 1, id: "createdieselgenerators:chemical_sprayer_lighter" }
 				type: "item"
 			}]
-			x: 9.726190476190453d
-			y: 9.292857142857152d
+			x: 9.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["70DB6195BA169254"]
@@ -13796,11 +14884,11 @@
 				item: { count: 1, id: "powergrid:electrozapper" }
 				type: "item"
 			}]
-			x: 14.5d
-			y: 9.5d
+			x: 4.5d
+			y: -13.5d
 		}
 		{
-			dependencies: ["57B5B9E5F4F12477"]
+			dependencies: ["70DB6195BA169254"]
 			id: "2B89BC906F2EF901"
 			rewards: [
 				{
@@ -13821,11 +14909,10 @@
 				item: { count: 1, id: "powergrid:electrobaton" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: 8.5d
+			x: 3.5d
+			y: -13.5d
 		}
 		{
-			dependencies: ["34D1B3BA8A6D63D8"]
 			id: "70DB6195BA169254"
 			rewards: [
 				{
@@ -13846,8 +14933,8 @@
 				item: { count: 1, id: "powergrid:portable_battery" }
 				type: "item"
 			}]
-			x: 13.5d
-			y: 10.0d
+			x: 3.5d
+			y: -12.5d
 		}
 		{
 			dependencies: ["3AD4628A9925036E"]
@@ -13871,8 +14958,8 @@
 				item: { count: 1, id: "create:potato_cannon" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 10.0d
+			x: 8.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["37B93FC2CAE520E5"]
@@ -13896,8 +14983,8 @@
 				item: { count: 1, id: "create:extendo_grip" }
 				type: "item"
 			}]
-			x: 10.0d
-			y: 10.5d
+			x: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["5AE88E715F56FB0B"]
@@ -13921,8 +15008,8 @@
 				item: { count: 1, id: "create:copper_backtank" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: 9.0d
+			x: 7.0d
+			y: 7.5d
 		}
 		{
 			dependencies: ["1DB939C97C64EB37"]
@@ -14235,8 +15322,8 @@
 				item: { count: 1, id: "overpacked:giant_backpack" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 11.0d
+			x: 4.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["5AE88E715F56FB0B"]
@@ -14247,30 +15334,13 @@
 				table_id: 4163670266444182859L
 				type: "random"
 			}]
-			tasks: [
-				{
-					id: "57D684E5C55F4554"
-					item: { count: 1, id: "create_sa:experience_sword" }
-					type: "item"
-				}
-				{
-					id: "3CDAC2AF70297C83"
-					item: { count: 1, id: "create_sa:experience_pickaxe" }
-					type: "item"
-				}
-				{
-					id: "4FFED5CBD4D311A7"
-					item: { count: 1, id: "create_sa:experience_shovel" }
-					type: "item"
-				}
-				{
-					id: "6F25112BB513F535"
-					item: { count: 1, id: "create_sa:experience_axe" }
-					type: "item"
-				}
-			]
-			x: 9.5d
-			y: 8.5d
+			tasks: [{
+				id: "6F25112BB513F535"
+				item: { components: { "ftbfiltersystem:filter": "or(item(create_sa:experience_pickaxe)item(create_sa:experience_shovel)item(create_sa:experience_axe)item(create_sa:experience_sword))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["1DC6FBBFE29C62CA"]
@@ -14812,7 +15882,7 @@
 			tasks: [{
 				count: 10L
 				id: "37560D739AC8D6F5"
-				item: { count: 1, id: "createpropulsion:platinum_ingot" }
+				item: { count: 1, id: "orevolution:platinum_ingot" }
 				type: "item"
 			}]
 			x: -10.5d
@@ -15053,23 +16123,6 @@
 			}]
 			x: -6.5d
 			y: 9.0d
-		}
-		{
-			id: "6F10FC61DE4B81D2"
-			invisible: true
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5E8016B75FA4652B"
-				table_id: 6383787071741019849L
-				type: "random"
-			}]
-			tasks: [{
-				id: "2A38C555DE29EAC5"
-				item: { components: { "ftbquests:missing_item": "create_linear_motion_simulated:pneumatic_cylinder" }, count: 1, id: "ftbquests:missing_item" }
-				type: "item"
-			}]
-			x: -16.0d
-			y: 4.5d
 		}
 		{
 			dependencies: ["099A90DF4B1517F4"]
@@ -15364,7 +16417,7 @@
 				id: "494862CE6F2B4F1E"
 				item: {
 					count: 1
-					id: "create_sa:copper_axe"
+					id: "minecraft:stone_axe"
 				}
 				type: "item"
 			}]
@@ -15416,8 +16469,8 @@
 				item: { count: 1, id: "minecraft:diamond" }
 				type: "item"
 			}]
-			x: 6.25d
-			y: 9.25d
+			x: 5.0d
+			y: 8.5d
 		}
 		{
 			dependencies: ["1D5E8EC37D528ABC"]
@@ -15433,8 +16486,671 @@
 				item: { count: 1, id: "kubejs:forged_diamond" }
 				type: "item"
 			}]
-			x: 6.75d
-			y: 10.25d
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A6F21FF3689FED5"]
+			id: "19B6E320D6B206D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08BA9F195F07560A"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [{
+				id: "546B5D0188C1F675"
+				item: { components: { "ftbfiltersystem:filter": "or(item(orevolution:livingstone_shovel)item(orevolution:livingstone_pickaxe)item(orevolution:livingstone_axe)item(orevolution:livingstone_hoe)item(orevolution:livingstone_sword)item(orevolution:livingstone_helmet)item(orevolution:livingstone_chestplate)item(orevolution:livingstone_leggings)item(orevolution:livingstone_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.31190476190477d
+			y: 10.835714285714275d
+		}
+		{
+			dependencies: ["2404175AEA2643F5"]
+			id: "7A8A5C68AB40A835"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1EF3A79E2F7C2A4F"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7625AC177029204A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(orevolution:verdite_shovel)item(orevolution:verdite_pickaxe)item(orevolution:verdite_axe)item(orevolution:verdite_hoe)item(orevolution:verdite_sword)item(orevolution:verdite_helmet)item(orevolution:verdite_chestplate)item(orevolution:verdite_leggings)item(orevolution:verdite_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["1D2711B00222E38D"]
+			id: "7879EF944C3A6FAD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3902978E49D35B08"
+					table_id: 7381247849914152287L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "31920409F7A4638E"
+					table_id: 8128522960503969447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "43B01BDDB1D1787F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(minecraft:netherite_shovel)item(minecraft:netherite_pickaxe)item(minecraft:netherite_axe)item(minecraft:netherite_hoe)item(minecraft:netherite_sword)item(minecraft:netherite_helmet)item(minecraft:netherite_chestplate)item(minecraft:netherite_leggings)item(minecraft:netherite_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7879EF944C3A6FAD"]
+			id: "3EA58D8CEF283F35"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7FA13DD0A9B43144"
+				table_id: 4163670266444182859L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4C2B5D8CBCC8D3CC"
+				item: { components: { "ftbfiltersystem:filter": "or(item(orevolution:aethersteel_shovel)item(orevolution:aethersteel_pickaxe)item(orevolution:aethersteel_axe)item(orevolution:aethersteel_hoe)item(orevolution:aethersteel_sword)item(orevolution:aethersteel_helmet)item(orevolution:aethersteel_chestplate)item(orevolution:aethersteel_leggings)item(orevolution:aethersteel_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7879EF944C3A6FAD"]
+			id: "1B77E18C81310510"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6D05300DF9320254"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5C46241AE4FB9BD3"
+				item: { components: { "ftbfiltersystem:filter": "or(item(orevolution:reinforced_netherite_helmet)item(orevolution:reinforced_netherite_chestplate)item(orevolution:reinforced_netherite_leggings)item(orevolution:reinforced_netherite_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["516C3FF8A6323339"]
+			id: "31D12B665F034FE6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0292156324E2139B"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0A15494BCCFE90D8"
+				item: { components: { "ftbfiltersystem:filter": "or(item(orevolution:bronze_totem_emerald)item(orevolution:bronze_totem_lapis_lazuli)item(orevolution:bronze_totem_diamond))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["3DA92D51207695EB"]
+			id: "5A74742B4E2B88F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4769187E43900366"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4518F6C9BBEC6F60"
+				item: { count: 1, id: "orevolution:raw_tungsten" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"556F6B6199952F1B"
+				"3DA92D51207695EB"
+			]
+			id: "56F702FE6894510A"
+			rewards: [{
+				id: "44E3FAFA4ED3E13D"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "59F9A10D4C1E809C"
+				item: { count: 1, id: "caverns_and_chasms:raw_tin" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2751D0FC14325913"]
+			id: "5F828BCC27D7AC5A"
+			rewards: [{
+				id: "1608AFF612D050ED"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "029132AF974B3725"
+				item: { count: 1, id: "minecraft:raw_copper" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["556F6B6199952F1B"]
+			id: "6430E71BEFD0123A"
+			rewards: [{
+				id: "5145B083E48ED7C8"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5D65CBF3B2C5A582"
+				item: { count: 1, id: "minecraft:raw_gold" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5F828BCC27D7AC5A"]
+			id: "37B19175854FE42B"
+			rewards: [{
+				id: "1E15318E73AB9232"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "474AD90E0BBDD8FE"
+				item: { count: 1, id: "minecraft:redstone" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["11F4F21FA47C0725"]
+			id: "3DA92D51207695EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48B045D3FB73F70E"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7C6DFFCC01A23A3C"
+				item: { count: 1, id: "orevolution:raw_platinum" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2751D0FC14325913"]
+			id: "44CFC17ED4AAFA1F"
+			rewards: [{
+				id: "641D0845875038A1"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D4272FE204F8F8B"
+				item: { count: 1, id: "minecraft:raw_iron" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3625412A51845B39"]
+			id: "315165601771A757"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59A28CCE39F7A2EE"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1779EF43ECB07B07"
+				item: { count: 1, id: "orevolution:aethersteel_ingot" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"168CECA6193CBBD9"
+				"6EC54CB742FA9A17"
+			]
+			id: "3625412A51845B39"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2482A751D89646E1"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4F3B9031CFA09B0E"
+				item: { count: 1, id: "minecraft:netherite_scrap" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["385F00786255DB0A"]
+			hide_dependency_lines: false
+			id: "2751D0FC14325913"
+			rewards: [{
+				id: "3892ECAE619C23CD"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EE382F8D41AC8F2"
+				type: "checkmark"
+			}]
+			x: 11.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"44CFC17ED4AAFA1F"
+				"5F828BCC27D7AC5A"
+			]
+			id: "11F4F21FA47C0725"
+			rewards: [{
+				id: "60D44B14AB6D294D"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3CFB02A5421ACFEF"
+				item: { count: 1, id: "create:raw_zinc" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["4E40D122248B90B2"]
+			id: "6A6F21FF3689FED5"
+			rewards: [{
+				id: "4F7911C2E837C8AE"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6019B25831EB8178"
+				item: { count: 1, id: "orevolution:petrified_seed" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["4E40D122248B90B2"]
+			id: "2404175AEA2643F5"
+			rewards: [{
+				id: "4B83D6127F2D5663"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F1A72DC64456A11"
+				item: { count: 1, id: "orevolution:dead_seed" }
+				type: "item"
+			}]
+			x: 8.550000000000011d
+			y: 11.74047619047618d
+		}
+		{
+			dependencies: ["561384377C9CCD90"]
+			id: "6F1CFD54C24005CF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74D5E3C40E276881"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [
+				{
+					count: 5L
+					id: "5029ACC966F49896"
+					item: { count: 1, id: "simulatedcoasters:coaster_track" }
+					type: "item"
+				}
+				{
+					id: "26CCACFC48A71D67"
+					item: { count: 1, id: "simulatedcoasters:coaster_cart" }
+					type: "item"
+				}
+			]
+			x: -8.473809523809514d
+			y: 10.733673469387746d
+		}
+		{
+			dependencies: ["5EBB04151AD1E8D4"]
+			id: "610C482AB3B68A39"
+			rewards: [{
+				id: "176BAB2D58F86947"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 3L
+				id: "6A96DFBA1B1B3A1A"
+				item: { count: 1, id: "simulatedcoasters:rivet" }
+				type: "item"
+			}]
+			x: 0.12142857142856656d
+			y: 10.728571428571428d
+		}
+		{
+			dependencies: ["5EBB04151AD1E8D4"]
+			id: "0A10B6CE3FA5FBC7"
+			rewards: [{
+				id: "42ACC1F6A0856676"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FCC50CEB3DFD582"
+				item: { count: 1, id: "simulatedcoasters:red_balloon" }
+				type: "item"
+			}]
+			x: 3.0500000000000114d
+			y: 12.014285714285712d
+		}
+		{
+			dependencies: ["11F4F21FA47C0725"]
+			id: "556F6B6199952F1B"
+			rewards: [{
+				id: "33683AD811C7939E"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "67591AC7C186F289"
+				item: { count: 1, id: "caverns_and_chasms:spinel" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["56F702FE6894510A"]
+			id: "6EC54CB742FA9A17"
+			rewards: [{
+				id: "388562C23D392888"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "60E596F2FD6BDABA"
+				item: { count: 1, id: "caverns_and_chasms:turquoise" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["56F702FE6894510A"]
+			id: "168CECA6193CBBD9"
+			rewards: [{
+				id: "6C2F4DD5AAE05418"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C42E0A1E2913018"
+				item: { count: 1, id: "caverns_and_chasms:zirconia" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["556F6B6199952F1B"]
+			id: "5279502548DBF99E"
+			rewards: [{
+				id: "62828B8FE6AB6EE3"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "71F5D5CBF96F5C8D"
+				item: { count: 1, id: "caverns_and_chasms:raw_silver" }
+				type: "item"
+			}]
+			x: 14.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["5279502548DBF99E"]
+			id: "53DC12393AD4D1A8"
+			rewards: [{
+				id: "71DAF4931576E950"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "04A52BDB59C1F034"
+				item: { count: 1, id: "caverns_and_chasms:living_flesh" }
+				type: "item"
+			}]
+			x: 15.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3625412A51845B39"]
+			id: "7FC779253A25E019"
+			rewards: [{
+				id: "4340E299DC991D1E"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [{
+				id: "35616B7585A7701F"
+				item: { count: 1, id: "caverns_and_chasms:necromium_ingot" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1D2711B00222E38D"]
+			id: "0E9226949C5A3C10"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A5210DF041BB7E4"
+				table_id: 8128522960503969447L
+				type: "random"
+			}]
+			tasks: [{
+				id: "00C676B40886304F"
+				item: { components: { "ftbfiltersystem:filter": "or(item(caverns_and_chasms:necromium_helmet)item(caverns_and_chasms:necromium_boots)item(caverns_and_chasms:necromium_leggings)item(caverns_and_chasms:necromium_chestplate)item(caverns_and_chasms:necromium_sword)item(caverns_and_chasms:necromium_hoe)item(caverns_and_chasms:necromium_axe)item(caverns_and_chasms:necromium_pickaxe)item(caverns_and_chasms:necromium_shovel))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.383333333333326d
+			y: 10.657142857142858d
+		}
+		{
+			dependencies: ["4767824FD39FDE6F"]
+			id: "6E369CEC949EE3BA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "56E61B66504B6AB4"
+				table_id: 7381247849914152287L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "73BD2DA15DF359A6"
+					item: { count: 1, id: "caverns_and_chasms:resistor" }
+					type: "item"
+				}
+				{
+					id: "61112EE41B967BD0"
+					item: { count: 1, id: "caverns_and_chasms:refractor" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["6E369CEC949EE3BA"]
+			id: "3415820A6733C8A8"
+			rewards: [{
+				id: "7AEBF20609A5D6E2"
+				item: {
+					count: 1
+					id: "create:experience_nugget"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "71E51956D5B1AD8A"
+				item: { components: { "ftbfiltersystem:filter": "or(item(caverns_and_chasms:scatterer)item(caverns_and_chasms:splurter))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["3415820A6733C8A8"]
+			id: "427B0F87A355A225"
+			tasks: [{
+				id: "1233104E9C59D274"
+				item: { components: { "ftbfiltersystem:filter": "or(item(caverns_and_chasms:winch)item(caverns_and_chasms:dimmer))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 17.5d
+		}
+		{
+			dependencies: ["70DB6195BA169254"]
+			id: "00E728C085724F9A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "104D3EFBD807D6BB"
+					table_id: 4866443030146950266L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05A4A4C53D750975"
+					table_id: 6018709783469238842L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0327B8AEB25A2DEA"
+				item: { components: { "ftbfiltersystem:filter": "or(item(powergrid:portable_saw)item(powergrid:portable_drill))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -13.5d
+		}
+		{
+			dependencies: ["556F6B6199952F1B"]
+			id: "1A6079CB7DD0F752"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4729E8B5A70C5101"
+				table_id: 6018709783469238842L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2101ED4701FF99B1"
+				item: { count: 1, id: "galosphere:raw_palladium" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0F35B0CE634CAF39"]
+			id: "0934CF88FBD1F6C5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DF4BC011008EB5B"
+				table_id: 6018709783469238842L
+				type: "random"
+			}]
+			tasks: [{
+				id: "3A089C433096517D"
+				item: { count: 1, id: "caverns_and_chasms:packing_container" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
 		}
 	]
 }

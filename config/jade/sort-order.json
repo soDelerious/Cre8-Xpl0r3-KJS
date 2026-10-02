@@ -74,5 +74,9 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "sable_player_ragdoll:mob_ragdoll_part": null,
+  "sable_player_ragdoll:mob_ragdoll_part_data": null,
+  "sable_player_ragdoll:ragdoll_part": null,
+  "sable_player_ragdoll:ragdoll_part_data": null
 }

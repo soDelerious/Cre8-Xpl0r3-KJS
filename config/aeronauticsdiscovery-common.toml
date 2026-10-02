@@ -16,7 +16,7 @@
 	# Range: 0 ~ 1024
 	maxUnloadDistance = 64
 	#When enabled, flyovers try to avoid spawning position where a block wall exists between the spawn point and the player. May introduce a minor performance overhead
-	obstacleCheck = false
+	obstacleCheck = true
 
 	[flyover.promotion]
 		#When enabled, if the player approaches a flyover fragment it will not despawn (NOTE: with large amounts of fragments this may cause a performance overhead).
@@ -52,40 +52,7 @@
 	#Entries are structure registry names (e.g. "minecraft:woodland_mansion").
 	#Add entries to enable, remove entries to disable.
 	#Add modded structures as new entries (e.g. "modid:structure_id").
-	structureMaps = [
-"minecraft:woodland_mansion",
-"betterjungletemples:jungle_temple",
-"betterdeserttemples:desert_temple",
-"betteroceanmonuments:ocean_monument",
-"betterwitchhuts:witch_circle",
-"minecraft:trail_ruins",
-"minecraft:igloo",
-"minecraft:ancient_city",
-"minecraft:trial_chambers",
-"notenoughtrials:vertical_trial_chambers",
-"block_factorys_bosses:dragon_tower",
-"block_factorys_bosses:sandworm_nest",
-"block_factorys_bosses:yeti_hideout",
-"create_pillagers_arise:cathedral_create",
-"create_pillagers_arise:createchinatower",
-"create_pillagers_arise:createpillagerblimp",
-"create_pillagers_arise:createpillagercamp",
-"create_pillagers_arise:createpillagerfortgate",
-"create_pillagers_arise:createpillagerhousesmall",
-"create_pillagers_arise:createpillageroutpost",
-"create_pillagers_arise:createpillagersmallhouse",
-"create_pillagers_arise:createpillagervillage",
-"create_pillagers_arise:pillagercreatetower",
-"create_rustic_structures:rustic_barn",
-"friendsandfoes:iceologer_cabin",
-"friendsandfoes:illusioner_shack",
-"friendsandfoes:illusioner_training_grounds",
-"joshie:village_ocean",
-"friendsandfoes:beekeeper_hut",
-"skyvillages:skyvillage",
-"plat:whirlwind_struct"
-
-]
+	structureMaps = ["galosphere:pink_salt_shrine", "minecraft:woodland_mansion", "betterjungletemples:jungle_temple", "betterdeserttemples:desert_temple", "betteroceanmonuments:ocean_monument", "betterwitchhuts:witch_circle", "minecraft:trail_ruins", "minecraft:igloo", "minecraft:ancient_city", "minecraft:trial_chambers", "minecraft:pillager_outpost", "notenoughtrials:vertical_trial_chambers", "block_factorys_bosses:dragon_tower", "block_factorys_bosses:sandworm_nest", "block_factorys_bosses:yeti_hideout", "create_rustic_structures:rustic_barn", "friendsandfoes:iceologer_cabin", "friendsandfoes:illusioner_shack", "friendsandfoes:illusioner_training_grounds", "joshie:village_ocean", "friendsandfoes:beekeeper_hut", "skyvillages:skyvillage", "plat:whirlwind_struct"]
 
 [general]
 	#If enabled, all sublevels including the ones NOT created by this mod will be processed for internal physics detection.
@@ -93,3 +60,24 @@
 	# Useful while building using Pins.
 	processAll = false
 
+[bridge]
+	#When enabled, bridge planks orientation is always horizontal
+	levelPlanks = true
+	#When enabled, players can add planks to ropes by right-clicking on rope anchors with slabs
+	allowPlankPlacement = false
+
+[autopilot]
+	#Precision of the obstacle-avoidance raycasting used by the autopilot 'avoid' (horizontal) and 'terrain' (vertical clearance) goals.
+	#Controls the number of rays cast per tick and how finely the forward cone is sampled.
+	#LOW = fewest rays, MEDIUM = balanced, HIGH = finest detection (most rays per tick)
+	#Allowed Values: LOW, MEDIUM, HIGH
+	raycastPrecision = "MEDIUM"
+
+[pin]
+	#Distance in blocks a player must be within to trigger pins armed with the Player Proximity trigger.
+	# Default: 5.0
+	# Range: 1.0 ~ 256.0
+	playerProximityRadius = 5.0
+	#When enabled, pins with the execute behavior run their inline command and/or datapack function.
+	#Set to true to globally enable execute pins. Runs at permission level 2, like command blocks.
+	executeEnabled = false

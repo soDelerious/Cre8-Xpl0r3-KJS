@@ -13,6 +13,8 @@
 	quest.00D9AB2E11B905A4.quest_desc: ["Woah! That's a big bag. Watch out though, pack too much and you'll slow down!"]
 	quest.00D9AB2E11B905A4.quest_subtitle: "Obtain an Overpack Backpack"
 	quest.00D9AB2E11B905A4.title: "Pack Well!"
+	quest.00E728C085724F9A.quest_subtitle: "Obtain either an electric drill or sawblade"
+	quest.00E728C085724F9A.title: "Smart Tools"
 	quest.012B2987FF982B25.quest_desc: [
 		"Superglue allows for much more intricate contraption design. Overlapping volumes all connect to contraption bearings, allowing for complete freedom when designing contraptions"
 		""
@@ -27,12 +29,14 @@
 	]
 	quest.0193BAAAD08360C2.quest_subtitle: "Obtain a Diesel Engine"
 	quest.0193BAAAD08360C2.title: "Portable Propulsion"
+	quest.01CBFAEC18E90ACD.quest_subtitle: "Tread the Paths"
+	quest.01CBFAEC18E90ACD.title: "The Way Below"
 	quest.01E4668137A7F731.quest_desc: ["Honey glue is specialized glue for physics contraptions. It allows the player more freedom when creating simulated designs"]
 	quest.01E4668137A7F731.quest_subtitle: "Obtain Honey Glue"
 	quest.01E4668137A7F731.title: "Honey? Oh- Different Kind."
-	quest.024E4ABB51759533.quest_desc: ["Found in most vanilla minecraft beach biomes"]
-	quest.024E4ABB51759533.quest_subtitle: "Slay the Hermit King"
-	quest.024E4ABB51759533.title: "Crustacean Conquest"
+	quest.024E4ABB51759533.quest_desc: ["Found underneath the tides."]
+	quest.024E4ABB51759533.quest_subtitle: "Slay the Great Thrasher"
+	quest.024E4ABB51759533.title: "Thrashing Around"
 	quest.027E9A57E61A685D.quest_desc: [
 		"Blaze enchanters act like automatic enchantment tables. Feed them liquid xp from the bottom through a pipe to operate!"
 		""
@@ -136,8 +140,10 @@
 	]
 	quest.0776266922C449C6.quest_subtitle: "Obtain a redstone magnet"
 	quest.0776266922C449C6.title: "Redstone Magnet"
-	quest.0777EC74AD052E2F.quest_subtitle: "Obtain a set of brass armor"
+	quest.0777EC74AD052E2F.quest_subtitle: "Obtain any piece of brass armor"
 	quest.0777EC74AD052E2F.title: "*Tuba Noises*"
+	quest.0778BE9E8341C067.quest_subtitle: "Find a Spectre"
+	quest.0778BE9E8341C067.title: "Spectre"
 	quest.07B229383A9FE253.quest_desc: [
 		"Experience hatches act like fluid hatches, yet they allow you to pour your player levels directly into tanks!"
 		""
@@ -173,6 +179,8 @@
 	]
 	quest.08EA67EB3409A6AD.quest_subtitle: "Obtain 5x Auger Shafts and Observe an Auger Cogwheel"
 	quest.08EA67EB3409A6AD.title: "Auger Action"
+	quest.0934CF88FBD1F6C5.quest_subtitle: "Obtain a Packing Container"
+	quest.0934CF88FBD1F6C5.title: "Whole Can o' Worms"
 	quest.09534EBB7A3F83AA.quest_desc: [
 		"Ochrum resource vents are often found in &nbadlands biomes.&r"
 		""
@@ -201,6 +209,13 @@
 	]
 	quest.09BE69AF965A1E68.quest_subtitle: "Obtain a Punchcard Reader"
 	quest.09BE69AF965A1E68.title: "1920's Computing"
+	quest.0A10B6CE3FA5FBC7.quest_desc: [
+		"Balloons can be dyed, and allow for free, mid air suspension of blocks."
+		"In exchange for those properties, they can be popped by arrows or other projectiles, which will result in all balloons on the structure being popped."
+	]
+	quest.0A10B6CE3FA5FBC7.quest_subtitle: "Obtain 1x Red Balloon"
+	quest.0A10B6CE3FA5FBC7.title: "Bad Piggies ahh"
+	quest.0A12B43DF99D9E36.quest_subtitle: "Do Something Unkind."
 	quest.0ACC7160F0C5F309.quest_desc: [
 		"Made from a variety of items, leave to decompose for long enough to create rich soil!"
 		""
@@ -221,8 +236,13 @@
 	]
 	quest.0BC6D920938608A4.quest_subtitle: "Learn about Cooling and Heating"
 	quest.0BC6D920938608A4.title: "Icy Hot"
-	quest.0C1F6E9AE82A9DEC.quest_subtitle: "Slay an Abnormal Goat"
-	quest.0C1F6E9AE82A9DEC.title: "Mountainous Mutant"
+	quest.0C1F6E9AE82A9DEC.quest_desc: ["Discovered by excavating Suspicious Sand in Desert Ruins, the Crusher is a heavily armored defensive beast featuring a spiked shell that actively reflects projectile damage back at its attackers."]
+	quest.0C1F6E9AE82A9DEC.quest_subtitle: "Find the Crusher"
+	quest.0C1F6E9AE82A9DEC.title: "Crushing Appearance"
+	quest.0C858662EB3ECA2C.quest_subtitle: "Slay Enderglop"
+	quest.0C858662EB3ECA2C.title: "Opposites Fuse"
+	quest.0D061E14B1288BCF.quest_subtitle: "Find the Basalt Deltas"
+	quest.0D061E14B1288BCF.title: "Rocking your world"
 	quest.0D17E828C723C2DF.quest_desc: [
 		"This is your entrance to all electronic applications! You can't play with electricity before you even have any!"
 		"before we build, a few key things need to be identified"
@@ -264,7 +284,7 @@
 		"Printers are the blaze enchanter's cousin-"
 		"They allow the player to copy enchants onto books and for ink to be used to copy written books, name tags, etc."
 		""
-		"{image:patchouli:item/book_blue width:25 height:25 align:center}"
+		"{image:minecraft:item/book width:25 height:25 align:center click_action:none:}"
 		""
 		"&oPonder for more details&r"
 	]
@@ -287,10 +307,14 @@
 	quest.0E547E837C69FA2C.quest_desc: ["Use JEI and backtrack the recipe to create an infinitely regenerating source of Copper!"]
 	quest.0E547E837C69FA2C.quest_subtitle: "Obtain and build a copper farm"
 	quest.0E547E837C69FA2C.title: "More of an aquaintence"
+	quest.0E9226949C5A3C10.quest_subtitle: "Obtain necromium equipment"
+	quest.0E9226949C5A3C10.title: "Necromorph"
 	quest.0F35B0CE634CAF39.quest_subtitle: "Obtain a Bundle"
 	quest.0F35B0CE634CAF39.title: "Batches o' Bundles"
 	quest.0F6E9698A7EFDC08.quest_subtitle: "Explore the Expansion to Frozen Biomes!"
 	quest.0F6E9698A7EFDC08.title: "Freeze and Frost"
+	quest.0F703FCBE91EE51E.quest_subtitle: "Find the Sparklers"
+	quest.0F703FCBE91EE51E.title: "Sparkle Station"
 	quest.10352F8A47226321.quest_desc: [
 		"Mechanical crafters can be used for two things, automated crafting (vanilla redstone crafter isn't in this verson) AND larger than 3x3 grid crafting. This is used for a lot of advanced tools and other automation factories."
 		""
@@ -300,16 +324,21 @@
 	]
 	quest.10352F8A47226321.quest_subtitle: "Obtain and use a 5x5 array of mechanical crafters"
 	quest.10352F8A47226321.title: "We've automated mining AND crafting now."
+	quest.1044341C6E064FFB.quest_subtitle: "Home."
 	quest.10A3764D948B7004.quest_desc: ["This is going to require a large scale XP farm- and this will be tough, but worth it."]
 	quest.10A3764D948B7004.quest_subtitle: "Obtain 5 Buckets of Liquid Experience"
 	quest.10A3764D948B7004.title: "Xp for the win!"
+	quest.11F4F21FA47C0725.quest_desc: ["Quirky iron adjacent metal found only in mountains, great for subsitution in all forms."]
+	quest.11F4F21FA47C0725.quest_subtitle: "Obtain Zinc"
 	quest.120F3A6976D6A87C.quest_subtitle: "Slay the Whirlwind"
 	quest.120F3A6976D6A87C.title: "Spin me right round'"
 	quest.1254AEF3D79FAEE6.quest_subtitle: "Explore the Lost Caves Biome"
 	quest.1254AEF3D79FAEE6.title: "Lost Caverns"
-	quest.12FF48BA0F39B78C.quest_desc: ["Found in most vanilla minecraft jungle biomes"]
-	quest.12FF48BA0F39B78C.quest_subtitle: "Slay the Witch Doctor"
-	quest.12FF48BA0F39B78C.title: "Which Doctor?"
+	quest.12FF48BA0F39B78C.quest_desc: ["Unearthed from Suspicious Ice in frozen Ice Spike Castles, the Walker is a massive, passive mount tamed with Spore Blossoms that can carry four players, hold 49 slots of items, and step directly over fences and walls."]
+	quest.12FF48BA0F39B78C.quest_subtitle: "Find a Walker"
+	quest.12FF48BA0F39B78C.title: "Walkin Downtown"
+	quest.14737219DC58EF57.quest_subtitle: "Find the Attracta Expanse"
+	quest.14737219DC58EF57.title: "Otherworldly Magnetism"
 	quest.148422B11AB746BE.quest_desc: [
 		"Works almost identically to the gas thruster- only that it requires electrical energy to run, and is more effective at lower air pressures!"
 		"Use a device connector to supply power."
@@ -320,6 +349,9 @@
 	quest.148422B11AB746BE.title: "High Energy Thrust!"
 	quest.15033BD7C44E0845.quest_subtitle: "Find All Badlands Biomes"
 	quest.15033BD7C44E0845.title: "Badlands Bounce"
+	quest.1605CD72190BBC1E.quest_desc: ["Discovered by brushing Suspicious Sand within Warm Ocean Ruins, the Sniffer is a massive, passive ancient mob that wanders the Overworld. While it cannot be tamed or ridden, this six-legged creature frequently sniffs the ground and digs up rare ancient seeds—like Torchflower Seeds and Pitcher Pods, among new seeds—which are completely unobtainable any other way."]
+	quest.1605CD72190BBC1E.quest_subtitle: "Find a Sniffer"
+	quest.1605CD72190BBC1E.title: "Sniffin Around"
 	quest.163CB8EC780CD0E3.quest_desc: [
 		"First task! You can grab and hold physics bodies by holding left and right click simultaneously. Moreover, you can create physics bodies by grabbing the ground whilst crouching!"
 		""
@@ -329,6 +361,11 @@
 	quest.166EE51E3827DB02.quest_desc: ["Precision Mechanisms are used in the most expensive machines- Don't drop it!"]
 	quest.166EE51E3827DB02.quest_subtitle: "Obtain a Precision Mechanism"
 	quest.166EE51E3827DB02.title: "Precise Manufacturing"
+	quest.168CECA6193CBBD9.quest_desc: [
+		"Can only be found as loot in various structures and as an occasional drop from mimes."
+		"Can be used to repair any item in an anvil as if it was the item's repair material."
+	]
+	quest.168CECA6193CBBD9.quest_subtitle: "Obtain Zirconia"
 	quest.16C8478A801B3428.quest_subtitle: "Observe All Golem Types"
 	quest.16C8478A801B3428.title: "Golems Galore"
 	quest.16FE4BD4E9A45B66.quest_desc: [
@@ -338,7 +375,7 @@
 	]
 	quest.16FE4BD4E9A45B66.quest_subtitle: "Obtain 2 Docking Connectors"
 	quest.16FE4BD4E9A45B66.title: "Fuel Delivery!"
-	quest.17FDA4CA364DD0CD.quest_subtitle: "Slay Piglins"
+	quest.17FDA4CA364DD0CD.quest_subtitle: "Find and Explore the Bastion"
 	quest.17FDA4CA364DD0CD.title: "Piglin Punchout"
 	quest.187E8AD73B7B50F3.quest_desc: ["Create: Central Kitchen is a lightweight create mod addon which allows us to automate recipes form farmers delight using blaze cookers, deployer cutting boards, etc!"]
 	quest.187E8AD73B7B50F3.quest_subtitle: "Learn about C: Central Kitchen!"
@@ -352,18 +389,20 @@
 	]
 	quest.18C6A30AD9C1E91B.quest_subtitle: "Obtain an andesite tunnel"
 	quest.18C6A30AD9C1E91B.title: "Tunnel time"
-	quest.18CF40B602FB3C45.quest_desc: ["Spawns in most vanilla minecraft swamp biomes"]
-	quest.18CF40B602FB3C45.quest_subtitle: "Slay the Vile Gator"
-	quest.18CF40B602FB3C45.title: "Swamp Gatur'"
+	quest.18CF40B602FB3C45.quest_desc: ["Hatched from eggs excavated from Primal Log structures, the Snatcher is a small, fast, neutral creature that uses its hooked claws to climb surfaces. In the wild, it will mischievously steal food or items from your inventory and chests, which are lost forever if you don't hit the mob in time to retrieve them. However, if you let it steal its favorite food—\"Nasty Stew\"—from your inventory, it becomes tamed. Once tamed, you can equip the Snatcher with a barrel for extra storage, carry it on your shoulder, and even throw it near chests to have it fetch loot and bring it back to you"]
+	quest.18CF40B602FB3C45.quest_subtitle: "Find a Snatcher"
+	quest.18CF40B602FB3C45.title: "Swiper no Swiping!"
 	quest.18D8AA2635984BAA.quest_desc: ["Despite what the reward says, it adds a TANK slot. Not a ring slot!"]
 	quest.18D8AA2635984BAA.quest_subtitle: "Obtain an Andesite jetpack or exoskeleton."
 	quest.18D8AA2635984BAA.title: "Stone Age Iron-Man"
-	quest.193CAC8F00703F5B.quest_desc: ["Found in most vanilla minecraft warm ocean biomes"]
-	quest.193CAC8F00703F5B.quest_subtitle: "Slay the Sea Viper"
+	quest.193CAC8F00703F5B.quest_desc: ["A peaceful aquatic mammal, the Surfer acts as a fast underwater mount that can replenish your oxygen up to three times. Feeding it a specific coral type as a baby will permanently change its adult coloration."]
+	quest.193CAC8F00703F5B.quest_subtitle: "Find a Surfer"
 	quest.193CAC8F00703F5B.title: "Sea King"
-	quest.1994C9F5076C91BB.quest_desc: ["Found in most vanilla minecraft desert biomes"]
-	quest.1994C9F5076C91BB.quest_subtitle: "Slay a Royal Mummy"
-	quest.1994C9F5076C91BB.title: "Royal Assassin"
+	quest.1994C9F5076C91BB.quest_desc: ["Hatched from eggs excavated from Charger structures like the Ruined Castle found in Plains biomes (as well as general Dig Sites), the Charger is a neutral beast and natural enemy of Raiders. It is trickier to tame than a horse but highly rewarding, allowing riders to perform devastating, player-controlled headbutt and straight-line charge attacks."]
+	quest.1994C9F5076C91BB.quest_subtitle: "Find the Charger"
+	quest.1994C9F5076C91BB.title: "Chargin n' Targin"
+	quest.19B6E320D6B206D3.quest_subtitle: "Obtain a piece of livingstone equipment"
+	quest.19B6E320D6B206D3.title: "Petrified Produce"
 	quest.1A1AA4AA936ACD9F.quest_desc: [
 		"Millstones are like THE windmill setup, perfect for an atomospheric build or something inbetween. Used to automate recipes that involve grinding, like sand from gravel, or dyes from flowers."
 		""
@@ -376,6 +415,9 @@
 	]
 	quest.1A1AA4AA936ACD9F.quest_subtitle: "Obtain a millstone and grind an object"
 	quest.1A1AA4AA936ACD9F.title: "Grinding it out"
+	quest.1A6079CB7DD0F752.quest_desc: ["Palladium is found in the deepest extents of the world, only attatched to basalt stalagmites (and tites!) Found naturally, it's a rather soft metal, capable of being mined with the players fist. When molded into an ingot- it becomes nigh unbreakable. Palladium is used in spelunking equipment and mining accessories."]
+	quest.1A6079CB7DD0F752.quest_subtitle: "Obtain Palladium"
+	quest.1A6079CB7DD0F752.title: "Miner's Dream"
 	quest.1A8688EE1280FDF8.quest_desc: [
 		"The swivel bearing allows for the rotation of devices through contraptions! It will transmit rotation through it's own bearing, only if it's secondary pole it powered."
 		""
@@ -393,6 +435,9 @@
 	quest.1AEB88C5EA168751.title: "Belts and pulleys and other doodads"
 	quest.1B1C7D4D69C72C1F.quest_subtitle: "Explore New Mountainous Biomes!"
 	quest.1B1C7D4D69C72C1F.title: "Mountain March"
+	quest.1B77E18C81310510.quest_desc: ["Grants the player a sembelance of fire resistance, whilst increasing defense in most areas."]
+	quest.1B77E18C81310510.quest_subtitle: "Reinforce your netherite equipment"
+	quest.1B77E18C81310510.title: "Better, Faster, Stronger"
 	quest.1B86AC6168CC2190.quest_desc: [
 		"Hose pulleys allow the player to adjust a hose exactly like a rope pulley- only it can suck fluids out of it's end!"
 		""
@@ -481,6 +526,8 @@
 	quest.212ADDBB4183196F.title: "Temperate Tanks"
 	quest.215759EB9E826120.quest_subtitle: "Find Most Mystical Biomes"
 	quest.215759EB9E826120.title: "Lands of Mystique"
+	quest.21C65C8BA684381D.quest_subtitle: "Find the Lichen Caves"
+	quest.21C65C8BA684381D.title: "Fungus Amungus"
 	quest.220060BA4641EA48.quest_desc: [
 		"Veridium resource vents are often found in j&nungle and overgrown biomes&r."
 		""
@@ -528,6 +575,8 @@
 	]
 	quest.23BBCC5B027637A5.quest_subtitle: "Obtain a Rope Pulley"
 	quest.23BBCC5B027637A5.title: "Keep Pulling!"
+	quest.2404175AEA2643F5.quest_desc: [""]
+	quest.2404175AEA2643F5.quest_subtitle: "Obtain Dead Seeds"
 	quest.245B6AB017E78631.quest_desc: [
 		"OIL!"
 		"Oil and gas is the next step in our evolution of power generation! Finding crude oil is simple, just use the oil chunk finder and run about until you find a chunk with levels of oil you like- and establish a pipeline ALL the way to bedrock. Place a pumpjack hole right on top to finish this quest!"
@@ -551,6 +600,8 @@
 		"Also can be placed into a curios slot and controlled after configuring the keybind."
 	]
 	quest.2497508E1A6C7940.quest_subtitle: "Obtain a Linked Typewriter"
+	quest.25E46B78E41F271D.quest_subtitle: "Maybe you're not looking in the right direction."
+	quest.25E46B78E41F271D.title: "The Fountain"
 	quest.25E79D6B39398B15.quest_desc: [
 		"Fans are great for two things: Early game transportation, and bulk processing."
 		"Fans will push entities around, this inclues droped items and players- allowing for early game item movement (at the expense of efficency)"
@@ -601,6 +652,7 @@
 	]
 	quest.26C55C60F8BE566B.quest_subtitle: "Obtain Helvar's Skull"
 	quest.26C55C60F8BE566B.title: "Nether Knight"
+	quest.26D10A3C9CFBB5FB.quest_subtitle: "An Exchange."
 	quest.2742141A7D48F4D9.quest_desc: [
 		"Crimisite resource vents are often found in large- &nvolcanic biomes&r (excluding the nether)."
 		""
@@ -614,6 +666,8 @@
 	]
 	quest.2742141A7D48F4D9.quest_subtitle: "Find a Crimsite Ore Vent"
 	quest.2742141A7D48F4D9.title: "Crimsion Crack"
+	quest.2751D0FC14325913.quest_desc: ["New metals have sprung forth from every crevice of the world! Over the following quests, you may find how to use them on your journey."]
+	quest.2751D0FC14325913.quest_subtitle: "Learn about the new metals found in the overworld"
 	quest.277667270A77ADA3.quest_desc: ["&oPonder for more details&r"]
 	quest.277667270A77ADA3.quest_subtitle: "Obtain a smart fluid pipe"
 	quest.277667270A77ADA3.title: "Filtered Fluids!"
@@ -666,6 +720,8 @@
 	]
 	quest.2A2422B412C33B4B.quest_subtitle: "Obtain an Optical Sensor"
 	quest.2A2422B412C33B4B.title: "Redstone Vision"
+	quest.2A9EFBAAF2912ECC.quest_subtitle: "Plant an Opal Tree"
+	quest.2A9EFBAAF2912ECC.title: "Crystalline Growths"
 	quest.2B1D413EB0838AD5.quest_desc: ["Olivia wanted to name this one."]
 	quest.2B1D413EB0838AD5.quest_subtitle: "Build a fully maxxed out windmill."
 	quest.2B1D413EB0838AD5.title: "That's a big boy..."
@@ -684,8 +740,8 @@
 	]
 	quest.2D332E7D447F6CCD.quest_subtitle: "Build yourself an automatic crop farm!"
 	quest.2D332E7D447F6CCD.title: "Harvestin' time"
-	quest.2D5F3C00556AE675.quest_subtitle: "Explore the Improved Fortress"
-	quest.2D5F3C00556AE675.title: "Fortress Fright"
+	quest.2D5F3C00556AE675.quest_subtitle: "Enslave the Blazes For Your Machinations."
+	quest.2D5F3C00556AE675.title: "Blaze Subjugation"
 	quest.2DB2B539369296BC.quest_subtitle: "Slay Magic Wielding Monsters"
 	quest.2DB2B539369296BC.title: "Witch Hunt"
 	quest.2DC4A8318BDA518F.quest_desc: ["Identical defense stats as you would obtain with zinc armor, however this should last you a little bit longer."]
@@ -714,13 +770,26 @@
 	]
 	quest.2E43B24FF5CBD334.quest_subtitle: "Obtain an Altimeter"
 	quest.2E43B24FF5CBD334.title: "Sky High"
+	quest.2ECA01E4EB6D7E40.quest_subtitle: "Find a Nether Fortress"
+	quest.2ECA01E4EB6D7E40.title: "Impermiable Solitude"
 	quest.2ECDDFA71297E6D9.quest_subtitle: "Find and Slay the Iceologer"
 	quest.2ECDDFA71297E6D9.title: "Icy Escapade"
-	quest.2EF50EEA93DE9F4C.quest_subtitle: "Slay the Furnace"
-	quest.2EF50EEA93DE9F4C.title: "A Boiling Battle"
+	quest.2EF50EEA93DE9F4C.quest_desc: ["Excavated from Suspicious Ice in high-altitude Frozen Nests, the Soarer is a rare mount tamed with Raw Toxlacanth that offers true flight capabilities utilizing a stamina system similar to horse jumping mechanics."]
+	quest.2EF50EEA93DE9F4C.quest_subtitle: "Find the Soarer"
+	quest.2EF50EEA93DE9F4C.title: "New Heights"
+	quest.315165601771A757.quest_desc: [
+		"An extremely interesting metal, incredibly ductile, immense stress capacity, and a crystalline structure which abnormally lacks any grain boundaries. Capable of unreasonable power, what might you use this mythical mystical metal for?"
+		""
+		"Found in curios suspended astroids at the end (of what?)"
+	]
+	quest.315165601771A757.quest_subtitle: "Obtain Aethersteel"
+	quest.315165601771A757.title: "Aethersteel Chunk"
 	quest.31BE1706FD175721.quest_desc: ["&oPonder for more details&r"]
 	quest.31BE1706FD175721.quest_subtitle: "Superheat a basin heater"
 	quest.31BE1706FD175721.title: "Electrical Supremacy"
+	quest.31D12B665F034FE6.quest_desc: ["Applies various effects to the player upon equip."]
+	quest.31D12B665F034FE6.quest_subtitle: "Obtain a bronze totem"
+	quest.31D12B665F034FE6.title: "Bronze Buddy"
 	quest.3299C86A694A4A18.quest_desc: [
 		"Rotational Contraption Motion"
 		""
@@ -743,14 +812,20 @@
 	]
 	quest.32B1BEEF5BC43652.quest_subtitle: "Obtain Resin"
 	quest.32B1BEEF5BC43652.title: "This Resinates With Me."
+	quest.32EEADE8DAA77A00.quest_subtitle: "Find the Crystal Canyons"
+	quest.32EEADE8DAA77A00.title: "Crystalline Camping"
 	quest.33F0FBD579158868.quest_subtitle: "Establish an Oilfield"
 	quest.33F0FBD579158868.title: "Louisiana Coast"
+	quest.3415820A6733C8A8.quest_subtitle: "Obtain a splurter or scatterer"
+	quest.3415820A6733C8A8.title: "Upgraded Droppers"
 	quest.343CC7B39EB201E7.quest_desc: [
 		"Mechanical tracks are like wheels but long and stable!"
 		"if stable control is required- these are key, use the suspension key to move the tread location!"
 	]
 	quest.343CC7B39EB201E7.quest_subtitle: "Obtain Track and suspenion tread"
 	quest.343CC7B39EB201E7.title: "Tank Time"
+	quest.348CD4413D4B4EB1.quest_subtitle: "Kill Endermen"
+	quest.348CD4413D4B4EB1.title: "Dangers From the Abyss"
 	quest.34D1B3BA8A6D63D8.quest_subtitle: "Obtain a netherite jetpack"
 	quest.34D1B3BA8A6D63D8.title: "Penultimate Air Control"
 	quest.34E3A2535B478C2D.quest_desc: [
@@ -789,6 +864,8 @@
 	quest.352EFA139CCA3AD9.title: "Pressin' Time"
 	quest.35C122722CC39C0F.quest_subtitle: "Fight and Slay the Immortal"
 	quest.35C122722CC39C0F.title: "Electric Boogaloo"
+	quest.3625412A51845B39.quest_desc: ["Netherite scrap is found in the deepest pits of the nether, only a fraction of it's old power."]
+	quest.3625412A51845B39.quest_subtitle: "Obtain Netherite Scrap"
 	quest.3664DE2FB3E909DB.quest_desc: [
 		"Linear Contraption Motion"
 		""
@@ -832,6 +909,8 @@
 	]
 	quest.3762910EF45B9A4C.quest_subtitle: "Obtain a Switch"
 	quest.3762910EF45B9A4C.title: "Switchin"
+	quest.37B19175854FE42B.quest_desc: ["Redstone is commonly found deep underground. Vital for logic and machining."]
+	quest.37B19175854FE42B.quest_subtitle: "Obtain Redstone"
 	quest.37B93FC2CAE520E5.quest_desc: [
 		"Potato cannons allow the player to shoot food items at enemies! Load in different foods for different effects!"
 		""
@@ -863,6 +942,8 @@
 	quest.385F00786255DB0A.quest_subtitle: "Learn to rejoin physics bodies"
 	quest.38ABA2963DF36D76.quest_desc: ["There is a variety of items capable of transporting items, these are nessecary for the creating of automatic factories! You'll learn how to use these items in the next few quests, for now, here's a reward for your efforts!"]
 	quest.38ABA2963DF36D76.quest_subtitle: "Learn about item transport"
+	quest.39027565B6AD9BD8.quest_subtitle: "Collect a Bucket of Gelatinous Void"
+	quest.39027565B6AD9BD8.title: "Nothing in the Bucket"
 	quest.392EDF481C1ED630.quest_desc: [
 		"Freezing Catalysts are dropped by Skor the yeti, find his summon in frozen biomes!"
 		""
@@ -952,8 +1033,6 @@
 	]
 	quest.3AD4628A9925036E.quest_subtitle: "Obtain a Copper Backtank"
 	quest.3AD4628A9925036E.title: "Pessurized Chaos"
-	quest.3B6192039188E61F.quest_subtitle: "Slay the Luminos Moth"
-	quest.3B6192039188E61F.title: "Don't Eat my Shirt"
 	quest.3B628372040FAA06.quest_desc: [
 		"This is your next- slightly better- renewable fuel source."
 		""
@@ -964,10 +1043,14 @@
 	quest.3B628372040FAA06.title: "MMMmmmhh, Ethanol"
 	quest.3B7765BAA6D8314B.quest_subtitle: "Observe Passive Magical Creatures"
 	quest.3B7765BAA6D8314B.title: "Critters and Goblins"
+	quest.3B7EA09BF68AD1C5.quest_subtitle: "Find the Salt Temple and Slay the Berserker"
+	quest.3B7EA09BF68AD1C5.title: "Someone's Salty"
 	quest.3B9EEA6930887DE0.quest_subtitle: "Explore the New Oceans and Beaches!"
 	quest.3B9EEA6930887DE0.title: "Beaches and Boardwalks"
-	quest.3C5651148CE181FB.quest_desc: ["Spawns in minecraft dark oak forest biomes"]
-	quest.3C5651148CE181FB.quest_subtitle: "Slay the Bone Stalker"
+	quest.3C1BCA0839219DB4.quest_subtitle: "Find all End Biomes"
+	quest.3C1BCA0839219DB4.title: "Otherworld"
+	quest.3C5651148CE181FB.quest_desc: ["Found within the Suspicious Gravel of jungle Abandoned Villages, the Glider is a passive prehistoric bird tamed with Pufferfish that dances to music discs and occasionally drops feathers used to craft a Hang Glider."]
+	quest.3C5651148CE181FB.quest_subtitle: "Find the Glider"
 	quest.3C5651148CE181FB.title: "A Bone to Pick...."
 	quest.3D46765FB3300D78.quest_desc: [
 		"The pulse extender is like an easily configurable repeater, with a much clearer interface for extending pulses."
@@ -989,16 +1072,27 @@
 	]
 	quest.3D614BC5DFC7EF89.quest_subtitle: "Obtain a gearshift and clutch"
 	quest.3D614BC5DFC7EF89.title: "The Starts of a Factory..."
+	quest.3DA92D51207695EB.quest_desc: ["Platinum is rarely found in the alluvial sands of sandy biomes, very useful for precise applications and niche technologies."]
+	quest.3DA92D51207695EB.quest_subtitle: "Obtain Platinum"
 	quest.3E2B142744D88060.quest_subtitle: "Slay the Wildfire"
-	quest.3E2B142744D88060.title: "Out of Control"
+	quest.3E2B142744D88060.title: "Burning Passion"
+	quest.3EA58D8CEF283F35.quest_desc: ["Grants wonderful various effects."]
+	quest.3EA58D8CEF283F35.quest_subtitle: "Obtain any piece of aethersteel equipment"
+	quest.3EA58D8CEF283F35.title: "Aether Adventure"
+	quest.3ED0F04F7DFF6511.quest_subtitle: "Find the Black Ice"
+	quest.3ED0F04F7DFF6511.title: "Something's wrong"
 	quest.3F0C1B8AFD6E27FE.quest_desc: [
 		"Copycat blocks will mimic the texture of whatever block they're right clicked with!"
 		"Play around!"
 	]
 	quest.3F0C1B8AFD6E27FE.quest_subtitle: "Obtain a few copycat blocks"
 	quest.3F0C1B8AFD6E27FE.title: "CopyCats+!"
-	quest.3FC59B54E32D5738.quest_desc: ["Copper is kind of in the middle of iron and leather. Pretty decent for some starter survival, yet very weak."]
-	quest.3FC59B54E32D5738.quest_subtitle: "Obtain a set of copper armor"
+	quest.3FC59B54E32D5738.quest_desc: [
+		"Copper is kind of in the middle of iron and leather. Pretty decent for some starter survival, yet very malleable, which is why it is layered in blocks, making it quite the heavy material."
+		""
+		"Leaves the player very susceptible to lightning."
+	]
+	quest.3FC59B54E32D5738.quest_subtitle: "Obtain any piece of copper equipment"
 	quest.3FC59B54E32D5738.title: "Suit u- no, nvm, Adequately."
 	quest.3FC6185DF98F8922.quest_subtitle: "Obtain Apple Cider"
 	quest.4039ADC61BBDCFEC.quest_desc: [
@@ -1018,6 +1112,10 @@
 	]
 	quest.4127E5BDDD08A4A6.quest_subtitle: "Information"
 	quest.4127E5BDDD08A4A6.title: "Contraption Mechanisms!"
+	quest.424D3556DAB298ED.quest_subtitle: "Find the Enadrake's Hiding Spot"
+	quest.424D3556DAB298ED.title: "Little Peoples"
+	quest.427B0F87A355A225.quest_subtitle: "Obtain a Winch or Dimmer"
+	quest.427B0F87A355A225.title: "Tin Actuation"
 	quest.429FCA437D09CB3B.quest_subtitle: "Find all Mineshaft Structures, and win in a game of hide and seek!"
 	quest.429FCA437D09CB3B.title: "Mineshaft Manhunt"
 	quest.436D61247B71227C.quest_desc: [
@@ -1032,6 +1130,8 @@
 	quest.44340FB3C127FE7B.title: "Warlock Complex"
 	quest.44C66918643746DA.quest_subtitle: "Find and Conquer a Desert Temple"
 	quest.44C66918643746DA.title: "Templar Knight"
+	quest.44CFC17ED4AAFA1F.quest_desc: ["A versatile metal found underground in all areas"]
+	quest.44CFC17ED4AAFA1F.quest_subtitle: "Obtain Iron"
 	quest.463D34C5DA708331.quest_desc: [
 		"Pipes allow for the transportation of fluids! Take fluids from pipes- tanks- or other sources and pump them around your factory!"
 		""
@@ -1064,6 +1164,8 @@
 	]
 	quest.46C358F2E8735B71.quest_subtitle: "Obtain a sequenced gearshift"
 	quest.46C358F2E8735B71.title: "BeepBoop"
+	quest.46C661B7069A0324.quest_subtitle: "Find a Bondfire"
+	quest.46C661B7069A0324.title: "Light One's Way"
 	quest.46E1008003B78216.quest_desc: ["Conviency at it's maximum. Allows areas of blocks to be automatically glued together into one volume. "]
 	quest.46E1008003B78216.quest_subtitle: "Obtain Auto Glue"
 	quest.46E1008003B78216.title: "Automatic Assistance"
@@ -1098,8 +1200,12 @@
 	quest.485E3FA3D7C52F5E.quest_desc: ["The last of your new abilities, pressing [z] (default keybind) allows the player to perform a dodge roll, providing brief invulerability to all mob based damage!"]
 	quest.485E3FA3D7C52F5E.quest_subtitle: "Perform a dodge roll"
 	quest.485E3FA3D7C52F5E.title: "Rollin' and Trollin'"
+	quest.4874A48B115623CF.quest_subtitle: "Enjoy Company."
 	quest.48B31C2F1809CC4C.quest_subtitle: "Explore all kinds of new Mountain Biomes!"
 	quest.48B31C2F1809CC4C.title: "Mountain Excursion"
+	quest.48E2A34BFC4E4902.quest_desc: [""]
+	quest.48E2A34BFC4E4902.quest_subtitle: "Find the Pink Salt Caves"
+	quest.48E2A34BFC4E4902.title: "Spice Trade"
 	quest.49CFD3B6087DF6CD.quest_desc: [
 		"Certain fuels allow for &nSUPERHEATING&r"
 		""
@@ -1149,8 +1255,6 @@
 	]
 	quest.4B247C1DF2EB1698.quest_subtitle: "Obtain a controller and redstone link"
 	quest.4B247C1DF2EB1698.title: "Wireless Transmission"
-	quest.4B80D7EA0868887A.quest_subtitle: "Obtain a block picker"
-	quest.4B80D7EA0868887A.title: "Gravitron but dookie"
 	quest.4B913FAE365C998D.quest_desc: [
 		"Gantries also allow for linear motion, however, they are also able to propagate rotational force to it's end. That is, it's possible to make contraptions easily mobile!"
 		""
@@ -1261,7 +1365,7 @@
 	quest.512BDDBB8B5853D2.quest_subtitle: "Build a minecart contraption"
 	quest.512BDDBB8B5853D2.title: "Minecart Madness!"
 	quest.516C3FF8A6323339.quest_subtitle: "Obtain a brass jetpack or exoskeleton"
-	quest.516C3FF8A6323339.title: "Are You Some Kind of Master Builder"
+	quest.516C3FF8A6323339.title: "Are You Some Kind of Master Builder?"
 	quest.5180F77FE1C64FD1.quest_desc: ["Use your press with some additional materials to create a wrench! One of the most helpful building tools in create. Hover and hold the associated button to understand how it works!"]
 	quest.5180F77FE1C64FD1.quest_subtitle: "Obtain a wrench"
 	quest.5180F77FE1C64FD1.title: "Rachets n' Wrenches"
@@ -1282,6 +1386,8 @@
 	quest.5216D6A40D896204.title: "Forging Time!"
 	quest.522385C53A522186.quest_subtitle: "Explore the Icy Caves Biome"
 	quest.522385C53A522186.title: "Cool, Cool, Cave"
+	quest.5279502548DBF99E.quest_desc: ["    Silver ore partially replaces gold in generation, with the ratio of gold to silver depending on the biome. In most biomes, gold is more common than silver, but in cold biomes silver is more common than gold.  "]
+	quest.5279502548DBF99E.quest_subtitle: "Obtain Silver"
 	quest.53697433481DB9FA.quest_desc: [
 		"Torsion springs allow for precise rotation of structures attatched to their ends! This is most helpful when it comes to directing angles on wings and custom blades."
 		""
@@ -1291,6 +1397,7 @@
 	]
 	quest.53697433481DB9FA.quest_subtitle: "Obtain a flap bearing"
 	quest.53697433481DB9FA.title: "Angled Flight!"
+	quest.536DA406C9F157A4.quest_subtitle: "Is this It?"
 	quest.53850B8C8717DEB5.quest_desc: [
 		"Now we industrialize enchantment!"
 		""
@@ -1302,9 +1409,16 @@
 		"&oPonder for more details&r"
 	]
 	quest.53850B8C8717DEB5.quest_subtitle: "Obtain and use a disenchanter"
+	quest.53DC12393AD4D1A8.quest_desc: ["A crafting material used for crafting sanguine armor and blocks and brewing potions of the revenant."]
+	quest.53DC12393AD4D1A8.quest_subtitle: "Obtain Living Flesh"
 	quest.5418E40E1D9142D9.quest_subtitle: "Slay Crabs and Obtain Claws"
 	quest.5418E40E1D9142D9.title: "Sea Bugs"
 	quest.547C90D6D29CA7C4.quest_subtitle: "Obtain Melon Juice"
+	quest.556F6B6199952F1B.quest_desc: [
+		"A gemstone with a theme of making more unstable and cursed versions of existing blocks and items."
+		"Drops from spinel ore."
+	]
+	quest.556F6B6199952F1B.quest_subtitle: "Obtain Spinel"
 	quest.55FEDAC2339F8665.quest_subtitle: "Slay Desert Monsters"
 	quest.55FEDAC2339F8665.title: "Desert Destruction"
 	quest.561384377C9CCD90.quest_desc: [
@@ -1336,12 +1450,19 @@
 	quest.56BE0803EC5B77EA.quest_subtitle: "Obtain 5 symmetric sails, and non-symmetric sails"
 	quest.56BE0803EC5B77EA.title: "Conquerer of the skies"
 	quest.56D41F7BAEAB38CA.quest_desc: [""]
-	quest.56D41F7BAEAB38CA.quest_subtitle: "Complete Every Single Biome, Structure, and Monster Killing Quest Quest"
+	quest.56D41F7BAEAB38CA.quest_subtitle: "Complete Every Single Biome, Structure, and Monster Killing Quest"
 	quest.56D41F7BAEAB38CA.title: "Gotta Find it All"
-	quest.56F81E33B2E82001.quest_desc: ["Platinum spawns up near &osky islands&r. They will generate in &nfloating pylons&r rarely across the biome (~Y: 215)"]
+	quest.56F702FE6894510A.quest_desc: [
+		"Deposits of tin ore generate between y-levels -16 and 48 within 512 blocks of tin monoliths. They are shaped like elongated triangles (called arrows) and their thin end always points towards the nearest monolith."
+		"Monoliths only begin generating 1024 blocks from the world origin, meaning that players have to venture a bit from spawn to begin finding the ore."
+		"Tin ore is most common at y=16."
+		"Cylindrite and cassiterite tin ore generates in vast quantities within tin monoliths."
+	]
+	quest.56F702FE6894510A.quest_subtitle: "Obtain Tin"
+	quest.56F81E33B2E82001.quest_desc: ["Platinum spawns in dry and sandy enviroments, usually found in alluvial sands in the real world."]
 	quest.56F81E33B2E82001.quest_subtitle: "Obtain Platinum ingots"
 	quest.56F81E33B2E82001.title: "Rare *above* Earth Metals"
-	quest.57002DF4609D28EF.quest_desc: ["Locate command is currently broken for this biome, but it exists I promise."]
+	quest.57002DF4609D28EF.quest_desc: [""]
 	quest.57002DF4609D28EF.quest_subtitle: "Find the Sulphur Caves"
 	quest.57002DF4609D28EF.title: "Sulpheric Station"
 	quest.5724E10021271829.quest_subtitle: "Find Most Forest/Jungle Structures"
@@ -1349,6 +1470,8 @@
 	quest.5742483B1616BBD8.quest_desc: ["Use JEI and backtrack the recipe to create an infinitely regenerating source of Iron!"]
 	quest.5742483B1616BBD8.quest_subtitle: "Obtain and build an iron farm"
 	quest.5742483B1616BBD8.title: "Your new best friend"
+	quest.57A8256165088844.quest_subtitle: "Find the Soul Sand Valley"
+	quest.57A8256165088844.title: "Coalition of the Dead"
 	quest.57B5B9E5F4F12477.quest_desc: [
 		"Electrozappers allow the player to zap enemies with a shocking blast!"
 		""
@@ -1365,8 +1488,16 @@
 	]
 	quest.587621382FC2BC02.quest_subtitle: "Obtain an Electromagnet"
 	quest.587621382FC2BC02.title: "ElectroMagnetism!"
+	quest.598D172B76DC3251.quest_subtitle: "Observe the Void Lakes"
+	quest.598D172B76DC3251.title: "Lakes of Nothing"
 	quest.5A54B15B2C9035FD.quest_subtitle: "Obtain a Cake o' Enchanting"
-	quest.5AE88E715F56FB0B.quest_desc: ["Zinc is the next up from iron! Plate your iron armor and tools with zinc for better gear!"]
+	quest.5A74742B4E2B88F1.quest_desc: ["Tungsten, extremely well heat treated, can only be found underneath the lava lakes of the nether. Great for working with industrial experience processing and reinforcement"]
+	quest.5A74742B4E2B88F1.quest_subtitle: "Obtain Tungsten"
+	quest.5AE88E715F56FB0B.quest_desc: [
+		"Zinc is the next up from iron! Plate your iron armor and tools with zinc for better gear!"
+		""
+		"Helps with experience gain."
+	]
 	quest.5AE88E715F56FB0B.quest_subtitle: "Obtain Zinc Armor"
 	quest.5AE88E715F56FB0B.title: "Oh you wanna be fancy huh?"
 	quest.5AFED9B7610B738A.quest_desc: ["Use radial chassis to connect blocks without the use of superglue, ponder for more details"]
@@ -1392,9 +1523,9 @@
 	]
 	quest.5CE0A6BDCFFBD273.quest_subtitle: "Obtain and construct a mechanical belt."
 	quest.5CE0A6BDCFFBD273.title: "Track time baby!"
-	quest.5D3CE6D4875BFA98.quest_desc: ["Found in most vanilla minecraft savannah / badlands biomes"]
-	quest.5D3CE6D4875BFA98.quest_subtitle: "Slay the Pheonix"
-	quest.5D3CE6D4875BFA98.title: "Perilous Phight"
+	quest.5D3CE6D4875BFA98.quest_desc: ["Found hunting alongside Illager troops, the hostile pack-hunting Raider is terrified of Eaters but can be fed Pitcher Plants to permanently increase the loot dropped by the unfortunate mobs they hunt."]
+	quest.5D3CE6D4875BFA98.quest_subtitle: "Slay and Tame the Raider"
+	quest.5D3CE6D4875BFA98.title: "Pillager Upgrade"
 	quest.5D61F29F3CA93BA0.quest_desc: [
 		"Batteries can store electrical energy."
 		""
@@ -1453,8 +1584,13 @@
 	quest.5F3FF83034D0C445.quest_desc: ["Mesa/Desert biomes contain almost 4x the crude oil compared to typical biomes!"]
 	quest.5F3FF83034D0C445.quest_subtitle: "Find Oil in Mesa/Deserts"
 	quest.5F3FF83034D0C445.title: "Murica'"
+	quest.5F537C5AA7A44180.quest_subtitle: "Find a Chapel"
+	quest.5F537C5AA7A44180.title: "A Different Kind of Worship"
+	quest.5F828BCC27D7AC5A.quest_desc: ["A soft metal found underground in all areas. Great for fluids and electricity."]
+	quest.5F828BCC27D7AC5A.quest_subtitle: "Obtain Copper"
 	quest.5F86702E8A42034A.quest_subtitle: "Find Most Frosted Biomes"
 	quest.5F86702E8A42034A.title: "Ice Cold Plunge"
+	quest.5F9048BE9303A7E5.quest_subtitle: "Find a Tin Monolith"
 	quest.5FA8C5E41061B197.quest_desc: [
 		"Another new source of [su]! Allows you to place sails (and wool but only with glue) to generate passive [su] without any water. Not really great for generating fast moving or even high su contraptions, but great for asthetic builds"
 		""
@@ -1476,8 +1612,16 @@
 	]
 	quest.610A0E4AC3BC6723.quest_subtitle: "Obtain a Superheated Source"
 	quest.610A0E4AC3BC6723.title: "Superheating!"
+	quest.610C482AB3B68A39.quest_desc: ["Rivets allow for angled and directional placement of blocks without swivel bearings. They provide much stronger connections than that of a locked swivel, and give floating point accurate positioning control."]
+	quest.610C482AB3B68A39.quest_subtitle: "Obtain 3x Rivets"
+	quest.610C482AB3B68A39.title: "What Riveting Gameplay"
+	quest.6176EC037A54650B.quest_subtitle: "Find the Forgotten Ruins"
+	quest.6176EC037A54650B.title: "Who lives down here?"
+	quest.61F5B89672A4765D.quest_subtitle: "Do Something Kind."
 	quest.624B52D71B77631F.quest_subtitle: "Find All Nether Biomes"
 	quest.624B52D71B77631F.title: "Hot Tourist Destinations"
+	quest.62A3AC3EDF31B11A.quest_subtitle: "Explore the Nether Wastes"
+	quest.62A3AC3EDF31B11A.title: "A Waste of Time"
 	quest.62BF5B8B62806FD2.quest_desc: [
 		"Use what you've learned about railway contraptions and build an autonomous drilling machine!"
 		""
@@ -1508,14 +1652,16 @@
 	quest.63096257B0A6BDFB.quest_subtitle: "Obtain 250 Brass"
 	quest.63096257B0A6BDFB.title: "Brass Age"
 	quest.6361CB74A7AC9974.quest_desc: [
-		"[Note]: Rose quartz can be obtained either with rose quarts chunks or pieces"
+		"Rose quarts grants the player additonal range!"
 		""
-		"{image:biomesoplenty:item/rose_quartz_chunk width:25 height:25 align:center}"
-		""
-		"{image:hk_create_ores:item/rose_quartz_piece width:25 height:25 align:center}"
+		"{image:create:item/rose_quartz width:25 height:25 align:center click_action:none:}"
 	]
 	quest.6361CB74A7AC9974.quest_subtitle: "Obtain a set of rose quartz tools"
 	quest.6361CB74A7AC9974.title: "Oooh, Fancy!"
+	quest.640FA6695849F7EA.quest_subtitle: "Find all End Structures"
+	quest.640FA6695849F7EA.title: "Structures of a Lost People"
+	quest.6430E71BEFD0123A.quest_desc: ["Gold is rarely found underground in all areas, with a unique abundance in badlands/dry biomes."]
+	quest.6430E71BEFD0123A.quest_subtitle: "Obtain Gold"
 	quest.6466AE65A6A1DFB4.quest_desc: [
 		"Brass is the age of automata! One huge perk of brass is it's capacity for item filtration."
 		"Many brass items allow the player to filter for specific items-"
@@ -1565,6 +1711,8 @@
 	]
 	quest.66CCEF6B7BB9560A.quest_subtitle: "Obtain an Electric Fan"
 	quest.66CCEF6B7BB9560A.title: "Pssshhhh"
+	quest.66D2E29EC239C715.quest_subtitle: "Locate the Sanctum"
+	quest.66D2E29EC239C715.title: "Sanctum Sanctorus"
 	quest.67263924C521E8D5.quest_desc: [
 		"These allow for extra fast and strong milling."
 		"Want to crush down some rocks? This is what you need!"
@@ -1575,9 +1723,6 @@
 	]
 	quest.67263924C521E8D5.quest_subtitle: "Obtain and use two crushing wheels"
 	quest.67263924C521E8D5.title: "Whatever you do, don't stand inside these."
-	quest.67C86646E923B679.quest_desc: ["Beast pits increase summoning rate of mythical beasts within a 16 block radius!"]
-	quest.67C86646E923B679.quest_subtitle: "Obtain a Beast Pit"
-	quest.67C86646E923B679.title: "A Magical Machine"
 	quest.67DF68B9839F6621.quest_desc: [
 		"Funnels are like chutes but they work on belts, and horizontally!"
 		"Chutes &ocan&r technically work on belts, but it gets frustrating when you constantly have you build your factory taller and taller."
@@ -1635,6 +1780,8 @@
 	quest.69B932223B83A915.quest_desc: ["Vector thrusters allow for easily directionable thrust! Redstone frequency links come pre installed on the block to easily control direction."]
 	quest.69B932223B83A915.quest_subtitle: "Obtain a vector thruster"
 	quest.69B932223B83A915.title: "I'm vectoring it"
+	quest.69BBACBFEBC4EE4B.quest_subtitle: "Collect a bucket of Ectoplasm"
+	quest.6A6F21FF3689FED5.quest_subtitle: "Obtain a Petrified Seed"
 	quest.6A80FE3F83071DA0.quest_desc: ["&oPonder for more details&r"]
 	quest.6A80FE3F83071DA0.quest_subtitle: "Superheat a blaze burner"
 	quest.6A80FE3F83071DA0.title: "Seething"
@@ -1644,7 +1791,6 @@
 	]
 	quest.6B12A7A63FD3A585.quest_subtitle: "Find and Barter with a Piglin Traveller for a Traveller's Compass"
 	quest.6B12A7A63FD3A585.title: "Safe Travels!"
-	quest.6B644D9CB4D3535A.quest_subtitle: "Slay Every Single Boss/Miniboss"
 	quest.6BFCBF8D170B3370.quest_desc: [
 		"Had issues with factories overproducing? This is your fix!"
 		""
@@ -1690,6 +1836,8 @@
 	]
 	quest.6DCB2B0EC68ECCFF.quest_subtitle: "Challenge Sirok, The Sandworm."
 	quest.6DCB2B0EC68ECCFF.title: "Sandworm Showdown"
+	quest.6E369CEC949EE3BA.quest_subtitle: "Obtain Tin based redstone items"
+	quest.6E369CEC949EE3BA.title: "Tin-Tastic"
 	quest.6E64FEB176A3779C.quest_desc: [
 		"I think you know what a lightbulb does, the perfect asthetic choice for light!"
 		"Rated for 120V, will consume/requires 250 mA current. Somewhat self regulating, so you can connect these straight into a 120V source."
@@ -1698,16 +1846,11 @@
 	]
 	quest.6E64FEB176A3779C.quest_subtitle: "Obtain a Lightbulb"
 	quest.6E64FEB176A3779C.title: "Edison's Beauty"
-	quest.6F10FC61DE4B81D2.quest_desc: [
-		"Pneumatic cylinders are pretty much swivel bearings but for linear physics!"
-		""
-		"      The rotational speed inputted through the bottom increases the speed at which the cylinder actuates, capped at 2 [m/s]."
-		"      Power with redstone to actuate. Sadly, analog levels do not change the length the piston extends to yet."
-		""
-		"{image:minecraft:item/wind_charge width:25 height:25 align:center}"
-	]
-	quest.6F10FC61DE4B81D2.quest_subtitle: "Obtain a Pneumatic Cylinder"
-	quest.6F10FC61DE4B81D2.title: "Linear Physics"
+	quest.6EC54CB742FA9A17.quest_desc: ["Used for nothing other than showing off one's wealth, only found in structures."]
+	quest.6EC54CB742FA9A17.quest_subtitle: "Obtain Turquoise"
+	quest.6F1CFD54C24005CF.quest_desc: ["Coasters allow for simulated semi-prismatic joints applied over spline curves. In other words, they're physics based coasters, almost like a sable variant of create trains. Use them for some wacky contraptions idk"]
+	quest.6F1CFD54C24005CF.quest_subtitle: "Obtain 5x Coaster Track and 1 Coaster Cart"
+	quest.6F1CFD54C24005CF.title: "Planet Coaster"
 	quest.6FFA30F3DE3897B6.quest_desc: [
 		"Cogs are the base of transferring all rotational motion, and they allow for the gear ratio!"
 		"There are two cogs, small and large. "
@@ -1739,6 +1882,8 @@
 	]
 	quest.70E39577BC268CD7.quest_subtitle: "Obtain a Sequenced Gearshift"
 	quest.70E39577BC268CD7.title: "Sequenced Assembely"
+	quest.70FE5F67F321C322.quest_subtitle: "Slay the Perserved"
+	quest.70FE5F67F321C322.title: "Zombies but worse"
 	quest.7106345F8069554A.quest_desc: [
 		"Mechanical arms can more dynamically behave for item transport across tricky zones."
 		"Only can hold one stack of items at a time."
@@ -1773,6 +1918,8 @@
 	]
 	quest.7146D6928EB5420E.quest_subtitle: "Excite a Generator With Additional Current"
 	quest.7146D6928EB5420E.title: "Generator Excitation"
+	quest.7162D232B5767478.quest_subtitle: "Mix Gellid Void and Ectoplasm to Create Levitite Blend"
+	quest.7162D232B5767478.title: "Dimensional Blend"
 	quest.716C303ED6AA210C.quest_desc: [
 		"Create: Central Kitchen allows the player to use create components to interact with cooking stations. Valid boiler/heating blocks allow the player to heat these stations too."
 		""
@@ -1839,6 +1986,7 @@
 	]
 	quest.73A5E64076F9866D.quest_subtitle: "Build a chunk miner!"
 	quest.73A5E64076F9866D.title: "Bedrock Quarries!?!?!"
+	quest.73CE16F6B8823469.quest_subtitle: "Plant Cerebrage Seeds Inside a Skull"
 	quest.745654045ECE6B96.quest_desc: [
 		"Look up \"Dual Wishbone\" or just \"Wishbone\" suspension. Should be easy to make with only pivots and springs."
 		""
@@ -1882,8 +2030,13 @@
 	]
 	quest.75AFD9FF27B04857.quest_subtitle: "Obtain the Ashlord's Skull"
 	quest.75AFD9FF27B04857.title: "Ashy Action"
+	quest.760695A71C43E5B8.quest_desc: ["Hatched from eggs found in the Suspicious Red Sand of Badlands Temples, the Eater is a fearsome, untamable predator that scares away most hostile mobs, breaks shields with its bite, and unleashes a roar that temporarily removes player control through a \"Fear\" effect."]
+	quest.760695A71C43E5B8.quest_subtitle: "Slay the Eater"
+	quest.760695A71C43E5B8.title: "Gulp"
 	quest.763D2A6DDE42E714.quest_subtitle: "Obtain a copper jetpack or exoskeleton"
 	quest.763D2A6DDE42E714.title: "Steampunk wizardry"
+	quest.76C6DDFC17114215.quest_subtitle: "Find a Rememberance"
+	quest.76C6DDFC17114215.title: "Of Whom?"
 	quest.76E180EE8B1D9ADE.quest_desc: [
 		"A tempermental spirit's attemted possession of a simple cogwheel."
 		"Randomly changes directions and rotational speed."
@@ -1916,6 +2069,8 @@
 		"This shows the player a visible depiction of how to use a item/block without the use of an online wiki. Use this and what you've learned about JEI to complete future tasks and learn about create!"
 	]
 	quest.76EBE455344AE32C.quest_subtitle: "Left click on quests to open descriptions."
+	quest.7793EB47CDE74A3F.quest_subtitle: "Find a Sulfur Cube"
+	quest.7793EB47CDE74A3F.title: "Little Buddy"
 	quest.77C536F642C7744F.quest_desc: [
 		"Andesite Casing is the basis to most andesite-age Create Mod machines!"
 		""
@@ -1953,6 +2108,21 @@
 	quest.7824C15F0C4A3934.title: "Breakdown!"
 	quest.7849B9CD1B3C1F23.quest_subtitle: "Challenge The Illusioner"
 	quest.7849B9CD1B3C1F23.title: "Find Me Now!"
+	quest.78757467BAB1CA8E.quest_desc: [
+		"Scorchia resource vents are often found in the alluvial sands of riverbanks, beaches, and desert oasis!"
+		""
+		"They're quite rare, but the processing capabilities from one alone are astronomical!"
+		"{image:minecraft:block/lava_still width:25 height:25 align:center}"
+		"{image:essential:textures/menu/arrow_down.png width:25 height:25 align:center}"
+		"{image:kubejs:block/generated/molten_platinum_still width:25 height:25 align:center click_action:none:}"
+		"To activate an ore vent, you must explode it first!"
+		"Then, supply a lava source block in contact with the vent or an orestone produced by the vent in a 3 block radius, to create an instant version of the orestone!"
+		"Mine and process from there!"
+	]
+	quest.78757467BAB1CA8E.quest_subtitle: "Find a Scorchia ore vein"
+	quest.78757467BAB1CA8E.title: "Platinum Plains"
+	quest.7879EF944C3A6FAD.quest_subtitle: "Obtain any piece of netherite equipment"
+	quest.7879EF944C3A6FAD.title: "Nether Nightmare"
 	quest.7890068714303386.quest_desc: [
 		"Chain conveyers act like chain drives in that rotation follows the same axis of rotation. However, chain drives operate across &nlong distances&r and allow for easier [su] transmission."
 		""
@@ -2010,11 +2180,17 @@
 	]
 	quest.7A7ECF4F800B9C88.quest_subtitle: "Obtain and learn about item filters"
 	quest.7A7ECF4F800B9C88.title: "Filter Filters!"
+	quest.7A8A5C68AB40A835.quest_desc: ["Heals itself in the sun, assists in crop production."]
+	quest.7A8A5C68AB40A835.quest_subtitle: "Obtain a piece of verdite equipment"
+	quest.7A8A5C68AB40A835.title: "Green Machine"
 	quest.7AE978D47EC511E7.quest_subtitle: "Slay The Forest Dwellers"
 	quest.7AE978D47EC511E7.title: "Creeping Creakers"
 	quest.7BC3E04630186156.quest_desc: [""]
 	quest.7BC3E04630186156.quest_subtitle: "Obtain a Stellar Blaze Apple"
 	quest.7BC3E04630186156.title: "Blazing Power"
+	quest.7BC4FBD0E067EA22.quest_desc: ["Sneaky little goobers"]
+	quest.7BC4FBD0E067EA22.quest_subtitle: "Find the Moles"
+	quest.7BC4FBD0E067EA22.title: "Excuse me?"
 	quest.7BEAC2B5AE151C94.quest_desc: [
 		"The ultimate evolution of drilling. "
 		""
@@ -2029,6 +2205,19 @@
 	]
 	quest.7C1433001B5164B7.quest_subtitle: "Obtain a Platinum Vector thruster and redstone converter"
 	quest.7C1433001B5164B7.title: "I'm Vectoring it Fancifully"
+	quest.7C8F8EDC94D2D84F.quest_desc: [
+		"Scoria resource vents are often found in the peaks on most temperate mountains!"
+		""
+		"They're quite rare, but the processing capabilities from one alone are astronomical!"
+		"{image:minecraft:block/lava_still width:25 height:25 align:center}"
+		"{image:essential:textures/menu/arrow_down.png width:25 height:25 align:center}"
+		"{image:kubejs:block/generated/molten_tin_still width:25 height:25 align:center click_action:none:}"
+		"To activate an ore vent, you must explode it first!"
+		"Then, supply a lava source block in contact with the vent or an orestone produced by the vent in a 3 block radius, to create an instant version of the orestone!"
+		"Mine and process from there!"
+	]
+	quest.7C8F8EDC94D2D84F.quest_subtitle: "Find a tin ore vein"
+	quest.7C8F8EDC94D2D84F.title: "Tippy Tin "
 	quest.7D1EE1D0D73F8792.quest_desc: ["If you find an andesite formation above ground, then you'll likely find TONS of it underground in an andesite cave, directly underneath!"]
 	quest.7D1EE1D0D73F8792.quest_subtitle: "Collect yourself some andesite alloy - the key to all preliminary machines in this world"
 	quest.7D1EE1D0D73F8792.title: "Andesite Age"
@@ -2040,12 +2229,7 @@
 		"&oPonder for more details&r"
 	]
 	quest.7E85152F0CC6A667.quest_subtitle: "Obtain a Blaze Forger"
-	quest.7E8B24F46FDD8755.quest_desc: [
-		"Despite what the reward says, it adds a CHARM slot. Not a ring slot!"
-		""
-		""
-		"Charm slots act as curios totem slots! "
-	]
+	quest.7E8B24F46FDD8755.quest_desc: ["Charm slots act as curios totem slots! "]
 	quest.7E8B24F46FDD8755.quest_subtitle: "Kill All Pillager Types"
 	quest.7E8B24F46FDD8755.title: "It Takes A Pillage"
 	quest.7EB404D6C82F422D.quest_desc: [
@@ -2059,6 +2243,8 @@
 	quest.7EB404D6C82F422D.title: "Ropes and Fasteners"
 	quest.7FA169340D2F6D88.quest_subtitle: "Discover More in the Badlands!"
 	quest.7FA169340D2F6D88.title: "Deserts n' Badlands"
+	quest.7FC779253A25E019.quest_desc: ["A silver-based alternative to netherite that is crafted with 4 ancient scrap and 4 silver ingots."]
+	quest.7FC779253A25E019.quest_subtitle: "Obtain Necromium"
 	quest.7FD4BCFDD74D64E7.quest_subtitle: "Observe Creatures from the Mycelium Isles"
 	quest.7FD4BCFDD74D64E7.title: "Mushy Rooms"
 	task.0001280E5E8D0B21.title: "Accept Knowledge"
@@ -2070,6 +2256,7 @@
 	task.12493B2AFDB55D60.title: "Andesite Casing"
 	task.13778668147CEB42.title: "Read that?"
 	task.1C8F2B195236A812.title: "Acknowledge knowledge?"
+	task.1EE382F8D41AC8F2.title: "Metallurgy"
 	task.1F5D01AA0DABA942.title: "Acknowledge knowledge?"
 	task.235DE8220CC6E44C.title: "One Block at a Time"
 	task.2543DEF9EE730A7C.title: "Done Reading?"
@@ -2080,8 +2267,8 @@
 	task.46A51D51ADA3FDFD.title: "Have you read the fundamentals?"
 	task.4D0481AAB3793191.title: "Build a wood farm!"
 	task.4FC091BAF4332336.title: "Contraptions!"
-	task.59E23AD5E4AA8C55.title: "Overkill"
 	task.5D3AFE2833EA6E05.title: "Acknowledge knowledge?"
+	task.6DAD0FF9A688C72B.title: "The End."
 	task.776B7A6DEFFDD912.title: "Build a wood farm!"
 	task.7820E6DD93BD416D.title: "Acknowledge knowledge?"
 	task.787B603E4203DFFF.title: "Contraptions!"

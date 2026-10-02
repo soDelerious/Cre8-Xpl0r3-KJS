@@ -37,8 +37,7 @@
   "features": [
     [
     ],
-    [
-    ],
+    ["molten_vents:scorchia_vent"],
     [
       "minecraft:amethyst_geode",
       "yungscavebiomes:lost_caves/brittle_sandstone_ceiling_patch",

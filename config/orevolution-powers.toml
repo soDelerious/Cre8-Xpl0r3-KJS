@@ -1,0 +1,36 @@
+[tools]
+	tin_tool_powers = false
+	iron_tool_powers = false
+	gold_tool_powers = false
+	platinum_tool_powers = false
+	diamond_tool_powers = false
+	netherite_tool_powers = false
+	aethersteel_tool_powers = false
+	livingstone_tool_powers = true
+	verdite_tool_powers = true
+	steel_tool_powers = false
+
+[weapons]
+	tin_weapon_powers = false
+	iron_weapon_powers = false
+	gold_weapon_powers = false
+	platinum_weapon_powers = false
+	diamond_weapon_powers = false
+	netherite_weapon_powers = false
+	aethersteel_weapon_powers = false
+	livingstone_weapon_powers = true
+	verdite_weapon_powers = true
+	steel_weapon_powers = false
+
+[armors]
+	iron_armor_powers = false
+	gold_armor_powers = false
+	platinum_armor_powers = false
+	diamond_armor_powers = false
+	netherite_armor_powers = false
+	aethersteel_armor_powers = false
+	livingstone_armor_powers = true
+	verdite_armor_powers = true
+	bronze_armor_powers = false
+	tungsten_armor_powers = false
+	reinforced_netherite_armor_powers = true
